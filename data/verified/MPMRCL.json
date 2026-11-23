@@ -1,0 +1,424 @@
+{
+ "operator": "MPMRCL",
+ "documents": [
+  {
+   "file": "MPMRCL_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 195,
+   "note": "Madhya Pradesh Metro Rail Corporation annual report 2023-24, image-only PDF (66 MB, 256 pages); P&L spans p195-196, read from rendered images"
+  },
+  {
+   "file": "MPMRCL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 184,
+   "note": "P&L p184; Note 18 other income p208; no consolidated statement"
+  }
+ ],
+ "years": [
+  {
+   "fy": "2022-23",
+   "source_file": "MPMRCL_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 195,
+    "quote": "I Revenue from Operations - - [read from page image]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null,
+    "note": "no revenue from operations: the company had not started commercial operations in this year"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 36.8199,
+    "page": 195,
+    "quote": "II Other Income 18 3,713.48 3,681.99 [read from page image]"
+   },
+   "total_income": {
+    "cr": 36.8199,
+    "page": 195,
+    "quote": "III Total Income (I+II) 3,713.48 3,681.99 [read from page image]"
+   },
+   "employee_cost": {
+    "cr": 13.1454,
+    "page": 195,
+    "quote": "Employee benefits expense 19 1,782.03 1,314.54 [read from page image]"
+   },
+   "finance_cost": {
+    "cr": 0.6078,
+    "page": 195,
+    "quote": "Finance costs 21 53.30 60.78 [read from page image]"
+   },
+   "depreciation": {
+    "cr": 2.2079,
+    "page": 195,
+    "quote": "Depreciation and amortization expense 3,3a,3b 373.24 220.79 [read from page image]"
+   },
+   "other_expenses": {
+    "cr": 16.2488,
+    "page": 195,
+    "quote": "Other expenses 20 1,738.09 1,624.88 [read from page image]"
+   },
+   "total_expenses": {
+    "cr": 32.2099,
+    "page": 195,
+    "quote": "Total expenses (IV) 3,946.66 3,220.99 [read from page image]"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 195,
+    "quote": "VI Exceptional Items - - [read from page image]"
+   },
+   "profit_before_tax": {
+    "cr": 4.61,
+    "page": 195,
+    "quote": "VII Profit/(loss) before tax (V-VI) (233.18) 461.00 [read from page image]"
+   },
+   "tax": {
+    "cr": 1.1928,
+    "page": 196,
+    "quote": "Tax: (1) Current tax -For the period 456.93 / (2) Deferred tax (337.65) [read from page image]",
+    "note": "sum of the printed tax lines (no total printed)"
+   },
+   "profit_after_tax": {
+    "cr": 3.4172,
+    "page": 195,
+    "quote": "IX Profit (Loss) for the period (178.26) 341.72 [read from page image]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 195,
+    "quote": "Operating expense - - [read from page image]"
+   },
+   "checks": "total income 36.8199 vs rev+OI 36.8199: ok; PBT 4.6100 vs TI-TE±exceptional 4.6100: ok; expense lines sum 32.2099 vs total 32.2099: ok; PAT 3.4172 vs PBT-tax 3.4172: ok",
+   "notes": "Previous-year column of the 2023-24 report; no 2022-23 report available."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MPMRCL_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 195,
+    "quote": "I Revenue from Operations - - [read from page image]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null,
+    "note": "no revenue from operations: the company had not started commercial operations in this year"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 37.1348,
+    "page": 195,
+    "quote": "II Other Income 18 3,713.48 3,681.99 [read from page image]"
+   },
+   "total_income": {
+    "cr": 37.1348,
+    "page": 195,
+    "quote": "III Total Income (I+II) 3,713.48 3,681.99 [read from page image]"
+   },
+   "employee_cost": {
+    "cr": 17.8203,
+    "page": 195,
+    "quote": "Employee benefits expense 19 1,782.03 1,314.54 [read from page image]"
+   },
+   "finance_cost": {
+    "cr": 0.533,
+    "page": 195,
+    "quote": "Finance costs 21 53.30 60.78 [read from page image]"
+   },
+   "depreciation": {
+    "cr": 3.7324,
+    "page": 195,
+    "quote": "Depreciation and amortization expense 3,3a,3b 373.24 220.79 [read from page image]"
+   },
+   "other_expenses": {
+    "cr": 17.3809,
+    "page": 195,
+    "quote": "Other expenses 20 1,738.09 1,624.88 [read from page image]"
+   },
+   "total_expenses": {
+    "cr": 39.4666,
+    "page": 195,
+    "quote": "Total expenses (IV) 3,946.66 3,220.99 [read from page image]"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 195,
+    "quote": "VI Exceptional Items - - [read from page image]"
+   },
+   "profit_before_tax": {
+    "cr": -2.3318,
+    "page": 195,
+    "quote": "VII Profit/(loss) before tax (V-VI) (233.18) 461.00 [read from page image]"
+   },
+   "tax": {
+    "cr": -0.5492,
+    "page": 196,
+    "quote": "Tax: (1) Current tax -For the period 503.74 / -For earlier year (net) 0.58 / (2) Deferred tax (559.24) [read from page image]",
+    "note": "sum of the printed tax lines (statement prints no total on this page); the 2024-25 report prints the 2023-24 total as (54.92)"
+   },
+   "profit_after_tax": {
+    "cr": -1.7826,
+    "page": 195,
+    "quote": "IX Profit (Loss) for the period (178.26) 341.72 [read from page image]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 195,
+    "quote": "Operating expense - - [read from page image]"
+   },
+   "checks": "total income 37.1348 vs rev+OI 37.1348: ok; PBT -2.3318 vs TI-TE±exceptional -2.3318: ok; expense lines sum 39.4666 vs total 39.4666: ok; PAT -1.7826 vs PBT-tax -1.7826: ok",
+   "notes": "Scanned (image-only) PDF; statement read from rendered images of p195-196 (printed pages 189-190). Pre-operations: income is interest and grants."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MPMRCL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 184,
+    "quote": "I Revenue from Operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null,
+    "note": "no revenue from operations: the company had not started commercial operations in this year"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 37.1348,
+    "page": 184,
+    "quote": "II Other Income 18 6,827.49 3,713.48",
+    "note": "Note 18 p208: interest income from bank deposits 6,514.27 (2023-24: 3,388.24) after deducting 3,039.02 (2,099.90) transferred to expenditure during construction; revenue grant 243.48 (198.90)"
+   },
+   "total_income": {
+    "cr": 37.1348,
+    "page": 184,
+    "quote": "III Total Income (I+II) 6,827.49 3,713.48"
+   },
+   "employee_cost": {
+    "cr": 17.8203,
+    "page": 184,
+    "quote": "Employee benefits expense 19 3,098.41 1,782.03"
+   },
+   "finance_cost": {
+    "cr": 0.533,
+    "page": 184,
+    "quote": "Finance costs 21 44.43 53.30"
+   },
+   "depreciation": {
+    "cr": 3.7324,
+    "page": 184,
+    "quote": "Depreciation and amortization expense 3, 3a, 3b 499.30 373.24"
+   },
+   "other_expenses": {
+    "cr": 17.3809,
+    "page": 184,
+    "quote": "Other expenses 20 3,264.90 1,738.09"
+   },
+   "total_expenses": {
+    "cr": 39.4666,
+    "page": 184,
+    "quote": "Total expenses (Iv) 6,907.04 3,946.66"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 184,
+    "quote": "VI Exceptional Items [blank]",
+    "note": "line present with no amount"
+   },
+   "profit_before_tax": {
+    "cr": -2.3318,
+    "page": 184,
+    "quote": "VII Profit/(loss) before tax (V-VI) (79.55) (233.18)"
+   },
+   "tax": {
+    "cr": -0.5492,
+    "page": 184,
+    "quote": "Tax Expense total line (after (2) Deferred tax (741.57) (559.24)): (18.83) (54.92)"
+   },
+   "profit_after_tax": {
+    "cr": -1.7826,
+    "page": 184,
+    "quote": "IX Profit (Loss) for the period (VII -VIII) (60.72) (178.26)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 184,
+    "quote": "Operating expense - -"
+   },
+   "checks": "total income 37.1348 vs rev+OI 37.1348: ok; PBT -2.3318 vs TI-TE±exceptional -2.3318: ok; expense lines sum 39.4666 vs total 39.4666: ok; PAT -1.7826 vs PBT-tax -1.7826: ok",
+   "notes": "Matches the 2023-24 report exactly (no restatement)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "MPMRCL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 184,
+    "quote": "I Revenue from Operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null,
+    "note": "no revenue from operations: the company had not started commercial operations in this year"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 68.2749,
+    "page": 184,
+    "quote": "II Other Income 18 6,827.49 3,713.48",
+    "note": "Note 18 p208: interest income from bank deposits 6,514.27 (2023-24: 3,388.24) after deducting 3,039.02 (2,099.90) transferred to expenditure during construction; revenue grant 243.48 (198.90)"
+   },
+   "total_income": {
+    "cr": 68.2749,
+    "page": 184,
+    "quote": "III Total Income (I+II) 6,827.49 3,713.48"
+   },
+   "employee_cost": {
+    "cr": 30.9841,
+    "page": 184,
+    "quote": "Employee benefits expense 19 3,098.41 1,782.03"
+   },
+   "finance_cost": {
+    "cr": 0.4443,
+    "page": 184,
+    "quote": "Finance costs 21 44.43 53.30"
+   },
+   "depreciation": {
+    "cr": 4.993,
+    "page": 184,
+    "quote": "Depreciation and amortization expense 3, 3a, 3b 499.30 373.24"
+   },
+   "other_expenses": {
+    "cr": 32.649,
+    "page": 184,
+    "quote": "Other expenses 20 3,264.90 1,738.09"
+   },
+   "total_expenses": {
+    "cr": 69.0704,
+    "page": 184,
+    "quote": "Total expenses (Iv) 6,907.04 3,946.66"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 184,
+    "quote": "VI Exceptional Items [blank]",
+    "note": "line present with no amount"
+   },
+   "profit_before_tax": {
+    "cr": -0.7955,
+    "page": 184,
+    "quote": "VII Profit/(loss) before tax (V-VI) (79.55) (233.18)"
+   },
+   "tax": {
+    "cr": -0.1883,
+    "page": 184,
+    "quote": "Tax Expense total line (after (2) Deferred tax (741.57) (559.24)): (18.83) (54.92)"
+   },
+   "profit_after_tax": {
+    "cr": -0.6072,
+    "page": 184,
+    "quote": "IX Profit (Loss) for the period (VII -VIII) (60.72) (178.26)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": 131,
+    "quote": null,
+    "note": "no route operational at 31-03-2025; p131: Indore Super Priority Corridor 'Commercial operations on the 6 km elevated stretch ... commenced on 31 May 2025' (after year end)"
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 184,
+    "quote": "Operating expense - -"
+   },
+   "checks": "total income 68.2749 vs rev+OI 68.2749: ok; PBT -0.7955 vs TI-TE±exceptional -0.7955: ok; expense lines sum 69.0704 vs total 69.0704: ok; PAT -0.6072 vs PBT-tax -0.6072: ok",
+   "notes": "Standalone P&L p184 (printed 178). Directors' Report p134: 'Company is yet to start its commercial operations'."
+  }
+ ]
+}

@@ -1,0 +1,3381 @@
+{
+ "operator": "JMRC",
+ "documents": [
+  {
+   "file": "JMRC_2011-12_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 15,
+   "note": "3rd Annual Report; P&L (Amount in ₹) on p.15 (two-page spread); previous-year column all 0.00. No revenue from operations (pre-operations)."
+  },
+  {
+   "file": "JMRC_2012-13_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 16,
+   "note": "P&L (Amount in ₹) on p.16 (two-page spread). 2011-12 comparatives reclassified (other expenses / exceptional items) vs the 2011-12 report; PBT unchanged."
+  },
+  {
+   "file": "JMRC_2013-14_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 23,
+   "note": "5th Annual Report; P&L (Amount in ₹) on p.23. 2012-13 comparatives: employee cost and other expenses slightly reclassified; totals unchanged."
+  },
+  {
+   "file": "JMRC_2014-15_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 69,
+   "note": "6th Annual Report; P&L (Amount in ₹) on p.69 (OCR). No revenue from operations (Phase-1A opened 3 June 2015)."
+  },
+  {
+   "file": "JMRC_2015-16_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 66,
+   "note": "7th Annual Report; P&L (Amount in ₹) on p.66; revenue Note 18 p.83; monthly ridership table p.12, avg daily ridership p.13. 2014-15 comparatives reclassify finance cost (38921) out of other expenses."
+  },
+  {
+   "file": "JMRC_2016-17_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 61,
+   "note": "P&L (Amount in ₹, Indian GAAP) p.61; revenue Note 18 p.78; ridership table p.11; route table p.10."
+  },
+  {
+   "file": "JMRC_2017-18_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 51,
+   "note": "9th Annual Report, first Ind AS accounts (₹ lakh). P&L p.51, Note 25 p.84, ridership table p.9. 2016-17 comparatives restated under Ind AS: revenue grant and grant amortisation now inside 'Revenue from operations' (other operational income)."
+  },
+  {
+   "file": "JMRC_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 50,
+   "note": "10th Annual Report (₹ lakh). P&L p.50, Note 25 p.79. Revenue from operations includes 'Other operational income' (revenue grant 7,637.10 + grant amortisation 820.44 lakh). No FY ridership given."
+  },
+  {
+   "file": "JMRC_2018-19_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2018-19; Turnover field (V(i), p.7) is blank; net worth 14,062,950,000."
+  },
+  {
+   "file": "JMRC_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 60,
+   "note": "(₹ lakh) P&L p.60, Note 25 p.87. 2018-19 comparatives restated (Note 45): revenue grant and grant amortisation moved from revenue from operations to other income; totals unchanged."
+  },
+  {
+   "file": "JMRC_2019-20_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2019-20; Turnover field (p.7) blank; net worth 13,658,440,000."
+  },
+  {
+   "file": "JMRC_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 61,
+   "note": "Text PDF but P&L and notes tables are images; read by OCR at 300 dpi. P&L p.61, Note 25/26 p.91; operations p.13."
+  },
+  {
+   "file": "JMRC_2020-21_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2020-21; Turnover field (p.7) blank; net worth 13,058,056,000."
+  },
+  {
+   "file": "JMRC_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 56,
+   "note": "13th Annual Report (₹ lakh). P&L p.56, Note 25 p.84, restatement Note 45 p.103 (2020-21 restated: revenue from operations 453.29 -> 393.23, other income 12,162.99 -> 10,659.95, loss 6,016.56 -> 7,590.84)."
+  },
+  {
+   "file": "JMRC_2021-22_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2021-22; Turnover field (p.7) blank; net worth 14,713,574,000."
+  },
+  {
+   "file": "JMRC_2022-23_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2022-23; turnover 254,460,000 (p.7) = 2,544.60 lakh, matches revenue from operations in the 2023-24 report's comparatives. No 2022-23 annual report downloaded."
+  },
+  {
+   "file": "JMRC_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 63,
+   "note": "(₹ lakh) P&L p.63, Note 25/26 p.93, exceptional items Note 32 p.96, ridership p.12, route p.11."
+  },
+  {
+   "file": "JMRC_2023-24_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2023-24 (mostly scanned); turnover 335,187,000 on p.7 (OCR) = 3,351.87 lakh, matches P&L."
+  },
+  {
+   "file": "JMRC_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 56,
+   "note": "(₹ lakh) P&L p.56, Note 25/26 p.89, ridership p.12. 2023-24 comparatives restated per Note 46 (other income 9,631.88 -> 9,813.04; loss 14,733.62 -> 14,556.02)."
+  },
+  {
+   "file": "JMRC_2024-25_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 for FY 2024-25; turnover printed as 4113720000 (p.9) = ₹411.37 crore, ten times the P&L revenue from operations (4,113.72 lakh = ₹41.14 crore): apparent unit error in the filing."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2011-12",
+   "source_file": "JMRC_2011-12_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "I. Revenue from operations 0.00"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 11.4439,
+    "page": 15,
+    "quote": "II. Other Income 13 114439238.16"
+   },
+   "total_income": {
+    "cr": 11.4439,
+    "page": 15,
+    "quote": "III. Total Revenue (I +II) 114439238.16"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 2.2417,
+    "page": 15,
+    "quote": "Employee benefit expense 14 22416784.00"
+   },
+   "finance_cost": {
+    "cr": 0.0002,
+    "page": 15,
+    "quote": "Finance costs 15 2324.23"
+   },
+   "depreciation": {
+    "cr": 0.1779,
+    "page": 15,
+    "quote": "Depreciation and amortization expense 16 1778722.00"
+   },
+   "other_expenses": {
+    "cr": 24.244,
+    "page": 15,
+    "quote": "Other expenses 17 242439955.76"
+   },
+   "total_expenses": {
+    "cr": 26.6638,
+    "page": 15,
+    "quote": "Total Expenses 266637785.99"
+   },
+   "exceptional_items": {
+    "cr": -9.389,
+    "page": 15,
+    "quote": "VI. Exceptional Items (Prior Period Item) 18 93889665.03 [deducted: VII = V - VI]"
+   },
+   "profit_before_tax": {
+    "cr": -24.6088,
+    "page": 15,
+    "quote": "IX. Profit before tax (VII - VIII) (246088212.86)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "(1) Current tax 0.00 (2) Deferred tax 0.00"
+   },
+   "profit_after_tax": {
+    "cr": -24.6088,
+    "page": 15,
+    "quote": "XV. Profit/(Loss) for the period (XI + XIV) (246088212.86)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 11.4439 vs rev+other 11.4439 ok; PBT -24.6088 vs TI-TE+exc -24.6089 ok; expense lines sum 26.6638 vs total 26.6638 ok; PAT -24.6088 vs PBT-tax -24.6088 ok",
+   "notes": "Pre-operations; income is interest/other income. Exceptional item (prior-period item) printed positive but subtracted (VII = V - VI); recorded as negative effect on profit. 2012-13 report restates this year's split (see previous-column entry)."
+  },
+  {
+   "fy": "2010-11",
+   "source_file": "JMRC_2011-12_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "I. Revenue from operations ... 0.00 (previous)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "II. Other Income ... 0.00 (previous)"
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "III. Total Revenue (I +II) 0.00"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "Total Expenses 0.00"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "IX. Profit before tax (VII - VIII) 0.00"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": 0.0,
+    "page": 15,
+    "quote": "XV. Profit/(Loss) for the period 0.00"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 0.0 vs rev+other 0.0 ok; PBT 0.0 vs TI-TE+exc 0.0 ok",
+   "notes": "Previous-year column of the 2011-12 P&L shows 0.00 on every line (company incorporated 2010; no statement of profit and loss amounts for 2010-11 presented). Not evidence of actual zero activity."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "JMRC_2012-13_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "I. Revenue from operations 0.00"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 16.5164,
+    "page": 16,
+    "quote": "II. Other Income 15 165163984.34"
+   },
+   "total_income": {
+    "cr": 16.5164,
+    "page": 16,
+    "quote": "III. Total Revenue (I +II) 165163984.34"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 3.1218,
+    "page": 16,
+    "quote": "Employee benefit expense 16 31218391.00"
+   },
+   "finance_cost": {
+    "cr": 0.0003,
+    "page": 16,
+    "quote": "Finance costs 17 2791.00"
+   },
+   "depreciation": {
+    "cr": 0.1986,
+    "page": 16,
+    "quote": "Depreciation and amortization expense 18 1986446.64"
+   },
+   "other_expenses": {
+    "cr": 6.7512,
+    "page": 16,
+    "quote": "Operational & Other expenses 19 67511765.02"
+   },
+   "total_expenses": {
+    "cr": 10.0719,
+    "page": 16,
+    "quote": "Total Expenses 100719393.66"
+   },
+   "exceptional_items": {
+    "cr": 27.6943,
+    "page": 16,
+    "quote": "VI. Exceptional Items 20 276942945.00"
+   },
+   "profit_before_tax": {
+    "cr": 34.1388,
+    "page": 16,
+    "quote": "IX. Profit before tax (VII - VIII) 341387535.68"
+   },
+   "tax": {
+    "cr": 3.5986,
+    "page": 16,
+    "quote": "(1) Current tax 41000000.00 (2) Deferred tax (5014346.00)"
+   },
+   "profit_after_tax": {
+    "cr": 30.5402,
+    "page": 16,
+    "quote": "XV. Profit/(Loss) for the period (XI + XIV) 305401881.68"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 16.5164 vs rev+other 16.5164 ok; PBT 34.1388 vs TI-TE+exc 34.1388 ok; expense lines sum 10.0719 vs total 10.0719 ok; PAT 30.5402 vs PBT-tax 30.5402 ok",
+   "notes": "Profit arises from exceptional item (reversal of consultancy charges earlier expensed, now capitalised as prior-period items, per accounting policy F(iii)). Tax = current 41000000 less deferred 5014346 (sum computed)."
+  },
+  {
+   "fy": "2011-12",
+   "source_file": "JMRC_2012-13_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "I. Revenue from operations 0.00"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 11.4439,
+    "page": 16,
+    "quote": "II. Other Income 114439238.16"
+   },
+   "total_income": {
+    "cr": 11.4439,
+    "page": 16,
+    "quote": "III. Total Revenue (I +II) 114439238.16"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 2.2417,
+    "page": 16,
+    "quote": "Employee benefit expense 22416784.00"
+   },
+   "finance_cost": {
+    "cr": 0.0002,
+    "page": 16,
+    "quote": "Finance costs 2324.23"
+   },
+   "depreciation": {
+    "cr": 0.1779,
+    "page": 16,
+    "quote": "Depreciation and amortization expense 1778722.00"
+   },
+   "other_expenses": {
+    "cr": 1.2811,
+    "page": 16,
+    "quote": "Operational & Other expenses 12811265.76"
+   },
+   "total_expenses": {
+    "cr": 3.7009,
+    "page": 16,
+    "quote": "Total Expenses 37009095.99"
+   },
+   "exceptional_items": {
+    "cr": -32.3518,
+    "page": 16,
+    "quote": "VI. Exceptional Items (323518355.03)"
+   },
+   "profit_before_tax": {
+    "cr": -24.6088,
+    "page": 16,
+    "quote": "IX. Profit before tax (VII - VIII) (246088212.86)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "(1) Current tax 0.00 (2) Deferred tax 0.00"
+   },
+   "profit_after_tax": {
+    "cr": -24.6088,
+    "page": 16,
+    "quote": "XV. Profit/(Loss) for the period (246088212.86)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 11.4439 vs rev+other 11.4439 ok; PBT -24.6088 vs TI-TE+exc -24.6088 ok; expense lines sum 3.7009 vs total 3.7009 ok; PAT -24.6088 vs PBT-tax -24.6088 ok",
+   "notes": "Restated presentation vs 2011-12 report: other expenses 242439955.76 -> 12811265.76 and exceptional items 93889665.03 -> (323518355.03); PBT/PAT unchanged."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "JMRC_2013-14_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 23,
+    "quote": "I. Revenue from operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 15.2989,
+    "page": 23,
+    "quote": "II. Other Income 15 152989116"
+   },
+   "total_income": {
+    "cr": 15.2989,
+    "page": 23,
+    "quote": "Total Revenue (I +II) 152989116"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 9.036,
+    "page": 23,
+    "quote": "(d) Employee benefit expense 16 90359714"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 23,
+    "quote": "(e)Finance Cost 0"
+   },
+   "depreciation": {
+    "cr": 0.2717,
+    "page": 23,
+    "quote": "(f)Depreciation and Amortization expense 17 2717291"
+   },
+   "other_expenses": {
+    "cr": 19.2537,
+    "page": 23,
+    "quote": "(g)Operational, Administrative & Other expenses 18 192536956"
+   },
+   "total_expenses": {
+    "cr": 28.5614,
+    "page": 23,
+    "quote": "Total Expenses (a to g) 285613961"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 23,
+    "quote": "VI. Exceptional Items 19 0"
+   },
+   "profit_before_tax": {
+    "cr": -13.2625,
+    "page": 23,
+    "quote": "IX. Profit before tax (VII - VIII) (132624845)"
+   },
+   "tax": {
+    "cr": 0.0116,
+    "page": 23,
+    "quote": "(1) Income tax 0 (2) Deferred tax 40161 (3) Wealth Tax 75510"
+   },
+   "profit_after_tax": {
+    "cr": -13.2741,
+    "page": 23,
+    "quote": "XV. Profit/(Loss) for the period (XI + XIV) (132740516)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 15.2989 vs rev+other 15.2989 ok; PBT -13.2625 vs TI-TE+exc -13.2625 ok; expense lines sum 28.5614 vs total 28.5614 ok; PAT -13.2741 vs PBT-tax -13.2741 ok",
+   "notes": "Tax = deferred 40161 + wealth tax 75510 (sum computed)."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "JMRC_2013-14_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 23,
+    "quote": "I. Revenue from operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 16.5164,
+    "page": 23,
+    "quote": "II. Other Income 165163984"
+   },
+   "total_income": {
+    "cr": 16.5164,
+    "page": 23,
+    "quote": "Total Revenue (I +II) 165163984"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 3.1237,
+    "page": 23,
+    "quote": "(d) Employee benefit expense 31237291"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 23,
+    "quote": "(e)Finance Cost 0"
+   },
+   "depreciation": {
+    "cr": 0.1986,
+    "page": 23,
+    "quote": "(f)Depreciation and Amortization expense 1986447"
+   },
+   "other_expenses": {
+    "cr": 6.7496,
+    "page": 23,
+    "quote": "(g)Operational, Administrative & Other expenses 67495656"
+   },
+   "total_expenses": {
+    "cr": 10.0719,
+    "page": 23,
+    "quote": "Total Expenses (a to g) 100719394"
+   },
+   "exceptional_items": {
+    "cr": 27.6943,
+    "page": 23,
+    "quote": "VI. Exceptional Items 276942945"
+   },
+   "profit_before_tax": {
+    "cr": 34.1388,
+    "page": 23,
+    "quote": "IX. Profit before tax (VII - VIII) 341387535"
+   },
+   "tax": {
+    "cr": 3.5986,
+    "page": 23,
+    "quote": "(1) Income tax 41000000 (2) Deferred tax (5014346)"
+   },
+   "profit_after_tax": {
+    "cr": 30.5402,
+    "page": 23,
+    "quote": "XV. Profit/(Loss) for the period 305401881"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 16.5164 vs rev+other 16.5164 ok; PBT 34.1388 vs TI-TE+exc 34.1388 ok; expense lines sum 10.0719 vs total 10.0719 ok; PAT 30.5402 vs PBT-tax 30.5402 ok",
+   "notes": "Minor reclassification vs 2012-13 report (employee 31218391 -> 31237291; other expenses 67511765.02 -> 67495656; finance cost 2791 folded in); totals same."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "JMRC_2014-15_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 69,
+    "quote": "I. Revenue from operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 5.1684,
+    "page": 69,
+    "quote": "II. Other Income 16 51683637"
+   },
+   "total_income": {
+    "cr": 5.1684,
+    "page": 69,
+    "quote": "Total Revenue (I +II) 51683637"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 12.0752,
+    "page": 69,
+    "quote": "(d) Employee benefit expense 17 120752480"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 69,
+    "quote": "(e)Finance Cost 0"
+   },
+   "depreciation": {
+    "cr": 0.9656,
+    "page": 69,
+    "quote": "(f)Depreciation and Amortization expense 18 9656482"
+   },
+   "other_expenses": {
+    "cr": 4.3777,
+    "page": 69,
+    "quote": "(g)Operational, Administrative & Other expenses 19 43776913"
+   },
+   "total_expenses": {
+    "cr": 17.4186,
+    "page": 69,
+    "quote": "Total Expenses (a to g) 174185875"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 69,
+    "quote": "VI. Exceptional Items 0"
+   },
+   "profit_before_tax": {
+    "cr": -12.2502,
+    "page": 69,
+    "quote": "IX. Profit before tax (VII - VIII) (122502238)"
+   },
+   "tax": {
+    "cr": 0.1075,
+    "page": 69,
+    "quote": "(2) Deferred tax 996555 (3) Wealth Tax 78920"
+   },
+   "profit_after_tax": {
+    "cr": -12.3578,
+    "page": 69,
+    "quote": "XV. Profit/(Loss) for the period (XI + XIV) (123577713)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 5.1684 vs rev+other 5.1684 ok; PBT -12.2502 vs TI-TE+exc -12.2502 ok; expense lines sum 17.4185 vs total 17.4186 ok; PAT -12.3578 vs PBT-tax -12.3577 ok",
+   "notes": "Scanned; OCR, totals verified arithmetically. Tax = deferred 996555 + wealth tax 78920 (sum computed)."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "JMRC_2014-15_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 69,
+    "quote": "I. Revenue from operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 15.2989,
+    "page": 69,
+    "quote": "II. Other Income 152989116"
+   },
+   "total_income": {
+    "cr": 15.2989,
+    "page": 69,
+    "quote": "Total Revenue (I +II) 152989116"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 9.036,
+    "page": 69,
+    "quote": "(d) Employee benefit expense 90359714"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 69,
+    "quote": "(e)Finance Cost 0"
+   },
+   "depreciation": {
+    "cr": 0.2717,
+    "page": 69,
+    "quote": "(f)Depreciation and Amortization expense 2717291"
+   },
+   "other_expenses": {
+    "cr": 19.2537,
+    "page": 69,
+    "quote": "(g)Operational, Administrative & Other expenses 192536956"
+   },
+   "total_expenses": {
+    "cr": 28.5614,
+    "page": 69,
+    "quote": "Total Expenses (a to g) 285613961"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -13.2625,
+    "page": 69,
+    "quote": "IX. Profit before tax (132624845)"
+   },
+   "tax": {
+    "cr": 0.0116,
+    "page": 69,
+    "quote": "(2) Deferred tax 40161 (3) Wealth Tax 75510"
+   },
+   "profit_after_tax": {
+    "cr": -13.2741,
+    "page": 69,
+    "quote": "XV. Profit/(Loss) for the period (132740516)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 15.2989 vs rev+other 15.2989 ok; PBT -13.2625 vs TI-TE+exc -13.2625 ok; expense lines sum 28.5614 vs total 28.5614 ok; PAT -13.2741 vs PBT-tax -13.2741 ok",
+   "notes": "Same as 2013-14 report."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "JMRC_2015-16_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 9.1453,
+    "page": 66,
+    "quote": "I. Revenue from Operations 18 91452730"
+   },
+   "fare_revenue": {
+    "cr": 8.2885,
+    "page": 83,
+    "quote": "Traffic Earnings 82885103"
+   },
+   "non_fare_revenue": {
+    "cr": 0.8568,
+    "page": 83,
+    "quote": "Earning from Rentals/ Lease 8431627; Licence Fees for Feeder Service 36000; Advertisement Income 100000 (sum)"
+   },
+   "other_income": {
+    "cr": 18.1693,
+    "page": 66,
+    "quote": "II. Other Income 19 181692603"
+   },
+   "total_income": {
+    "cr": 27.3145,
+    "page": 66,
+    "quote": "Total Revenue (I +II) 273145333"
+   },
+   "operating_expenses": {
+    "cr": 13.1707,
+    "page": 66,
+    "quote": "(a) Operating Expenses 20 131707225"
+   },
+   "employee_cost": {
+    "cr": 21.6811,
+    "page": 66,
+    "quote": "(b) Employee Benefit Expense 21 216810845"
+   },
+   "finance_cost": {
+    "cr": 16.1252,
+    "page": 66,
+    "quote": "(c ) Finance Cost 22 161252337"
+   },
+   "depreciation": {
+    "cr": 61.4903,
+    "page": 66,
+    "quote": "(d) Depreciation and Amortization Expenses 23 614903144"
+   },
+   "other_expenses": {
+    "cr": 5.0449,
+    "page": 66,
+    "quote": "(e) Other Expenses 24 50448540"
+   },
+   "total_expenses": {
+    "cr": 117.5122,
+    "page": 66,
+    "quote": "Total Expenses (a to e) 1175122091"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "VI. Exceptional/Extraordinary Items 0"
+   },
+   "profit_before_tax": {
+    "cr": -90.1977,
+    "page": 66,
+    "quote": "VII. Profit after exceptional/extraordinary items but before tax (901976758)"
+   },
+   "tax": {
+    "cr": -19.9166,
+    "page": 66,
+    "quote": "(b) Deferred Tax (199165527)"
+   },
+   "profit_after_tax": {
+    "cr": -70.2811,
+    "page": 66,
+    "quote": "IX. Profit(Loss) for the period from continuing operations (702811231)"
+   },
+   "annual_ridership_lakh": {
+    "value": 82.4589,
+    "page": 12,
+    "quote": "Total: 2015-16 8245890 (Ridership Nos.) - operations from 3 June 2015"
+   },
+   "avg_daily_ridership": {
+    "value": 27490,
+    "page": 13,
+    "quote": "Avg. daily ridership (2015-16) 27490"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 27.3145 vs rev+other 27.3146 ok; PBT -90.1977 vs TI-TE+exc -90.1977 ok; expense lines sum 117.5122 vs total 117.5122 ok; PAT -70.2811 vs PBT-tax -70.2811 ok",
+   "notes": "First (partial) year of operations, Phase-1A opened 3 June 2015. Non-fare = sum of the three non-traffic lines of Note 18 (computed). Ridership table total for 2015-16 earnings is 85703533 vs Traffic Earnings 82885103 in Note 18."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "JMRC_2015-16_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "I. Revenue from Operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 5.1684,
+    "page": 66,
+    "quote": "II. Other Income 51683637"
+   },
+   "total_income": {
+    "cr": 5.1684,
+    "page": 66,
+    "quote": "Total Revenue (I +II) 51683637"
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "(a) Operating Expenses 0"
+   },
+   "employee_cost": {
+    "cr": 12.0752,
+    "page": 66,
+    "quote": "(b) Employee Benefit Expense 120752480"
+   },
+   "finance_cost": {
+    "cr": 0.0039,
+    "page": 66,
+    "quote": "(c ) Finance Cost 38921"
+   },
+   "depreciation": {
+    "cr": 0.9656,
+    "page": 66,
+    "quote": "(d) Depreciation and Amortization Expenses 9656482"
+   },
+   "other_expenses": {
+    "cr": 4.3738,
+    "page": 66,
+    "quote": "(e) Other Expenses 43738082"
+   },
+   "total_expenses": {
+    "cr": 17.4186,
+    "page": 66,
+    "quote": "Total Expenses (a to e) 174185875"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -12.2502,
+    "page": 66,
+    "quote": "VII. ... before tax (122502238)"
+   },
+   "tax": {
+    "cr": 0.1075,
+    "page": 66,
+    "quote": "(b) Deferred Tax 996555 (c) Wealth Tax 78920"
+   },
+   "profit_after_tax": {
+    "cr": -12.3578,
+    "page": 66,
+    "quote": "IX. Profit(Loss) for the period (123577713)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 5.1684 vs rev+other 5.1684 ok; PBT -12.2502 vs TI-TE+exc -12.2502 ok; expense lines sum 17.4185 vs total 17.4186 ok; PAT -12.3578 vs PBT-tax -12.3577 ok",
+   "notes": "Reclassification vs 2014-15 report: finance cost 0 -> 38921, other expenses 43776913 -> 43738082; totals unchanged."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "JMRC_2016-17_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 9.7205,
+    "page": 61,
+    "quote": "I. Revenue from Operations 18 97204583"
+   },
+   "fare_revenue": {
+    "cr": 7.9038,
+    "page": 78,
+    "quote": "Traffic Earnings 79038369"
+   },
+   "non_fare_revenue": {
+    "cr": 1.8166,
+    "page": 78,
+    "quote": "Earning from Rentals/ Lease 17864624; Licence Fees for Feeder Service 301590; Advertisement Income 0 (sum)"
+   },
+   "other_income": {
+    "cr": 63.6145,
+    "page": 61,
+    "quote": "II. Other Income 19 636144954"
+   },
+   "total_income": {
+    "cr": 73.335,
+    "page": 61,
+    "quote": "III. Total Revenue (I +II) 733349537"
+   },
+   "operating_expenses": {
+    "cr": 16.2556,
+    "page": 61,
+    "quote": "(a) Operating Expenses 20 162556472"
+   },
+   "employee_cost": {
+    "cr": 23.9652,
+    "page": 61,
+    "quote": "(b) Employee Benefit Expense 21 239651550"
+   },
+   "finance_cost": {
+    "cr": 24.3089,
+    "page": 61,
+    "quote": "(c ) Finance Cost 22 243088665"
+   },
+   "depreciation": {
+    "cr": 73.1712,
+    "page": 61,
+    "quote": "(d) Depreciation and Amortization Expenses 23 731712385"
+   },
+   "other_expenses": {
+    "cr": 2.9068,
+    "page": 61,
+    "quote": "(e) Other Expenses 24 29067859"
+   },
+   "total_expenses": {
+    "cr": 140.6077,
+    "page": 61,
+    "quote": "Total Expenses (a to e) 1406076931"
+   },
+   "exceptional_items": {
+    "cr": -2.532,
+    "page": 61,
+    "quote": "VI. Exceptional/Extraordinary Items 25 25320120 [deducted: VII = V - VI]"
+   },
+   "profit_before_tax": {
+    "cr": -69.8048,
+    "page": 61,
+    "quote": "VII. Profit after exceptional/extraordinary items but before tax (698047514)"
+   },
+   "tax": {
+    "cr": 20.3143,
+    "page": 61,
+    "quote": "(b) Deferred Tax 203143157"
+   },
+   "profit_after_tax": {
+    "cr": -90.1191,
+    "page": 61,
+    "quote": "IX. Profit(Loss) for the period from continuing operations (901190671)"
+   },
+   "annual_ridership_lakh": {
+    "value": 72.22871,
+    "page": 11,
+    "quote": "2016-17 7222871 (Ridership Nos.) 79038369 (Earning)"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 9.63,
+    "page": 10,
+    "quote": "Total Route Length (in kms) 9.63 [Phase-1A Mansarovar-Chandpole, the line in operation]"
+   },
+   "checks": "total income 73.335 vs rev+other 73.335 ok; PBT -69.8048 vs TI-TE+exc -69.8047 ok; expense lines sum 140.6077 vs total 140.6077 ok; PAT -90.1191 vs PBT-tax -90.1191 ok",
+   "notes": "Indian GAAP. Other income includes RTIDF revenue grant 476972134 and deferred grants written off (Note 19). Exceptional item printed positive but deducted from loss (V - VI = VII); recorded negative. Avg daily ridership printed (22359) is for 26 months to July 2017, not the FY, so not recorded. Later restated under Ind AS in the 2017-18 report (see previous-column entry)."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "JMRC_2016-17_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 9.1453,
+    "page": 61,
+    "quote": "I. Revenue from Operations 91452730"
+   },
+   "fare_revenue": {
+    "cr": 8.2885,
+    "page": 78,
+    "quote": "Traffic Earnings 82885103"
+   },
+   "non_fare_revenue": {
+    "cr": 0.8568,
+    "page": 78,
+    "quote": "Rentals/Lease 8431627; Licence Fees 36000; Advertisement 100000 (sum)"
+   },
+   "other_income": {
+    "cr": 18.1693,
+    "page": 61,
+    "quote": "II. Other Income 181692603"
+   },
+   "total_income": {
+    "cr": 27.3145,
+    "page": 61,
+    "quote": "III. Total Revenue (I +II) 273145333"
+   },
+   "operating_expenses": {
+    "cr": 13.1707,
+    "page": 61,
+    "quote": "(a) Operating Expenses 131707225"
+   },
+   "employee_cost": {
+    "cr": 21.6811,
+    "page": 61,
+    "quote": "(b) Employee Benefit Expense 216810845"
+   },
+   "finance_cost": {
+    "cr": 16.1252,
+    "page": 61,
+    "quote": "(c ) Finance Cost 161252337"
+   },
+   "depreciation": {
+    "cr": 61.4903,
+    "page": 61,
+    "quote": "(d) Depreciation and Amortization Expenses 614903144"
+   },
+   "other_expenses": {
+    "cr": 5.0449,
+    "page": 61,
+    "quote": "(e) Other Expenses 50448540"
+   },
+   "total_expenses": {
+    "cr": 117.5122,
+    "page": 61,
+    "quote": "Total Expenses (a to e) 1175122091"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 61,
+    "quote": "VI. Exceptional/Extraordinary Items 0"
+   },
+   "profit_before_tax": {
+    "cr": -90.1977,
+    "page": 61,
+    "quote": "VII. ... before tax (901976758)"
+   },
+   "tax": {
+    "cr": -19.9166,
+    "page": 61,
+    "quote": "(b) Deferred Tax (199165527)"
+   },
+   "profit_after_tax": {
+    "cr": -70.2811,
+    "page": 61,
+    "quote": "IX. Profit(Loss) for the period (702811231)"
+   },
+   "annual_ridership_lakh": {
+    "value": 82.4589,
+    "page": 11,
+    "quote": "2015-16 8245890 82885103"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 27.3145 vs rev+other 27.3146 ok; PBT -90.1977 vs TI-TE+exc -90.1977 ok; expense lines sum 117.5122 vs total 117.5122 ok; PAT -70.2811 vs PBT-tax -70.2811 ok",
+   "notes": "Same as 2015-16 report."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "JMRC_2017-18_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 89.8263,
+    "page": 51,
+    "quote": "Revenue from operations 25 8,982.63"
+   },
+   "fare_revenue": {
+    "cr": 7.8522,
+    "page": 84,
+    "quote": "Traffic Earnings 785.22"
+   },
+   "non_fare_revenue": {
+    "cr": 3.3833,
+    "page": 84,
+    "quote": "Non-Traffic Earnings 338.33"
+   },
+   "other_income": {
+    "cr": 3.3355,
+    "page": 51,
+    "quote": "Other income 26 333.55"
+   },
+   "total_income": {
+    "cr": 93.1618,
+    "page": 51,
+    "quote": "Total Income 9,316.18"
+   },
+   "operating_expenses": {
+    "cr": 13.235,
+    "page": 51,
+    "quote": "Operating expenses 27 1,323.50"
+   },
+   "employee_cost": {
+    "cr": 27.8984,
+    "page": 51,
+    "quote": "Employee benefits expense 28 2,789.84"
+   },
+   "finance_cost": {
+    "cr": 25.437,
+    "page": 51,
+    "quote": "Finance costs 29 2,543.70"
+   },
+   "depreciation": {
+    "cr": 73.2881,
+    "page": 51,
+    "quote": "Depreciation & Amortisation 30 7,328.81"
+   },
+   "other_expenses": {
+    "cr": 4.787,
+    "page": 51,
+    "quote": "Other expenses 31 478.70"
+   },
+   "total_expenses": {
+    "cr": 144.6455,
+    "page": 51,
+    "quote": "Total expenses 14,464.55"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 51,
+    "quote": "Exceptional Items (blank)"
+   },
+   "profit_before_tax": {
+    "cr": -51.4836,
+    "page": 51,
+    "quote": "Profit before tax (5,148.36)"
+   },
+   "tax": {
+    "cr": 0.2039,
+    "page": 51,
+    "quote": "Earlier Years 20.39 Total Tax Expenses 20.39"
+   },
+   "profit_after_tax": {
+    "cr": -51.6875,
+    "page": 51,
+    "quote": "Profit/(loss) for the year (5,168.75)"
+   },
+   "annual_ridership_lakh": {
+    "value": 61.6485,
+    "page": 9,
+    "quote": "2017-18 6164850 (Ridership Nos.) 79043748 (Earning Rs.)"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 93.1618 vs rev+other 93.1618 ok; PBT -51.4836 vs TI-TE+exc -51.4837 ok; expense lines sum 144.6455 vs total 144.6455 ok; PAT -51.6875 vs PBT-tax -51.6875 ok",
+   "notes": "Ind AS. Revenue from operations includes 'Other operational income' 7,859.08 lakh (revenue grant + grant amortisation etc.). Ridership-table earning 79043748 vs Traffic Earnings 785.22 lakh in Note 25. The 2018-19 report shows this year as revenue from operations 8,982.58 / other income 333.60 (0.05 lakh shift)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "JMRC_2017-18_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 68.8969,
+    "page": 51,
+    "quote": "Revenue from operations 25 6,889.69"
+   },
+   "fare_revenue": {
+    "cr": 7.9039,
+    "page": 84,
+    "quote": "Traffic Earnings 790.39"
+   },
+   "non_fare_revenue": {
+    "cr": 1.8165,
+    "page": 84,
+    "quote": "Non-Traffic Earnings 181.65"
+   },
+   "other_income": {
+    "cr": 4.4736,
+    "page": 51,
+    "quote": "Other income 26 447.36"
+   },
+   "total_income": {
+    "cr": 73.3705,
+    "page": 51,
+    "quote": "Total Income 7,337.05"
+   },
+   "operating_expenses": {
+    "cr": 16.1785,
+    "page": 51,
+    "quote": "Operating expenses 1,617.85"
+   },
+   "employee_cost": {
+    "cr": 25.9052,
+    "page": 51,
+    "quote": "Employee benefits expense 2,590.52"
+   },
+   "finance_cost": {
+    "cr": 24.3508,
+    "page": 51,
+    "quote": "Finance costs 2,435.08"
+   },
+   "depreciation": {
+    "cr": 72.9921,
+    "page": 51,
+    "quote": "Depreciation & Amortisation 7,299.21"
+   },
+   "other_expenses": {
+    "cr": 2.9726,
+    "page": 51,
+    "quote": "Other expenses 297.26"
+   },
+   "total_expenses": {
+    "cr": 142.3993,
+    "page": 51,
+    "quote": "Total expenses 14,239.93"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -69.0287,
+    "page": 51,
+    "quote": "Profit before tax (6,902.87)"
+   },
+   "tax": {
+    "cr": 20.2628,
+    "page": 51,
+    "quote": "Deferred tax 2,026.28 Total Tax Expenses 2,026.28"
+   },
+   "profit_after_tax": {
+    "cr": -89.2916,
+    "page": 51,
+    "quote": "Profit/(loss) for the year (8,929.16)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 73.3705 vs rev+other 73.3705 ok; PBT -69.0287 vs TI-TE+exc -69.0288 ok; expense lines sum 142.3992 vs total 142.3993 ok; PAT -89.2916 vs PBT-tax -89.2915 ok",
+   "notes": "RESTATED under Ind AS transition. Indian GAAP original (2016-17 report): revenue from operations 972.05 lakh, other income 6,361.45 lakh, loss 9,011.91 lakh. Ind AS version puts other operational income 5,917.65 lakh (grants) into revenue from operations."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "JMRC_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 103.0873,
+    "page": 50,
+    "quote": "Revenue from operations 25 10,308.73"
+   },
+   "fare_revenue": {
+    "cr": 8.6232,
+    "page": 79,
+    "quote": "Traffic Earnings 862.32"
+   },
+   "non_fare_revenue": {
+    "cr": 9.6817,
+    "page": 79,
+    "quote": "Non-Traffic Earnings 968.17"
+   },
+   "other_income": {
+    "cr": 0.6009,
+    "page": 50,
+    "quote": "Other income 26 60.09"
+   },
+   "total_income": {
+    "cr": 103.6881,
+    "page": 50,
+    "quote": "Total Income 10,368.81"
+   },
+   "operating_expenses": {
+    "cr": 14.8632,
+    "page": 50,
+    "quote": "Operating expenses 27 1,486.32"
+   },
+   "employee_cost": {
+    "cr": 27.5675,
+    "page": 50,
+    "quote": "Employee benefits expense 28 2,756.75"
+   },
+   "finance_cost": {
+    "cr": 28.2681,
+    "page": 50,
+    "quote": "Finance costs 29 2,826.81"
+   },
+   "depreciation": {
+    "cr": 73.1509,
+    "page": 50,
+    "quote": "Depreciation & Amortisation 30 7,315.09"
+   },
+   "other_expenses": {
+    "cr": 12.8089,
+    "page": 50,
+    "quote": "Other expenses 31 1,280.89"
+   },
+   "total_expenses": {
+    "cr": 156.6585,
+    "page": 50,
+    "quote": "Total expenses 15,665.85"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 50,
+    "quote": "Exceptional Items (blank)"
+   },
+   "profit_before_tax": {
+    "cr": -52.9704,
+    "page": 50,
+    "quote": "Profit before tax (5,297.04)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 50,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -52.9704,
+    "page": 50,
+    "quote": "Profit/(loss) for the year (5,297.04)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 9.6,
+    "page": 8,
+    "quote": "Total Route Length (in kms) 9.6 [Phase-1A column; Phase-1B 2.4 km under construction]"
+   },
+   "checks": "total income 103.6881 vs rev+other 103.6882 ok; PBT -52.9704 vs TI-TE+exc -52.9704 ok; expense lines sum 156.6586 vs total 156.6585 ok; PAT -52.9704 vs PBT-tax -52.9704 ok",
+   "notes": "Revenue from operations includes Other operational income 8,478.24 lakh (Revenue Grant 7,637.10, grant amortisation 820.44). Report gives 'Average passenger per day 20,498' for operation up to August 2019 (not a FY figure; not recorded). Restated in 2019-20 report (see previous entry)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "JMRC_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 89.8258,
+    "page": 50,
+    "quote": "Revenue from operations 8,982.58"
+   },
+   "fare_revenue": {
+    "cr": 7.8522,
+    "page": 79,
+    "quote": "Traffic Earnings 785.22"
+   },
+   "non_fare_revenue": {
+    "cr": 3.3833,
+    "page": 79,
+    "quote": "Non-Traffic Earnings 338.33"
+   },
+   "other_income": {
+    "cr": 3.336,
+    "page": 50,
+    "quote": "Other income 333.60"
+   },
+   "total_income": {
+    "cr": 93.1618,
+    "page": 50,
+    "quote": "Total Income 9,316.18"
+   },
+   "operating_expenses": {
+    "cr": 13.235,
+    "page": 50,
+    "quote": "Operating expenses 1,323.50"
+   },
+   "employee_cost": {
+    "cr": 27.8984,
+    "page": 50,
+    "quote": "Employee benefits expense 2,789.84"
+   },
+   "finance_cost": {
+    "cr": 25.437,
+    "page": 50,
+    "quote": "Finance costs 2,543.70"
+   },
+   "depreciation": {
+    "cr": 73.2881,
+    "page": 50,
+    "quote": "Depreciation & Amortisation 7,328.81"
+   },
+   "other_expenses": {
+    "cr": 4.787,
+    "page": 50,
+    "quote": "Other expenses 478.70"
+   },
+   "total_expenses": {
+    "cr": 144.6455,
+    "page": 50,
+    "quote": "Total expenses 14,464.55"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -51.4836,
+    "page": 50,
+    "quote": "Profit before tax (5,148.36)"
+   },
+   "tax": {
+    "cr": 0.2039,
+    "page": 50,
+    "quote": "Earlier Years 20.39"
+   },
+   "profit_after_tax": {
+    "cr": -51.6875,
+    "page": 50,
+    "quote": "Profit/(loss) for the year (5,168.75)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 93.1618 vs rev+other 93.1618 ok; PBT -51.4836 vs TI-TE+exc -51.4837 ok; expense lines sum 144.6455 vs total 144.6455 ok; PAT -51.6875 vs PBT-tax -51.6875 ok",
+   "notes": "Revenue from operations 8,982.58 vs 8,982.63 and other income 333.60 vs 333.55 in the 2017-18 report (small reclassification)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "JMRC_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 11.5677,
+    "page": 60,
+    "quote": "Revenue from operations 25 1,156.77"
+   },
+   "fare_revenue": {
+    "cr": 8.4757,
+    "page": 87,
+    "quote": "Traffic Earnings 847.57"
+   },
+   "non_fare_revenue": {
+    "cr": 3.092,
+    "page": 87,
+    "quote": "Non-Traffic Earnings 309.20"
+   },
+   "other_income": {
+    "cr": 100.9861,
+    "page": 60,
+    "quote": "Other income 26 10,098.61"
+   },
+   "total_income": {
+    "cr": 112.5538,
+    "page": 60,
+    "quote": "Total Income 11,255.38"
+   },
+   "operating_expenses": {
+    "cr": 17.2091,
+    "page": 60,
+    "quote": "Operating expenses 27 1,720.91"
+   },
+   "employee_cost": {
+    "cr": 30.3824,
+    "page": 60,
+    "quote": "Employee benefits expense 28 3,038.24"
+   },
+   "finance_cost": {
+    "cr": 25.764,
+    "page": 60,
+    "quote": "Finance costs 29 2,576.40"
+   },
+   "depreciation": {
+    "cr": 73.2117,
+    "page": 60,
+    "quote": "Depreciation & Amortisation 30 7,321.17"
+   },
+   "other_expenses": {
+    "cr": 5.6383,
+    "page": 60,
+    "quote": "Other expenses 31 563.83"
+   },
+   "total_expenses": {
+    "cr": 152.2055,
+    "page": 60,
+    "quote": "Total expenses 15,220.55"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 60,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -39.6517,
+    "page": 60,
+    "quote": "Profit before tax (3,965.17)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 60,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -39.6517,
+    "page": 60,
+    "quote": "Profit/(loss) for the year (3,965.17)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 112.5538 vs rev+other 112.5538 ok; PBT -39.6517 vs TI-TE+exc -39.6517 ok; expense lines sum 152.2055 vs total 152.2055 ok; PAT -39.6517 vs PBT-tax -39.6517 ok",
+   "notes": "From this year revenue grant (8,286.95 lakh net) and grant amortisation are in other income (Note 26). Report gives 'Average passenger per day 20,393' for operations up to 21 March 2020 (period not the FY; not recorded). Services suspended from 22.03.2020 (COVID)."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "JMRC_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 18.3049,
+    "page": 60,
+    "quote": "Revenue from operations 1,830.49"
+   },
+   "fare_revenue": {
+    "cr": 8.6232,
+    "page": 87,
+    "quote": "Traffic Earnings 862.32"
+   },
+   "non_fare_revenue": {
+    "cr": 9.6817,
+    "page": 87,
+    "quote": "Non-Traffic Earnings 968.17"
+   },
+   "other_income": {
+    "cr": 85.3832,
+    "page": 60,
+    "quote": "Other income 8,538.32"
+   },
+   "total_income": {
+    "cr": 103.6881,
+    "page": 60,
+    "quote": "Total Income 10,368.81"
+   },
+   "operating_expenses": {
+    "cr": 14.8631,
+    "page": 60,
+    "quote": "Operating expenses 1,486.31"
+   },
+   "employee_cost": {
+    "cr": 27.5675,
+    "page": 60,
+    "quote": "Employee benefits expense 2,756.75"
+   },
+   "finance_cost": {
+    "cr": 28.2681,
+    "page": 60,
+    "quote": "Finance costs 2,826.81"
+   },
+   "depreciation": {
+    "cr": 73.1509,
+    "page": 60,
+    "quote": "Depreciation & Amortisation 7,315.09"
+   },
+   "other_expenses": {
+    "cr": 12.8089,
+    "page": 60,
+    "quote": "Other expenses 1,280.89"
+   },
+   "total_expenses": {
+    "cr": 156.6585,
+    "page": 60,
+    "quote": "Total expenses 15,665.85"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -52.9704,
+    "page": 60,
+    "quote": "Profit before tax (5,297.04)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 60,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -52.9704,
+    "page": 60,
+    "quote": "Profit/(loss) for the year (5,297.04)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 103.6881 vs rev+other 103.6881 ok; PBT -52.9704 vs TI-TE+exc -52.9704 ok; expense lines sum 156.6585 vs total 156.6585 ok; PAT -52.9704 vs PBT-tax -52.9704 ok",
+   "notes": "RESTATED ('Restated as per Note No 45'): revenue grant and grant amortisation moved from revenue from operations (10,308.73) to other income (60.09 -> 8,538.32). Totals and loss unchanged."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "JMRC_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 4.5329,
+    "page": 61,
+    "quote": "Revenue from operations 25 453.29"
+   },
+   "fare_revenue": {
+    "cr": 2.5032,
+    "page": 91,
+    "quote": "Traffic Earnings 250.32"
+   },
+   "non_fare_revenue": {
+    "cr": 2.0298,
+    "page": 91,
+    "quote": "Non-Traffic Earnings 202.98"
+   },
+   "other_income": {
+    "cr": 121.6299,
+    "page": 61,
+    "quote": "Other income 26 12,162.99"
+   },
+   "total_income": {
+    "cr": 126.1628,
+    "page": 61,
+    "quote": "Total Income 12,616.28"
+   },
+   "operating_expenses": {
+    "cr": 17.2695,
+    "page": 61,
+    "quote": "Operating expenses 27 1,726.95"
+   },
+   "employee_cost": {
+    "cr": 32.5005,
+    "page": 61,
+    "quote": "Employee benefits expense 28 3,250.05"
+   },
+   "finance_cost": {
+    "cr": 39.3397,
+    "page": 61,
+    "quote": "Finance costs 29 3,933.97"
+   },
+   "depreciation": {
+    "cr": 89.3815,
+    "page": 61,
+    "quote": "Depreciation & Amortisation 30 8,938.15"
+   },
+   "other_expenses": {
+    "cr": 7.7999,
+    "page": 61,
+    "quote": "Other expenses 31 779.99"
+   },
+   "total_expenses": {
+    "cr": 186.2912,
+    "page": 61,
+    "quote": "Total expenses 18,629.12"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 61,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -60.1284,
+    "page": 61,
+    "quote": "Profit before tax (6,012.84)"
+   },
+   "tax": {
+    "cr": 0.0372,
+    "page": 61,
+    "quote": "Earlier Years 3.72"
+   },
+   "profit_after_tax": {
+    "cr": -60.1656,
+    "page": 61,
+    "quote": "Profit/(loss) for the year (6,016.56)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 11.72,
+    "page": 13,
+    "quote": "Total Route Length (in kms) 9.60 2.12 11.72 [Phase-1B opened 23 Sept 2020]"
+   },
+   "checks": "total income 126.1628 vs rev+other 126.1628 ok; PBT -60.1284 vs TI-TE+exc -60.1284 ok; expense lines sum 186.2911 vs total 186.2912 ok; PAT -60.1656 vs PBT-tax -60.1656 ok",
+   "notes": "COVID year: services suspended 22.03.2020-22.09.2020. Other income includes Revenue Grant 10,500.00 lakh. Restated in the 2021-22 report (see previous entry)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "JMRC_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 11.5677,
+    "page": 61,
+    "quote": "Revenue from operations 1,156.77"
+   },
+   "fare_revenue": {
+    "cr": 8.4757,
+    "page": 91,
+    "quote": "Traffic Earnings 847.57"
+   },
+   "non_fare_revenue": {
+    "cr": 3.092,
+    "page": 91,
+    "quote": "Non-Traffic Earnings 309.20"
+   },
+   "other_income": {
+    "cr": 100.9861,
+    "page": 61,
+    "quote": "Other income 10,098.61"
+   },
+   "total_income": {
+    "cr": 112.5538,
+    "page": 61,
+    "quote": "Total Income 11,255.38"
+   },
+   "operating_expenses": {
+    "cr": 17.2091,
+    "page": 61,
+    "quote": "Operating expenses 1,720.91"
+   },
+   "employee_cost": {
+    "cr": 30.3824,
+    "page": 61,
+    "quote": "Employee benefits expense 3,038.24"
+   },
+   "finance_cost": {
+    "cr": 25.764,
+    "page": 61,
+    "quote": "Finance costs 2,576.40"
+   },
+   "depreciation": {
+    "cr": 73.2117,
+    "page": 61,
+    "quote": "Depreciation & Amortisation 7,321.17"
+   },
+   "other_expenses": {
+    "cr": 5.6383,
+    "page": 61,
+    "quote": "Other expenses 563.83"
+   },
+   "total_expenses": {
+    "cr": 152.2055,
+    "page": 61,
+    "quote": "Total expenses 15,220.55"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -39.6517,
+    "page": 61,
+    "quote": "Profit before tax (3,965.17)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 61,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -39.6517,
+    "page": 61,
+    "quote": "Profit/(loss) for the year (3,965.17)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 112.5538 vs rev+other 112.5538 ok; PBT -39.6517 vs TI-TE+exc -39.6517 ok; expense lines sum 152.2055 vs total 152.2055 ok; PAT -39.6517 vs PBT-tax -39.6517 ok",
+   "notes": "Same as 2019-20 report."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "JMRC_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 13.2477,
+    "page": 56,
+    "quote": "Revenue from operations 25 1,324.77"
+   },
+   "fare_revenue": {
+    "cr": 8.3725,
+    "page": 84,
+    "quote": "Traffic Earnings 837.25"
+   },
+   "non_fare_revenue": {
+    "cr": 4.8752,
+    "page": 84,
+    "quote": "Non-Traffic Earnings 487.52"
+   },
+   "other_income": {
+    "cr": 113.4496,
+    "page": 56,
+    "quote": "Other income 26 11,344.96"
+   },
+   "total_income": {
+    "cr": 126.6973,
+    "page": 56,
+    "quote": "Total Income 12,669.73"
+   },
+   "operating_expenses": {
+    "cr": 23.5389,
+    "page": 56,
+    "quote": "Operating expenses 27 2,353.89"
+   },
+   "employee_cost": {
+    "cr": 34.5953,
+    "page": 56,
+    "quote": "Employee benefits expense 28 3,459.53"
+   },
+   "finance_cost": {
+    "cr": 43.3768,
+    "page": 56,
+    "quote": "Finance costs 29 4,337.68"
+   },
+   "depreciation": {
+    "cr": 105.1548,
+    "page": 56,
+    "quote": "Depreciation & Amortization 30 10,515.48"
+   },
+   "other_expenses": {
+    "cr": 3.2791,
+    "page": 56,
+    "quote": "Other expenses 31 327.91"
+   },
+   "total_expenses": {
+    "cr": 209.9449,
+    "page": 56,
+    "quote": "Total expenses 20,994.49"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -83.2477,
+    "page": 56,
+    "quote": "Profit before tax (8,324.77)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Earlier Years 0.00 Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -83.2477,
+    "page": 56,
+    "quote": "Profit/(loss) for the year (8,324.77)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 11.64,
+    "page": 12,
+    "quote": "Total Route Length (in kms) 9.63 2.01 11.64"
+   },
+   "checks": "total income 126.6973 vs rev+other 126.6973 ok; PBT -83.2477 vs TI-TE+exc -83.2476 ok; expense lines sum 209.9449 vs total 209.9449 ok; PAT -83.2477 vs PBT-tax -83.2477 ok",
+   "notes": "Other income includes Revenue Grant 9,000.00 lakh and grant amortisation 2,208.19 lakh. Services suspended 10.05.2021-16.06.2021. No FY ridership stated."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "JMRC_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 3.9323,
+    "page": 56,
+    "quote": "Revenue from operations 393.23"
+   },
+   "fare_revenue": {
+    "cr": 2.5031,
+    "page": 84,
+    "quote": "Traffic Earnings 250.31"
+   },
+   "non_fare_revenue": {
+    "cr": 1.4292,
+    "page": 84,
+    "quote": "Non-Traffic Earnings 142.92"
+   },
+   "other_income": {
+    "cr": 106.5995,
+    "page": 56,
+    "quote": "Other income 10,659.95"
+   },
+   "total_income": {
+    "cr": 110.5318,
+    "page": 56,
+    "quote": "Total Income 11,053.18"
+   },
+   "operating_expenses": {
+    "cr": 17.2695,
+    "page": 56,
+    "quote": "Operating expenses 1,726.95"
+   },
+   "employee_cost": {
+    "cr": 32.5005,
+    "page": 56,
+    "quote": "Employee benefits expense 3,250.05"
+   },
+   "finance_cost": {
+    "cr": 39.5246,
+    "page": 56,
+    "quote": "Finance costs 3,952.46"
+   },
+   "depreciation": {
+    "cr": 89.3084,
+    "page": 56,
+    "quote": "Depreciation & Amortization 8,930.84"
+   },
+   "other_expenses": {
+    "cr": 7.8,
+    "page": 56,
+    "quote": "Other expenses 780.00"
+   },
+   "total_expenses": {
+    "cr": 186.403,
+    "page": 56,
+    "quote": "Total expenses 18,640.30"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -75.8712,
+    "page": 56,
+    "quote": "Profit before tax (7,587.12)"
+   },
+   "tax": {
+    "cr": 0.0372,
+    "page": 56,
+    "quote": "Earlier Years 3.72"
+   },
+   "profit_after_tax": {
+    "cr": -75.9084,
+    "page": 56,
+    "quote": "Profit/(loss) for the year (7,590.84)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 110.5318 vs rev+other 110.5318 ok; PBT -75.8712 vs TI-TE+exc -75.8712 ok; expense lines sum 186.403 vs total 186.403 ok; PAT -75.9084 vs PBT-tax -75.9084 ok",
+   "notes": "RESTATED (*Restated as per note 45, p.103): revenue from operations 453.29 -> 393.23 (non-traffic -60.06), other income 12,162.99 -> 10,659.95 (revenue grant 10,500 -> 9,000), loss 6,016.56 -> 7,590.84."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "JMRC_2022-23_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 25.446,
+    "page": 7,
+    "quote": "(i) Turnover 254,460,000"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: turnover only (₹). Net worth 17,909,023,000."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "JMRC_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 25.446,
+    "page": 63,
+    "quote": "Revenue from operations 2,544.60"
+   },
+   "fare_revenue": {
+    "cr": 18.7164,
+    "page": 93,
+    "quote": "Traffic Earnings 1,871.64"
+   },
+   "non_fare_revenue": {
+    "cr": 6.7296,
+    "page": 93,
+    "quote": "Non-Traffic Earnings 672.96"
+   },
+   "other_income": {
+    "cr": 106.6281,
+    "page": 63,
+    "quote": "Other income 10,662.81"
+   },
+   "total_income": {
+    "cr": 132.0741,
+    "page": 63,
+    "quote": "Total Income 13,207.41"
+   },
+   "operating_expenses": {
+    "cr": 28.8358,
+    "page": 63,
+    "quote": "Operating expenses 2,883.58"
+   },
+   "employee_cost": {
+    "cr": 39.047,
+    "page": 63,
+    "quote": "Employee benefits expense 3,904.70"
+   },
+   "finance_cost": {
+    "cr": 33.4738,
+    "page": 63,
+    "quote": "Finance costs 3,347.38"
+   },
+   "depreciation": {
+    "cr": 105.5556,
+    "page": 63,
+    "quote": "Depreciation & Amortisation 10,555.56"
+   },
+   "other_expenses": {
+    "cr": 4.4668,
+    "page": 63,
+    "quote": "Other expenses 446.68"
+   },
+   "total_expenses": {
+    "cr": 211.379,
+    "page": 63,
+    "quote": "Total expenses 21,137.90"
+   },
+   "exceptional_items": {
+    "cr": 222.6,
+    "page": 63,
+    "quote": "Exceptional Items (Income) 32 22,260.00 [Profit on sale of land, Note 32 p.96]"
+   },
+   "profit_before_tax": {
+    "cr": 143.2951,
+    "page": 63,
+    "quote": "Profit before tax 14,329.51"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 63,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": 143.2951,
+    "page": 63,
+    "quote": "Profit/(loss) for the year 14,329.51"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 132.0741 vs rev+other 132.0741 ok; PBT 143.2951 vs TI-TE+exc 143.2951 ok; expense lines sum 211.379 vs total 211.379 ok; PAT 143.2951 vs PBT-tax 143.2951 ok",
+   "notes": "No 2022-23 annual report available; figures from the comparatives of the 2023-24 report. Profit is due to exceptional profit on sale of RARI land to JDA (22,260 lakh); loss before exceptional items 7,930.49 lakh."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "JMRC_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 33.5187,
+    "page": 63,
+    "quote": "Revenue from operations 25 3,351.87"
+   },
+   "fare_revenue": {
+    "cr": 25.2055,
+    "page": 93,
+    "quote": "Traffic Earnings* 2,520.55"
+   },
+   "non_fare_revenue": {
+    "cr": 8.3132,
+    "page": 93,
+    "quote": "Non-Traffic Earnings 831.32"
+   },
+   "other_income": {
+    "cr": 96.3188,
+    "page": 63,
+    "quote": "Other income 26 9,631.88"
+   },
+   "total_income": {
+    "cr": 129.8375,
+    "page": 63,
+    "quote": "Total Income 12,983.75"
+   },
+   "operating_expenses": {
+    "cr": 33.2909,
+    "page": 63,
+    "quote": "Operating expenses 27 3,329.09"
+   },
+   "employee_cost": {
+    "cr": 47.8716,
+    "page": 63,
+    "quote": "Employee benefits expense 28 4,787.16"
+   },
+   "finance_cost": {
+    "cr": 31.6962,
+    "page": 63,
+    "quote": "Finance costs 29 3,169.62"
+   },
+   "depreciation": {
+    "cr": 109.3271,
+    "page": 63,
+    "quote": "Depreciation & Amortisation 30 10,932.71"
+   },
+   "other_expenses": {
+    "cr": 11.3087,
+    "page": 63,
+    "quote": "Other expenses 31 1,130.87"
+   },
+   "total_expenses": {
+    "cr": 233.4946,
+    "page": 63,
+    "quote": "Total expenses 23,349.46"
+   },
+   "exceptional_items": {
+    "cr": -43.6791,
+    "page": 63,
+    "quote": "Exceptional Items (Income) 32 (4,367.91) [Employee benefit expenses, Note 32 p.96]"
+   },
+   "profit_before_tax": {
+    "cr": -147.3362,
+    "page": 63,
+    "quote": "Profit before tax (14,733.62)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 63,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -147.3362,
+    "page": 63,
+    "quote": "Profit/(loss) for the year (14,733.62)"
+   },
+   "annual_ridership_lakh": {
+    "value": 181.15,
+    "page": 12,
+    "quote": "The total ridership for the financial year 2023-24 was 181.15 Lakhs, generating a fare box revenue of 2520.55 Lakhs"
+   },
+   "avg_daily_ridership": {
+    "value": 49496,
+    "page": 12,
+    "quote": "The average daily ridership for the same financial year was 49496"
+   },
+   "route_km": {
+    "value": 11.64,
+    "page": 11,
+    "quote": "East-West Corridor from Mansarovar to Badi Chaupar has a route length of 11.64 kms"
+   },
+   "checks": "total income 129.8375 vs rev+other 129.8375 ok; PBT -147.3362 vs TI-TE+exc -147.3362 ok; expense lines sum 233.4945 vs total 233.4946 ok; PAT -147.3362 vs PBT-tax -147.3362 ok",
+   "notes": "Scanned; OCR checked against page image. Exceptional item is a charge (employee benefit expenses) of 4,367.91 lakh. Other income includes Revenue Grant 7,151.66 lakh. Restated in 2024-25 report (see previous entry)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "JMRC_2023-24_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 33.5187,
+    "page": 7,
+    "quote": "(i) Turnover 335,187,000"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: turnover only; matches P&L 3,351.87 lakh. Net worth 16,590,145,000."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "JMRC_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 33.5187,
+    "page": 56,
+    "quote": "Revenue from operations 3,351.87"
+   },
+   "fare_revenue": {
+    "cr": 25.2055,
+    "page": 89,
+    "quote": "Traffic Earnings 2,520.55"
+   },
+   "non_fare_revenue": {
+    "cr": 8.3132,
+    "page": 89,
+    "quote": "Non-Traffic Earnings 831.32"
+   },
+   "other_income": {
+    "cr": 98.1304,
+    "page": 56,
+    "quote": "Other income 9,813.04"
+   },
+   "total_income": {
+    "cr": 131.6491,
+    "page": 56,
+    "quote": "Total Income 13,164.91"
+   },
+   "operating_expenses": {
+    "cr": 33.5166,
+    "page": 56,
+    "quote": "Operating expenses 3,351.66"
+   },
+   "employee_cost": {
+    "cr": 47.9455,
+    "page": 56,
+    "quote": "Employee benefits expense 4,794.55"
+   },
+   "finance_cost": {
+    "cr": 31.6962,
+    "page": 56,
+    "quote": "Finance costs 3,169.62"
+   },
+   "depreciation": {
+    "cr": 107.6717,
+    "page": 56,
+    "quote": "Depreciation & Amortisation 10,767.17"
+   },
+   "other_expenses": {
+    "cr": 12.7003,
+    "page": 56,
+    "quote": "Other expenses 1,270.03"
+   },
+   "total_expenses": {
+    "cr": 233.5303,
+    "page": 56,
+    "quote": "Total expenses 23,353.03"
+   },
+   "exceptional_items": {
+    "cr": -43.6791,
+    "page": 56,
+    "quote": "Exceptional Items (Income) 32 (4,367.91)"
+   },
+   "profit_before_tax": {
+    "cr": -145.5602,
+    "page": 56,
+    "quote": "Profit before tax (14,556.02)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -145.5602,
+    "page": 56,
+    "quote": "Profit/(Loss) for the year (14,556.02)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 49496,
+    "page": 12,
+    "quote": "The Phase-1 average daily ridership ... for F.Y. 2023-24 was 49496"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 131.6491 vs rev+other 131.6491 ok; PBT -145.5602 vs TI-TE+exc -145.5603 ok; expense lines sum 233.5303 vs total 233.5303 ok; PAT -145.5602 vs PBT-tax -145.5602 ok",
+   "notes": "RESTATED ('*Restated as per note 46'): other income 9,631.88 -> 9,813.04 (interest income 86.23 -> 293.23), depreciation 10,932.71 -> 10,767.17, operating/employee/other expenses changed; loss 14,733.62 -> 14,556.02."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "JMRC_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 41.1372,
+    "page": 56,
+    "quote": "Revenue from operations 25 4,113.72"
+   },
+   "fare_revenue": {
+    "cr": 29.8329,
+    "page": 89,
+    "quote": "Traffic Earnings 2,983.29"
+   },
+   "non_fare_revenue": {
+    "cr": 11.3043,
+    "page": 89,
+    "quote": "Non-Traffic Earnings 1,130.43"
+   },
+   "other_income": {
+    "cr": 130.3107,
+    "page": 56,
+    "quote": "Other income 26 13,031.07"
+   },
+   "total_income": {
+    "cr": 171.4479,
+    "page": 56,
+    "quote": "Total Income 17,144.79"
+   },
+   "operating_expenses": {
+    "cr": 39.2513,
+    "page": 56,
+    "quote": "Operating expenses 27 3,925.13"
+   },
+   "employee_cost": {
+    "cr": 49.568,
+    "page": 56,
+    "quote": "Employee benefits expense 28 4,956.80"
+   },
+   "finance_cost": {
+    "cr": 29.7386,
+    "page": 56,
+    "quote": "Finance costs 29 2,973.86"
+   },
+   "depreciation": {
+    "cr": 108.1029,
+    "page": 56,
+    "quote": "Depreciation & Amortisation 30 10,810.29"
+   },
+   "other_expenses": {
+    "cr": 11.9778,
+    "page": 56,
+    "quote": "Other expenses 31 1,197.78"
+   },
+   "total_expenses": {
+    "cr": 238.6386,
+    "page": 56,
+    "quote": "Total expenses 23,863.86"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Exceptional Items (Income) 32 -"
+   },
+   "profit_before_tax": {
+    "cr": -67.1908,
+    "page": 56,
+    "quote": "Profit before tax (6,719.08)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Total Tax Expenses -"
+   },
+   "profit_after_tax": {
+    "cr": -67.1908,
+    "page": 56,
+    "quote": "Profit/(Loss) for the year (6,719.08)"
+   },
+   "annual_ridership_lakh": {
+    "value": 203.43,
+    "page": 12,
+    "quote": "The total ridership for the financial year 2024-25 was 203.43 Lakhs, generating a fare box revenue of 30.01 Crore"
+   },
+   "avg_daily_ridership": {
+    "value": 55736,
+    "page": 12,
+    "quote": "it increased to 55736 for F.Y. 2024-25"
+   },
+   "route_km": {
+    "value": 11.64,
+    "page": 11,
+    "quote": "East-West Corridor from Mansarovar to Badi Chaupar has a route length of 11.64 kms"
+   },
+   "checks": "total income 171.4479 vs rev+other 171.4479 ok; PBT -67.1908 vs TI-TE+exc -67.1907 ok; expense lines sum 238.6386 vs total 238.6386 ok; PAT -67.1908 vs PBT-tax -67.1908 ok",
+   "notes": "Scanned; OCR checked against page image. Other income includes Revenue Grant 9,396.77 lakh and interest 1,232.21 lakh."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "JMRC_2024-25_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 411.372,
+    "page": 9,
+    "quote": "i *Turnover 4113720000"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: turnover as printed = ₹411.37 crore, which is 10x the P&L revenue from operations (4,113.72 lakh = ₹41.14 crore); the filing appears to have a unit error. Do not use over the annual report."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "JMRC_2018-19_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": 7,
+    "quote": "(i) Turnover [field blank]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: the Turnover field is blank in this filing; nothing to record."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "JMRC_2019-20_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": 7,
+    "quote": "(i) Turnover [field blank]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: the Turnover field is blank in this filing; nothing to record."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "JMRC_2020-21_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": 7,
+    "quote": "(i) Turnover [field blank]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: the Turnover field is blank in this filing; nothing to record."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "JMRC_2021-22_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": 7,
+    "quote": "(i) Turnover [field blank]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "",
+   "notes": "MGT-7 annual return: the Turnover field is blank in this filing; nothing to record."
+  }
+ ]
+}

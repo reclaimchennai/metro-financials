@@ -1,0 +1,596 @@
+{
+ "operator": "NCRTC",
+ "documents": [
+  {
+   "file": "NCRTC_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 62,
+   "note": "Text PDF, page tree read fine with PyMuPDF. Standalone P&L p.62 (consolidated p.141; subsidiary NCRTC Express Transit Ltd p.231 not used). No revenue from operations: corridor under construction; Namo Bharat priority section fare income not in P&L. Board's report highlights (tax totals) p.9."
+  },
+  {
+   "file": "NCRTC_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 54,
+   "note": "Standalone P&L p.54 (consolidated p.144). Still no revenue from operations; CAG comment (p.126) notes sections in use earning fare/non-fare revenue were not capitalised. 2023-24 tax split re-presented (current 1,502.40 / deferred 3,309.92 vs -62.23 / 4,812.32), same total. Highlights p.9."
+  },
+  {
+   "file": "NCRTC_2025-26_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 66,
+   "note": "FY ended 31 Mar 2026. Standalone P&L p.66 (consolidated p.168). First year with revenue from operations (corridor completed 14 Aug 2025); fare/non-fare split in Note 23 p.109. Highlights p.11."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2022-23",
+   "source_file": "NCRTC_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 62,
+    "quote": "I Revenue from operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 139.5372,
+    "page": 62,
+    "quote": "II Other Income 23 23,918.41 13,953.72"
+   },
+   "total_income": {
+    "cr": 139.5372,
+    "page": 62,
+    "quote": "III Total Income (I+II) 23,918.41 13,953.72"
+   },
+   "employee_cost": {
+    "cr": 10.7337,
+    "page": 62,
+    "quote": "Employee benefit expense 24 1,795.23 1,073.37"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 62,
+    "quote": "Finance Costs 25 - -"
+   },
+   "depreciation": {
+    "cr": 4.7138,
+    "page": 62,
+    "quote": "Depreciation and amortization expense 26 539.04 471.38"
+   },
+   "other_expenses": {
+    "cr": 15.7956,
+    "page": 62,
+    "quote": "Other Expenses 27 2,951.45 1,579.56"
+   },
+   "total_expenses": {
+    "cr": 31.2431,
+    "page": 62,
+    "quote": "IV Total Expenses (IV) 5,285.72 3,124.31"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 62,
+    "quote": "VI Exceptional Items - -"
+   },
+   "profit_before_tax": {
+    "cr": 108.2941,
+    "page": 62,
+    "quote": "VII Profit before tax (V - VI) 18,632.69 10,829.41"
+   },
+   "tax": {
+    "cr": 28.3881,
+    "page": 9,
+    "quote": "Tax Expenses 4,750.09 2,838.81 (Board's report highlights)"
+   },
+   "profit_after_tax": {
+    "cr": 79.906,
+    "page": 62,
+    "quote": "XIII Profit/(Loss) for the period (IX + XII) 13,882.60 7,990.60"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 13953.72 = 0 + 13953.72: ok; PBT 10829.41 = 13953.72 - 3124.31: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Only source for 2022-23 (no 2022-23 report among the PDFs). Pre-operations; income is interest etc. Tax = current earlier years 37.38 + deferred 2,705.32 + deferred earlier years 96.11 on p.62; total taken from highlights p.9."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "NCRTC_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 62,
+    "quote": "I Revenue from operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 239.1841,
+    "page": 62,
+    "quote": "II Other Income 23 23,918.41 13,953.72"
+   },
+   "total_income": {
+    "cr": 239.1841,
+    "page": 62,
+    "quote": "III Total Income (I+II) 23,918.41 13,953.72"
+   },
+   "employee_cost": {
+    "cr": 17.9523,
+    "page": 62,
+    "quote": "Employee benefit expense 24 1,795.23 1,073.37"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 62,
+    "quote": "Finance Costs 25 - -"
+   },
+   "depreciation": {
+    "cr": 5.3904,
+    "page": 62,
+    "quote": "Depreciation and amortization expense 26 539.04 471.38"
+   },
+   "other_expenses": {
+    "cr": 29.5145,
+    "page": 62,
+    "quote": "Other Expenses 27 2,951.45 1,579.56"
+   },
+   "total_expenses": {
+    "cr": 52.8572,
+    "page": 62,
+    "quote": "IV Total Expenses (IV) 5,285.72 3,124.31"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 62,
+    "quote": "VI Exceptional Items - -"
+   },
+   "profit_before_tax": {
+    "cr": 186.3269,
+    "page": 62,
+    "quote": "VII Profit before tax (V - VI) 18,632.69 10,829.41"
+   },
+   "tax": {
+    "cr": 47.5009,
+    "page": 9,
+    "quote": "Tax Expenses 4,750.09 2,838.81 (Board's report highlights)"
+   },
+   "profit_after_tax": {
+    "cr": 138.826,
+    "page": 62,
+    "quote": "XIII Profit/(Loss) for the period (IX + XII) 13,882.60 7,990.60"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 34,
+    "page": 10,
+    "quote": "From 8th March 2024, 'Namo Bharat' services were available in 34 km (approximately 41% of the total corridor length)"
+   },
+   "checks": "total income 23918.41 = 0 + 23918.41: ok; PBT 18632.69 = 23918.41 - 5285.72: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Namo Bharat priority section opened 21 Oct 2023 and Duhai-Modinagar North 6 Mar 2024, but no revenue from operations in the P&L (project under construction). No annual or average daily ridership figure stated (only a chart of average daily ridership since COD, p.11, without printed values). Tax on p.62 printed as components (earlier years -62.23, deferred 4,812.32); total from highlights p.9."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "NCRTC_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 54,
+    "quote": "I. Revenue from operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 239.1841,
+    "page": 54,
+    "quote": "II Other Income 23 23,135.35 23,918.41"
+   },
+   "total_income": {
+    "cr": 239.1841,
+    "page": 54,
+    "quote": "III Total Income (I+II) 23,135.35 23,918.41"
+   },
+   "employee_cost": {
+    "cr": 17.9523,
+    "page": 54,
+    "quote": "Employee Benefit Expense 24 1,513.91 1,795.23"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 54,
+    "quote": "Finance Costs 25 - -"
+   },
+   "depreciation": {
+    "cr": 5.3904,
+    "page": 54,
+    "quote": "Depreciation and Amortization Expense 26 786.38 539.04"
+   },
+   "other_expenses": {
+    "cr": 29.5145,
+    "page": 54,
+    "quote": "Other Expenses 27 1,961.16 2,951.45"
+   },
+   "total_expenses": {
+    "cr": 52.8572,
+    "page": 54,
+    "quote": "IV Total Expenses (IV) 4,261.45 5,285.72"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 54,
+    "quote": "VI Exceptional Items - -"
+   },
+   "profit_before_tax": {
+    "cr": 186.3269,
+    "page": 54,
+    "quote": "VII Profit before tax (V - VI) 18,873.90 18,632.69"
+   },
+   "tax": {
+    "cr": 47.5009,
+    "page": 9,
+    "quote": "Tax Expenses 11,221.77 4,750.09 (Board's report highlights)"
+   },
+   "profit_after_tax": {
+    "cr": 138.826,
+    "page": 54,
+    "quote": "XIII Profit/(Loss) for the period (IX + XII) 7,652.13 13,882.60"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 23918.41 = 0 + 23918.41: ok; PBT 18632.69 = 23918.41 - 5285.72: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Same totals as the 2023-24 report, but the tax split is re-presented: current tax 1,502.40 and earlier years (62.23), deferred 3,309.92 (2023-24 report: current nil, deferred 4,812.32)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "NCRTC_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 54,
+    "quote": "I. Revenue from operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 231.3535,
+    "page": 54,
+    "quote": "II Other Income 23 23,135.35 23,918.41"
+   },
+   "total_income": {
+    "cr": 231.3535,
+    "page": 54,
+    "quote": "III Total Income (I+II) 23,135.35 23,918.41"
+   },
+   "employee_cost": {
+    "cr": 15.1391,
+    "page": 54,
+    "quote": "Employee Benefit Expense 24 1,513.91 1,795.23"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 54,
+    "quote": "Finance Costs 25 - -"
+   },
+   "depreciation": {
+    "cr": 7.8638,
+    "page": 54,
+    "quote": "Depreciation and Amortization Expense 26 786.38 539.04"
+   },
+   "other_expenses": {
+    "cr": 19.6116,
+    "page": 54,
+    "quote": "Other Expenses 27 1,961.16 2,951.45"
+   },
+   "total_expenses": {
+    "cr": 42.6145,
+    "page": 54,
+    "quote": "IV Total Expenses (IV) 4,261.45 5,285.72"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 54,
+    "quote": "VI Exceptional Items - -"
+   },
+   "profit_before_tax": {
+    "cr": 188.739,
+    "page": 54,
+    "quote": "VII Profit before tax (V - VI) 18,873.90 18,632.69"
+   },
+   "tax": {
+    "cr": 112.2177,
+    "page": 54,
+    "quote": "Deferred tax (net) - For the Period 11,221.77 3,309.92 (current tax -)"
+   },
+   "profit_after_tax": {
+    "cr": 76.5213,
+    "page": 54,
+    "quote": "XIII Profit/(Loss) for the period (IX + XII) 7,652.13 13,882.60"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 55,
+    "page": 10,
+    "quote": "the operational length of the Delhi-Meerut Namo Bharat corridor spans 55 km, covering 11 stations out of the total 82.17 km corridor"
+   },
+   "checks": "total income 23135.35 = 0 + 23135.35: ok; PBT 18873.9 = 23135.35 - 4261.45: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "55 km operational (New Ashok Nagar-Meerut South) by Jan 2025, yet no revenue from operations in the P&L; CAG comment p.126 says sections in use were not capitalised though the company earns fare and non-fare revenue from them. Ridership only as growth percentages (p.10), no counts."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "NCRTC_2025-26_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "I. Revenue from operations 23 10,647.54 -"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 109,
+    "quote": "Fare Revenue 10,325.20 -"
+   },
+   "non_fare_revenue": {
+    "cr": 0.0,
+    "page": 109,
+    "quote": "Non- Fare Revenue 322.34 -"
+   },
+   "other_income": {
+    "cr": 231.3535,
+    "page": 66,
+    "quote": "II Other Income 24 27,525.39 23,135.35"
+   },
+   "total_income": {
+    "cr": 231.3535,
+    "page": 66,
+    "quote": "III Total Income (I+II) 38,172.93 23,135.35"
+   },
+   "employee_cost": {
+    "cr": 15.1391,
+    "page": 66,
+    "quote": "Employee Benefit Expense 26 1,400.66 1,513.91"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "Finance Costs 27 1,40,287.15 -"
+   },
+   "depreciation": {
+    "cr": 7.8638,
+    "page": 66,
+    "quote": "Depreciation and Amortization Expense 28 40,443.34 786.38"
+   },
+   "other_expenses": {
+    "cr": 19.6116,
+    "page": 66,
+    "quote": "Other Expenses 29 2,971.20 1,961.16"
+   },
+   "total_expenses": {
+    "cr": 42.6145,
+    "page": 66,
+    "quote": "IV Total Expenses (IV) 2,01,654.03 4,261.45"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "VI Exceptional Items - -"
+   },
+   "profit_before_tax": {
+    "cr": 188.739,
+    "page": 66,
+    "quote": "VII Profit/ (Loss) before tax (V - VI) (1,63,481.10) 18,873.90"
+   },
+   "tax": {
+    "cr": 112.2177,
+    "page": 66,
+    "quote": "Deferred tax (net) - For the Period (18,346.48) 11,221.77"
+   },
+   "profit_after_tax": {
+    "cr": 76.5213,
+    "page": 66,
+    "quote": "XIII Profit/(Loss) for the period (IX + XII) (1,45,134.62) 7,652.13"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "Operating Expenses 25 16,551.68 -"
+   },
+   "checks": "total income 23135.35 = 0 + 23135.35: ok; PBT 18873.9 = 23135.35 - 4261.45: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Same as the 2024-25 report."
+  },
+  {
+   "fy": "2025-26",
+   "source_file": "NCRTC_2025-26_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 106.4754,
+    "page": 66,
+    "quote": "I. Revenue from operations 23 10,647.54 -"
+   },
+   "fare_revenue": {
+    "cr": 103.252,
+    "page": 109,
+    "quote": "Fare Revenue 10,325.20 - (Note 23)"
+   },
+   "non_fare_revenue": {
+    "cr": 3.2234,
+    "page": 109,
+    "quote": "Non- Fare Revenue 322.34 - (Note 23)"
+   },
+   "other_income": {
+    "cr": 275.2539,
+    "page": 66,
+    "quote": "II Other Income 24 27,525.39 23,135.35"
+   },
+   "total_income": {
+    "cr": 381.7293,
+    "page": 66,
+    "quote": "III Total Income (I+II) 38,172.93 23,135.35"
+   },
+   "employee_cost": {
+    "cr": 14.0066,
+    "page": 66,
+    "quote": "Employee Benefit Expense 26 1,400.66 1,513.91"
+   },
+   "finance_cost": {
+    "cr": 1402.8715,
+    "page": 66,
+    "quote": "Finance Costs 27 1,40,287.15 -"
+   },
+   "depreciation": {
+    "cr": 404.4334,
+    "page": 66,
+    "quote": "Depreciation and Amortization Expense 28 40,443.34 786.38"
+   },
+   "other_expenses": {
+    "cr": 29.712,
+    "page": 66,
+    "quote": "Other Expenses 29 2,971.20 1,961.16"
+   },
+   "total_expenses": {
+    "cr": 2016.5403,
+    "page": 66,
+    "quote": "IV Total Expenses (IV) 2,01,654.03 4,261.45"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "VI Exceptional Items - -"
+   },
+   "profit_before_tax": {
+    "cr": -1634.811,
+    "page": 66,
+    "quote": "VII Profit/ (Loss) before tax (V - VI) (1,63,481.10) 18,873.90"
+   },
+   "tax": {
+    "cr": -183.4648,
+    "page": 66,
+    "quote": "Deferred tax (net) - For the Period (18,346.48) 11,221.77"
+   },
+   "profit_after_tax": {
+    "cr": -1451.3462,
+    "page": 66,
+    "quote": "XIII Profit/(Loss) for the period (IX + XII) (1,45,134.62) 7,652.13"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 82,
+    "page": 13,
+    "quote": "the entire Delhi-Meerut Namo Bharat RRTS corridor is now operational from Sarai Kale Khan in Delhi to Modipuram ... covering 82 km with 23 stations"
+   },
+   "operating_expenses": {
+    "cr": 165.5168,
+    "page": 66,
+    "quote": "Operating Expenses 25 16,551.68 -"
+   },
+   "checks": "total income 38172.93 = 10647.54 + 27525.39: ok; PBT -163481.1 = 38172.93 - 201654.03: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Corridor completed 14 Aug 2025 (CMRS, Note 23); full 82 km and Meerut Metro opened 22 Feb 2026. Revenue includes Namo Bharat and Meerut Metro (not split by system). CAG comment p.146: fare revenue includes 178.75 lakh of loyalty-point obligations received in advance. Ridership: report says average daily ridership rose 'from 50,000 in 2025 to over 1,00,000 in 2026' (p.8), not an FY average, so avg_daily_ridership left null; no annual total. Meerut Metro route km not stated separately (12 stations, p.8)."
+  }
+ ]
+}

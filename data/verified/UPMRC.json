@@ -1,0 +1,430 @@
+{
+ "operator": "UPMRC",
+ "documents": [
+  {
+   "file": "UPMRC_2022-23_Annual_Report.pdf",
+   "is_what_it_says": false,
+   "scanned": false,
+   "pl_page": null,
+   "note": "Not a PDF: a 2,109-byte HTML page (the UPMRC website's app shell, <title>Uttar Pradesh Metro Rail Corporation - Official Website of UPMRC</title>) saved under a .pdf name. No report content. 2022-23 figures taken from the previous-year column of the 2023-24 report instead."
+  },
+  {
+   "file": "UPMRC_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 74,
+   "note": "image-only PDF; P&L p74 and Note 25 p90 read from rendered page images"
+  },
+  {
+   "file": "UPMRC_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 74,
+   "note": "P&L p74 (2023-24 column restated, Note 33(r) p123-126); Note 25 fare/non-fare p90; segment by city p126"
+  }
+ ],
+ "years": [
+  {
+   "fy": "2022-23",
+   "source_file": "UPMRC_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 91.2016,
+    "page": 74,
+    "quote": "i) Revenue From Operations 25 9,934.81 9,120.16 [read from page image]"
+   },
+   "fare_revenue": {
+    "cr": 66.4417,
+    "page": 90,
+    "quote": "Note 25 Fare Box Revenue 7,701.85 6,644.17 [read from page image]"
+   },
+   "non_fare_revenue": {
+    "cr": 24.7599,
+    "page": 90,
+    "quote": "Note 25 Non Fare Box Revenue 2,232.96 2,475.99 [read from page image]"
+   },
+   "other_income": {
+    "cr": 105.7154,
+    "page": 74,
+    "quote": "ii) Other Income 26 12,285.81 10,571.54 [read from page image]"
+   },
+   "total_income": {
+    "cr": 196.917,
+    "page": 74,
+    "quote": "Total Income 22,220.62 19,691.70 [read from page image]"
+   },
+   "employee_cost": {
+    "cr": 61.7726,
+    "page": 74,
+    "quote": "ii) Employees' Benefit Expenses 28 6,751.58 6,177.26 [read from page image]"
+   },
+   "finance_cost": {
+    "cr": 42.6127,
+    "page": 74,
+    "quote": "iii) Finance Cost 29 74,344.41 4,261.27 [read from page image]"
+   },
+   "depreciation": {
+    "cr": 321.2619,
+    "page": 74,
+    "quote": "iv) Depreciation & Amortization Expenses 30 34,300.18 32,126.19 [read from page image]"
+   },
+   "other_expenses": {
+    "cr": 7.5281,
+    "page": 74,
+    "quote": "v) Other Expenses 31 865.96 752.81 [read from page image]"
+   },
+   "total_expenses": {
+    "cr": 521.585,
+    "page": 74,
+    "quote": "Total expenses 1,23,872.97 52,158.50 [read from page image]"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 74,
+    "quote": null,
+    "note": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -324.6679,
+    "page": 74,
+    "quote": "Profit/ (Loss) before tax (1,01,652.35) (32,466.79) [read from page image]"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 74,
+    "quote": "Current Tax - - Deferred Tax - - [read from page image]"
+   },
+   "profit_after_tax": {
+    "cr": -324.6679,
+    "page": 74,
+    "quote": "Profit/ (Loss) for the year (1,01,652.35) (32,466.79) [read from page image]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": null
+   },
+   "operating_expenses": {
+    "cr": 88.4096,
+    "page": 74,
+    "quote": "i) Operating Expenses 27 7,610.84 8,840.96 [read from page image]"
+   },
+   "checks": "total income 196.9170 vs rev+OI 196.9170: ok; PBT -324.6679 vs TI-TE±exceptional -324.6680: ok; expense lines sum 521.5849 vs total 521.5850: ok; PAT -324.6679 vs PBT-tax -324.6679: ok",
+   "notes": "Previous-year column of the 2023-24 report; no 2022-23 report available (UPMRC_2022-23_Annual_Report.pdf is an HTML page, not a report). Expense lines sum to 52,158.49 vs printed total 52,158.50 (rounding)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "UPMRC_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 99.3481,
+    "page": 74,
+    "quote": "i) Revenue From Operations 25 9,934.81 9,120.16 [read from page image]"
+   },
+   "fare_revenue": {
+    "cr": 77.0185,
+    "page": 90,
+    "quote": "Note 25 Fare Box Revenue 7,701.85 6,644.17 [read from page image]"
+   },
+   "non_fare_revenue": {
+    "cr": 22.3296,
+    "page": 90,
+    "quote": "Note 25 Non Fare Box Revenue 2,232.96 2,475.99 [read from page image]"
+   },
+   "other_income": {
+    "cr": 122.8581,
+    "page": 74,
+    "quote": "ii) Other Income 26 12,285.81 10,571.54 [read from page image]"
+   },
+   "total_income": {
+    "cr": 222.2062,
+    "page": 74,
+    "quote": "Total Income 22,220.62 19,691.70 [read from page image]"
+   },
+   "employee_cost": {
+    "cr": 67.5158,
+    "page": 74,
+    "quote": "ii) Employees' Benefit Expenses 28 6,751.58 6,177.26 [read from page image]"
+   },
+   "finance_cost": {
+    "cr": 743.4441,
+    "page": 74,
+    "quote": "iii) Finance Cost 29 74,344.41 4,261.27 [read from page image]"
+   },
+   "depreciation": {
+    "cr": 343.0018,
+    "page": 74,
+    "quote": "iv) Depreciation & Amortization Expenses 30 34,300.18 32,126.19 [read from page image]"
+   },
+   "other_expenses": {
+    "cr": 8.6596,
+    "page": 74,
+    "quote": "v) Other Expenses 31 865.96 752.81 [read from page image]"
+   },
+   "total_expenses": {
+    "cr": 1238.7297,
+    "page": 74,
+    "quote": "Total expenses 1,23,872.97 52,158.50 [read from page image]"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 74,
+    "quote": null,
+    "note": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -1016.5235,
+    "page": 74,
+    "quote": "Profit/ (Loss) before tax (1,01,652.35) (32,466.79) [read from page image]"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 74,
+    "quote": "Current Tax - - Deferred Tax - - [read from page image]"
+   },
+   "profit_after_tax": {
+    "cr": -1016.5235,
+    "page": 74,
+    "quote": "Profit/ (Loss) for the year (1,01,652.35) (32,466.79) [read from page image]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": 11,
+    "quote": null,
+    "note": "not stated for the year; p11 says only 'More than 10 crore passengers have traveled in Lucknow Metro since the commencement of operations'"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": "no network total stated; report gives Lucknow North-South corridor 22.878 km (p11), Kanpur 9 km priority corridor (p8), Agra 6 km priority stretch opened 6 March 2024 (p13)"
+   },
+   "operating_expenses": {
+    "cr": 76.1084,
+    "page": 74,
+    "quote": "i) Operating Expenses 27 7,610.84 8,840.96 [read from page image]"
+   },
+   "checks": "total income 222.2062 vs rev+OI 222.2062: ok; PBT -1016.5235 vs TI-TE±exceptional -1016.5235: ok; expense lines sum 1238.7297 vs total 1238.7297: ok; PAT -1016.5235 vs PBT-tax -1016.5235: ok",
+   "notes": "Scanned (image-only) PDF; statement and notes read from rendered page images. These 2023-24 figures were later RESTATED in the 2024-25 report (see the 2023-24 previous-column entry)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "UPMRC_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 99.3481,
+    "page": 74,
+    "quote": "I) Revenue From Operations 25 10,590.89 9,934.81"
+   },
+   "fare_revenue": {
+    "cr": 77.0185,
+    "page": 90,
+    "quote": "Note 25 Fare Box Revenue 7,981.03 7,701.85"
+   },
+   "non_fare_revenue": {
+    "cr": 22.3296,
+    "page": 90,
+    "quote": "Note 25 Non Fare Box Revenue 2,609.86 2,232.96"
+   },
+   "other_income": {
+    "cr": 211.6975,
+    "page": 74,
+    "quote": "ii) Other Income 26 27,665.06 21,169.75"
+   },
+   "total_income": {
+    "cr": 311.0456,
+    "page": 74,
+    "quote": "Total Income 38,255.95 31,104.56"
+   },
+   "employee_cost": {
+    "cr": 67.5183,
+    "page": 74,
+    "quote": "ii) Employees' Benet Expenses 28 9,246.00 6,751.83"
+   },
+   "finance_cost": {
+    "cr": 762.0631,
+    "page": 74,
+    "quote": "iii) Finance Cost 29 32,017.19 76,206.31"
+   },
+   "depreciation": {
+    "cr": 342.9795,
+    "page": 74,
+    "quote": "iv) Depreciation & Amortization Expenses 30 41,866.11 34,297.95"
+   },
+   "other_expenses": {
+    "cr": 59.236,
+    "page": 74,
+    "quote": "v) Other Expenses 31 8,356.55 5,923.60"
+   },
+   "total_expenses": {
+    "cr": 1307.9053,
+    "page": 74,
+    "quote": "Total expenses 1,00,725.76 1,30,790.53"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 74,
+    "quote": null,
+    "note": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -996.8597,
+    "page": 74,
+    "quote": "Profit/ (Loss) before tax (62,469.81) (99,685.97)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 74,
+    "quote": "Tax (expense)/ Income Current Tax [blank] Deferred Tax -"
+   },
+   "profit_after_tax": {
+    "cr": -996.8597,
+    "page": 74,
+    "quote": "Profit/ (Loss) for the year (62,469.81) (99,685.97)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 76.1084,
+    "page": 74,
+    "quote": "I) Operating Expenses 27 9,239.91 7,610.84"
+   },
+   "checks": "total income 311.0456 vs rev+OI 311.0456: ok; PBT -996.8597 vs TI-TE±exceptional -996.8597: ok; expense lines sum 1307.9053 vs total 1307.9053: ok; PAT -996.8597 vs PBT-tax -996.8597: ok",
+   "notes": "RESTATED (column headed \"31.03.2024 (Restated*)\", Note 33(r) p123-126) vs the 2023-24 report: other income 21,169.75 (was 12,285.81; +8,883.94 adjustments incl. grant amortisation on land at fair value and subordinate-debt fair valuation), employee 6,751.83 (was 6,751.58), finance cost 76,206.31 (was 74,344.41), depreciation 34,297.95 (was 34,300.18), other expenses 5,923.60 (was 865.96; now includes cost on construction of buildings 5,079.57 and moves 21.93 to finance cost), total expenses 1,30,790.53 (was 1,23,872.97); loss (99,685.97) (was (1,01,652.35)). Revenue from operations and fare split unchanged."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "UPMRC_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 105.9089,
+    "page": 74,
+    "quote": "I) Revenue From Operations 25 10,590.89 9,934.81"
+   },
+   "fare_revenue": {
+    "cr": 79.8103,
+    "page": 90,
+    "quote": "Note 25 Fare Box Revenue 7,981.03 7,701.85"
+   },
+   "non_fare_revenue": {
+    "cr": 26.0986,
+    "page": 90,
+    "quote": "Note 25 Non Fare Box Revenue 2,609.86 2,232.96"
+   },
+   "other_income": {
+    "cr": 276.6506,
+    "page": 74,
+    "quote": "ii) Other Income 26 27,665.06 21,169.75"
+   },
+   "total_income": {
+    "cr": 382.5595,
+    "page": 74,
+    "quote": "Total Income 38,255.95 31,104.56"
+   },
+   "employee_cost": {
+    "cr": 92.46,
+    "page": 74,
+    "quote": "ii) Employees' Benet Expenses 28 9,246.00 6,751.83"
+   },
+   "finance_cost": {
+    "cr": 320.1719,
+    "page": 74,
+    "quote": "iii) Finance Cost 29 32,017.19 76,206.31"
+   },
+   "depreciation": {
+    "cr": 418.6611,
+    "page": 74,
+    "quote": "iv) Depreciation & Amortization Expenses 30 41,866.11 34,297.95"
+   },
+   "other_expenses": {
+    "cr": 83.5655,
+    "page": 74,
+    "quote": "v) Other Expenses 31 8,356.55 5,923.60"
+   },
+   "total_expenses": {
+    "cr": 1007.2576,
+    "page": 74,
+    "quote": "Total expenses 1,00,725.76 1,30,790.53"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 74,
+    "quote": null,
+    "note": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -624.6981,
+    "page": 74,
+    "quote": "Profit/ (Loss) before tax (62,469.81) (99,685.97)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 74,
+    "quote": "Tax (expense)/ Income Current Tax [blank] Deferred Tax [blank]"
+   },
+   "profit_after_tax": {
+    "cr": -624.6981,
+    "page": 74,
+    "quote": "Profit/ (Loss) for the year (62,469.81) (99,685.97)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": 6,
+    "quote": null,
+    "note": "not stated for the year; p6/p11: 'More than 12 crore passengers' in Lucknow since start; Agra 'around 22 lakh' since 6 March 2024"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": "no network total stated; Lucknow North-South corridor 22.878 km (p11); Agra operational on the 6 km priority stretch (p13); Kanpur extension Motijheel-Kanpur Central opened 30 May 2025, after year end (p12)"
+   },
+   "operating_expenses": {
+    "cr": 92.3991,
+    "page": 74,
+    "quote": "I) Operating Expenses 27 9,239.91 7,610.84"
+   },
+   "checks": "total income 382.5595 vs rev+OI 382.5595: ok; PBT -624.6981 vs TI-TE±exceptional -624.6981: ok; expense lines sum 1007.2576 vs total 1007.2576: ok; PAT -624.6981 vs PBT-tax -624.6981: ok",
+   "notes": "Standalone P&L p74 (₹ lakh). Segment note 33(s) p126 splits revenue from operations by city: Lucknow 9,380.04, Kanpur 817.48, Agra 393.36 lakh (2023-24 restated: 9,336.10 / 518.57 / 80.15)."
+  }
+ ]
+}

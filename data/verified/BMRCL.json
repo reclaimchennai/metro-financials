@@ -1,0 +1,4754 @@
+{
+ "operator": "BMRCL",
+ "documents": [
+  {
+   "file": "BMRCL_2005-06_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Scanned. Company in project-implementation stage: no Profit and Loss Account prepared (p21, p44, p47 'has not prepared Profit and Loss Account'); only a Statement of Pre-operative Expenditure (p27). No P&L data."
+  },
+  {
+   "file": "BMRCL_2006-07_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Scanned. Pre-operation stage; 'No Profit and Loss Account has been prepared' (p54, p64); Statement of Pre-operative Expenditure p42. No P&L data."
+  },
+  {
+   "file": "BMRCL_2007-08_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Scanned. Pre-operation stage; 'profit and loss account has not been prepared' (p71, p128); Statement of Pre-operative Expenditure (pending capitalisation) and Statement of Income p98. No P&L data."
+  },
+  {
+   "file": "BMRCL_2008-09_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Scanned. Pre-operation stage; 'No Profit and Loss Account has been prepared' (p118); pre-operative expenditure statement p76. 2008-09 appears only as the NIL previous-year column of the 2009-10 P&L."
+  },
+  {
+   "file": "BMRCL_2009-10_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 76,
+   "note": "Scanned. Trilingual (Kannada/Hindi/English) Profit and Loss Account p76 with NIL operational income and expenditure; restated in the 2010-11 report."
+  },
+  {
+   "file": "BMRCL_2010-11_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 101,
+   "note": "Scanned. Trilingual P&L pp.101-104 (rupees): interest and sundry income, admin expenses, depreciation, then appropriations (prior-period, income-tax provisions). No operations yet."
+  },
+  {
+   "file": "BMRCL_2011-12_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 120,
+   "note": "Scanned. Statement of Profit and Loss p120 (rupees); fare box Note 18 p133; operations highlights (ridership) p95."
+  },
+  {
+   "file": "BMRCL_2012-13_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 150,
+   "note": "Scanned. Statement of Profit and Loss p150 (rupees); Notes 19-20 p168; operations p114."
+  },
+  {
+   "file": "BMRCL_2013-14_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 164,
+   "note": "Scanned. Statement of Profit and Loss p164 (rupees); Note 20-21 p181; operations p121."
+  },
+  {
+   "file": "BMRCL_2014-15_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 73,
+   "note": "Statement of Profit and Loss p73 (rupees); Notes 21-23 pp.92-93; operations p18."
+  },
+  {
+   "file": "BMRCL_2015-16_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 79,
+   "note": "Statement of Profit and Loss p79 (rupees); Notes 20-21 p98; operations pp.17-18."
+  },
+  {
+   "file": "BMRCL_2016-17_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 76,
+   "note": "First Ind AS P&L p76 (lakh), restating 2015-16; Note 2.24 p107; operations p16."
+  },
+  {
+   "file": "BMRCL_2017-18_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 83,
+   "note": "P&L p83 (lakh); Note 2.24 p116; operations pp.13-14."
+  },
+  {
+   "file": "BMRCL_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 86,
+   "note": "P&L p86 (lakh); Note 2.23 p116; operations p15."
+  },
+  {
+   "file": "BMRCL_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 88,
+   "note": "P&L p88 (rupees); Note 2.23 p116; operations p14."
+  },
+  {
+   "file": "BMRCL_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 85,
+   "note": "P&L p85 (lakh), restating 2019-20 (GOK reimbursement removed); Note 2.23 p111; operations pp.12, 17."
+  },
+  {
+   "file": "BMRCL_2020-21_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Form MGT-7 for FY 2020-21 (01/04/2020-31/03/2021); turnover 735,629,525 and net worth on p7."
+  },
+  {
+   "file": "BMRCL_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 96,
+   "note": "P&L p96 (lakh), restating 2020-21; Note 23 p117; operations pp.11, 15."
+  },
+  {
+   "file": "BMRCL_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 96,
+   "note": "P&L p96 (lakh), restating 2021-22; Note 22 p120; operations pp.11-13."
+  },
+  {
+   "file": "BMRCL_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 97,
+   "note": "P&L p97 (lakh), restating 2022-23 (other income and finance cost); Note 22 p121; operations pp.13, 23 (also gives FY averages for 2019-20 to 2023-24)."
+  },
+  {
+   "file": "BMRCL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 95,
+   "note": "P&L p95 (lakh), slightly restating 2023-24; Note 22 p117; operations pp.13-14."
+  },
+  {
+   "file": "BMRCL_2025-26_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 91,
+   "note": "Scanned (image-only). P&L p91 (lakh) with 2024-25 column marked '(Restated)'; revenue disaggregation p140; operations pp.13, 21, 23; restatement explained in Note 31 item 16 pp.157-158."
+  },
+  {
+   "file": "BMRCL_2023-24_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Form MGT-7 for FY 2023-24 (01/04/2023-31/03/2024); turnover 6,239,585,136 and net worth on p7."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2008-09",
+   "source_file": "BMRCL_2009-10_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 76,
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Operational Income - -",
+    "as_printed": "-"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Total A - -",
+    "as_printed": "-"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Total B - -",
+    "as_printed": "-"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Net Profit A-B NIL NIL",
+    "as_printed": "NIL"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 0.00 cr: ok; PBT = total income - total expenses = 0.0000 cr: ok",
+   "notes": "Previous-year column of the 2009-10 P&L (NIL). The 2008-09 report itself has no P&L (pre-operative expenditure statement only). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2009-10",
+   "source_file": "BMRCL_2009-10_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 76,
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Operational Income - -",
+    "as_printed": "-"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Total A - -",
+    "as_printed": "-"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Total B - -",
+    "as_printed": "-"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Net Profit A-B NIL NIL",
+    "as_printed": "NIL"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 0.00 cr: ok; PBT = total income - total expenses = 0.0000 cr: ok",
+   "notes": "Scanned (OCR + visual check). Pre-operations: the Profit and Loss Account for the year ending 31 March 2010 shows only 'Operational Income' and 'Operational Expenditure', both blank, net profit NIL; all other income/expenditure went to capital work-in-progress. RESTATED in the 2010-11 report (see that previous-column entry). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2009-10",
+   "source_file": "BMRCL_2010-11_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 101,
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 20.4608,
+    "page": 101,
+    "quote": "Total A 24,87,99,281 20,46,07,809",
+    "as_printed": "20,46,07,809"
+   },
+   "total_income": {
+    "cr": 20.4608,
+    "page": 101,
+    "quote": "Total A 24,87,99,281 20,46,07,809",
+    "as_printed": "20,46,07,809"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.5676,
+    "page": 103,
+    "quote": "Depreciation on Assets 1,12,67,677 56,76,053",
+    "as_printed": "56,76,053"
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 5.7088,
+    "page": 103,
+    "quote": "Total B 12,04,18,187 5,70,87,720",
+    "as_printed": "5,70,87,720"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 14.752,
+    "page": 103,
+    "quote": "Net Profit (A - B) 12,83,81,094 14,75,20,089",
+    "as_printed": "14,75,20,089"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 20.46 cr: ok; PBT = total income - total expenses = 14.7520 cr: ok",
+   "notes": "RESTATED in the 2010-11 report: the 2009-10 report showed a NIL P&L, but the 2010-11 report re-presents 2009-10 income (interest etc.) and administrative expenditure through the P&L, giving a net profit of 14,75,20,089 before appropriations (p88 of the 2010-11 report explains previous-year figures were regrouped to exhibit comparatives). No operational revenue. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2010-11",
+   "source_file": "BMRCL_2010-11_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 101,
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 24.8799,
+    "page": 101,
+    "quote": "Total A 24,87,99,281 20,46,07,809 (Interest earned on Deposits 20,21,69,745; Interest from BBMP 2,58,95,018; Interest on Income-tax Refund 1,47,50,844; ... Others 49,76,090)",
+    "as_printed": "24,87,99,281"
+   },
+   "total_income": {
+    "cr": 24.8799,
+    "page": 101,
+    "quote": "Total A 24,87,99,281 20,46,07,809",
+    "as_printed": "24,87,99,281"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 1.1268,
+    "page": 103,
+    "quote": "Depreciation on Assets 1,12,67,677 56,76,053",
+    "as_printed": "1,12,67,677"
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 12.0418,
+    "page": 103,
+    "quote": "Total B 12,04,18,187 5,70,87,720",
+    "as_printed": "12,04,18,187"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 12.8381,
+    "page": 103,
+    "quote": "Net Profit (A - B) 12,83,81,094 14,75,20,089",
+    "as_printed": "12,83,81,094"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 24.88 cr: ok; PBT = total income - total expenses = 12.8381 cr: ok",
+   "notes": "Scanned (visual check, trilingual statement pp.101-104). Before commercial operations (Reach-1 opened 20 Oct 2011): no revenue-from-operations line; income is interest and sundry receipts, recorded as other_income. 'Net Profit (A-B)' is before prior-period items and taxes; the appropriation below it (p103-104) deducts prior-period ROC stamp duty 1,92,84,477, income tax written off 43,094 and income-tax provisions for FY 2006-07 to 2010-11 (3,87,73,455; 11,94,61,870; 12,08,53,900; 5,31,06,692; 4,47,98,731) and wealth tax 3,16,200. No single tax or profit-after-tax line, so tax and profit_after_tax are left null. RESTATED in the 2011-12 report: PBT 10,87,37,324, total tax 37,69,94,648, loss (26,82,57,324). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2010-11",
+   "source_file": "BMRCL_2011-12_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 120,
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 24.8799,
+    "page": 120,
+    "quote": "Other Income 19 49,13,58,181 24,87,99,281",
+    "as_printed": "24,87,99,281"
+   },
+   "total_income": {
+    "cr": 24.8799,
+    "page": 120,
+    "quote": "Total Revenue 55,06,53,091 24,87,99,281",
+    "as_printed": "24,87,99,281"
+   },
+   "employee_cost": {
+    "cr": 6.845,
+    "page": 120,
+    "quote": "Employee Benefit Expenses 20 11,10,99,674 6,84,50,496",
+    "as_printed": "6,84,50,496"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 1.1268,
+    "page": 120,
+    "quote": "Depreciation and Amortisation 24,99,18,208 1,12,67,677",
+    "as_printed": "1,12,67,677"
+   },
+   "other_expenses": {
+    "cr": 4.1016,
+    "page": 120,
+    "quote": "Other Expenses 21 21,47,33,046 4,10,16,213",
+    "as_printed": "4,10,16,213"
+   },
+   "prior_period_items": {
+    "cr": 1.9284,
+    "page": 120,
+    "quote": "Prior Period Expenses 16,82,422 1,92,84,477",
+    "as_printed": "1,92,84,477"
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": 0.0043,
+    "page": 120,
+    "quote": "Exceptional Items Reversal of Income Tax Provision 43,094",
+    "as_printed": "43,094"
+   },
+   "profit_before_tax": {
+    "cr": 10.8737,
+    "page": 120,
+    "quote": "Profit / (loss) before Tax (2,34,15,415) 10,87,37,324",
+    "as_printed": "10,87,37,324"
+   },
+   "tax": {
+    "cr": 37.6995,
+    "page": 120,
+    "quote": "Total tax expense 374,766 37,69,94,648",
+    "as_printed": "37,69,94,648"
+   },
+   "profit_after_tax": {
+    "cr": -26.8257,
+    "page": 120,
+    "quote": "Profit/(loss) for the period (2,37,90,181) (26,82,57,324)",
+    "as_printed": "(26,82,57,324)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 24.88 cr: ok; no total-expenses line printed; sum of expense lines 14.0019 cr; PBT = total income - total expenses - exceptional = 10.8737 cr: ok; PAT = PBT - tax: ok",
+   "notes": "RESTATED/re-presented in the 2011-12 report (Revised Schedule VI): the 2010-11 report's appropriation items are now in the P&L; prior-period stamp duty and the 43,094 tax write-off are deducted before PBT (10,87,37,324 vs 'Net Profit' 12,83,81,094), and income-tax provisions for FY 2006-07 to 2010-11 (37,69,94,648 in total) are charged as tax, giving a loss of 26,82,57,324. The 43,094 is labelled 'Reversal of Income Tax Provision' but is deducted (12,80,64,895 - 43,094 = 12,80,21,801). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2011-12",
+   "source_file": "BMRCL_2011-12_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 120,
+   "revenue_from_operations": {
+    "cr": 5.9295,
+    "page": 120,
+    "quote": "Revenue from Operations 18 5,92,94,910",
+    "as_printed": "5,92,94,910"
+   },
+   "fare_revenue": {
+    "cr": 5.9295,
+    "page": 133,
+    "quote": "(18) Revenue from Operations ... Fare Box Revenue 5,92,94,910",
+    "as_printed": "5,92,94,910"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 49.1358,
+    "page": 120,
+    "quote": "Other Income 19 49,13,58,181 24,87,99,281",
+    "as_printed": "49,13,58,181"
+   },
+   "total_income": {
+    "cr": 55.0653,
+    "page": 120,
+    "quote": "Total Revenue 55,06,53,091 24,87,99,281",
+    "as_printed": "55,06,53,091"
+   },
+   "employee_cost": {
+    "cr": 11.11,
+    "page": 120,
+    "quote": "Employee Benefit Expenses 20 11,10,99,674 6,84,50,496",
+    "as_printed": "11,10,99,674"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 24.9918,
+    "page": 120,
+    "quote": "Depreciation and Amortisation 24,99,18,208 1,12,67,677",
+    "as_printed": "24,99,18,208"
+   },
+   "other_expenses": {
+    "cr": 21.4733,
+    "page": 120,
+    "quote": "Other Expenses 21 21,47,33,046 4,10,16,213",
+    "as_printed": "21,47,33,046"
+   },
+   "prior_period_items": {
+    "cr": 0.1682,
+    "page": 120,
+    "quote": "Prior Period Expenses 16,82,422 1,92,84,477",
+    "as_printed": "16,82,422"
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -2.3415,
+    "page": 120,
+    "quote": "Profit / (loss) before Tax (2,34,15,415) 10,87,37,324",
+    "as_printed": "(2,34,15,415)"
+   },
+   "tax": {
+    "cr": 0.0375,
+    "page": 120,
+    "quote": "Total tax expense 374,766 37,69,94,648",
+    "as_printed": "3,74,766"
+   },
+   "profit_after_tax": {
+    "cr": -2.379,
+    "page": 120,
+    "quote": "Profit/(loss) for the period (2,37,90,181) (26,82,57,324)",
+    "as_printed": "(2,37,90,181)"
+   },
+   "annual_ridership_lakh": {
+    "value": 41.65711,
+    "page": 95,
+    "quote": "The total number of commuters carried was 41,65,711"
+   },
+   "avg_daily_ridership": {
+    "value": 28153,
+    "page": 95,
+    "quote": "The average per day Ridership was 28,153 and the maximum and the minimum being 52,709 and 17,720 respectively.",
+    "as_printed": "28,153"
+   },
+   "route_km": {
+    "value": 7.0,
+    "page": 95,
+    "quote": "The first section of 7 km from Baiyappanahalli to Mahatma Gandhi Road Station has commenced commercial operations on 20th October, 2011"
+   },
+   "checks": "total income = sum of income lines 55.07 cr: ok; no total-expenses line printed; sum of expense lines 57.7433 cr; PBT = total income - total expenses = -2.6780 cr: MISMATCH by 0.3365 cr; PAT = PBT - tax: ok; the 0.3365 cr gap is twice the prior-period line (16,82,422): the statement adds it back (a credit) although it is labelled as expenses; with that sign PBT ties exactly",
+   "notes": "Scanned (OCR + visual check). First year of operations (Reach-1 from 20 Oct 2011; ridership and average cover 164 days). Old Schedule VI format: non-fare operating income is inside Other Income here (the 2012-13 report splits out 3,73,00,356 as Other Operating Income); Directors' report p95 says non-fare box revenue 372.75 lakh and fare-box revenue Rs.6,17,88,127 (a gross figure that differs from the 5,92,94,910 in the accounts). No finance cost line. No total-expenses line is printed (only 'Total Expenses before Depreciation' 32,58,32,720). The prior-period line labelled 'Expenses' is in fact added back: (2,50,97,837) + 16,82,422 = (2,34,15,415). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2011-12",
+   "source_file": "BMRCL_2012-13_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 150,
+   "revenue_from_operations": {
+    "cr": 5.9295,
+    "page": 150,
+    "quote": "Revenue from Operations 19 86,585,317 59,294,910",
+    "as_printed": "59,294,910"
+   },
+   "fare_revenue": {
+    "cr": 5.9295,
+    "page": 168,
+    "quote": "Fare Box Revenue 86,585,317 59,294,910",
+    "as_printed": "59,294,910"
+   },
+   "non_fare_revenue": {
+    "cr": 3.73,
+    "page": 168,
+    "quote": "20. Other Operating Income ... 63,163,826 37,300,356",
+    "as_printed": "37,300,356"
+   },
+   "other_operating_income": {
+    "cr": 3.73,
+    "page": 150,
+    "quote": "Other Operating Income 20 63,163,826 37,300,356",
+    "as_printed": "37,300,356"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 45.4058,
+    "page": 150,
+    "quote": "Other Income 21 344,850,229 454,057,825",
+    "as_printed": "454,057,825"
+   },
+   "total_income": {
+    "cr": 55.0653,
+    "page": 150,
+    "quote": "Total Revenue 494,599,372 550,653,091",
+    "as_printed": "550,653,091"
+   },
+   "employee_cost": {
+    "cr": 11.11,
+    "page": 150,
+    "quote": "Employee Benefit Expenses 22 183,355,849 111,099,674",
+    "as_printed": "111,099,674"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 150,
+    "quote": "Finance Cost (Interest) 33,357,196 -",
+    "as_printed": "-"
+   },
+   "depreciation": {
+    "cr": 24.9918,
+    "page": 150,
+    "quote": "Depreciation and Amortisation 591,085,912 249,918,208",
+    "as_printed": "249,918,208"
+   },
+   "other_expenses": {
+    "cr": 21.4733,
+    "page": 150,
+    "quote": "Other Expenses 23 240,738,796 214,733,046",
+    "as_printed": "214,733,046"
+   },
+   "prior_period_items": {
+    "cr": 0.1682,
+    "page": 150,
+    "quote": "Prior Period Expenses/Income 16,359,425 1,682,422",
+    "as_printed": "1,682,422"
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -2.3415,
+    "page": 150,
+    "quote": "Profit / (loss) before Tax (570,297,807) (23,415,415)",
+    "as_printed": "(23,415,415)"
+   },
+   "tax": {
+    "cr": 0.0375,
+    "page": 150,
+    "quote": "Current Tax (Wealth Tax) 314,100 374,766",
+    "as_printed": "374,766"
+   },
+   "profit_after_tax": {
+    "cr": -2.379,
+    "page": 150,
+    "quote": "Profit/(loss) for the period (570,611,907) (23,790,181)",
+    "as_printed": "(23,790,181)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 55.07 cr: ok; no total-expenses line printed; sum of expense lines 57.7433 cr; PBT = total income - total expenses = -2.6780 cr: MISMATCH by 0.3365 cr; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP); the 0.3365 cr gap is twice the prior-period line (16,82,422): the statement adds it back (a credit) although it is labelled as expenses; with that sign PBT ties exactly",
+   "notes": "Previous-year column of the 2012-13 report: same totals as the 2011-12 report but Other Income 49,13,58,181 is split into Other Operating Income 37,300,356 (non-fare) and Other Income 454,057,825. Prior-period item 1,682,422 is a credit (added back), as in the 2011-12 report. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "BMRCL_2012-13_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 150,
+   "revenue_from_operations": {
+    "cr": 8.6585,
+    "page": 150,
+    "quote": "Revenue from Operations 19 86,585,317 59,294,910",
+    "as_printed": "86,585,317"
+   },
+   "fare_revenue": {
+    "cr": 8.6585,
+    "page": 168,
+    "quote": "19. Revenue from Operations ... Fare Box Revenue 86,585,317 59,294,910",
+    "as_printed": "86,585,317"
+   },
+   "non_fare_revenue": {
+    "cr": 6.3164,
+    "page": 168,
+    "quote": "20. Other Operating Income ... 63,163,826 37,300,356",
+    "as_printed": "63,163,826"
+   },
+   "other_operating_income": {
+    "cr": 6.3164,
+    "page": 150,
+    "quote": "Other Operating Income 20 63,163,826 37,300,356",
+    "as_printed": "63,163,826"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 34.485,
+    "page": 150,
+    "quote": "Other Income 21 344,850,229 454,057,825",
+    "as_printed": "344,850,229"
+   },
+   "total_income": {
+    "cr": 49.4599,
+    "page": 150,
+    "quote": "Total Revenue 494,599,372 550,653,091",
+    "as_printed": "494,599,372"
+   },
+   "employee_cost": {
+    "cr": 18.3356,
+    "page": 150,
+    "quote": "Employee Benefit Expenses 22 183,355,849 111,099,674",
+    "as_printed": "183,355,849"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": 3.3357,
+    "page": 150,
+    "quote": "Finance Cost (Interest) 33,357,196 -",
+    "as_printed": "33,357,196"
+   },
+   "depreciation": {
+    "cr": 59.1086,
+    "page": 150,
+    "quote": "Depreciation and Amortisation 591,085,912 249,918,208",
+    "as_printed": "591,085,912"
+   },
+   "other_expenses": {
+    "cr": 24.0739,
+    "page": 150,
+    "quote": "Other Expenses 23 240,738,796 214,733,046",
+    "as_printed": "240,738,796"
+   },
+   "prior_period_items": {
+    "cr": 1.6359,
+    "page": 150,
+    "quote": "Prior Period Expenses/Income 16,359,425 1,682,422",
+    "as_printed": "16,359,425"
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -57.0298,
+    "page": 150,
+    "quote": "Profit / (loss) before Tax (570,297,807) (23,415,415)",
+    "as_printed": "(570,297,807)"
+   },
+   "tax": {
+    "cr": 0.0314,
+    "page": 150,
+    "quote": "Current Tax (Wealth Tax) 314,100 374,766",
+    "as_printed": "314,100"
+   },
+   "profit_after_tax": {
+    "cr": -57.0612,
+    "page": 150,
+    "quote": "Profit/(loss) for the period (570,611,907) (23,790,181)",
+    "as_printed": "(570,611,907)"
+   },
+   "annual_ridership_lakh": {
+    "value": 66.3627,
+    "page": 114,
+    "quote": "The total number of commuters carried was 66,36,270."
+   },
+   "avg_daily_ridership": {
+    "value": 18181,
+    "page": 114,
+    "quote": "The average per day Ridership was 18,181 and the maximum and the minimum being 38,129 and 3,743 respectively.",
+    "as_printed": "18,181"
+   },
+   "route_km": {
+    "value": 7.0,
+    "page": 114,
+    "quote": "The first section of 7 km from Baiyappanahalli to Mahatma Gandhi Road Station which commenced commercial operations on 20th October, 2011"
+   },
+   "checks": "total income = sum of income lines 49.46 cr: ok; no total-expenses line printed; sum of expense lines 106.4897 cr; PBT = total income - total expenses = -57.0298 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Scanned (OCR + visual check). Old-GAAP layout: Revenue from Operations = fare box only; Other Operating Income (non-fare) separate. Other Expenses here includes operating expenses (the 2013-14 report splits it into Operating 166,337,982 + Other 74,400,814). No grand total of expenses printed. Directors' report p114: fare box Rs.8.66 crore, non-fare Rs.6.31 crore. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "BMRCL_2013-14_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 164,
+   "revenue_from_operations": {
+    "cr": 8.6585,
+    "page": 164,
+    "quote": "Revenue from Operations 20 98,726,291 86,585,317",
+    "as_printed": "86,585,317"
+   },
+   "fare_revenue": {
+    "cr": 8.6585,
+    "page": 181,
+    "quote": "Fare Box Revenue 98,726,291 86,585,317",
+    "as_printed": "86,585,317"
+   },
+   "non_fare_revenue": {
+    "cr": 6.3164,
+    "page": 164,
+    "quote": "Other Operating Income 21 131,424,565 63,163,826",
+    "as_printed": "63,163,826"
+   },
+   "other_operating_income": {
+    "cr": 6.3164,
+    "page": 164,
+    "quote": "Other Operating Income 21 131,424,565 63,163,826",
+    "as_printed": "63,163,826"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 34.485,
+    "page": 164,
+    "quote": "Other Income 22 129,182,916 344,850,229",
+    "as_printed": "344,850,229"
+   },
+   "total_income": {
+    "cr": 49.4599,
+    "page": 164,
+    "quote": "Total Revenue (A) 359,333,772 494,599,372",
+    "as_printed": "494,599,372"
+   },
+   "employee_cost": {
+    "cr": 18.3356,
+    "page": 164,
+    "quote": "Employee Benefit Expenses 23 354,038,788 183,355,849",
+    "as_printed": "183,355,849"
+   },
+   "operating_expenses": {
+    "cr": 16.6338,
+    "page": 164,
+    "quote": "Operating Expenses 24 172,112,121 166,337,982",
+    "as_printed": "166,337,982"
+   },
+   "finance_cost": {
+    "cr": 3.3357,
+    "page": 164,
+    "quote": "Finance Cost (Interest) (D) 62,641,498 33,357,196",
+    "as_printed": "33,357,196"
+   },
+   "depreciation": {
+    "cr": 59.1086,
+    "page": 164,
+    "quote": "Depreciation and Amortisation (E) 640,360,908 591,085,912",
+    "as_printed": "591,085,912"
+   },
+   "other_expenses": {
+    "cr": 7.4401,
+    "page": 164,
+    "quote": "Other Expenses 25 83,336,391 74,400,814",
+    "as_printed": "74,400,814"
+   },
+   "prior_period_items": {
+    "cr": 1.6359,
+    "page": 164,
+    "quote": "Prior Period Expenses(Income) 26 (121,602,511) 16,359,425",
+    "as_printed": "16,359,425"
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -57.0298,
+    "page": 164,
+    "quote": "Profit / (Loss) before Tax (C+D+E) (831,553,424) (570,297,807)",
+    "as_printed": "(570,297,807)"
+   },
+   "tax": {
+    "cr": 0.0314,
+    "page": 164,
+    "quote": "Current Tax (Wealth Tax) 252,490 314,100",
+    "as_printed": "314,100"
+   },
+   "profit_after_tax": {
+    "cr": -57.0612,
+    "page": 164,
+    "quote": "Profit/(loss) for the period (831,805,914) (570,611,907)",
+    "as_printed": "(570,611,907)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 49.46 cr: ok; no total-expenses line printed; sum of expense lines 106.4897 cr; PBT = total income - total expenses = -57.0298 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Previous-year column of the 2013-14 report: same totals as the 2012-13 report; Other Expenses 240,738,796 regrouped into Operating Expenses 166,337,982 + Other Expenses 74,400,814. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "BMRCL_2013-14_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 164,
+   "revenue_from_operations": {
+    "cr": 9.8726,
+    "page": 164,
+    "quote": "Revenue from Operations 20 98,726,291 86,585,317",
+    "as_printed": "98,726,291"
+   },
+   "fare_revenue": {
+    "cr": 9.8726,
+    "page": 181,
+    "quote": "Revenue from operations Fare Box Revenue 98,726,291 86,585,317",
+    "as_printed": "98,726,291"
+   },
+   "non_fare_revenue": {
+    "cr": 13.1425,
+    "page": 164,
+    "quote": "Other Operating Income 21 131,424,565 63,163,826",
+    "as_printed": "131,424,565"
+   },
+   "other_operating_income": {
+    "cr": 13.1425,
+    "page": 164,
+    "quote": "Other Operating Income 21 131,424,565 63,163,826",
+    "as_printed": "131,424,565"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 12.9183,
+    "page": 164,
+    "quote": "Other Income 22 129,182,916 344,850,229",
+    "as_printed": "129,182,916"
+   },
+   "total_income": {
+    "cr": 35.9334,
+    "page": 164,
+    "quote": "Total Revenue (A) 359,333,772 494,599,372",
+    "as_printed": "359,333,772"
+   },
+   "employee_cost": {
+    "cr": 35.4039,
+    "page": 164,
+    "quote": "Employee Benefit Expenses 23 354,038,788 183,355,849",
+    "as_printed": "354,038,788"
+   },
+   "operating_expenses": {
+    "cr": 17.2112,
+    "page": 164,
+    "quote": "Operating Expenses 24 172,112,121 166,337,982",
+    "as_printed": "172,112,121"
+   },
+   "finance_cost": {
+    "cr": 6.2641,
+    "page": 164,
+    "quote": "Finance Cost (Interest) (D) 62,641,498 33,357,196",
+    "as_printed": "62,641,498"
+   },
+   "depreciation": {
+    "cr": 64.0361,
+    "page": 164,
+    "quote": "Depreciation and Amortisation (E) 640,360,908 591,085,912",
+    "as_printed": "640,360,908"
+   },
+   "other_expenses": {
+    "cr": 8.3336,
+    "page": 164,
+    "quote": "Other Expenses 25 83,336,391 74,400,814",
+    "as_printed": "83,336,391"
+   },
+   "prior_period_items": {
+    "cr": -12.1603,
+    "page": 164,
+    "quote": "Prior Period Expenses(Income) 26 (121,602,511) 16,359,425",
+    "as_printed": "(121,602,511)"
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -83.1553,
+    "page": 164,
+    "quote": "Profit / (Loss) before Tax (C+D+E) (831,553,424) (570,297,807)",
+    "as_printed": "(831,553,424)"
+   },
+   "tax": {
+    "cr": 0.0252,
+    "page": 164,
+    "quote": "Current Tax (Wealth Tax) 252,490 314,100",
+    "as_printed": "252,490"
+   },
+   "profit_after_tax": {
+    "cr": -83.1806,
+    "page": 164,
+    "quote": "Profit/(loss) for the period (831,805,914) (570,611,907)",
+    "as_printed": "(831,805,914)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 35.93 cr: ok; no total-expenses line printed; sum of expense lines 119.0887 cr; PBT = total income - total expenses = -83.1553 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Scanned (visual check). No grand total of expenses printed: 'Total Expenses Before Interest Depreciation and Tax (B)' 487,884,789 and 'Total Expenses before tax (D+E)' 703,002,406 (sum 1,190,887,195, which the 2014-15 report prints as Total Expenses 1,19,08,87,195). Ridership p121 per line only: Reach-1 avg 17,833/day; Reach 3/3A avg 24,606/day (from 1 Mar 2014); no network total. Route km not totalled (Reach-1 6.7 km + Reach 3/3A 10.3 km in operation, p121). Matches the 2014-15 report's previous-year column. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "BMRCL_2014-15_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 73,
+   "revenue_from_operations": {
+    "cr": 9.8726,
+    "page": 73,
+    "quote": "Revenue from Operations 21 17,83,17,746 9,87,26,291",
+    "as_printed": "9,87,26,291"
+   },
+   "fare_revenue": {
+    "cr": 9.8726,
+    "page": 92,
+    "quote": "Revenue from operations Fare Box Revenue 17,83,17,746 9,87,26,291",
+    "as_printed": "9,87,26,291"
+   },
+   "non_fare_revenue": {
+    "cr": 13.1425,
+    "page": 93,
+    "quote": "22. Other Operating Income ... 18,70,39,599 13,14,24,565",
+    "as_printed": "13,14,24,565"
+   },
+   "other_operating_income": {
+    "cr": 13.1425,
+    "page": 73,
+    "quote": "Other Operating Income 22 18,70,39,599 13,14,24,565",
+    "as_printed": "13,14,24,565"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 12.9183,
+    "page": 73,
+    "quote": "Other Income 23 6,44,17,530 12,91,82,916",
+    "as_printed": "12,91,82,916"
+   },
+   "total_income": {
+    "cr": 35.9334,
+    "page": 73,
+    "quote": "Total Revenue (A) 42,97,74,875 35,93,33,772",
+    "as_printed": "35,93,33,772"
+   },
+   "employee_cost": {
+    "cr": 35.4039,
+    "page": 73,
+    "quote": "Employee Benefit Expenses 24 34,82,28,557 35,40,38,788",
+    "as_printed": "35,40,38,788"
+   },
+   "operating_expenses": {
+    "cr": 17.2112,
+    "page": 73,
+    "quote": "Operating Expenses 25 38,93,42,514 17,21,12,121",
+    "as_printed": "17,21,12,121"
+   },
+   "finance_cost": {
+    "cr": 6.2641,
+    "page": 73,
+    "quote": "Finance Cost (Interest) 29,64,20,074 6,26,41,498",
+    "as_printed": "6,26,41,498"
+   },
+   "depreciation": {
+    "cr": 64.0361,
+    "page": 73,
+    "quote": "Depreciation and Amortisation 1,96,49,23,281 64,03,60,908",
+    "as_printed": "64,03,60,908"
+   },
+   "other_expenses": {
+    "cr": 8.3336,
+    "page": 73,
+    "quote": "Other Expenses 26 4,74,07,478 8,33,36,391",
+    "as_printed": "8,33,36,391"
+   },
+   "prior_period_items": {
+    "cr": -12.1603,
+    "page": 73,
+    "quote": "Prior Period Expenses/ (Income) 27 1,59,68,365 (12,16,02,511)",
+    "as_printed": "(12,16,02,511)"
+   },
+   "total_expenses": {
+    "cr": 119.0887,
+    "page": 73,
+    "quote": "Total Expenses (B) 3,06,22,90,268 1,19,08,87,195",
+    "as_printed": "1,19,08,87,195"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -83.1553,
+    "page": 73,
+    "quote": "Profit / (loss) before Tax (A-B) (2,63,25,15,394) (83,15,53,424)",
+    "as_printed": "(83,15,53,424)"
+   },
+   "tax": {
+    "cr": 0.0252,
+    "page": 73,
+    "quote": "Current Tax (Wealth Tax) (1,11,351) (2,52,490)",
+    "as_printed": "2,52,490"
+   },
+   "profit_after_tax": {
+    "cr": -83.1806,
+    "page": 73,
+    "quote": "Profit/(loss) for the period (2,63,26,26,745) (83,18,05,914)",
+    "as_printed": "(83,18,05,914)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 35.93 cr: ok; PBT = total income - total expenses = -83.1553 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Previous-year column of the 2014-15 report. Same old-GAAP layout (fare box = Revenue from Operations; Other Operating Income separate). Prior period line is a net income (credit) of 12,16,02,511. Ridership p18 (2014-15 report): 2013-14 avg 17,833/day on Reach-1 and 24,606/day on Reach 3/3A (March 2014 only); no network total. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "BMRCL_2014-15_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 73,
+   "revenue_from_operations": {
+    "cr": 17.8318,
+    "page": 73,
+    "quote": "Revenue from Operations 21 17,83,17,746 9,87,26,291",
+    "as_printed": "17,83,17,746"
+   },
+   "fare_revenue": {
+    "cr": 17.8318,
+    "page": 92,
+    "quote": "Revenue from operations Fare Box Revenue 17,83,17,746 9,87,26,291",
+    "as_printed": "17,83,17,746"
+   },
+   "non_fare_revenue": {
+    "cr": 18.704,
+    "page": 93,
+    "quote": "22. Other Operating Income ... 18,70,39,599 13,14,24,565",
+    "as_printed": "18,70,39,599"
+   },
+   "other_operating_income": {
+    "cr": 18.704,
+    "page": 73,
+    "quote": "Other Operating Income 22 18,70,39,599 13,14,24,565",
+    "as_printed": "18,70,39,599"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 6.4418,
+    "page": 73,
+    "quote": "Other Income 23 6,44,17,530 12,91,82,916",
+    "as_printed": "6,44,17,530"
+   },
+   "total_income": {
+    "cr": 42.9775,
+    "page": 73,
+    "quote": "Total Revenue (A) 42,97,74,875 35,93,33,772",
+    "as_printed": "42,97,74,875"
+   },
+   "employee_cost": {
+    "cr": 34.8229,
+    "page": 73,
+    "quote": "Employee Benefit Expenses 24 34,82,28,557 35,40,38,788",
+    "as_printed": "34,82,28,557"
+   },
+   "operating_expenses": {
+    "cr": 38.9343,
+    "page": 73,
+    "quote": "Operating Expenses 25 38,93,42,514 17,21,12,121",
+    "as_printed": "38,93,42,514"
+   },
+   "finance_cost": {
+    "cr": 29.642,
+    "page": 73,
+    "quote": "Finance Cost (Interest) 29,64,20,074 6,26,41,498",
+    "as_printed": "29,64,20,074"
+   },
+   "depreciation": {
+    "cr": 196.4923,
+    "page": 73,
+    "quote": "Depreciation and Amortisation 1,96,49,23,281 64,03,60,908",
+    "as_printed": "1,96,49,23,281"
+   },
+   "other_expenses": {
+    "cr": 4.7407,
+    "page": 73,
+    "quote": "Other Expenses 26 4,74,07,478 8,33,36,391",
+    "as_printed": "4,74,07,478"
+   },
+   "prior_period_items": {
+    "cr": 1.5968,
+    "page": 73,
+    "quote": "Prior Period Expenses/ (Income) 27 1,59,68,365 (12,16,02,511)",
+    "as_printed": "1,59,68,365"
+   },
+   "total_expenses": {
+    "cr": 306.229,
+    "page": 73,
+    "quote": "Total Expenses (B) 3,06,22,90,268 1,19,08,87,195",
+    "as_printed": "3,06,22,90,268"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -263.2515,
+    "page": 73,
+    "quote": "Profit / (loss) before Tax (A-B) (2,63,25,15,394) (83,15,53,424)",
+    "as_printed": "(2,63,25,15,394)"
+   },
+   "tax": {
+    "cr": 0.0111,
+    "page": 73,
+    "quote": "Current Tax (Wealth Tax) (1,11,351) (2,52,490)",
+    "as_printed": "1,11,351"
+   },
+   "profit_after_tax": {
+    "cr": -263.2627,
+    "page": 73,
+    "quote": "Profit/(loss) for the period (2,63,26,26,745) (83,18,05,914)",
+    "as_printed": "(2,63,26,26,745)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 42.98 cr: ok; PBT = total income - total expenses = -263.2515 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Pre-Ind AS (old Indian GAAP) format: 'Revenue from Operations' is fare box only and 'Other Operating Income' (ATM licence, combo-card royalty, property development, smart-card fees, tender fees) is a separate line; non_fare_revenue = that Other Operating Income line. Operating Expenses (Note 25) and Prior Period items are separate expense lines, not in other_expenses. Ridership p18 given per line only: Reach-1 avg 16,336/day, Reach 3/3A avg 15,153/day; no network total stated. Route km at year end not stated as a total (Reach-1 6.7 km and Reach 3/3A 10.3 km in operation, p18). Tax shown in brackets in the statement is wealth tax (an expense). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "BMRCL_2015-16_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 79,
+   "revenue_from_operations": {
+    "cr": 17.8318,
+    "page": 79,
+    "quote": "Revenue from Operations 20 28,28,93,891 17,83,17,746",
+    "as_printed": "17,83,17,746"
+   },
+   "fare_revenue": {
+    "cr": 17.8318,
+    "page": 98,
+    "quote": "Fare Box Revenue 28,28,93,891 17,83,17,746",
+    "as_printed": "17,83,17,746"
+   },
+   "non_fare_revenue": {
+    "cr": 18.704,
+    "page": 98,
+    "quote": "21. Other Operating Income ... 16,78,24,751 18,70,39,599",
+    "as_printed": "18,70,39,599"
+   },
+   "other_operating_income": {
+    "cr": 18.704,
+    "page": 79,
+    "quote": "Other Operating Income 21 16,78,24,751 18,70,39,599",
+    "as_printed": "18,70,39,599"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 6.4418,
+    "page": 79,
+    "quote": "Other Income 22 9,16,62,439 6,44,17,530",
+    "as_printed": "6,44,17,530"
+   },
+   "total_income": {
+    "cr": 42.9775,
+    "page": 79,
+    "quote": "Total Revenue (A) 54,23,81,081 42,97,74,875",
+    "as_printed": "42,97,74,875"
+   },
+   "employee_cost": {
+    "cr": 34.8229,
+    "page": 79,
+    "quote": "Employee Benefit Expenses 23 53,24,36,114 34,82,28,557",
+    "as_printed": "34,82,28,557"
+   },
+   "operating_expenses": {
+    "cr": 38.9343,
+    "page": 79,
+    "quote": "Operating Expenses 24 55,24,55,954 38,93,42,514",
+    "as_printed": "38,93,42,514"
+   },
+   "finance_cost": {
+    "cr": 29.642,
+    "page": 79,
+    "quote": "Finance Cost (Interest) 37,10,74,052 29,64,20,074",
+    "as_printed": "29,64,20,074"
+   },
+   "depreciation": {
+    "cr": 196.4923,
+    "page": 79,
+    "quote": "Depreciation and Amortisation 2,44,59,49,712 1,96,49,23,281",
+    "as_printed": "1,96,49,23,281"
+   },
+   "other_expenses": {
+    "cr": 4.7407,
+    "page": 79,
+    "quote": "Other Expenses 25 6,33,69,402 4,74,07,478",
+    "as_printed": "4,74,07,478"
+   },
+   "prior_period_items": {
+    "cr": 1.5968,
+    "page": 79,
+    "quote": "Prior Period Expenses/ (Income) 26 18,69,82,454 1,59,68,365",
+    "as_printed": "1,59,68,365"
+   },
+   "total_expenses": {
+    "cr": 306.229,
+    "page": 79,
+    "quote": "Total Expenses (B) 4,15,22,67,688 3,06,22,90,268",
+    "as_printed": "3,06,22,90,268"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -263.2515,
+    "page": 79,
+    "quote": "Profit / (loss) before Tax (A-B) (3,60,98,86,607) (2,63,25,15,394)",
+    "as_printed": "(2,63,25,15,394)"
+   },
+   "tax": {
+    "cr": 0.0111,
+    "page": 79,
+    "quote": "Current Tax (Wealth Tax) - (1,11,351)",
+    "as_printed": "1,11,351"
+   },
+   "profit_after_tax": {
+    "cr": -263.2627,
+    "page": 79,
+    "quote": "Profit/(loss) for the period (3,60,98,86,607) (2,63,26,26,745)",
+    "as_printed": "(2,63,26,26,745)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 42.98 cr: ok; PBT = total income - total expenses = -263.2515 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Previous-year column of the 2015-16 report; identical to the 2014-15 report's own figures. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "BMRCL_2015-16_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 79,
+   "revenue_from_operations": {
+    "cr": 28.2894,
+    "page": 79,
+    "quote": "Revenue from Operations 20 28,28,93,891 17,83,17,746",
+    "as_printed": "28,28,93,891"
+   },
+   "fare_revenue": {
+    "cr": 28.2894,
+    "page": 98,
+    "quote": "Fare Box Revenue 28,28,93,891 17,83,17,746",
+    "as_printed": "28,28,93,891"
+   },
+   "non_fare_revenue": {
+    "cr": 16.7825,
+    "page": 98,
+    "quote": "21. Other Operating Income ... 16,78,24,751 18,70,39,599",
+    "as_printed": "16,78,24,751"
+   },
+   "other_operating_income": {
+    "cr": 16.7825,
+    "page": 79,
+    "quote": "Other Operating Income 21 16,78,24,751 18,70,39,599",
+    "as_printed": "16,78,24,751"
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 9.1662,
+    "page": 79,
+    "quote": "Other Income 22 9,16,62,439 6,44,17,530",
+    "as_printed": "9,16,62,439"
+   },
+   "total_income": {
+    "cr": 54.2381,
+    "page": 79,
+    "quote": "Total Revenue (A) 54,23,81,081 42,97,74,875",
+    "as_printed": "54,23,81,081"
+   },
+   "employee_cost": {
+    "cr": 53.2436,
+    "page": 79,
+    "quote": "Employee Benefit Expenses 23 53,24,36,114 34,82,28,557",
+    "as_printed": "53,24,36,114"
+   },
+   "operating_expenses": {
+    "cr": 55.2456,
+    "page": 79,
+    "quote": "Operating Expenses 24 55,24,55,954 38,93,42,514",
+    "as_printed": "55,24,55,954"
+   },
+   "finance_cost": {
+    "cr": 37.1074,
+    "page": 79,
+    "quote": "Finance Cost (Interest) 37,10,74,052 29,64,20,074",
+    "as_printed": "37,10,74,052"
+   },
+   "depreciation": {
+    "cr": 244.595,
+    "page": 79,
+    "quote": "Depreciation and Amortisation 2,44,59,49,712 1,96,49,23,281",
+    "as_printed": "2,44,59,49,712"
+   },
+   "other_expenses": {
+    "cr": 6.3369,
+    "page": 79,
+    "quote": "Other Expenses 25 6,33,69,402 4,74,07,478",
+    "as_printed": "6,33,69,402"
+   },
+   "prior_period_items": {
+    "cr": 18.6982,
+    "page": 79,
+    "quote": "Prior Period Expenses/ (Income) 26 18,69,82,454 1,59,68,365",
+    "as_printed": "18,69,82,454"
+   },
+   "total_expenses": {
+    "cr": 415.2268,
+    "page": 79,
+    "quote": "Total Expenses (B) 4,15,22,67,688 3,06,22,90,268",
+    "as_printed": "4,15,22,67,688"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -360.9887,
+    "page": 79,
+    "quote": "Profit / (loss) before Tax (A-B) (3,60,98,86,607) (2,63,25,15,394)",
+    "as_printed": "(3,60,98,86,607)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 79,
+    "quote": "Current Tax (Wealth Tax) - (1,11,351)",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -360.9887,
+    "page": 79,
+    "quote": "Profit/(loss) for the period (3,60,98,86,607) (2,63,26,26,745)",
+    "as_printed": "(3,60,98,86,607)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 30.28,
+    "page": 11,
+    "quote": "Out of the 42.30 kms of Phase-1 of BMRC project, as of now 30.28 kms is operational."
+   },
+   "checks": "total income = sum of income lines 54.24 cr: ok; PBT = total income - total expenses = -360.9887 cr: ok; PAT = PBT - tax: ok; fare = revenue from operations; non-fare = Other Operating Income line (old GAAP)",
+   "notes": "Old-GAAP layout as in 2014-15 (fare box = Revenue from Operations; Other Operating Income separate). Ridership p17-18 per line only: Line 1 (R1+R2) avg 18,739/day, Reach 3/3A/3B avg 27,316/day; no network total. route_km 30.28 is 'as of now' at report date (after the 29 Apr 2016 underground opening), not at 31 Mar 2016. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "BMRCL_2016-17_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 76,
+   "revenue_from_operations": {
+    "cr": 44.9716,
+    "page": 76,
+    "quote": "Revenue from operations 2.24 13,027.80 4,497.16",
+    "as_printed": "4,497.16"
+   },
+   "fare_revenue": {
+    "cr": 28.2894,
+    "page": 107,
+    "quote": "Fare Box Revenue 11,009.80 2,828.94",
+    "as_printed": "2,828.94"
+   },
+   "non_fare_revenue": {
+    "cr": 16.6822,
+    "page": 107,
+    "quote": "Other Operating Income: ATM License Fee 135.66; Royalty ... Combo cards 325.41; Income from property development 1,207.15; Upfront Fee - (sum of listed items)",
+    "as_printed": "1,668.22"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 11.069,
+    "page": 76,
+    "quote": "Other Income 2.25 1,484.33 1,106.90",
+    "as_printed": "1,106.90"
+   },
+   "total_income": {
+    "cr": 56.0406,
+    "page": 76,
+    "quote": "Total Income 14,512.13 5,604.06",
+    "as_printed": "5,604.06"
+   },
+   "employee_cost": {
+    "cr": 53.221,
+    "page": 76,
+    "quote": "Employee benefits expenses 2.27 6,013.42 5,322.10",
+    "as_printed": "5,322.10"
+   },
+   "operating_expenses": {
+    "cr": 55.2457,
+    "page": 76,
+    "quote": "Operating expenses 2.26 10,436.60 5,524.57",
+    "as_printed": "5,524.57"
+   },
+   "finance_cost": {
+    "cr": 38.1863,
+    "page": 76,
+    "quote": "Finance costs 2.28 6,615.30 3,818.63",
+    "as_printed": "3,818.63"
+   },
+   "depreciation": {
+    "cr": 244.5949,
+    "page": 76,
+    "quote": "Depreciation and amortisation expenses 2.29 36,421.04 24,459.49",
+    "as_printed": "24,459.49"
+   },
+   "other_expenses": {
+    "cr": 6.3369,
+    "page": 76,
+    "quote": "Other Expenses 2.30 782.28 633.69",
+    "as_printed": "633.69"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 397.5847,
+    "page": 76,
+    "quote": "Total Expenses 60,268.64 39,758.47",
+    "as_printed": "39,758.47"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -341.5441,
+    "page": 76,
+    "quote": "IV Profit/(loss) before tax (45,756.51) (34,154.41)",
+    "as_printed": "(34,154.41)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -341.5441,
+    "page": 76,
+    "quote": "VI Profit for the period (45,756.51) (34,154.41)",
+    "as_printed": "(34,154.41)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 56.04 cr: ok; PBT = total income - total expenses = -341.5441 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED under Ind AS in the 2016-17 report. Versus the 2015-16 report's own figures: loss 341.54 cr vs 360.99 cr; revenue from operations now includes other operating income (4,497.16 lakh = 2,828.94 fare + 1,668.22 non-fare); other income 1,106.90 vs 916.62 lakh; finance cost 3,818.63 vs 3,710.74 lakh; prior period items (1,869.82 lakh) no longer shown; total expenses 39,758.47 vs 41,522.68 lakh. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "BMRCL_2016-17_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 76,
+   "revenue_from_operations": {
+    "cr": 130.278,
+    "page": 76,
+    "quote": "Revenue from operations 2.24 13,027.80 4,497.16",
+    "as_printed": "13,027.80"
+   },
+   "fare_revenue": {
+    "cr": 110.098,
+    "page": 107,
+    "quote": "Fare Box Revenue 11,009.80 2,828.94",
+    "as_printed": "11,009.80"
+   },
+   "non_fare_revenue": {
+    "cr": 20.18,
+    "page": 107,
+    "quote": "Other Operating Income: ATM License Fee 139.67; Royalty ... Combo cards 282.69; Income from property development 1,585.21; Upfront Fee 10.43 (sum of the four listed items; no subtotal printed)",
+    "as_printed": "2,018.00"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 14.8433,
+    "page": 76,
+    "quote": "Other Income 2.25 1,484.33 1,106.90",
+    "as_printed": "1,484.33"
+   },
+   "total_income": {
+    "cr": 145.1213,
+    "page": 76,
+    "quote": "Total Income 14,512.13 5,604.06",
+    "as_printed": "14,512.13"
+   },
+   "employee_cost": {
+    "cr": 60.1342,
+    "page": 76,
+    "quote": "Employee benefits expenses 2.27 6,013.42 5,322.10",
+    "as_printed": "6,013.42"
+   },
+   "operating_expenses": {
+    "cr": 104.366,
+    "page": 76,
+    "quote": "Operating expenses 2.26 10,436.60 5,524.57",
+    "as_printed": "10,436.60"
+   },
+   "finance_cost": {
+    "cr": 66.153,
+    "page": 76,
+    "quote": "Finance costs 2.28 6,615.30 3,818.63",
+    "as_printed": "6,615.30"
+   },
+   "depreciation": {
+    "cr": 364.2104,
+    "page": 76,
+    "quote": "Depreciation and amortisation expenses 2.29 36,421.04 24,459.49",
+    "as_printed": "36,421.04"
+   },
+   "other_expenses": {
+    "cr": 7.8228,
+    "page": 76,
+    "quote": "Other Expenses 2.30 782.28 633.69",
+    "as_printed": "782.28"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 602.6864,
+    "page": 76,
+    "quote": "Total Expenses 60,268.64 39,758.47",
+    "as_printed": "60,268.64"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -457.5651,
+    "page": 76,
+    "quote": "IV Profit/(loss) before tax (45,756.51) (34,154.41)",
+    "as_printed": "(45,756.51)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 76,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -457.5651,
+    "page": 76,
+    "quote": "VI Profit for the period (45,756.51) (34,154.41)",
+    "as_printed": "(45,756.51)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 145.12 cr: ok; PBT = total income - total expenses = -457.5651 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "First Ind AS statement: Revenue from operations now includes fare box plus other operating income. Note 2.24 p107 lists fare box and non-fare items without a non-fare subtotal; non_fare_revenue is the sum of the listed items (11,009.80 + 2,018.00 = 13,027.80). Ridership p16 per line only: Line-1 avg 1,11,015/day, Line-2 avg 37,547/day; no network total. Route km at 31 Mar 2017 not stated as a total. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "BMRCL_2017-18_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 83,
+   "revenue_from_operations": {
+    "cr": 130.278,
+    "page": 83,
+    "quote": "Revenue from operations 2.24 32,499.96 13,027.80",
+    "as_printed": "13,027.80"
+   },
+   "fare_revenue": {
+    "cr": 110.098,
+    "page": 116,
+    "quote": "Fare Box Revenue 28,099.78 11,009.80",
+    "as_printed": "11,009.80"
+   },
+   "non_fare_revenue": {
+    "cr": 20.18,
+    "page": 116,
+    "quote": "ATM License Fee 139.67; Royalty ... 282.69; Income from property development 1,595.64 (sum of listed items; upfront fee no longer listed)",
+    "as_printed": "2,018.00"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 14.8433,
+    "page": 83,
+    "quote": "Other Income 2.25 1,221.30 1,484.33",
+    "as_printed": "1,484.33"
+   },
+   "total_income": {
+    "cr": 145.1213,
+    "page": 83,
+    "quote": "Total Income 53,948.26 14,512.13",
+    "as_printed": "14,512.13"
+   },
+   "employee_cost": {
+    "cr": 60.1342,
+    "page": 83,
+    "quote": "Employee benefits expense 2.27 7,966.22 6,013.42",
+    "as_printed": "6,013.42"
+   },
+   "operating_expenses": {
+    "cr": 104.366,
+    "page": 83,
+    "quote": "Operating expenses 2.26 17,075.98 10,436.60",
+    "as_printed": "10,436.60"
+   },
+   "finance_cost": {
+    "cr": 66.1531,
+    "page": 83,
+    "quote": "Finance costs 2.28 11,184.66 6,615.31",
+    "as_printed": "6,615.31"
+   },
+   "depreciation": {
+    "cr": 364.2105,
+    "page": 83,
+    "quote": "Depreciation and amortisation expense 2.29 51,579.42 36,421.05",
+    "as_printed": "36,421.05"
+   },
+   "other_expenses": {
+    "cr": 7.8228,
+    "page": 83,
+    "quote": "Other Expenses 2.30 1,252.09 782.28",
+    "as_printed": "782.28"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 602.6866,
+    "page": 83,
+    "quote": "Total Expenses 89,058.37 60,268.66",
+    "as_printed": "60,268.66"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 83,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -457.5653,
+    "page": 83,
+    "quote": "IV Profit/loss before tax (35,110.11) (45,756.53)",
+    "as_printed": "(45,756.53)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 83,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -457.5653,
+    "page": 83,
+    "quote": "VI Profit for the period ... (35,110.11) (45,756.53)",
+    "as_printed": "(45,756.53)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 145.12 cr: ok; PBT = total income - total expenses = -457.5653 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Previous-year column of the 2017-18 report: differs from the 2016-17 report only by rounding (finance cost 6,615.31 vs 6,615.30; depreciation 36,421.05 vs 36,421.04; loss 45,756.53 vs 45,756.51 lakh). In note p116 the property-development item reads 1,595.64 (2016-17 report: 1,585.21 plus upfront fee 10.43). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "BMRCL_2017-18_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 83,
+   "revenue_from_operations": {
+    "cr": 324.9996,
+    "page": 83,
+    "quote": "Revenue from operations 2.24 32,499.96 13,027.80",
+    "as_printed": "32,499.96"
+   },
+   "fare_revenue": {
+    "cr": 280.9978,
+    "page": 116,
+    "quote": "Fare Box Revenue 28,099.78 11,009.80",
+    "as_printed": "28,099.78"
+   },
+   "non_fare_revenue": {
+    "cr": 44.0018,
+    "page": 116,
+    "quote": "Other Operating Income: ATM License Fee 166.21; Royalty ... Combo cards 482.59; Income from property development 3,751.38 (sum of listed items)",
+    "as_printed": "4,400.18"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": 202.27,
+    "page": 83,
+    "quote": "Reimbursement of Cash Losses Received from GOK 20,227.00 -",
+    "as_printed": "20,227.00"
+   },
+   "other_income": {
+    "cr": 12.213,
+    "page": 83,
+    "quote": "Other Income 2.25 1,221.30 1,484.33",
+    "as_printed": "1,221.30"
+   },
+   "total_income": {
+    "cr": 539.4826,
+    "page": 83,
+    "quote": "Total Income 53,948.26 14,512.13",
+    "as_printed": "53,948.26"
+   },
+   "employee_cost": {
+    "cr": 79.6622,
+    "page": 83,
+    "quote": "Employee benefits expense 2.27 7,966.22 6,013.42",
+    "as_printed": "7,966.22"
+   },
+   "operating_expenses": {
+    "cr": 170.7598,
+    "page": 83,
+    "quote": "Operating expenses 2.26 17,075.98 10,436.60",
+    "as_printed": "17,075.98"
+   },
+   "finance_cost": {
+    "cr": 111.8466,
+    "page": 83,
+    "quote": "Finance costs 2.28 11,184.66 6,615.31",
+    "as_printed": "11,184.66"
+   },
+   "depreciation": {
+    "cr": 515.7942,
+    "page": 83,
+    "quote": "Depreciation and amortisation expense 2.29 51,579.42 36,421.05",
+    "as_printed": "51,579.42"
+   },
+   "other_expenses": {
+    "cr": 12.5209,
+    "page": 83,
+    "quote": "Other Expenses 2.30 1,252.09 782.28",
+    "as_printed": "1,252.09"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 890.5837,
+    "page": 83,
+    "quote": "Total Expenses 89,058.37 60,268.66",
+    "as_printed": "89,058.37"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 83,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -351.1011,
+    "page": 83,
+    "quote": "IV Profit/loss before tax (35,110.11) (45,756.53)",
+    "as_printed": "(35,110.11)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 83,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -351.1011,
+    "page": 83,
+    "quote": "VI Profit for the period from continuing operations (35,110.11) (45,756.53)",
+    "as_printed": "(35,110.11)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 42.3,
+    "page": 13,
+    "quote": "Phase -1 ... having a route length of 42.3 Kms ... became fully operational during the year under review ... with effect from 18th June 2017"
+   },
+   "checks": "total income = sum of income lines 539.48 cr: ok; PBT = total income - total expenses = -351.1011 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Total income includes a separate line 'Reimbursement of Cash Losses Received from GOK' (20,227.00 lakh), a state subsidy, recorded here as gok_cash_loss_reimbursement. Ridership p13 per line only: Line 1 avg 1,72,648/day, Line 2 avg 1,26,549/day; the 'average of 3,00,000' on p13 is a current (report-date) figure, not the FY average. O&M division summary p14 (Rs crore): fare box 281.00, non-fare 44.00. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "BMRCL_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 86,
+   "revenue_from_operations": {
+    "cr": 324.9996,
+    "page": 86,
+    "quote": "Revenue From Operations 2.23 40,234.58 32,499.96",
+    "as_printed": "32,499.96"
+   },
+   "fare_revenue": {
+    "cr": 280.9978,
+    "page": 116,
+    "quote": "Fare Box Revenue 35501.60 28,099.78",
+    "as_printed": "28,099.78"
+   },
+   "non_fare_revenue": {
+    "cr": 44.0018,
+    "page": 116,
+    "quote": "ATM License Fee 166.21; Royalty ... 482.59; Income from property development 3,751.38 (sum of listed items)",
+    "as_printed": "4,400.18"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": 202.27,
+    "page": 86,
+    "quote": "Reimbursement of Cash Losses Received from GOK 11,639.00 20,227.00",
+    "as_printed": "20,227.00"
+   },
+   "other_income": {
+    "cr": 12.213,
+    "page": 86,
+    "quote": "Other Income 2.24 1,712.07 1,221.30",
+    "as_printed": "1,221.30"
+   },
+   "total_income": {
+    "cr": 539.4826,
+    "page": 86,
+    "quote": "Total Income 53,585.65 53,948.26",
+    "as_printed": "53,948.26"
+   },
+   "employee_cost": {
+    "cr": 79.6622,
+    "page": 86,
+    "quote": "Employee Benefits Expense 2.26 10,007.58 7,966.22",
+    "as_printed": "7,966.22"
+   },
+   "operating_expenses": {
+    "cr": 170.7598,
+    "page": 86,
+    "quote": "Operating Expenses 2.25 22,069.28 17,075.98",
+    "as_printed": "17,075.98"
+   },
+   "finance_cost": {
+    "cr": 111.8466,
+    "page": 86,
+    "quote": "Finance Costs 2.27 11,249.78 11,184.66",
+    "as_printed": "11,184.66"
+   },
+   "depreciation": {
+    "cr": 515.7942,
+    "page": 86,
+    "quote": "Depreciation and Amortisation Expense 2.28 58,393.92 51,579.42",
+    "as_printed": "51,579.42"
+   },
+   "other_expenses": {
+    "cr": 12.5209,
+    "page": 86,
+    "quote": "Other Expenses 2.29 1,519.71 1,252.09",
+    "as_printed": "1,252.09"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 890.5837,
+    "page": 86,
+    "quote": "Total Expenses 103,240.27 89,058.37",
+    "as_printed": "89,058.37"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 86,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -351.1011,
+    "page": 86,
+    "quote": "IV Profit/loss Before Tax (49,654.62) (35,110.11)",
+    "as_printed": "(35,110.11)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 86,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -351.1011,
+    "page": 86,
+    "quote": "VI Profit for the Period ... (49,654.62) (35,110.11)",
+    "as_printed": "(35,110.11)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 539.48 cr: ok; PBT = total income - total expenses = -351.1011 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Previous-year column of the 2018-19 report; matches the 2017-18 report. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "BMRCL_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 86,
+   "revenue_from_operations": {
+    "cr": 402.3458,
+    "page": 86,
+    "quote": "Revenue From Operations 2.23 40,234.58 32,499.96",
+    "as_printed": "40,234.58"
+   },
+   "fare_revenue": {
+    "cr": 355.016,
+    "page": 116,
+    "quote": "Fare Box Revenue 35501.60 28,099.78",
+    "as_printed": "35501.60"
+   },
+   "non_fare_revenue": {
+    "cr": 47.3298,
+    "page": 116,
+    "quote": "ATM License Fee 352.56; Royalty ... Combo cards 493.67; Income from property development 3886.75 (sum of listed items)",
+    "as_printed": "4,732.98"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": 116.39,
+    "page": 86,
+    "quote": "Reimbursement of Cash Losses Received from GOK 11,639.00 20,227.00",
+    "as_printed": "11,639.00"
+   },
+   "other_income": {
+    "cr": 17.1207,
+    "page": 86,
+    "quote": "Other Income 2.24 1,712.07 1,221.30",
+    "as_printed": "1,712.07"
+   },
+   "total_income": {
+    "cr": 535.8565,
+    "page": 86,
+    "quote": "Total Income 53,585.65 53,948.26",
+    "as_printed": "53,585.65"
+   },
+   "employee_cost": {
+    "cr": 100.0758,
+    "page": 86,
+    "quote": "Employee Benefits Expense 2.26 10,007.58 7,966.22",
+    "as_printed": "10,007.58"
+   },
+   "operating_expenses": {
+    "cr": 220.6928,
+    "page": 86,
+    "quote": "Operating Expenses 2.25 22,069.28 17,075.98",
+    "as_printed": "22,069.28"
+   },
+   "finance_cost": {
+    "cr": 112.4978,
+    "page": 86,
+    "quote": "Finance Costs 2.27 11,249.78 11,184.66",
+    "as_printed": "11,249.78"
+   },
+   "depreciation": {
+    "cr": 583.9392,
+    "page": 86,
+    "quote": "Depreciation and Amortisation Expense 2.28 58,393.92 51,579.42",
+    "as_printed": "58,393.92"
+   },
+   "other_expenses": {
+    "cr": 15.1971,
+    "page": 86,
+    "quote": "Other Expenses 2.29 1,519.71 1,252.09",
+    "as_printed": "1,519.71"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1032.4027,
+    "page": 86,
+    "quote": "Total Expenses 103,240.27 89,058.37",
+    "as_printed": "103,240.27"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 86,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -496.5462,
+    "page": 86,
+    "quote": "IV Profit/loss Before Tax (49,654.62) (35,110.11)",
+    "as_printed": "(49,654.62)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 86,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -496.5462,
+    "page": 86,
+    "quote": "VI Profit for the Period from Continuing Operations (49,654.62) (35,110.11)",
+    "as_printed": "(49,654.62)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 42.3,
+    "page": 15,
+    "quote": "Phase –1 ... having a route length of 42.3 Kms with two Lines ... became fully operational from 18th June 2017"
+   },
+   "checks": "total income = sum of income lines 535.86 cr: ok; PBT = total income - total expenses = -496.5462 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Includes GOK cash-loss reimbursement (11,639.00 lakh) in total income. Total comprehensive income (49,841.45) lakh after OCI (186.83). Ridership p15 per line only: Line 1 avg 1,91,056/day, Line 2 avg 1,75,351/day; 'average of 4,07,376 per day (August 2019)' is a report-date figure. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "BMRCL_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 88,
+   "revenue_from_operations": {
+    "cr": 402.3458,
+    "page": 88,
+    "quote": "Revenue From Operations 2.23 4,18,79,52,422 4,02,34,57,789",
+    "as_printed": "4,02,34,57,789"
+   },
+   "fare_revenue": {
+    "cr": 355.016,
+    "page": 116,
+    "quote": "Fare Box Revenue 3,76,87,90,725 3,55,01,59,633",
+    "as_printed": "3,55,01,59,633"
+   },
+   "non_fare_revenue": {
+    "cr": 47.3298,
+    "page": 116,
+    "quote": "ATM License Fee 3,52,56,343; Royalty ... 4,93,66,886; Income from property development 38,86,74,927 (sum of listed items)",
+    "as_printed": "47,32,98,156"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": 116.39,
+    "page": 88,
+    "quote": "Reimbursement of Cash Losses Received from GOK 43,00,00,000 1,16,39,00,000",
+    "as_printed": "1,16,39,00,000"
+   },
+   "other_income": {
+    "cr": 17.1207,
+    "page": 88,
+    "quote": "Other Income 2.24 14,43,26,282 17,12,07,179",
+    "as_printed": "17,12,07,179"
+   },
+   "total_income": {
+    "cr": 535.8565,
+    "page": 88,
+    "quote": "Total Income 4,76,22,78,704 5,35,85,64,968",
+    "as_printed": "5,35,85,64,968"
+   },
+   "employee_cost": {
+    "cr": 100.0757,
+    "page": 88,
+    "quote": "Employee Benefits Expense 2.26 1,34,54,01,145 1,00,07,57,388",
+    "as_printed": "1,00,07,57,388"
+   },
+   "operating_expenses": {
+    "cr": 220.6928,
+    "page": 88,
+    "quote": "Operating Expenses 2.25 2,25,88,17,625 2,20,69,27,946",
+    "as_printed": "2,20,69,27,946"
+   },
+   "finance_cost": {
+    "cr": 112.4978,
+    "page": 88,
+    "quote": "Finance Costs 2.27 1,08,96,50,971 1,12,49,78,361",
+    "as_printed": "1,12,49,78,361"
+   },
+   "depreciation": {
+    "cr": 583.9392,
+    "page": 88,
+    "quote": "Depreciation and Amortisation Expense 2.28 5,83,80,38,063 5,83,93,91,680",
+    "as_printed": "5,83,93,91,680"
+   },
+   "other_expenses": {
+    "cr": 15.1972,
+    "page": 88,
+    "quote": "Other Expenses 2.29 18,70,33,957 15,19,71,724",
+    "as_printed": "15,19,71,724"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1032.4027,
+    "page": 88,
+    "quote": "Total Expenses 10,71,89,41,761 10,32,40,27,099",
+    "as_printed": "10,32,40,27,099"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 88,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -496.5462,
+    "page": 88,
+    "quote": "IV Profit/loss Before Tax (5,95,66,63,057) (4,96,54,62,131)",
+    "as_printed": "(4,96,54,62,131)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 88,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -496.5462,
+    "page": 88,
+    "quote": "VI Profit for the Period ... (5,95,66,63,057) (4,96,54,62,131)",
+    "as_printed": "(4,96,54,62,131)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 535.86 cr: ok; PBT = total income - total expenses = -496.5462 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Previous-year column of the 2019-20 report (in rupees); agrees with the 2018-19 report's lakh figures. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "BMRCL_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": 88,
+   "revenue_from_operations": {
+    "cr": 418.7952,
+    "page": 88,
+    "quote": "Revenue From Operations 2.23 4,18,79,52,422 4,02,34,57,789",
+    "as_printed": "4,18,79,52,422"
+   },
+   "fare_revenue": {
+    "cr": 376.8791,
+    "page": 116,
+    "quote": "Fare Box Revenue 3,76,87,90,725 3,55,01,59,633",
+    "as_printed": "3,76,87,90,725"
+   },
+   "non_fare_revenue": {
+    "cr": 41.9162,
+    "page": 116,
+    "quote": "ATM License Fee 3,82,88,816; Royalty ... Combo cards 1,60,58,730; Income from property development 36,48,14,151 (sum of listed items)",
+    "as_printed": "41,91,61,697"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": 43.0,
+    "page": 88,
+    "quote": "Reimbursement of Cash Losses Received from GOK 43,00,00,000 1,16,39,00,000",
+    "as_printed": "43,00,00,000"
+   },
+   "other_income": {
+    "cr": 14.4326,
+    "page": 88,
+    "quote": "Other Income 2.24 14,43,26,282 17,12,07,179",
+    "as_printed": "14,43,26,282"
+   },
+   "total_income": {
+    "cr": 476.2279,
+    "page": 88,
+    "quote": "Total Income 4,76,22,78,704 5,35,85,64,968",
+    "as_printed": "4,76,22,78,704"
+   },
+   "employee_cost": {
+    "cr": 134.5401,
+    "page": 88,
+    "quote": "Employee Benefits Expense 2.26 1,34,54,01,145 1,00,07,57,388",
+    "as_printed": "1,34,54,01,145"
+   },
+   "operating_expenses": {
+    "cr": 225.8818,
+    "page": 88,
+    "quote": "Operating Expenses 2.25 2,25,88,17,625 2,20,69,27,946",
+    "as_printed": "2,25,88,17,625"
+   },
+   "finance_cost": {
+    "cr": 108.9651,
+    "page": 88,
+    "quote": "Finance Costs 2.27 1,08,96,50,971 1,12,49,78,361",
+    "as_printed": "1,08,96,50,971"
+   },
+   "depreciation": {
+    "cr": 583.8038,
+    "page": 88,
+    "quote": "Depreciation and Amortisation Expense 2.28 5,83,80,38,063 5,83,93,91,680",
+    "as_printed": "5,83,80,38,063"
+   },
+   "other_expenses": {
+    "cr": 18.7034,
+    "page": 88,
+    "quote": "Other Expenses 2.29 18,70,33,957 15,19,71,724",
+    "as_printed": "18,70,33,957"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1071.8942,
+    "page": 88,
+    "quote": "Total Expenses 10,71,89,41,761 10,32,40,27,099",
+    "as_printed": "10,71,89,41,761"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 88,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -595.6663,
+    "page": 88,
+    "quote": "IV Profit/loss Before Tax (5,95,66,63,057) (4,96,54,62,131)",
+    "as_printed": "(5,95,66,63,057)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 88,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -595.6663,
+    "page": 88,
+    "quote": "VI Profit for the Period from Continuing Operations (5,95,66,63,057) (4,96,54,62,131)",
+    "as_printed": "(5,95,66,63,057)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 489000,
+    "page": 23,
+    "quote": "During the Financial Year 2019-20, your Company boasted a robust average daily Boardings of 4.89 lakhs",
+    "as_printed": "4.89 lakh",
+    "file": "BMRCL_2023-24_Annual_Report.pdf"
+   },
+   "route_km": {
+    "value": 42.3,
+    "page": 14,
+    "quote": "Phase-1 ... having a route length of 42.3 Kms with two Lines ... became fully operational from 18th June 2017"
+   },
+   "checks": "total income = sum of income lines 476.23 cr: ok; PBT = total income - total expenses = -595.6663 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Includes GOK cash-loss reimbursement (43.00 cr) in total income; the 2020-21 report restates 2019-20 without it (see that entry). The 2019-20 report itself gives only 'average passenger boarding of 5,18,074 per day (January-2020)' (p14); FY average 4.89 lakh boardings/day is from the 2023-24 report p23. BMRCL counts 'boardings' (interchanging passengers may be counted per line). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "BMRCL_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 85,
+   "revenue_from_operations": {
+    "cr": 419.912,
+    "page": 85,
+    "quote": "Revenue From Operations 2.23 7356.30 41991.20",
+    "as_printed": "41991.20"
+   },
+   "fare_revenue": {
+    "cr": 376.8791,
+    "page": 111,
+    "quote": "Fare Box Revenue 4919.34 37687.91",
+    "as_printed": "37687.91"
+   },
+   "non_fare_revenue": {
+    "cr": 43.0329,
+    "page": 111,
+    "quote": "Bangalore Haat / Rangoli 26.52; Licensing / Leasing of space 3986.55; Other Income (Non Fare Box Revenue) 290.22 (sum of listed items)",
+    "as_printed": "4303.29"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 13.3159,
+    "page": 85,
+    "quote": "Other Income 2.24 840.63 1331.59",
+    "as_printed": "1331.59"
+   },
+   "total_income": {
+    "cr": 433.2279,
+    "page": 85,
+    "quote": "Total Income 8196.93 43322.79",
+    "as_printed": "43322.79"
+   },
+   "employee_cost": {
+    "cr": 134.5357,
+    "page": 85,
+    "quote": "Employee Benefits Expense 2.26 11591.82 13453.57",
+    "as_printed": "13453.57"
+   },
+   "operating_expenses": {
+    "cr": 226.5422,
+    "page": 85,
+    "quote": "Operating Expenses 2.25 16908.52 22654.22",
+    "as_printed": "22654.22"
+   },
+   "finance_cost": {
+    "cr": 108.9651,
+    "page": 85,
+    "quote": "Finance Costs 2.27 10612.51 10896.51",
+    "as_printed": "10896.51"
+   },
+   "depreciation": {
+    "cr": 583.8038,
+    "page": 85,
+    "quote": "Depreciation and Amortisation Expense 2.28 58338.11 58380.38",
+    "as_printed": "58380.38"
+   },
+   "other_expenses": {
+    "cr": 18.0474,
+    "page": 85,
+    "quote": "Other Expenses 2.29 999.93 1804.74",
+    "as_printed": "1804.74"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1071.8942,
+    "page": 85,
+    "quote": "Total Expenses 98450.89 107189.42",
+    "as_printed": "107189.42"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 85,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -638.6663,
+    "page": 85,
+    "quote": "IV Profit/loss Before Tax (90253.96) (63866.63)",
+    "as_printed": "(63866.63)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 85,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -638.6663,
+    "page": 85,
+    "quote": "VI Profit for the Period ... (90253.96) (63866.63)",
+    "as_printed": "(63866.63)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 433.23 cr: ok; PBT = total income - total expenses = -638.6663 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED in the 2020-21 report: the GOK cash-loss reimbursement (43.00 cr) is no longer in income, so the loss is 638.67 cr vs 595.67 cr in the 2019-20 report. Revenue from operations 419.91 cr vs 418.80 cr; other income 13.32 cr vs 14.43 cr; operating expenses 226.54 vs 225.88 cr; other expenses 18.05 vs 18.70 cr. Non-fare items regrouped (licensing/leasing etc.). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "BMRCL_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 85,
+   "revenue_from_operations": {
+    "cr": 73.563,
+    "page": 85,
+    "quote": "Revenue From Operations 2.23 7356.30 41991.20",
+    "as_printed": "7356.30"
+   },
+   "fare_revenue": {
+    "cr": 49.1934,
+    "page": 111,
+    "quote": "Fare Box Revenue 4919.34 37687.91",
+    "as_printed": "4919.34"
+   },
+   "non_fare_revenue": {
+    "cr": 24.3696,
+    "page": 111,
+    "quote": "Income from Bangalore Haat / Rangoli Art Metro Centre 3.98; Income from Licensing / Leasing of space 2318.89; Other Income (Non Fare Box Revenue) 114.09 (sum of listed items)",
+    "as_printed": "2436.96"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 8.4063,
+    "page": 85,
+    "quote": "Other Income 2.24 840.63 1331.59",
+    "as_printed": "840.63"
+   },
+   "total_income": {
+    "cr": 81.9693,
+    "page": 85,
+    "quote": "Total Income 8196.93 43322.79",
+    "as_printed": "8196.93"
+   },
+   "employee_cost": {
+    "cr": 115.9182,
+    "page": 85,
+    "quote": "Employee Benefits Expense 2.26 11591.82 13453.57",
+    "as_printed": "11591.82"
+   },
+   "operating_expenses": {
+    "cr": 169.0852,
+    "page": 85,
+    "quote": "Operating Expenses 2.25 16908.52 22654.22",
+    "as_printed": "16908.52"
+   },
+   "finance_cost": {
+    "cr": 106.1251,
+    "page": 85,
+    "quote": "Finance Costs 2.27 10612.51 10896.51",
+    "as_printed": "10612.51"
+   },
+   "depreciation": {
+    "cr": 583.3811,
+    "page": 85,
+    "quote": "Depreciation and Amortisation Expense 2.28 58338.11 58380.38",
+    "as_printed": "58338.11"
+   },
+   "other_expenses": {
+    "cr": 9.9993,
+    "page": 85,
+    "quote": "Other Expenses 2.29 999.93 1804.74",
+    "as_printed": "999.93"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 984.5089,
+    "page": 85,
+    "quote": "Total Expenses 98450.89 107189.42",
+    "as_printed": "98450.89"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 85,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -902.5396,
+    "page": 85,
+    "quote": "IV Profit/loss Before Tax (90253.96) (63866.63)",
+    "as_printed": "(90253.96)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 85,
+    "quote": "Current Tax - -",
+    "as_printed": "-"
+   },
+   "profit_after_tax": {
+    "cr": -902.5396,
+    "page": 85,
+    "quote": "VI Profit for the Period from Continuing Operations (90253.96) (63866.63)",
+    "as_printed": "(90253.96)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 96000,
+    "page": 23,
+    "quote": "the onset of the COVID-19 pandemic during the Financial Year 2020-21 led to a sharp decline in Boardings to 0.96 lakhs per day",
+    "as_printed": "0.96 lakh",
+    "file": "BMRCL_2023-24_Annual_Report.pdf"
+   },
+   "route_km": {
+    "value": 48.3,
+    "page": 12,
+    "quote": "revenue operations commenced on this extension line of Phase 1 from 15th January 2021 ... with the total increase in the operational length to 48.3 Km"
+   },
+   "checks": "total income = sum of income lines 81.97 cr: ok; PBT = total income - total expenses = -902.5396 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "COVID year (services suspended March-September 2020). Restated in the 2021-22 report (see previous-column entry). Per-line averages p17: Purple 45,241, Green 51,095 boardings/day; network FY average 0.96 lakh from 2023-24 report p23. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "BMRCL_2020-21_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": null,
+   "revenue_from_operations": {
+    "cr": 73.563,
+    "page": 7,
+    "quote": "V. *Turnover and net worth of the company ... (i) Turnover 735,629,525",
+    "as_printed": "735,629,525"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "turnover matches the annual report's revenue from operations for 2020-21",
+   "notes": "Form MGT-7 Annual Return (scanned; page 7 read visually): turnover only, recorded as revenue_from_operations. Net worth on the same page not recorded per the brief."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "BMRCL_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 96,
+   "revenue_from_operations": {
+    "cr": 73.563,
+    "page": 96,
+    "quote": "(i) Revenue From Operations 23 19,336.45 7,356.30",
+    "as_printed": "7,356.30"
+   },
+   "fare_revenue": {
+    "cr": 49.1934,
+    "page": 117,
+    "quote": "Fare Box Revenue 16,333.16 4,919.34",
+    "as_printed": "4,919.34"
+   },
+   "non_fare_revenue": {
+    "cr": 24.3696,
+    "page": 117,
+    "quote": "Income from Licensing/Leasing of Space 2,318.89; Other Income (Non Fare Box Revenue) 118.07 (sum of listed items)",
+    "as_printed": "2,436.96"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 13.2159,
+    "page": 96,
+    "quote": "(ii) Other Income 24 1,392.92 1,321.59",
+    "as_printed": "1,321.59"
+   },
+   "total_income": {
+    "cr": 86.7789,
+    "page": 96,
+    "quote": "Total Income 20,729.37 8,677.89",
+    "as_printed": "8,677.89"
+   },
+   "employee_cost": {
+    "cr": 115.9182,
+    "page": 96,
+    "quote": "(ii) Employee Benefits Expense 26 12,603.43 11,591.82",
+    "as_printed": "11,591.82"
+   },
+   "operating_expenses": {
+    "cr": 169.0794,
+    "page": 96,
+    "quote": "(i) Operating Expenses 25 20,616.70 16,907.94",
+    "as_printed": "16,907.94"
+   },
+   "finance_cost": {
+    "cr": 106.9232,
+    "page": 96,
+    "quote": "(iii) Finance Costs 27 9,608.29 10,692.32",
+    "as_printed": "10,692.32"
+   },
+   "depreciation": {
+    "cr": 584.7092,
+    "page": 96,
+    "quote": "(iv) Depreciation and Amortisation Expenses 28 38,025.78 58,470.92",
+    "as_printed": "58,470.92"
+   },
+   "other_expenses": {
+    "cr": 9.207,
+    "page": 96,
+    "quote": "(v) Other Expenses 29 1,340.30 920.70",
+    "as_printed": "920.70"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 985.837,
+    "page": 96,
+    "quote": "Total Expenses 82,194.51 98,583.70",
+    "as_printed": "98,583.70"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 96,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -899.0581,
+    "page": 96,
+    "quote": "Profit/loss Before Tax (61,465.14) (89,905.81)",
+    "as_printed": "(89,905.81)"
+   },
+   "tax": {
+    "cr": 10.7341,
+    "page": 96,
+    "quote": "(iii) Deffered Tax 4 (9,979.36) 1,073.41",
+    "as_printed": "1,073.41"
+   },
+   "profit_after_tax": {
+    "cr": -909.7922,
+    "page": 96,
+    "quote": "Profit for the Period from Continuing Operations (47,691.60) (90,979.22)",
+    "as_printed": "(90,979.22)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 86.78 cr: ok; PBT = total income - total expenses = -899.0581 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED in the 2021-22 report: other income 13.22 cr (vs 8.41 cr), total income 86.78 cr (vs 81.97 cr), finance cost 106.92 cr (vs 106.13), depreciation 584.71 cr (vs 583.38), other expenses 9.21 cr (vs 10.00), PBT -899.06 cr (vs -902.54), and a deferred tax charge of 10.73 cr added, so the loss after tax is 909.79 cr (vs 902.54 cr). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "BMRCL_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 96,
+   "revenue_from_operations": {
+    "cr": 193.3645,
+    "page": 96,
+    "quote": "(i) Revenue From Operations 23 19,336.45 7,356.30",
+    "as_printed": "19,336.45"
+   },
+   "fare_revenue": {
+    "cr": 163.3316,
+    "page": 117,
+    "quote": "Fare Box Revenue 16,333.16 4,919.34",
+    "as_printed": "16,333.16"
+   },
+   "non_fare_revenue": {
+    "cr": 30.0329,
+    "page": 117,
+    "quote": "Income from Licensing/Leasing of Space 2,775.95; Other Income (Non Fare Box Revenue) 227.34 (sum of listed items)",
+    "as_printed": "3,003.29"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 13.9292,
+    "page": 96,
+    "quote": "(ii) Other Income 24 1,392.92 1,321.59",
+    "as_printed": "1,392.92"
+   },
+   "total_income": {
+    "cr": 207.2937,
+    "page": 96,
+    "quote": "Total Income 20,729.37 8,677.89",
+    "as_printed": "20,729.37"
+   },
+   "employee_cost": {
+    "cr": 126.0343,
+    "page": 96,
+    "quote": "(ii) Employee Benefits Expense 26 12,603.43 11,591.82",
+    "as_printed": "12,603.43"
+   },
+   "operating_expenses": {
+    "cr": 206.167,
+    "page": 96,
+    "quote": "(i) Operating Expenses 25 20,616.70 16,907.94",
+    "as_printed": "20,616.70"
+   },
+   "finance_cost": {
+    "cr": 96.0829,
+    "page": 96,
+    "quote": "(iii) Finance Costs 27 9,608.29 10,692.32",
+    "as_printed": "9,608.29"
+   },
+   "depreciation": {
+    "cr": 380.2578,
+    "page": 96,
+    "quote": "(iv) Depreciation and Amortisation Expenses 28 38,025.78 58,470.92",
+    "as_printed": "38,025.78"
+   },
+   "other_expenses": {
+    "cr": 13.403,
+    "page": 96,
+    "quote": "(v) Other Expenses 29 1,340.30 920.70",
+    "as_printed": "1,340.30"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 821.9451,
+    "page": 96,
+    "quote": "Total Expenses 82,194.51 98,583.70",
+    "as_printed": "82,194.51"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 96,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -614.6514,
+    "page": 96,
+    "quote": "Profit/loss Before Tax (61,465.14) (89,905.81)",
+    "as_printed": "(61,465.14)"
+   },
+   "tax": {
+    "cr": -137.7353,
+    "page": 96,
+    "quote": "(ii) Tax Adjustment of Prior Years (3,794.17) - ; (iii) Deffered Tax 4 (9,979.36) 1,073.41 (sum of the two printed lines; no total printed)",
+    "as_printed": "(13,773.53)"
+   },
+   "profit_after_tax": {
+    "cr": -476.916,
+    "page": 96,
+    "quote": "Profit for the Period from Continuing Operations (47,691.60) (90,979.22)",
+    "as_printed": "(47,691.60)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 225000,
+    "page": 23,
+    "quote": "infrastructure expansions played a pivotal role during Financial Year 2021-22 ... which contributed in improving the Boardings to 2.25 lakhs per day",
+    "as_printed": "2.25 lakh",
+    "file": "BMRCL_2023-24_Annual_Report.pdf"
+   },
+   "route_km": {
+    "value": 56.0,
+    "page": 11,
+    "quote": "Consequent upon commissioning of these two new extension lines, BMRCL's total network increased from 42.3 kms to 56 kms."
+   },
+   "checks": "total income = sum of income lines 207.29 cr: ok; PBT = total income - total expenses = -614.6514 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "First year with deferred tax (a credit). Tax is the sum of the printed tax lines (prior-year adjustment and deferred tax), negative = credit. Restated in the 2022-23 report (see that previous-column entry). The 2020-21 report (p12) put the network at 55.8 km once Kengeri opened. Per-line averages p15: Purple 1.07 lakh, Green 1.18 lakh boardings/day. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "BMRCL_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 96,
+   "revenue_from_operations": {
+    "cr": 191.3408,
+    "page": 96,
+    "quote": "(i) Revenue From Operations 22 46,001.12 19,134.08",
+    "as_printed": "19,134.08"
+   },
+   "fare_revenue": {
+    "cr": 163.3316,
+    "page": 120,
+    "quote": "Fare Box Revenue 42,260.57 16,333.16",
+    "as_printed": "16,333.16"
+   },
+   "non_fare_revenue": {
+    "cr": 28.0092,
+    "page": 120,
+    "quote": "Income from Licensing/Leasing of Space 2,775.95; Other Income (Non Fare Box Revenue) 24.97 (sum of listed items)",
+    "as_printed": "2,800.92"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 37.4228,
+    "page": 96,
+    "quote": "(ii) Other Income 23 13,400.08 3,742.28",
+    "as_printed": "3,742.28"
+   },
+   "total_income": {
+    "cr": 228.7636,
+    "page": 96,
+    "quote": "Total Income 59,401.20 22,876.36",
+    "as_printed": "22,876.36"
+   },
+   "employee_cost": {
+    "cr": 126.0343,
+    "page": 96,
+    "quote": "(ii) Employee Benefits Expense 25 15,961.86 12,603.43",
+    "as_printed": "12,603.43"
+   },
+   "operating_expenses": {
+    "cr": 206.167,
+    "page": 96,
+    "quote": "(i) Operating Expenses 24 28,977.50 20,616.70",
+    "as_printed": "20,616.70"
+   },
+   "finance_cost": {
+    "cr": 96.0829,
+    "page": 96,
+    "quote": "(ii) Finance Costs 26 9,813.18 9,608.29",
+    "as_printed": "9,608.29"
+   },
+   "depreciation": {
+    "cr": 380.2578,
+    "page": 96,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 41,099.28 38,025.78",
+    "as_printed": "38,025.78"
+   },
+   "other_expenses": {
+    "cr": 13.403,
+    "page": 96,
+    "quote": "(v) Other Expenses 28 3,721.60 1,340.30",
+    "as_printed": "1,340.30"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 821.945,
+    "page": 96,
+    "quote": "Total Expenses 99,573.41 82,194.50",
+    "as_printed": "82,194.50"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 96,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -593.1814,
+    "page": 96,
+    "quote": "Profit/ Loss Before Tax (40,172.21) (59,318.14)",
+    "as_printed": "(59,318.14)"
+   },
+   "tax": {
+    "cr": -137.7353,
+    "page": 96,
+    "quote": "(ii) Tax Adjustment of Prior Years ... (3,794.17); (iii) Deferred Tax ... (9,979.36) (sum of the two printed lines)",
+    "as_printed": "(13,773.53)"
+   },
+   "profit_after_tax": {
+    "cr": -455.4461,
+    "page": 96,
+    "quote": "Profit for the Period from Continuing Operations (46,712.38) (45,544.61)",
+    "as_printed": "(45,544.61)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 228.76 cr: ok; PBT = total income - total expenses = -593.1814 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED in the 2022-23 report: revenue from operations 19,134.08 (vs 19,336.45) and other income 3,742.28 (vs 1,392.92) lakh; PBT (59,318.14) vs (61,465.14); loss after tax 455.45 cr vs 476.92 cr. Non-fare 'Other Income (Non Fare Box Revenue)' cut from 227.34 to 24.97 lakh. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "BMRCL_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 96,
+   "revenue_from_operations": {
+    "cr": 460.0112,
+    "page": 96,
+    "quote": "(i) Revenue From Operations 22 46,001.12 19,134.08",
+    "as_printed": "46,001.12"
+   },
+   "fare_revenue": {
+    "cr": 422.6057,
+    "page": 120,
+    "quote": "Fare Box Revenue 42,260.57 16,333.16",
+    "as_printed": "42,260.57"
+   },
+   "non_fare_revenue": {
+    "cr": 37.4055,
+    "page": 120,
+    "quote": "Income from Licensing/Leasing of Space 3,682.31; Other Income (Non Fare Box Revenue) 58.24 (sum of listed items)",
+    "as_printed": "3,740.55"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 134.0008,
+    "page": 96,
+    "quote": "(ii) Other Income 23 13,400.08 3,742.28",
+    "as_printed": "13,400.08"
+   },
+   "total_income": {
+    "cr": 594.012,
+    "page": 96,
+    "quote": "Total Income 59,401.20 22,876.36",
+    "as_printed": "59,401.20"
+   },
+   "employee_cost": {
+    "cr": 159.6186,
+    "page": 96,
+    "quote": "(ii) Employee Benefits Expense 25 15,961.86 12,603.43",
+    "as_printed": "15,961.86"
+   },
+   "operating_expenses": {
+    "cr": 289.775,
+    "page": 96,
+    "quote": "(i) Operating Expenses 24 28,977.50 20,616.70",
+    "as_printed": "28,977.50"
+   },
+   "finance_cost": {
+    "cr": 98.1318,
+    "page": 96,
+    "quote": "(ii) Finance Costs 26 9,813.18 9,608.29",
+    "as_printed": "9,813.18"
+   },
+   "depreciation": {
+    "cr": 410.9928,
+    "page": 96,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 41,099.28 38,025.78",
+    "as_printed": "41,099.28"
+   },
+   "other_expenses": {
+    "cr": 37.216,
+    "page": 96,
+    "quote": "(v) Other Expenses 28 3,721.60 1,340.30",
+    "as_printed": "3,721.60"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 995.7341,
+    "page": 96,
+    "quote": "Total Expenses 99,573.41 82,194.50",
+    "as_printed": "99,573.41"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 96,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -401.7221,
+    "page": 96,
+    "quote": "Profit/ Loss Before Tax (40,172.21) (59,318.14)",
+    "as_printed": "(40,172.21)"
+   },
+   "tax": {
+    "cr": 65.4017,
+    "page": 96,
+    "quote": "(ii) Tax Adjustment of Prior Years 1,031.42 (3,794.17); (iii) Deferred Tax 4 5,508.75 (9,979.36) (sum of the two printed lines)",
+    "as_printed": "6,540.17"
+   },
+   "profit_after_tax": {
+    "cr": -467.1238,
+    "page": 96,
+    "quote": "Profit for the Period from Continuing Operations (46,712.38) (45,544.61)",
+    "as_printed": "(46,712.38)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 486000,
+    "page": 23,
+    "quote": "The average Boardings for Financial Year 2022-23 was 4.86 lakhs per day",
+    "as_printed": "4.86 lakh",
+    "file": "BMRCL_2023-24_Annual_Report.pdf"
+   },
+   "route_km": {
+    "value": 69.66,
+    "page": 13,
+    "quote": "the Company's total operational network, has increased from 42.30 KMs to 69.66 KMs."
+   },
+   "checks": "total income = sum of income lines 594.01 cr: ok; PBT = total income - total expenses = -401.7221 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Restated in the 2023-24 report (other income and finance cost both raised by 33,053.30 lakh: see previous-column entry). Per-line averages p11: Purple 2.37 lakh, Green 2.48 lakh boardings/day. Directors' report p11 'Gross Income 594.01' cr matches total income. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "BMRCL_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 97,
+   "revenue_from_operations": {
+    "cr": 460.0112,
+    "page": 97,
+    "quote": "(i) Revenue From Operations 22 62,395.85 46,001.12",
+    "as_printed": "46,001.12"
+   },
+   "fare_revenue": {
+    "cr": 422.6057,
+    "page": 121,
+    "quote": "Fare Box Revenue 57,390.36 42,260.57",
+    "as_printed": "42,260.57"
+   },
+   "non_fare_revenue": {
+    "cr": 37.4055,
+    "page": 121,
+    "quote": "Income from Licensing/Leasing of Space 3,682.31; Other Non Fare Box Revenue 58.24 (sum of listed items)",
+    "as_printed": "3,740.55"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 324.5338,
+    "page": 97,
+    "quote": "(ii) Other Income 23 36,605.73 32,453.38",
+    "as_printed": "32,453.38"
+   },
+   "total_income": {
+    "cr": 784.545,
+    "page": 97,
+    "quote": "Total Income 99,001.58 78,454.50",
+    "as_printed": "78,454.50"
+   },
+   "employee_cost": {
+    "cr": 159.6186,
+    "page": 97,
+    "quote": "(ii) Employee Benefits Expense 25 19,914.86 15,961.86",
+    "as_printed": "15,961.86"
+   },
+   "operating_expenses": {
+    "cr": 289.775,
+    "page": 97,
+    "quote": "(i) Operating Expenses 24 39,923.62 28,977.50",
+    "as_printed": "28,977.50"
+   },
+   "finance_cost": {
+    "cr": 465.0333,
+    "page": 97,
+    "quote": "(ii) Finance Costs 26 6,871.85 46,503.33",
+    "as_printed": "46,503.33"
+   },
+   "depreciation": {
+    "cr": 410.9928,
+    "page": 97,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 53,068.60 41,099.28",
+    "as_printed": "41,099.28"
+   },
+   "other_expenses": {
+    "cr": 37.216,
+    "page": 97,
+    "quote": "(v) Other Expenses 28 1,467.54 3,721.60",
+    "as_printed": "3,721.60"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1362.6356,
+    "page": 97,
+    "quote": "Total Expenses 121,246.47 136,263.56",
+    "as_printed": "136,263.56"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 97,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -578.0906,
+    "page": 97,
+    "quote": "Profit/ Loss Before Tax (22,244.89) (57,809.06)",
+    "as_printed": "(57,809.06)"
+   },
+   "tax": {
+    "cr": 65.4017,
+    "page": 97,
+    "quote": "(ii) Tax Adjustment of Prior Years - 1,031.42; (iii) Deferred Tax 4 11,912.41 5,508.75 (sum of the two printed lines)",
+    "as_printed": "6,540.17"
+   },
+   "profit_after_tax": {
+    "cr": -643.4923,
+    "page": 97,
+    "quote": "Profit for the Year from Continuing Operations (34,157.30) (64,349.23)",
+    "as_printed": "(64,349.23)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 784.54 cr: ok; PBT = total income - total expenses = -578.0906 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED in the 2023-24 report: other income 32,453.38 (vs 13,400.08) and finance costs 46,503.33 (vs 9,813.18) lakh. Total income +19,053.30 but expenses +36,690.15, so PBT (57,809.06) vs (40,172.21) and loss after tax 643.49 cr vs 467.12 cr. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "BMRCL_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 97,
+   "revenue_from_operations": {
+    "cr": 623.9585,
+    "page": 97,
+    "quote": "(i) Revenue From Operations 22 62,395.85 46,001.12",
+    "as_printed": "62,395.85"
+   },
+   "fare_revenue": {
+    "cr": 573.9036,
+    "page": 121,
+    "quote": "Fare Box Revenue 57,390.36 42,260.57",
+    "as_printed": "57,390.36"
+   },
+   "non_fare_revenue": {
+    "cr": 50.0549,
+    "page": 121,
+    "quote": "Income from Licensing/Leasing of Space 4,882.19; Other Non Fare Box Revenue 123.30 (sum of listed items)",
+    "as_printed": "5,005.49"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 366.0573,
+    "page": 97,
+    "quote": "(ii) Other Income 23 36,605.73 32,453.38",
+    "as_printed": "36,605.73"
+   },
+   "total_income": {
+    "cr": 990.0158,
+    "page": 97,
+    "quote": "Total Income 99,001.58 78,454.50",
+    "as_printed": "99,001.58"
+   },
+   "employee_cost": {
+    "cr": 199.1486,
+    "page": 97,
+    "quote": "(ii) Employee Benefits Expense 25 19,914.86 15,961.86",
+    "as_printed": "19,914.86"
+   },
+   "operating_expenses": {
+    "cr": 399.2362,
+    "page": 97,
+    "quote": "(i) Operating Expenses 24 39,923.62 28,977.50",
+    "as_printed": "39,923.62"
+   },
+   "finance_cost": {
+    "cr": 68.7185,
+    "page": 97,
+    "quote": "(ii) Finance Costs 26 6,871.85 46,503.33",
+    "as_printed": "6,871.85"
+   },
+   "depreciation": {
+    "cr": 530.686,
+    "page": 97,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 53,068.60 41,099.28",
+    "as_printed": "53,068.60"
+   },
+   "other_expenses": {
+    "cr": 14.6754,
+    "page": 97,
+    "quote": "(v) Other Expenses 28 1,467.54 3,721.60",
+    "as_printed": "1,467.54"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1212.4647,
+    "page": 97,
+    "quote": "Total Expenses 121,246.47 136,263.56",
+    "as_printed": "121,246.47"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 97,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -222.4489,
+    "page": 97,
+    "quote": "Profit/ Loss Before Tax (22,244.89) (57,809.06)",
+    "as_printed": "(22,244.89)"
+   },
+   "tax": {
+    "cr": 119.1241,
+    "page": 97,
+    "quote": "(ii) Tax Adjustment of Prior Years - 1,031.42; (iii) Deferred Tax 4 11,912.41 5,508.75",
+    "as_printed": "11,912.41"
+   },
+   "profit_after_tax": {
+    "cr": -341.573,
+    "page": 97,
+    "quote": "Profit for the Year from Continuing Operations (34,157.30) (64,349.23)",
+    "as_printed": "(34,157.30)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 636000,
+    "page": 23,
+    "quote": "As a result, the average Boardings for Financial Year 2023-24 increased to 6.36 lakhs per day.",
+    "as_printed": "6.36 lakh"
+   },
+   "route_km": {
+    "value": 74.0,
+    "page": 13,
+    "quote": "With the fully completed East-West Corridor, the operational Metro network increased from 70 KMs to 74 KMs."
+   },
+   "checks": "total income = sum of income lines 990.02 cr: ok; PBT = total income - total expenses = -222.4489 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Other income is large (interest on deposits etc.). Restated in the 2024-25 report (see previous-column entry). Chairman's speech p13 says fare box 573.91 cr, non-fare 50.05 cr. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "BMRCL_2023-24_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "pl_page": null,
+   "revenue_from_operations": {
+    "cr": 623.9585,
+    "page": 7,
+    "quote": "V. *Turnover and net worth of the company ... (i) Turnover 6,239,585,136",
+    "as_printed": "6,239,585,136"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "turnover matches the annual report's revenue from operations for 2023-24",
+   "notes": "Form MGT-7 Annual Return (scanned; page 7 read visually): turnover only, recorded as revenue_from_operations. Net worth on the same page not recorded per the brief."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "BMRCL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 95,
+   "revenue_from_operations": {
+    "cr": 623.9585,
+    "page": 95,
+    "quote": "(i) Revenue From Operations 22 80,855.65 62,395.85",
+    "as_printed": "62,395.85"
+   },
+   "fare_revenue": {
+    "cr": 573.9036,
+    "page": 117,
+    "quote": "Fare Box Revenue ... 57,390.36 - 57,390.36",
+    "as_printed": "57,390.36"
+   },
+   "non_fare_revenue": {
+    "cr": 50.0549,
+    "page": 117,
+    "quote": "Income from Licensing/Leasing of Space 4,882.19; Other Non Fare Box Revenue 123.30 (sum of listed items)",
+    "as_printed": "5,005.49"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 366.2821,
+    "page": 95,
+    "quote": "(ii) Other Income 23 38,243.51 36,628.21",
+    "as_printed": "36,628.21"
+   },
+   "total_income": {
+    "cr": 990.2406,
+    "page": 95,
+    "quote": "Total Income 1,19,099.16 99,024.06",
+    "as_printed": "99,024.06"
+   },
+   "employee_cost": {
+    "cr": 200.2106,
+    "page": 95,
+    "quote": "(ii) Employee Benefits Expense 25 22,707.37 20,021.06",
+    "as_printed": "20,021.06"
+   },
+   "operating_expenses": {
+    "cr": 398.9613,
+    "page": 95,
+    "quote": "(i) Operating Expenses 24 46,179.27 39,896.13",
+    "as_printed": "39,896.13"
+   },
+   "finance_cost": {
+    "cr": 68.7185,
+    "page": 95,
+    "quote": "(ii) Finance Costs 26 65,211.41 6,871.85",
+    "as_printed": "6,871.85"
+   },
+   "depreciation": {
+    "cr": 530.686,
+    "page": 95,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 57,679.42 53,068.60",
+    "as_printed": "53,068.60"
+   },
+   "other_expenses": {
+    "cr": 14.6754,
+    "page": 95,
+    "quote": "(v) Other Expenses 28 1,742.63 1,467.54",
+    "as_printed": "1,467.54"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1213.2518,
+    "page": 95,
+    "quote": "Total Expenses 1,93,520.10 1,21,325.18",
+    "as_printed": "1,21,325.18"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 95,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -223.0112,
+    "page": 95,
+    "quote": "Profit/ Loss Before Tax (74,420.94) (22,301.12)",
+    "as_printed": "(22,301.12)"
+   },
+   "tax": {
+    "cr": 120.164,
+    "page": 95,
+    "quote": "(iii) Deferred Tax 4 (11,951.80) 12,016.40",
+    "as_printed": "12,016.40"
+   },
+   "profit_after_tax": {
+    "cr": -343.1752,
+    "page": 95,
+    "quote": "Profit for the Year from Continuing Operations (62,469.14) (34,317.52)",
+    "as_printed": "(34,317.52)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 990.24 cr: ok; PBT = total income - total expenses = -223.0112 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED (slightly) in the 2024-25 report: other income 36,628.21 (vs 36,605.73), operating expenses 39,896.13 (vs 39,923.62), employee cost 20,021.06 (vs 19,914.86), deferred tax 12,016.40 (vs 11,912.41) lakh; loss after tax 343.18 cr vs 341.57 cr. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "BMRCL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 95,
+   "revenue_from_operations": {
+    "cr": 808.5565,
+    "page": 95,
+    "quote": "(i) Revenue From Operations 22 80,855.65 62,395.85",
+    "as_printed": "80,855.65"
+   },
+   "fare_revenue": {
+    "cr": 753.5858,
+    "page": 117,
+    "quote": "Fare Box Revenue 75,358.58 - 75,358.58 57,390.36 - 57,390.36",
+    "as_printed": "75,358.58"
+   },
+   "non_fare_revenue": {
+    "cr": 54.9707,
+    "page": 117,
+    "quote": "Income from Licensing/Leasing of Space 5,406.21; Other Non Fare Box Revenue 90.86 (sum of listed items)",
+    "as_printed": "5,497.07"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 382.4351,
+    "page": 95,
+    "quote": "(ii) Other Income 23 38,243.51 36,628.21",
+    "as_printed": "38,243.51"
+   },
+   "total_income": {
+    "cr": 1190.9916,
+    "page": 95,
+    "quote": "Total Income 1,19,099.16 99,024.06",
+    "as_printed": "1,19,099.16"
+   },
+   "employee_cost": {
+    "cr": 227.0737,
+    "page": 95,
+    "quote": "(ii) Employee Benefits Expense 25 22,707.37 20,021.06",
+    "as_printed": "22,707.37"
+   },
+   "operating_expenses": {
+    "cr": 461.7927,
+    "page": 95,
+    "quote": "(i) Operating Expenses 24 46,179.27 39,896.13",
+    "as_printed": "46,179.27"
+   },
+   "finance_cost": {
+    "cr": 652.1141,
+    "page": 95,
+    "quote": "(ii) Finance Costs 26 65,211.41 6,871.85",
+    "as_printed": "65,211.41"
+   },
+   "depreciation": {
+    "cr": 576.7942,
+    "page": 95,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 57,679.42 53,068.60",
+    "as_printed": "57,679.42"
+   },
+   "other_expenses": {
+    "cr": 17.4263,
+    "page": 95,
+    "quote": "(v) Other Expenses 28 1,742.63 1,467.54",
+    "as_printed": "1,742.63"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1935.201,
+    "page": 95,
+    "quote": "Total Expenses 1,93,520.10 1,21,325.18",
+    "as_printed": "1,93,520.10"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 95,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -744.2094,
+    "page": 95,
+    "quote": "Profit/ Loss Before Tax (74,420.94) (22,301.12)",
+    "as_printed": "(74,420.94)"
+   },
+   "tax": {
+    "cr": -119.518,
+    "page": 95,
+    "quote": "(iii) Deferred Tax 4 (11,951.80) 12,016.40",
+    "as_printed": "(11,951.80)"
+   },
+   "profit_after_tax": {
+    "cr": -624.6914,
+    "page": 95,
+    "quote": "Profit for the Year from Continuing Operations (62,469.14) (34,317.52)",
+    "as_printed": "(62,469.14)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 758000,
+    "page": 14,
+    "quote": "During the Financial Year 2024–25, BMRCL carried an average of 7.58 Lakhs Passengers per day.",
+    "as_printed": "7.58 lakh"
+   },
+   "route_km": {
+    "value": 76.95,
+    "page": 13,
+    "quote": "With the addition of this Line [Yellow Line, 11 Aug 2025], the total operational length of BMRC Line increased from 76.95 KMs to 96.10 KMs"
+   },
+   "checks": "total income = sum of income lines 1190.99 cr: ok; PBT = total income - total expenses = -744.2094 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Finance cost jumps to 652.11 cr (from 68.72 cr). route_km 76.95 is the length before the Yellow Line opened on 11 Aug 2025; the last opening before that was the Madavara extension on 7 Nov 2024 (p13), so 76.95 km is taken as the year-end network (the report does not state the length at 31 Mar 2025 directly). Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "BMRCL_2025-26_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 91,
+   "revenue_from_operations": {
+    "cr": 808.5565,
+    "page": 91,
+    "quote": "(i) Revenue From Operations 22 1,21,409.40 80,855.65",
+    "as_printed": "80,855.65"
+   },
+   "fare_revenue": {
+    "cr": 753.5858,
+    "page": 140,
+    "quote": "A) Traffic Operations 75,358.58",
+    "as_printed": "75,358.58"
+   },
+   "non_fare_revenue": {
+    "cr": 54.9707,
+    "page": 140,
+    "quote": "B) Other Operating Income (Non Fare Box Revenue) 5,497.07",
+    "as_printed": "5,497.07"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 303.0365,
+    "page": 91,
+    "quote": "(ii) Other Income 23 41,052.10 30,303.65",
+    "as_printed": "30,303.65"
+   },
+   "total_income": {
+    "cr": 1111.593,
+    "page": 91,
+    "quote": "Total Income 1,62,461.50 1,11,159.30",
+    "as_printed": "1,11,159.30"
+   },
+   "employee_cost": {
+    "cr": 227.313,
+    "page": 91,
+    "quote": "(ii) Employee Benefits Expense 25 25,298.71 22,731.30",
+    "as_printed": "22,731.30"
+   },
+   "operating_expenses": {
+    "cr": 420.7626,
+    "page": 91,
+    "quote": "(i) Operating Expenses 24 55,036.71 42,076.26",
+    "as_printed": "42,076.26"
+   },
+   "finance_cost": {
+    "cr": 560.913,
+    "page": 91,
+    "quote": "(ii) Finance Costs 26 1,79,302.94 56,091.30",
+    "as_printed": "56,091.30"
+   },
+   "depreciation": {
+    "cr": 576.7942,
+    "page": 91,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 72,536.29 57,679.42",
+    "as_printed": "57,679.42"
+   },
+   "other_expenses": {
+    "cr": 17.4263,
+    "page": 91,
+    "quote": "(v) Other Expenses 28 2,033.11 1,742.63",
+    "as_printed": "1,742.63"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 1803.2091,
+    "page": 91,
+    "quote": "Total Expenses 334,207.76 180,320.91",
+    "as_printed": "180,320.91"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 91,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -691.6161,
+    "page": 91,
+    "quote": "Profit/Loss Before Tax (1,71,746.26) (69,161.61)",
+    "as_printed": "(69,161.61)"
+   },
+   "tax": {
+    "cr": 714.8206,
+    "page": 91,
+    "quote": "(iii) Deferred Tax 4 0.00 (71,482.06)",
+    "as_printed": "71,482.06"
+   },
+   "profit_after_tax": {
+    "cr": -1406.4367,
+    "page": 91,
+    "quote": "Profit for the Year from Continuing Operations (1,71,746.26) (1,40,643.67)",
+    "as_printed": "(1,40,643.67)"
+   },
+   "annual_ridership_lakh": {
+    "value": 2765.1,
+    "page": 21,
+    "quote": "... as compared to 276.51 Million passengers in the previous year"
+   },
+   "avg_daily_ridership": {
+    "value": 757000,
+    "page": 21,
+    "quote": "against 7.57 Lakhs passengers per day in the previous year 2024-25",
+    "as_printed": "7.57 lakh"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 1111.59 cr: ok; PBT = total income - total expenses = -691.6161 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "RESTATED in the 2025-26 report (column headed '2025 (Restated)'; change in accounting policy and prior-period errors, Note 31 item 16, pp.157-158, e.g. a BESCOM electricity-tax refund of 4,079.08 lakh recognised from FY 2024-25). Versus the 2024-25 report: other income 30,303.65 (vs 38,243.51), operating expenses 42,076.26 (vs 46,179.27), employee cost 22,731.30 (vs 22,707.37), finance costs 56,091.30 (vs 65,211.41) lakh; PBT (69,161.61) vs (74,420.94); deferred tax is now a CHARGE of 71,482.06 (shown in brackets, it increases the loss) instead of a credit of 11,951.80, so loss after tax is 1,406.44 cr vs 624.69 cr. The 2024-25 report itself said 7.58 lakh average boardings/day; this report says 7.57. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  },
+  {
+   "fy": "2025-26",
+   "source_file": "BMRCL_2025-26_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "pl_page": 91,
+   "revenue_from_operations": {
+    "cr": 1214.094,
+    "page": 91,
+    "quote": "(i) Revenue From Operations 22 1,21,409.40 80,855.65",
+    "as_printed": "1,21,409.40"
+   },
+   "fare_revenue": {
+    "cr": 1125.5813,
+    "page": 140,
+    "quote": "A) Traffic Operations 112,558.13",
+    "as_printed": "112,558.13"
+   },
+   "non_fare_revenue": {
+    "cr": 88.5127,
+    "page": 140,
+    "quote": "B) Other Operating Income (Non Fare Box Revenue) 8,851.27",
+    "as_printed": "8,851.27"
+   },
+   "other_operating_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "gok_cash_loss_reimbursement": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 410.521,
+    "page": 91,
+    "quote": "(ii) Other Income 23 41,052.10 30,303.65",
+    "as_printed": "41,052.10"
+   },
+   "total_income": {
+    "cr": 1624.615,
+    "page": 91,
+    "quote": "Total Income 1,62,461.50 1,11,159.30",
+    "as_printed": "1,62,461.50"
+   },
+   "employee_cost": {
+    "cr": 252.9871,
+    "page": 91,
+    "quote": "(ii) Employee Benefits Expense 25 25,298.71 22,731.30",
+    "as_printed": "25,298.71"
+   },
+   "operating_expenses": {
+    "cr": 550.3671,
+    "page": 91,
+    "quote": "(i) Operating Expenses 24 55,036.71 42,076.26",
+    "as_printed": "55,036.71"
+   },
+   "finance_cost": {
+    "cr": 1793.0294,
+    "page": 91,
+    "quote": "(ii) Finance Costs 26 1,79,302.94 56,091.30",
+    "as_printed": "1,79,302.94"
+   },
+   "depreciation": {
+    "cr": 725.3629,
+    "page": 91,
+    "quote": "(iv) Depreciation and Amortization Expenses 27 72,536.29 57,679.42",
+    "as_printed": "72,536.29"
+   },
+   "other_expenses": {
+    "cr": 20.3311,
+    "page": 91,
+    "quote": "(v) Other Expenses 28 2,033.11 1,742.63",
+    "as_printed": "2,033.11"
+   },
+   "prior_period_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 3342.0776,
+    "page": 91,
+    "quote": "Total Expenses 334,207.76 180,320.91",
+    "as_printed": "334,207.76"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 91,
+    "quote": "Exceptional Items - -",
+    "as_printed": "-"
+   },
+   "profit_before_tax": {
+    "cr": -1717.4626,
+    "page": 91,
+    "quote": "Profit/Loss Before Tax (1,71,746.26) (69,161.61)",
+    "as_printed": "(1,71,746.26)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 91,
+    "quote": "(iii) Deferred Tax 4 0.00 (71,482.06); Current Tax 0.00 0.00",
+    "as_printed": "0.00"
+   },
+   "profit_after_tax": {
+    "cr": -1717.4626,
+    "page": 91,
+    "quote": "Profit for the Year from Continuing Operations (1,71,746.26) (1,40,643.67)",
+    "as_printed": "(1,71,746.26)"
+   },
+   "annual_ridership_lakh": {
+    "value": 3104.9,
+    "page": 21,
+    "quote": "the Corporation recorded a total passenger Boardings of 310.49 Million passengers as compared to 276.51 Million passengers in the previous year"
+   },
+   "avg_daily_ridership": {
+    "value": 851000,
+    "page": 21,
+    "quote": "The average daily boarding during the year stood at 8.51 Lakhs passengers per day against 7.57 Lakhs passengers per day in the previous year 2024-25.",
+    "as_printed": "8.51 lakh"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = sum of income lines 1624.62 cr: ok; PBT = total income - total expenses = -1717.4626 cr: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations ok",
+   "notes": "Scanned report (OCR, P&L and disaggregation table checked visually). Fare split from the Ind AS 115 disaggregation table p140 (Traffic Operations / Other Operating Income (Non Fare Box Revenue)); the Note 22 pages are printed rotated and OCR poorly. Average daily boardings conflict inside the report: 8.51 lakh (Chairman's speech p13 and Directors' report p21, consistent with 310.49 million / 365) vs 8.65 lakh (p13 and p23); 8.51 recorded. Directors' report p21: fare box Rs.1,125.58 crore, average fare Rs.36.25. Route km at 31 Mar 2026 not stated as a total in this report (the 2024-25 report p13 gives 96.10 km after the Yellow Line opened on 11 Aug 2025). Finance cost almost trebles (1,793 cr). No deferred tax recognised this year. Convention: tax is an expense (positive = charge, negative = credit); profit figures keep the statement's sign; prior_period_items as printed (positive = expense unless the notes say otherwise)."
+  }
+ ]
+}

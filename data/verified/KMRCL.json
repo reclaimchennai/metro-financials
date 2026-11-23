@@ -1,0 +1,216 @@
+{
+ "operator": "KMRCL",
+ "documents": [
+  {
+   "file": "KMRCL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 87,
+   "note": "Kolkata Metro Rail Corporation Ltd annual report 2024-25 (image-only PDF). Standalone P&L p87 (printed page 086), ₹ thousands; Note 19 other income p106. Revenue from operations nil."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2024-25",
+   "source_file": "KMRCL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ thousand",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Revenue From Operations - - [read from page image]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null,
+    "note": "KMRCL has no revenue from operations; East-West Metro revenue services are run by Metro Railway, Kolkata (p16)"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0598,
+    "page": 87,
+    "quote": "Other Income 19 598.41 433.72 [read from page image]",
+    "note": "Note 19 (p106): entirely 'Interest on IT Refund 598.41 433.72'"
+   },
+   "total_income": {
+    "cr": 0.0598,
+    "page": 87,
+    "quote": "Total Income 598.41 433.72 [read from page image]"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no employee benefit expense line on the statement (only Other Expenses)"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no finance cost line on the statement"
+   },
+   "depreciation": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no depreciation line on the statement"
+   },
+   "other_expenses": {
+    "cr": 0.0625,
+    "page": 87,
+    "quote": "Other Expenses 20 625.10 559.01 [read from page image]"
+   },
+   "total_expenses": {
+    "cr": 0.0625,
+    "page": 87,
+    "quote": "Total Expenses 625.10 559.01 [read from page image]"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -0.0027,
+    "page": 87,
+    "quote": "Profit Before Tax -26.68 -125.29 [read from page image]"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Tax Expense: Current Tax - - Deferred Tax - - Income Tax For Earlier Year - - [read from page image]"
+   },
+   "profit_after_tax": {
+    "cr": -0.0027,
+    "page": 87,
+    "quote": "Profit/(Loss) for the Period -26.68 -125.29 [read from page image]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": "not stated; KMRCL is the construction company, operations by Metro Railway Kolkata"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": 17,
+    "quote": null,
+    "note": "p17 lists commissioned sections of the 16.55 km East-West corridor: Salt Lake Sector-V to Salt Lake Stadium 5.30 Km (14.02.2020), to Phoolbagan 1.67 Km (05.10.2020), Phoolbagan to Sealdah 2.33 Km (14.07.2022), Howrah Maidan - Esplanade 4.80 Km (15.03.2024), Esplanade - Sealdah 2.45 Km (22.08.2025); no year-end operational total is stated, so left null"
+   },
+   "checks": "total income 0.0598 vs rev+OI 0.0598: ok; PBT -0.0027 vs TI-TE±exceptional -0.0027: ok; expense lines sum 0.0625 vs total 0.0625: ok; PAT -0.0027 vs PBT-tax -0.0027: ok",
+   "notes": "KMRCL is the project (construction) company for the East-West Metro; it has no operating revenue. Statement header reads \"(Amount in ₹ thousands)\" and Note 22 (p109) confirms \"All amounts ... are in thousands\"; C&AG comment (p61) cites other expenses as ₹6.25 lakh, consistent with 625.10 thousand. Auditor gives a qualified opinion (p64): FD interest of Rs 9.72 crore belonging to prior periods and depreciation of Rs 0.35 Cr of earlier years."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "KMRCL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ thousand",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Revenue From Operations - - [read from page image]"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null,
+    "note": "KMRCL has no revenue from operations; East-West Metro revenue services are run by Metro Railway, Kolkata (p16)"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0434,
+    "page": 87,
+    "quote": "Other Income 19 598.41 433.72 [read from page image]",
+    "note": "Note 19 (p106): entirely 'Interest on IT Refund 598.41 433.72'"
+   },
+   "total_income": {
+    "cr": 0.0434,
+    "page": 87,
+    "quote": "Total Income 598.41 433.72 [read from page image]"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no employee benefit expense line on the statement (only Other Expenses)"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no finance cost line on the statement"
+   },
+   "depreciation": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no depreciation line on the statement"
+   },
+   "other_expenses": {
+    "cr": 0.0559,
+    "page": 87,
+    "quote": "Other Expenses 20 625.10 559.01 [read from page image]"
+   },
+   "total_expenses": {
+    "cr": 0.0559,
+    "page": 87,
+    "quote": "Total Expenses 625.10 559.01 [read from page image]"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 87,
+    "quote": null,
+    "note": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -0.0125,
+    "page": 87,
+    "quote": "Profit Before Tax -26.68 -125.29 [read from page image]"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Tax Expense: Current Tax - - Deferred Tax - - Income Tax For Earlier Year - - [read from page image]"
+   },
+   "profit_after_tax": {
+    "cr": -0.0125,
+    "page": 87,
+    "quote": "Profit/(Loss) for the Period -26.68 -125.29 [read from page image]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": "not stated; KMRCL is the construction company, operations by Metro Railway Kolkata"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": 17,
+    "quote": null,
+    "note": "p17 lists commissioned sections of the 16.55 km East-West corridor: Salt Lake Sector-V to Salt Lake Stadium 5.30 Km (14.02.2020), to Phoolbagan 1.67 Km (05.10.2020), Phoolbagan to Sealdah 2.33 Km (14.07.2022), Howrah Maidan - Esplanade 4.80 Km (15.03.2024), Esplanade - Sealdah 2.45 Km (22.08.2025); no year-end operational total is stated, so left null"
+   },
+   "checks": "total income 0.0434 vs rev+OI 0.0434: ok; PBT -0.0125 vs TI-TE±exceptional -0.0125: ok; expense lines sum 0.0559 vs total 0.0559: ok; PAT -0.0125 vs PBT-tax -0.0125: ok",
+   "notes": "Previous-year column of the 2024-25 statement; no separate 2023-24 report."
+  }
+ ]
+}

@@ -1,0 +1,1626 @@
+{
+ "operator": "MMOPL",
+ "documents": [
+  {
+   "file": "MMOPL_2014-15_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 8,
+   "note": "Scanned audited financial statements (Deloitte Haskins & Sells LLP), rupees, Indian GAAP. P&L p8; Note 20 revenue p17. Previous-year column nil (pre-operation)."
+  },
+  {
+   "file": "MMOPL_2015-16_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 11,
+   "note": "Scanned, rupees, Indian GAAP. P&L p11; Note 19 revenue p19."
+  },
+  {
+   "file": "MMOPL_2016-17_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 10,
+   "note": "Scanned, INR, first Ind AS year (2015-16 restated). P&L p10; Note 19 revenue p24."
+  },
+  {
+   "file": "MMOPL_2017-18_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 11,
+   "note": "Scanned, rupees. P&L p11; Note 18 revenue p26."
+  },
+  {
+   "file": "MMOPL_2018-19_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 13,
+   "note": "Scanned, ₹ lakh from here on. P&L p13; Note 18 revenue p30."
+  },
+  {
+   "file": "MMOPL_2019-20_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 14,
+   "note": "Auditor's report pp1-11 has a text layer; statements are scanned. Auditors Shridhar & Associates. P&L p14; Note 18 revenue p31."
+  },
+  {
+   "file": "MMOPL_2020-21_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 14,
+   "note": "Scanned, ₹ lakh. P&L p14; Note 18 revenue p31."
+  },
+  {
+   "file": "MMOPL_2021-22_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 16,
+   "note": "Scanned, ₹ lakh. P&L p16 (has a misprinted 'Loss after exceptional items' line); Note 19 revenue p34."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2013-14",
+   "source_file": "MMOPL_2014-15_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "I. Revenue from operations 20 1,361,730,343 - (previous year '-')"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 17,
+    "quote": "Income from collection af fares from passengers 1,220,832,885 - (previous year '-')"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "II. Other income 21 47,470,531 - (previous year '-')"
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "III. Total revenue 1,409,200,874 - (previous year '-')"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "Total Expenses 4,177,343,519 - (previous year '-')"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "V. Loss for the year (III-IV) (2,768,142,645) - (previous year '-')"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "V. Loss for the year (III-IV) (2,768,142,645) - (previous year '-')"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 0+0=0 vs 0: ok; sum of expense lines 0 vs total 0: ok; PBT 0-0+0=0 vs 0: ok",
+   "notes": "Previous-year column of the 2014-15 statement is blank ('-') on every line: pre-operation year, no income or expenditure recorded in the P&L (costs capitalised). Recorded as zero only where the line exists with a dash."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "MMOPL_2014-15_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 136.173,
+    "page": 8,
+    "quote": "I. Revenue from operations 20 1,361,730,343 -"
+   },
+   "fare_revenue": {
+    "cr": 122.0833,
+    "page": 17,
+    "quote": "Income from collection of fares from passengers (see note 26c) 1,220,832,885 -"
+   },
+   "non_fare_revenue": {
+    "cr": 14.0897,
+    "page": 17,
+    "quote": "Other Operating income - Rent 73,824,665 - Advertisement 52,989,130 - Others 14,083,663 (sum)"
+   },
+   "other_income": {
+    "cr": 4.7471,
+    "page": 8,
+    "quote": "II. Other income 21 47,470,531 -"
+   },
+   "total_income": {
+    "cr": 140.9201,
+    "page": 8,
+    "quote": "III. Total revenue 1,409,200,874 -"
+   },
+   "operating_expenses": {
+    "cr": 84.0658,
+    "page": 8,
+    "quote": "a. Operating expenses 22 840,658,401 -"
+   },
+   "employee_cost": {
+    "cr": 13.6647,
+    "page": 8,
+    "quote": "b. Employee benefits expense 23 136,647,131 -"
+   },
+   "finance_cost": {
+    "cr": 192.7064,
+    "page": 8,
+    "quote": "c. Finance costs 24 1,927,064,032 -"
+   },
+   "depreciation": {
+    "cr": 116.1236,
+    "page": 8,
+    "quote": "d. Amortization expense 13 1,161,236,364 -"
+   },
+   "other_expenses": {
+    "cr": 11.1738,
+    "page": 8,
+    "quote": "e. Other expenses 25 111,737,591 -"
+   },
+   "total_expenses": {
+    "cr": 417.7344,
+    "page": 8,
+    "quote": "Total Expenses 4,177,343,519 -"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 8,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -276.8143,
+    "page": 8,
+    "quote": "V. Loss for the year (III-IV) (2,768,142,645) -"
+   },
+   "tax": {
+    "cr": null,
+    "page": 8,
+    "quote": "no tax line in the statement"
+   },
+   "profit_after_tax": {
+    "cr": -276.8143,
+    "page": 8,
+    "quote": "V. Loss for the year (III-IV) (2,768,142,645) -"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 1361730343+47470531=1409200874 vs 1409200874: ok; sum of expense lines 4177343519 vs total 4177343519: ok; PBT 1409200874-4177343519+0=-2768142645 vs -2768142645: ok; fare+non-fare 1361730343 vs revenue 1361730343: ok",
+   "notes": "First year with income in the P&L (previous year nil). Indian GAAP. 'Amortization expense' (concession intangible) recorded as depreciation. Non-fare = 'Other operating income' sub-lines (Rent+Advertisement+Others) of Note 20, equal to total minus fare. No tax line: loss for the year is both PBT and PAT. Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "MMOPL_2015-16_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 136.173,
+    "page": 11,
+    "quote": "I. Revenue from operations 19 2,102,384,354 1,361,730,343"
+   },
+   "fare_revenue": {
+    "cr": 122.0833,
+    "page": 19,
+    "quote": "Income from collection of fares from passengers 1,884,275,824 1,220,832,885"
+   },
+   "non_fare_revenue": {
+    "cr": 14.0897,
+    "page": 19,
+    "quote": "Other Operating income - Rent 73,824,665 - Advertisement 52,989,130 - Others 14,083,663 (sum)"
+   },
+   "other_income": {
+    "cr": 4.7471,
+    "page": 11,
+    "quote": "II. Other income 20 92,500,044 47,470,531"
+   },
+   "total_income": {
+    "cr": 140.9201,
+    "page": 11,
+    "quote": "III. Total revenue 2,194,884,398 1,409,200,874"
+   },
+   "operating_expenses": {
+    "cr": 84.0658,
+    "page": 11,
+    "quote": "a. Operating expenses 21 1,052,338,781 840,658,401"
+   },
+   "employee_cost": {
+    "cr": 15.3046,
+    "page": 11,
+    "quote": "b. Employee benefits expense 22 142,965,370 153,046,067"
+   },
+   "finance_cost": {
+    "cr": 192.7064,
+    "page": 11,
+    "quote": "c. Finance costs 23 2,122,591,662 1,927,064,032"
+   },
+   "depreciation": {
+    "cr": 116.1236,
+    "page": 11,
+    "quote": "d. Amortization expense 12 1,424,532,347 1,161,236,364"
+   },
+   "other_expenses": {
+    "cr": 9.5339,
+    "page": 11,
+    "quote": "e. Other expenses 24 321,321,242 95,338,655"
+   },
+   "total_expenses": {
+    "cr": 417.7344,
+    "page": 11,
+    "quote": "Total Expenses 5,063,749,402 4,177,343,519"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 11,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -276.8143,
+    "page": 11,
+    "quote": "V. Loss for the year (III-IV) (2,868,865,004) (2,768,142,645)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 11,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -276.8143,
+    "page": 11,
+    "quote": "V. Loss for the year (III-IV) (2,868,865,004) (2,768,142,645)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 1361730343+47470531=1409200874 vs 1409200874: ok; sum of expense lines 4177343519 vs total 4177343519: ok; PBT 1409200874-4177343519+0=-2768142645 vs -2768142645: ok; fare+non-fare 1361730343 vs revenue 1361730343: ok",
+   "notes": "Regrouped vs the 2014-15 report: employee benefits 153,046,067 (was 136,647,131) and other expenses 95,338,655 (was 111,737,591); totals and loss unchanged."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "MMOPL_2015-16_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 210.2384,
+    "page": 11,
+    "quote": "I. Revenue from operations 19 2,102,384,354 1,361,730,343"
+   },
+   "fare_revenue": {
+    "cr": 188.4276,
+    "page": 19,
+    "quote": "Income from collection of fares from passengers 1,884,275,824 1,220,832,885"
+   },
+   "non_fare_revenue": {
+    "cr": 21.8109,
+    "page": 19,
+    "quote": "Other Operating income - Rent 106,457,749 - Advertisement 86,161,314 - Others 25,489,467 (sum)"
+   },
+   "other_income": {
+    "cr": 9.25,
+    "page": 11,
+    "quote": "II. Other income 20 92,500,044 47,470,531"
+   },
+   "total_income": {
+    "cr": 219.4884,
+    "page": 11,
+    "quote": "III. Total revenue 2,194,884,398 1,409,200,874"
+   },
+   "operating_expenses": {
+    "cr": 105.2339,
+    "page": 11,
+    "quote": "a. Operating expenses 21 1,052,338,781 840,658,401"
+   },
+   "employee_cost": {
+    "cr": 14.2965,
+    "page": 11,
+    "quote": "b. Employee benefits expense 22 142,965,370 153,046,067"
+   },
+   "finance_cost": {
+    "cr": 212.2592,
+    "page": 11,
+    "quote": "c. Finance costs 23 2,122,591,662 1,927,064,032"
+   },
+   "depreciation": {
+    "cr": 142.4532,
+    "page": 11,
+    "quote": "d. Amortization expense 12 1,424,532,347 1,161,236,364"
+   },
+   "other_expenses": {
+    "cr": 32.1321,
+    "page": 11,
+    "quote": "e. Other expenses 24 321,321,242 95,338,655"
+   },
+   "total_expenses": {
+    "cr": 506.3749,
+    "page": 11,
+    "quote": "Total Expenses 5,063,749,402 4,177,343,519"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 11,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -286.8865,
+    "page": 11,
+    "quote": "V. Loss for the year (III-IV) (2,868,865,004) (2,768,142,645)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 11,
+    "quote": "no tax line in the statement"
+   },
+   "profit_after_tax": {
+    "cr": -286.8865,
+    "page": 11,
+    "quote": "V. Loss for the year (III-IV) (2,868,865,004) (2,768,142,645)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 2102384354+92500044=2194884398 vs 2194884398: ok; sum of expense lines 5063749402 vs total 5063749402: ok; PBT 2194884398-5063749402+0=-2868865004 vs -2868865004: ok; fare+non-fare 2102384354 vs revenue 2102384354: ok",
+   "notes": "Indian GAAP. Other income includes Rs 72,260,447 provision written back (Note 20). Restated in the 2016-17 (Ind AS) report: see the 2015-16 'previous' entry. Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "MMOPL_2016-17_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (INR)",
+   "revenue_from_operations": {
+    "cr": 210.2384,
+    "page": 10,
+    "quote": "(I) Revenue from operations 19 2,371,712,621 2,102,384,354"
+   },
+   "fare_revenue": {
+    "cr": 188.4276,
+    "page": 24,
+    "quote": "a) Income from collection of fares from passengers 2,127,286,640 1,884,275,824"
+   },
+   "non_fare_revenue": {
+    "cr": 21.8109,
+    "page": 24,
+    "quote": "b) Other operating income - Rental 106,457,749 - Advertisement 86,161,314 - Others 25,489,467 (sum)"
+   },
+   "other_income": {
+    "cr": 9.25,
+    "page": 10,
+    "quote": "(II) Other Income 20 38,309,773 92,500,044"
+   },
+   "total_income": {
+    "cr": 219.4884,
+    "page": 10,
+    "quote": "(III) Total Income (I+II) 2,410,022,394 2,194,884,398"
+   },
+   "operating_expenses": {
+    "cr": 126.0781,
+    "page": 10,
+    "quote": "Operating expenses 21 1,261,278,616 1,260,780,623"
+   },
+   "employee_cost": {
+    "cr": 14.2298,
+    "page": 10,
+    "quote": "Employee benefits expenses 22 178,884,578 142,298,343"
+   },
+   "finance_cost": {
+    "cr": 221.513,
+    "page": 10,
+    "quote": "Finance costs 23 2,406,560,159 2,215,129,849"
+   },
+   "depreciation": {
+    "cr": 111.4526,
+    "page": 10,
+    "quote": "Amortisation expenses 5 1,111,753,732 1,114,526,225"
+   },
+   "other_expenses": {
+    "cr": 32.1321,
+    "page": 10,
+    "quote": "Other expensess 24 186,430,551 321,321,242"
+   },
+   "total_expenses": {
+    "cr": 505.4056,
+    "page": 10,
+    "quote": "Total expenses (IV) 5,144,907,636 5,054,056,282"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 10,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -285.9172,
+    "page": 10,
+    "quote": "Loss for the year (III-IV) (2,734,885,242) (2,859,171,884)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 10,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -285.9172,
+    "page": 10,
+    "quote": "Loss for the year (III-IV) (2,734,885,242) (2,859,171,884)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 2102384354+92500044=2194884398 vs 2194884398: ok; sum of expense lines 5054056282 vs total 5054056282: ok; PBT 2194884398-5054056282+0=-2859171884 vs -2859171884: ok; fare+non-fare 2102384354 vs revenue 2102384354: ok",
+   "notes": "RESTATED under Ind AS transition: vs the 2015-16 (Indian GAAP) report, operating expenses 1,260,780,623 (was 1,052,338,781), employee 142,298,343 (was 142,965,370), finance costs 2,215,129,849 (was 2,122,591,662), amortisation 1,114,526,225 (was 1,424,532,347); total expenses 5,054,056,282 (was 5,063,749,402); loss (2,859,171,884) (was (2,868,865,004)). Revenue and other income unchanged. OCI (667,027)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "MMOPL_2016-17_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (INR)",
+   "revenue_from_operations": {
+    "cr": 237.1713,
+    "page": 10,
+    "quote": "(I) Revenue from operations 19 2,371,712,621 2,102,384,354"
+   },
+   "fare_revenue": {
+    "cr": 212.7287,
+    "page": 24,
+    "quote": "a) Income from collection of fares from passengers 2,127,286,640 1,884,275,824"
+   },
+   "non_fare_revenue": {
+    "cr": 24.4426,
+    "page": 24,
+    "quote": "b) Other operating income - Rental 114,391,033 - Advertisement 110,716,855 - Others 19,318,093 (sum)"
+   },
+   "other_income": {
+    "cr": 3.831,
+    "page": 10,
+    "quote": "(II) Other Income 20 38,309,773 92,500,044"
+   },
+   "total_income": {
+    "cr": 241.0022,
+    "page": 10,
+    "quote": "(III) Total Income (I+II) 2,410,022,394 2,194,884,398"
+   },
+   "operating_expenses": {
+    "cr": 126.1279,
+    "page": 10,
+    "quote": "Operating expenses 21 1,261,278,616 1,260,780,623"
+   },
+   "employee_cost": {
+    "cr": 17.8885,
+    "page": 10,
+    "quote": "Employee benefits expenses 22 178,884,578 142,298,343"
+   },
+   "finance_cost": {
+    "cr": 240.656,
+    "page": 10,
+    "quote": "Finance costs 23 2,406,560,159 2,215,129,849"
+   },
+   "depreciation": {
+    "cr": 111.1754,
+    "page": 10,
+    "quote": "Amortisation expenses 5 1,111,753,732 1,114,526,225"
+   },
+   "other_expenses": {
+    "cr": 18.6431,
+    "page": 10,
+    "quote": "Other expensess 24 186,430,551 321,321,242"
+   },
+   "total_expenses": {
+    "cr": 514.4908,
+    "page": 10,
+    "quote": "Total expenses (IV) 5,144,907,636 5,054,056,282"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 10,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -273.4885,
+    "page": 10,
+    "quote": "Loss for the year (III-IV) (2,734,885,242) (2,859,171,884)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 10,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -273.4885,
+    "page": 10,
+    "quote": "Loss for the year (III-IV) (2,734,885,242) (2,859,171,884)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 2371712621+38309773=2410022394 vs 2410022394: ok; sum of expense lines 5144907636 vs total 5144907636: ok; PBT 2410022394-5144907636+0=-2734885242 vs -2734885242: ok; fare+non-fare 2371712621 vs revenue 2371712621: ok",
+   "notes": "First Ind AS statements. OCI (123,101); total comprehensive loss (2,735,008,343). Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "MMOPL_2017-18_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 237.1713,
+    "page": 11,
+    "quote": "(I) Revenue from operations 18 2,914,285,750 2,371,712,621"
+   },
+   "fare_revenue": {
+    "cr": 212.7287,
+    "page": 26,
+    "quote": "a) Income from collection of fares from passengers 2,544,783,901 2,127,286,640"
+   },
+   "non_fare_revenue": {
+    "cr": 24.4426,
+    "page": 26,
+    "quote": "b) Other operating income - Rental 114,391,033 - Advertisement 110,716,855 - Others 19,318,093 (sum)"
+   },
+   "other_income": {
+    "cr": 3.831,
+    "page": 11,
+    "quote": "(II) Other income 19 270,943,999 38,309,773"
+   },
+   "total_income": {
+    "cr": 241.0022,
+    "page": 11,
+    "quote": "(III) Total Income (I+II) 3,185,229,749 2,410,022,394"
+   },
+   "operating_expenses": {
+    "cr": 127.1041,
+    "page": 11,
+    "quote": "Operating expenses 20 1,535,879,217 1,271,041,056"
+   },
+   "employee_cost": {
+    "cr": 17.8885,
+    "page": 11,
+    "quote": "Employee benefits expenses 21 209,569,042 178,884,578"
+   },
+   "finance_cost": {
+    "cr": 240.656,
+    "page": 11,
+    "quote": "Finance costs 22 2,527,094,223 2,406,560,159"
+   },
+   "depreciation": {
+    "cr": 111.1754,
+    "page": 11,
+    "quote": "Amortisation expenses 5 1,112,463,907 1,111,753,732"
+   },
+   "other_expenses": {
+    "cr": 17.6668,
+    "page": 11,
+    "quote": "Other expenses 23 183,274,777 176,668,111"
+   },
+   "total_expenses": {
+    "cr": 514.4908,
+    "page": 11,
+    "quote": "Total expenses (IV) 5,568,281,166 5,144,907,636"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 11,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -273.4885,
+    "page": 11,
+    "quote": "Loss for the year (III-IV) (2,383,051,417) (2,734,885,242)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 11,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -273.4885,
+    "page": 11,
+    "quote": "Loss for the year (III-IV) (2,383,051,417) (2,734,885,242)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 2371712621+38309773=2410022394 vs 2410022394: ok; sum of expense lines 5144907636 vs total 5144907636: ok; PBT 2410022394-5144907636+0=-2734885242 vs -2734885242: ok; fare+non-fare 2371712621 vs revenue 2371712621: ok",
+   "notes": "Regrouped vs the 2016-17 report: operating expenses 1,271,041,056 (was 1,261,278,616), other expenses 176,668,111 (was 186,430,551); totals and loss unchanged."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "MMOPL_2017-18_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 291.4286,
+    "page": 11,
+    "quote": "(I) Revenue from operations 18 2,914,285,750 2,371,712,621"
+   },
+   "fare_revenue": {
+    "cr": 254.4784,
+    "page": 26,
+    "quote": "a) Income from collection of fares from passengers 2,544,783,901 2,127,286,640"
+   },
+   "non_fare_revenue": {
+    "cr": 36.9502,
+    "page": 26,
+    "quote": "b) Other operating income - Rental 105,835,818 - Advertisement 138,434,845 - Others 125,231,186 (sum)"
+   },
+   "other_income": {
+    "cr": 27.0944,
+    "page": 11,
+    "quote": "(II) Other income 19 270,943,999 38,309,773"
+   },
+   "total_income": {
+    "cr": 318.523,
+    "page": 11,
+    "quote": "(III) Total Income (I+II) 3,185,229,749 2,410,022,394"
+   },
+   "operating_expenses": {
+    "cr": 153.5879,
+    "page": 11,
+    "quote": "Operating expenses 20 1,535,879,217 1,271,041,056"
+   },
+   "employee_cost": {
+    "cr": 20.9569,
+    "page": 11,
+    "quote": "Employee benefits expenses 21 209,569,042 178,884,578"
+   },
+   "finance_cost": {
+    "cr": 252.7094,
+    "page": 11,
+    "quote": "Finance costs 22 2,527,094,223 2,406,560,159"
+   },
+   "depreciation": {
+    "cr": 111.2464,
+    "page": 11,
+    "quote": "Amortisation expenses 5 1,112,463,907 1,111,753,732"
+   },
+   "other_expenses": {
+    "cr": 18.3275,
+    "page": 11,
+    "quote": "Other expenses 23 183,274,777 176,668,111"
+   },
+   "total_expenses": {
+    "cr": 556.8281,
+    "page": 11,
+    "quote": "Total expenses (IV) 5,568,281,166 5,144,907,636"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 11,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -238.3051,
+    "page": 11,
+    "quote": "Loss for the year (III-IV) (2,383,051,417) (2,734,885,242)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 11,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -238.3051,
+    "page": 11,
+    "quote": "Loss for the year (III-IV) (2,383,051,417) (2,734,885,242)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 2914285750+270943999=3185229749 vs 3185229749: ok; sum of expense lines 5568281166 vs total 5568281166: ok; PBT 3185229749-5568281166+0=-2383051417 vs -2383051417: ok; fare+non-fare 2914285750 vs revenue 2914285750: ok",
+   "notes": "Other income includes Rs 274,729,762 reversal of creditors for capital expenditure (Note 19 p26). OCI 179,787; total comprehensive loss (2,382,871,630). The 2018-19 report repeats this year in lakh with the same totals (some sub-lines regrouped). Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "MMOPL_2018-19_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 291.4286,
+    "page": 13,
+    "quote": "(I) Revenue from operations 18 32,988.49 29,142.86"
+   },
+   "fare_revenue": {
+    "cr": 254.4784,
+    "page": 30,
+    "quote": "a) Income from collection of fares from passengers 29,324.43 25,447.84"
+   },
+   "non_fare_revenue": {
+    "cr": 36.9502,
+    "page": 30,
+    "quote": "b) Other operating income - Rental 1,090.86 - Advertisement 1,384.35 - Others 1,219.81 (sum)"
+   },
+   "other_income": {
+    "cr": 27.0944,
+    "page": 13,
+    "quote": "(II) Other income 19 (755.50) 2,709.44"
+   },
+   "total_income": {
+    "cr": 318.523,
+    "page": 13,
+    "quote": "(III) Total Income (I+II) 32,232.99 31,852.30"
+   },
+   "operating_expenses": {
+    "cr": 153.588,
+    "page": 13,
+    "quote": "Operating expenses 20 13,780.77 15,358.80"
+   },
+   "employee_cost": {
+    "cr": 20.9569,
+    "page": 13,
+    "quote": "Employee benefits expense 21 2,504.76 2,095.69"
+   },
+   "finance_cost": {
+    "cr": 252.7094,
+    "page": 13,
+    "quote": "Finance costs 22 26,318.80 25,270.94"
+   },
+   "depreciation": {
+    "cr": 111.2464,
+    "page": 13,
+    "quote": "Amortisation expense 5 11,215.96 11,124.64"
+   },
+   "other_expenses": {
+    "cr": 18.3276,
+    "page": 13,
+    "quote": "Other expenses 23 1,947.62 1,832.76"
+   },
+   "total_expenses": {
+    "cr": 556.8283,
+    "page": 13,
+    "quote": "Total expenses (IV) 55,767.91 55,682.83"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 13,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -238.3053,
+    "page": 13,
+    "quote": "Loss for the year (III-IV) (23,534.92) (23,830.53)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 13,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -238.3053,
+    "page": 13,
+    "quote": "Loss for the year (III-IV) (23,534.92) (23,830.53)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 29142.86+2709.44=31852.3 vs 31852.3: ok; sum of expense lines 55682.83 vs total 55682.83: ok; PBT 31852.3-55682.83+0=-23830.53 vs -23830.53: ok; fare+non-fare 29142.86 vs revenue 29142.86: ok",
+   "notes": "Same totals as the 2017-18 report (in rupees) after conversion; non-fare sub-lines regrouped (Rental 1,090.86 lakh vs 1,058.36 lakh originally), sum unchanged."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "MMOPL_2018-19_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 329.8849,
+    "page": 13,
+    "quote": "(I) Revenue from operations 18 32,988.49 29,142.86"
+   },
+   "fare_revenue": {
+    "cr": 293.2443,
+    "page": 30,
+    "quote": "a) Income from collection of fares from passengers 29,324.43 25,447.84"
+   },
+   "non_fare_revenue": {
+    "cr": 36.6406,
+    "page": 30,
+    "quote": "b) Other operating income - Rental 1,372.58 - Advertisement 1,560.56 - Others 730.92 (sum)"
+   },
+   "other_income": {
+    "cr": -7.555,
+    "page": 13,
+    "quote": "(II) Other income 19 (755.50) 2,709.44"
+   },
+   "total_income": {
+    "cr": 322.3299,
+    "page": 13,
+    "quote": "(III) Total Income (I+II) 32,232.99 31,852.30"
+   },
+   "operating_expenses": {
+    "cr": 137.8077,
+    "page": 13,
+    "quote": "Operating expenses 20 13,780.77 15,358.80"
+   },
+   "employee_cost": {
+    "cr": 25.0476,
+    "page": 13,
+    "quote": "Employee benefits expense 21 2,504.76 2,095.69"
+   },
+   "finance_cost": {
+    "cr": 263.188,
+    "page": 13,
+    "quote": "Finance costs 22 26,318.80 25,270.94"
+   },
+   "depreciation": {
+    "cr": 112.1596,
+    "page": 13,
+    "quote": "Amortisation expense 5 11,215.96 11,124.64"
+   },
+   "other_expenses": {
+    "cr": 19.4762,
+    "page": 13,
+    "quote": "Other expenses 23 1,947.62 1,832.76"
+   },
+   "total_expenses": {
+    "cr": 557.6791,
+    "page": 13,
+    "quote": "Total expenses (IV) 55,767.91 55,682.83"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 13,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -235.3492,
+    "page": 13,
+    "quote": "Loss for the year (III-IV) (23,534.92) (23,830.53)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 13,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -235.3492,
+    "page": 13,
+    "quote": "Loss for the year (III-IV) (23,534.92) (23,830.53)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 32988.49+-755.5=32232.99 vs 32232.99: ok; sum of expense lines 55767.91 vs total 55767.91: ok; PBT 32232.99-55767.91+0=-23534.92 vs -23534.92: ok; fare+non-fare 32988.49 vs revenue 32988.49: ok",
+   "notes": "Other income is negative: foreign-exchange loss (782.90) lakh (Note 19 p30). OCI (22.26); total comprehensive loss (23,557.18). Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "MMOPL_2019-20_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 329.8849,
+    "page": 14,
+    "quote": "(I) Revenue from operations 18 34,639.62 32,988.49"
+   },
+   "fare_revenue": {
+    "cr": 293.2443,
+    "page": 31,
+    "quote": "a) Income from collection of fares from passengers 30,042.38 29,324.43"
+   },
+   "non_fare_revenue": {
+    "cr": 36.6406,
+    "page": 31,
+    "quote": "b) Other operating income - Rental 1,372.58 - Advertisement 1,560.56 - Others 730.92 (sum)"
+   },
+   "other_income": {
+    "cr": -7.555,
+    "page": 14,
+    "quote": "(II) Other income 19 (975.91) (755.50)"
+   },
+   "total_income": {
+    "cr": 322.3299,
+    "page": 14,
+    "quote": "(III) Total Income (I+II) 33,663.71 32,232.99"
+   },
+   "operating_expenses": {
+    "cr": 139.5509,
+    "page": 14,
+    "quote": "Operating expenses 20 9,575.70 13,955.09"
+   },
+   "employee_cost": {
+    "cr": 25.0476,
+    "page": 14,
+    "quote": "Employee benefits expense 21 5,943.15 2,504.76"
+   },
+   "finance_cost": {
+    "cr": 263.188,
+    "page": 14,
+    "quote": "Finance costs 22 28,071.24 26,318.80"
+   },
+   "depreciation": {
+    "cr": 112.1596,
+    "page": 14,
+    "quote": "Amortisation expense 5 11,397.50 11,215.96"
+   },
+   "other_expenses": {
+    "cr": 17.733,
+    "page": 14,
+    "quote": "Other expenses 23 2,833.33 1,773.30"
+   },
+   "total_expenses": {
+    "cr": 557.6791,
+    "page": 14,
+    "quote": "Total expenses (IV) 57,820.92 55,767.91"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 14,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -235.3492,
+    "page": 14,
+    "quote": "Loss for the period (III-IV) (24,157.21) (23,534.92)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 14,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -235.3492,
+    "page": 14,
+    "quote": "Loss for the period (III-IV) (24,157.21) (23,534.92)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 32988.49+-755.5=32232.99 vs 32232.99: ok; sum of expense lines 55767.91 vs total 55767.91: ok; PBT 32232.99-55767.91+0=-23534.92 vs -23534.92: ok; fare+non-fare 32988.49 vs revenue 32988.49: ok",
+   "notes": "Regrouped vs the 2018-19 report: operating expenses 13,955.09 (was 13,780.77), other expenses 1,773.30 (was 1,947.62); totals and loss unchanged."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "MMOPL_2019-20_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 346.3962,
+    "page": 14,
+    "quote": "(I) Revenue from operations 18 34,639.62 32,988.49"
+   },
+   "fare_revenue": {
+    "cr": 300.4238,
+    "page": 31,
+    "quote": "a) Income from collection of fares from passengers 30,042.38 29,324.43"
+   },
+   "non_fare_revenue": {
+    "cr": 45.9724,
+    "page": 31,
+    "quote": "b) Other operating income - Rental 1,596.56 - Advertisement 1,381.26 - Others 1,619.42 (sum)"
+   },
+   "other_income": {
+    "cr": -9.7591,
+    "page": 14,
+    "quote": "(II) Other income 19 (975.91) (755.50)"
+   },
+   "total_income": {
+    "cr": 336.6371,
+    "page": 14,
+    "quote": "(III) Total Income (I+II) 33,663.71 32,232.99"
+   },
+   "operating_expenses": {
+    "cr": 95.757,
+    "page": 14,
+    "quote": "Operating expenses 20 9,575.70 13,955.09"
+   },
+   "employee_cost": {
+    "cr": 59.4315,
+    "page": 14,
+    "quote": "Employee benefits expense 21 5,943.15 2,504.76"
+   },
+   "finance_cost": {
+    "cr": 280.7124,
+    "page": 14,
+    "quote": "Finance costs 22 28,071.24 26,318.80"
+   },
+   "depreciation": {
+    "cr": 113.975,
+    "page": 14,
+    "quote": "Amortisation expense 5 11,397.50 11,215.96"
+   },
+   "other_expenses": {
+    "cr": 28.3333,
+    "page": 14,
+    "quote": "Other expenses 23 2,833.33 1,773.30"
+   },
+   "total_expenses": {
+    "cr": 578.2092,
+    "page": 14,
+    "quote": "Total expenses (IV) 57,820.92 55,767.91"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 14,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -241.5721,
+    "page": 14,
+    "quote": "Loss for the period (III-IV) (24,157.21) (23,534.92)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 14,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -241.5721,
+    "page": 14,
+    "quote": "Loss for the period (III-IV) (24,157.21) (23,534.92)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 34639.62+-975.91=33663.71 vs 33663.71: ok; sum of expense lines 57820.92 vs total 57820.92: ok; PBT 33663.71-57820.92+0=-24157.21 vs -24157.21: ok; fare+non-fare 34639.62 vs revenue 34639.62: ok",
+   "notes": "Auditors changed to Shridhar & Associates. The auditor's report (pp1-11) has a text layer; the statements are scanned images. Other income negative: forex loss (1,073.10) lakh. OCI (55.48); total comprehensive loss (24,212.69). Regrouped in the 2020-21 report (see 2019-20 'previous'). Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "MMOPL_2020-21_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 346.3962,
+    "page": 14,
+    "quote": "(I) Revenue from operations 18 5,126.47 34,639.62"
+   },
+   "fare_revenue": {
+    "cr": 300.4238,
+    "page": 31,
+    "quote": "a) Income from collection of fares from passengers 2,610.35 30,042.38"
+   },
+   "non_fare_revenue": {
+    "cr": 45.9724,
+    "page": 31,
+    "quote": "b) Other operating income - Rental 1,596.56 - Advertisement 1,381.26 - Others 1,619.42 (sum)"
+   },
+   "other_income": {
+    "cr": -9.7591,
+    "page": 14,
+    "quote": "(II) Other income 19 1,115.96 (975.91)"
+   },
+   "total_income": {
+    "cr": 336.6371,
+    "page": 14,
+    "quote": "(III) Total Income (I+II) 6,242.43 33,663.71"
+   },
+   "operating_expenses": {
+    "cr": 101.0946,
+    "page": 14,
+    "quote": "Operating expenses 20 3,957.70 10,109.46"
+   },
+   "employee_cost": {
+    "cr": 54.0939,
+    "page": 14,
+    "quote": "Employee benefits expense 21 3,560.26 5,409.39"
+   },
+   "finance_cost": {
+    "cr": 280.7124,
+    "page": 14,
+    "quote": "Finance costs 22 27,824.05 28,071.24"
+   },
+   "depreciation": {
+    "cr": 113.975,
+    "page": 14,
+    "quote": "Amortisation expense 5 11,306.37 11,397.50"
+   },
+   "other_expenses": {
+    "cr": 28.3333,
+    "page": 14,
+    "quote": "Other expenses 23 1,634.45 2,833.33"
+   },
+   "total_expenses": {
+    "cr": 578.2092,
+    "page": 14,
+    "quote": "Total expenses (IV) 48,282.83 57,820.92"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 14,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -241.5721,
+    "page": 14,
+    "quote": "Loss for the year (III-IV) (42,040.40) (24,157.21)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 14,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -241.5721,
+    "page": 14,
+    "quote": "Loss for the year (III-IV) (42,040.40) (24,157.21)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 34639.62+-975.91=33663.71 vs 33663.71: ok; sum of expense lines 57820.92 vs total 57820.92: ok; PBT 33663.71-57820.92+0=-24157.21 vs -24157.21: ok; fare+non-fare 34639.62 vs revenue 34639.62: ok",
+   "notes": "Regrouped vs the 2019-20 report: operating expenses 10,109.46 (was 9,575.70), employee benefits 5,409.39 (was 5,943.15); totals and loss unchanged."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "MMOPL_2020-21_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 51.2647,
+    "page": 14,
+    "quote": "(I) Revenue from operations 18 5,126.47 34,639.62"
+   },
+   "fare_revenue": {
+    "cr": 26.1035,
+    "page": 31,
+    "quote": "a) Income from collection of fares from passengers 2,610.35 30,042.38"
+   },
+   "non_fare_revenue": {
+    "cr": 25.1612,
+    "page": 31,
+    "quote": "b) Other operating income - Rental 934.41 - Advertisement 600.89 - Others 980.82 (sum)"
+   },
+   "other_income": {
+    "cr": 11.1596,
+    "page": 14,
+    "quote": "(II) Other income 19 1,115.96 (975.91)"
+   },
+   "total_income": {
+    "cr": 62.4243,
+    "page": 14,
+    "quote": "(III) Total Income (I+II) 6,242.43 33,663.71"
+   },
+   "operating_expenses": {
+    "cr": 39.577,
+    "page": 14,
+    "quote": "Operating expenses 20 3,957.70 10,109.46"
+   },
+   "employee_cost": {
+    "cr": 35.6026,
+    "page": 14,
+    "quote": "Employee benefits expense 21 3,560.26 5,409.39"
+   },
+   "finance_cost": {
+    "cr": 278.2405,
+    "page": 14,
+    "quote": "Finance costs 22 27,824.05 28,071.24"
+   },
+   "depreciation": {
+    "cr": 113.0637,
+    "page": 14,
+    "quote": "Amortisation expense 5 11,306.37 11,397.50"
+   },
+   "other_expenses": {
+    "cr": 16.3445,
+    "page": 14,
+    "quote": "Other expenses 23 1,634.45 2,833.33"
+   },
+   "total_expenses": {
+    "cr": 482.8283,
+    "page": 14,
+    "quote": "Total expenses (IV) 48,282.83 57,820.92"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 14,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -420.404,
+    "page": 14,
+    "quote": "Loss for the year (III-IV) (42,040.40) (24,157.21)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 14,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -420.404,
+    "page": 14,
+    "quote": "Loss for the year (III-IV) (42,040.40) (24,157.21)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 5126.47+1115.96=6242.43 vs 6242.43: ok; sum of expense lines 48282.83 vs total 48282.83: ok; PBT 6242.43-48282.83+0=-42040.4 vs -42040.4: ok; fare+non-fare 5126.47 vs revenue 5126.47: ok",
+   "notes": "OCI 71.53; total comprehensive loss (41,968.87). Financial statements only (no Directors' Report): no ridership or route km in the document."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "MMOPL_2021-22_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 51.2647,
+    "page": 16,
+    "quote": "(I) Revenue from operations 19 14,869.93 5,126.47"
+   },
+   "fare_revenue": {
+    "cr": 26.1035,
+    "page": 34,
+    "quote": "a) Income from collection of fares from passengers 9,472.53 2,610.35"
+   },
+   "non_fare_revenue": {
+    "cr": 25.1612,
+    "page": 34,
+    "quote": "b) Other operating income - Rental 934.41 - Advertisement 600.89 - Others 980.82 (sum)"
+   },
+   "other_income": {
+    "cr": 11.1596,
+    "page": 16,
+    "quote": "(II) Other income 20 83.96 1,115.96"
+   },
+   "total_income": {
+    "cr": 62.4243,
+    "page": 16,
+    "quote": "(III) Total Income (I+II) 14,953.89 6,242.43"
+   },
+   "operating_expenses": {
+    "cr": 39.577,
+    "page": 16,
+    "quote": "Operating expenses 21 4,739.59 3,957.70"
+   },
+   "employee_cost": {
+    "cr": 35.6026,
+    "page": 16,
+    "quote": "Employee benefits expense 22 5,836.31 3,560.26"
+   },
+   "finance_cost": {
+    "cr": 278.2405,
+    "page": 16,
+    "quote": "Finance costs 23 30,499.22 27,824.05"
+   },
+   "depreciation": {
+    "cr": 113.0637,
+    "page": 16,
+    "quote": "Amortisation expense 5 11,372.09 11,306.37"
+   },
+   "other_expenses": {
+    "cr": 16.3445,
+    "page": 16,
+    "quote": "Other expenses 24 1,941.16 1,634.45"
+   },
+   "total_expenses": {
+    "cr": 482.8283,
+    "page": 16,
+    "quote": "Total expenses (IV) 54,388.37 48,282.83"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "Exceptional Items 564.62 - (previous year '-')"
+   },
+   "profit_before_tax": {
+    "cr": -420.404,
+    "page": 16,
+    "quote": "Loss before exceptional items for the year (III-IV) (39,434.48) (42,040.40)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 16,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -420.404,
+    "page": 16,
+    "quote": "Loss before exceptional items (42,040.40); total comprehensive loss (41,968.87); OCI 71.53"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 5126.47+1115.96=6242.43 vs 6242.43: ok; sum of expense lines 48282.83 vs total 48282.83: ok; PBT 6242.43-48282.83+0=-42040.4 vs -42040.4: ok; fare+non-fare 5126.47 vs revenue 5126.47: ok",
+   "notes": "Identical to the 2020-21 report."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "MMOPL_2021-22_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 148.6993,
+    "page": 16,
+    "quote": "(I) Revenue from operations 19 14,869.93 5,126.47"
+   },
+   "fare_revenue": {
+    "cr": 94.7253,
+    "page": 34,
+    "quote": "a) Income from collection of fares from passengers 9,472.53 2,610.35"
+   },
+   "non_fare_revenue": {
+    "cr": 53.974,
+    "page": 34,
+    "quote": "Total 14,869.93 less a) fares 9,472.53 = b) Other operating income (Rental 1,482.4[6/8, scan unclear] + Advertisement 1,100.07 + Others 2,814.85)"
+   },
+   "other_income": {
+    "cr": 0.8396,
+    "page": 16,
+    "quote": "(II) Other income 20 83.96 1,115.96"
+   },
+   "total_income": {
+    "cr": 149.5389,
+    "page": 16,
+    "quote": "(III) Total Income (I+II) 14,953.89 6,242.43"
+   },
+   "operating_expenses": {
+    "cr": 47.3959,
+    "page": 16,
+    "quote": "Operating expenses 21 4,739.59 3,957.70"
+   },
+   "employee_cost": {
+    "cr": 58.3631,
+    "page": 16,
+    "quote": "Employee benefits expense 22 5,836.31 3,560.26"
+   },
+   "finance_cost": {
+    "cr": 304.9922,
+    "page": 16,
+    "quote": "Finance costs 23 30,499.22 27,824.05"
+   },
+   "depreciation": {
+    "cr": 113.7209,
+    "page": 16,
+    "quote": "Amortisation expense 5 11,372.09 11,306.37"
+   },
+   "other_expenses": {
+    "cr": 19.4116,
+    "page": 16,
+    "quote": "Other expenses 24 1,941.16 1,634.45"
+   },
+   "total_expenses": {
+    "cr": 543.8837,
+    "page": 16,
+    "quote": "Total expenses (IV) 54,388.37 48,282.83"
+   },
+   "exceptional_items": {
+    "cr": 5.6462,
+    "page": 16,
+    "quote": "-Exceptional Income on account of reversal of creditors for capital expenditure 25 564.62 -"
+   },
+   "profit_before_tax": {
+    "cr": -388.6986,
+    "page": 16,
+    "quote": "Loss before exceptional items for the year (III-IV) (39,434.48); Exceptional Items 564.62; Total comprehensive loss (39,034.95); OCI (165.09)"
+   },
+   "tax": {
+    "cr": null,
+    "page": 16,
+    "quote": "no tax line"
+   },
+   "profit_after_tax": {
+    "cr": -388.6986,
+    "page": 16,
+    "quote": "'Loss after exceptional items for the year 564.62' (misprint) — see notes"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 14869.93+83.96=14953.89 vs 14953.89: ok; sum of expense lines 54388.37 vs total 54388.37: ok; PBT 14953.89-54388.37+564.62=-38869.86 vs -38869.86: ok; fare+non-fare 14869.93 vs revenue 14869.93: ok",
+   "notes": "The line 'Loss after exceptional items for the year' is misprinted as 564.62 (it repeats the exceptional item). PBT/PAT -38,869.86 lakh = (39,434.48) + 564.62, and agrees with the printed total comprehensive loss (39,034.95) less OCI (165.09); no other source in the document. Loss before exceptional items (39,434.48) lakh. Financial statements only (no Directors' Report): no ridership or route km in the document."
+  }
+ ]
+}

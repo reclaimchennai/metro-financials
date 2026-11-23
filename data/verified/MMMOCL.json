@@ -1,0 +1,207 @@
+{
+ "operator": "MMMOCL",
+ "documents": [
+  {
+   "file": "MMMOCL_2023-24_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "Form MGT-7 for FY 01/04/2023-31/03/2024, Maha Mumbai Metro (M3) Operation Corporation Ltd, CIN U74999MH2019SGC326460 (name read by OCR of p.1; form fields not in text layer). Only turnover and net worth (p.7). Number of business activities stated as 0."
+  },
+  {
+   "file": "MMMOCL_2024-25_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "Form MGT-7 (new format) for FY 01/04/2024-31/03/2025, Maha Mumbai Metro (M3) Operation Corporation Ltd. Turnover and net worth on p.9 (section heading p.8). Main activity: Land transport, 100% of turnover."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2023-24",
+   "source_file": "MMMOCL_2023-24_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "(i) Turnover 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "not applicable: Annual Return gives turnover and net worth only",
+   "notes": "Annual Return (MGT-7): turnover recorded as revenue_from_operations; nothing else available. Turnover stated as 0 for FY 2023-24 (the form gives no explanation). The form also states net worth ₹84,81,82,000."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "MMMOCL_2024-25_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 87.5132,
+    "page": 9,
+    "quote": "i *Turnover 875132000"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "not applicable: Annual Return gives turnover and net worth only",
+   "notes": "Annual Return (MGT-7): turnover recorded as revenue_from_operations; nothing else available. The form also states net worth ₹ -7,79,08,000 (negative)."
+  }
+ ]
+}

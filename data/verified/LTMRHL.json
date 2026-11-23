@@ -1,0 +1,2816 @@
+{
+ "operator": "LTMRHL",
+ "documents": [
+  {
+   "file": "LTMRHL_2015-16_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 44,
+   "note": "IGAAP P&L p44; pre-operations, only other income/other expenses"
+  },
+  {
+   "file": "LTMRHL_2016-17_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 32,
+   "note": "First Ind AS P&L p32 (2015-16 restated); construction contract revenue shown in income"
+  },
+  {
+   "file": "LTMRHL_2017-18_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 35,
+   "note": "P&L p35; fare split Note 23 p49"
+  },
+  {
+   "file": "LTMRHL_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 24,
+   "note": "P&L p24; fare split Note 20 p35"
+  },
+  {
+   "file": "LTMRHL_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 45,
+   "note": "P&L p45 (₹, Indian digit grouping); fare split Note 19 p58"
+  },
+  {
+   "file": "LTMRHL_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 45,
+   "note": "P&L p45 (₹ crore); Note 18 p57"
+  },
+  {
+   "file": "LTMRHL_2020-21_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7, turnover p7"
+  },
+  {
+   "file": "LTMRHL_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 63,
+   "note": "P&L p63; Note 19 p78"
+  },
+  {
+   "file": "LTMRHL_2021-22_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7, turnover p7"
+  },
+  {
+   "file": "LTMRHL_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 68,
+   "note": "P&L p68; Note 19 p85"
+  },
+  {
+   "file": "LTMRHL_2022-23_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 XFA dynamic form: the page shows only 'Please wait...'; turnover/net worth read from embedded XFA datasets"
+  },
+  {
+   "file": "LTMRHL_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 85,
+   "note": "P&L p85; Note 19 p102"
+  },
+  {
+   "file": "LTMRHL_2023-24_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 XFA form; values from embedded XFA datasets"
+  },
+  {
+   "file": "LTMRHL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 96,
+   "note": "Financial statements scanned (garbled OCR layer); P&L p96 and Note 19 p110 read from rendered images; Directors' Report is text"
+  },
+  {
+   "file": "LTMRHL_2025-26_Financial_Results.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 6,
+   "note": "Audited results for quarter and year ended 31 Mar 2026 (₹ lakh), p6; audit report p2-4"
+  },
+  {
+   "file": "LTMRHL_2026-27_H1_Financial_Results.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 3,
+   "note": "Unaudited (limited review) results for quarter and half year ended 30 Sep 2026 (₹ lakh), p3; balance sheet p2"
+  }
+ ],
+ "years": [
+  {
+   "fy": "2015-16",
+   "source_file": "LTMRHL_2015-16_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 44,
+    "quote": "Revenue from operations  -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 14.2662,
+    "page": 44,
+    "quote": "Other Income J 14,26,61,680"
+   },
+   "total_income": {
+    "cr": 14.2662,
+    "page": 44,
+    "quote": "Total Revenue 14,26,61,680"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": 21.4024,
+    "page": 44,
+    "quote": "Other expenses K 21,40,24,039"
+   },
+   "total_expenses": {
+    "cr": 21.4024,
+    "page": 44,
+    "quote": "Total Expenses 21,40,24,039"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -7.1362,
+    "page": 44,
+    "quote": "Profit/(Loss) before tax (7,13,62,359)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 44,
+    "quote": "Current tax -  Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -7.1362,
+    "page": 44,
+    "quote": "Profit after tax carried to Balance Sheet (7,13,62,359)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 0 + 14.27 ok; PBT = 14.27 - 21.40 = -7.14 ok",
+   "notes": "Pre-operations (IGAAP). Only 'Other expenses' line on face of P&L. Project length 71.16 km (p53) is the planned project, not operational. RESTATED in the 2016-17 report under Ind AS (PBT +2.91 cr instead of -7.14 cr, with construction contract revenue/expense of 2,524.68 cr shown)"
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "LTMRHL_2015-16_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 44,
+    "quote": "Revenue from operations  -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 5.4778,
+    "page": 44,
+    "quote": "Other Income J 5,47,77,891"
+   },
+   "total_income": {
+    "cr": 5.4778,
+    "page": 44,
+    "quote": "Total Revenue 5,47,77,891"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": 19.2936,
+    "page": 44,
+    "quote": "Other expenses K 19,29,36,274"
+   },
+   "total_expenses": {
+    "cr": 19.2936,
+    "page": 44,
+    "quote": "Total Expenses 19,29,36,274"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -13.8158,
+    "page": 44,
+    "quote": "Profit/(Loss) before tax (13,81,58,383)"
+   },
+   "tax": {
+    "cr": 0.2914,
+    "page": 44,
+    "quote": "Current tax 29,13,821"
+   },
+   "profit_after_tax": {
+    "cr": -14.1072,
+    "page": 44,
+    "quote": "Profit after tax carried to Balance Sheet (14,10,72,204)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income ok; PBT = 5.48 - 19.29 = -13.82 ok; PAT = PBT - 0.29 ok",
+   "notes": "Pre-operations (IGAAP)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "LTMRHL_2016-17_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 32,
+    "quote": "Revenue from Operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 19.1818,
+    "page": 32,
+    "quote": "Other income 21 191,818,336"
+   },
+   "total_income": {
+    "cr": 1582.1206,
+    "page": 32,
+    "quote": "Total Revenue 15,821,206,238"
+   },
+   "employee_cost": {
+    "cr": 2.2017,
+    "page": 32,
+    "quote": "Employee benefit expenses 22 22,017,143"
+   },
+   "finance_cost": {
+    "cr": 1.4651,
+    "page": 32,
+    "quote": "Finance costs 23 14,651,375"
+   },
+   "depreciation": {
+    "cr": 1.6006,
+    "page": 32,
+    "quote": "Depreciation and amortisation 16,005,920"
+   },
+   "other_expenses": {
+    "cr": 10.3787,
+    "page": 32,
+    "quote": "Administration and other expenses 24 103,786,554"
+   },
+   "total_expenses": {
+    "cr": 1578.5849,
+    "page": 32,
+    "quote": "Total Expenses 15,785,848,895"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 3.5357,
+    "page": 32,
+    "quote": "Profit/(loss) before tax 35,357,344"
+   },
+   "tax": {
+    "cr": 0.7149,
+    "page": 32,
+    "quote": "Tax Expense ... 7,149,278"
+   },
+   "profit_after_tax": {
+    "cr": 2.8208,
+    "page": 32,
+    "quote": "Profit/(loss) after tax for the year 28,208,066"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 0 + 1,562.94 (construction contract revenue 15,629,387,902) + 19.18 = 1,582.12 ok; PBT = 1,582.12 - 1,578.58 = 3.54 ok",
+   "notes": "Total income includes construction contract revenue ₹1,562.94 cr (Ind AS 11/Appendix A service concession; matched by equal construction contract expense in total expenses). Operations had not begun. RESTATED in 2017-18 report: revenue from operations 10.06 cr (100,554,747, fare 0, advertising 9.39 cr etc. per Note 23 p49) and other income 9.13 cr (reclassified out of other income); admin 4.98 cr, finance cost 4.90 cr; totals and PBT unchanged. Also the 2016-17 report prints Total Comprehensive Income (259,189,873) = OCI only (should be PAT + OCI = (230,981,808), as the 2017-18 report shows)."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "LTMRHL_2016-17_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 32,
+    "quote": "Revenue from Operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 14.2662,
+    "page": 32,
+    "quote": "Other income 21 142,661,680"
+   },
+   "total_income": {
+    "cr": 2538.9412,
+    "page": 32,
+    "quote": "Total Revenue 25,389,412,100"
+   },
+   "employee_cost": {
+    "cr": 0.4233,
+    "page": 32,
+    "quote": "Employee benefit expenses 4,233,347"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 32,
+    "quote": "Finance costs -"
+   },
+   "depreciation": {
+    "cr": 0.0,
+    "page": 32,
+    "quote": "Depreciation and amortisation -"
+   },
+   "other_expenses": {
+    "cr": 10.9317,
+    "page": 32,
+    "quote": "Administration and other expenses 109,316,764"
+   },
+   "total_expenses": {
+    "cr": 2536.0301,
+    "page": 32,
+    "quote": "Total Expenses 25,360,300,531"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 2.9112,
+    "page": 32,
+    "quote": "Profit/(loss) before tax 29,111,569"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 32,
+    "quote": "Tax ... -"
+   },
+   "profit_after_tax": {
+    "cr": 2.9112,
+    "page": 32,
+    "quote": "Profit/(loss) after tax for the year 29,111,569"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 0 + 2,524.68 (construction contract revenue 25,246,750,420) + 14.27 = 2,538.94 ok; PBT ok",
+   "notes": "RESTATEMENT of 2015-16 under Ind AS (transition). The 2015-16 IGAAP report showed loss before tax (7.14) cr; Ind AS comparative shows profit 2.91 cr, with construction contract revenue/expense 2,524.68 cr."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "LTMRHL_2017-18_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 62.6578,
+    "page": 35,
+    "quote": "Revenue from Operations 23 626,578,342"
+   },
+   "fare_revenue": {
+    "cr": 28.6036,
+    "page": 49,
+    "quote": "Fare revenue 286,035,696"
+   },
+   "non_fare_revenue": {
+    "cr": 34.0543,
+    "page": 49,
+    "quote": "computed 626,578,342 - fare 286,035,696 = lease rentals 154,632,605 + advertising 163,282,224 + consultancy 6,754,232 + other 15,873,585"
+   },
+   "other_income": {
+    "cr": 6.8691,
+    "page": 35,
+    "quote": "Other income 24 68,691,251"
+   },
+   "total_income": {
+    "cr": 1415.5798,
+    "page": 35,
+    "quote": "Total Income 14,155,798,308"
+   },
+   "employee_cost": {
+    "cr": 5.068,
+    "page": 35,
+    "quote": "Employee benefit expenses 26 50,680,056"
+   },
+   "finance_cost": {
+    "cr": 50.5867,
+    "page": 35,
+    "quote": "Finance costs 28 505,866,760"
+   },
+   "depreciation": {
+    "cr": 16.6986,
+    "page": 35,
+    "quote": "Depreciation and amortisation 166,985,670"
+   },
+   "other_expenses": {
+    "cr": 55.5337,
+    "page": 35,
+    "quote": "Operating expenses 410,660,612 + Administration and other expenses 144,676,858 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1473.9399,
+    "page": 35,
+    "quote": "Total Expenses 14,739,398,671"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -58.36,
+    "page": 35,
+    "quote": "Profit/(loss) before tax (583,600,362)"
+   },
+   "tax": {
+    "cr": -0.0023,
+    "page": 35,
+    "quote": "Deferred tax (23,238)"
+   },
+   "profit_after_tax": {
+    "cr": -58.3577,
+    "page": 35,
+    "quote": "Profit/(loss) after tax for the year (583,577,124)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 29.748,
+    "page": 65,
+    "quote": "commenced commercial operations of metro rail system in 29.748 Kms with effect from [29 Nov 2017]"
+   },
+   "checks": "total income = 62.66 + 1,346.05 (construction) + 6.87 = 1,415.58 ok; PBT = 1,415.58 - 1,473.94 = -58.36 ok",
+   "notes": "First year of operations (from 29 Nov 2017). Total income includes construction contract revenue ₹1,346.05 cr (13,460,528,715), matched by equal construction contract expense. other_expenses = operating + administration (not incl. construction contract expense). RESTATED in 2018-19 report: revenue from ops 630,866,571, other income 64,403,022, operating exp 421,307,082, admin 134,030,388 (reclassification; totals and PBT unchanged)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "LTMRHL_2017-18_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 10.0555,
+    "page": 35,
+    "quote": "Revenue from Operations 23 ... 100,554,747"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 49,
+    "quote": "Fare revenue  -"
+   },
+   "non_fare_revenue": {
+    "cr": 10.0555,
+    "page": 49,
+    "quote": "Lease rentals 3,993,014; Advertising revenue 93,915,733; Consultancy and training 2,646,000 (total 100,554,747)"
+   },
+   "other_income": {
+    "cr": 9.1264,
+    "page": 35,
+    "quote": "Other income 24 ... 91,263,589"
+   },
+   "total_income": {
+    "cr": 1582.1206,
+    "page": 35,
+    "quote": "Total Income ... 15,821,206,238"
+   },
+   "employee_cost": {
+    "cr": 2.2017,
+    "page": 35,
+    "quote": "Employee benefit expenses ... 22,017,143"
+   },
+   "finance_cost": {
+    "cr": 4.9024,
+    "page": 35,
+    "quote": "Finance costs ... 49,023,585"
+   },
+   "depreciation": {
+    "cr": 1.6006,
+    "page": 35,
+    "quote": "Depreciation and amortisation ... 16,005,920"
+   },
+   "other_expenses": {
+    "cr": 6.9414,
+    "page": 35,
+    "quote": "Operating expenses 19,635,197 + Administration and other expenses 49,779,147 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1578.5849,
+    "page": 35,
+    "quote": "Total Expenses ... 15,785,848,895"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 3.5357,
+    "page": 35,
+    "quote": "Profit/(loss) before tax ... 35,357,344"
+   },
+   "tax": {
+    "cr": 0.7149,
+    "page": 35,
+    "quote": "... 7,149,278"
+   },
+   "profit_after_tax": {
+    "cr": 2.8208,
+    "page": 35,
+    "quote": "Profit/(loss) after tax for the year ... 28,208,066"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 10.06 + 1,562.94 + 9.13 = 1,582.12 ok; PBT ok",
+   "notes": "RESTATED/reclassified comparative: the 2016-17 report showed revenue from operations nil and other income 19.18 cr; here 10.06 cr moved to revenue from operations. Totals unchanged."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "LTMRHL_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 313.0313,
+    "page": 24,
+    "quote": "Revenue from Operations 20 3,130,312,864"
+   },
+   "fare_revenue": {
+    "cr": 166.4148,
+    "page": 35,
+    "quote": "Fare revenue 1,664,147,670"
+   },
+   "non_fare_revenue": {
+    "cr": 146.6165,
+    "page": 35,
+    "quote": "computed 3,130,312,864 - fare = lease rentals 807,385,643 + advertising 295,637,631 + consultancy 13,611,712 + other 349,530,208"
+   },
+   "other_income": {
+    "cr": 5.4288,
+    "page": 24,
+    "quote": "Other income 21 54,288,353"
+   },
+   "total_income": {
+    "cr": 1634.4641,
+    "page": 24,
+    "quote": "Total Income 16,344,641,023"
+   },
+   "employee_cost": {
+    "cr": 16.0079,
+    "page": 24,
+    "quote": "Employee benefit expenses 23 160,078,601"
+   },
+   "finance_cost": {
+    "cr": 215.3758,
+    "page": 24,
+    "quote": "Finance costs 25 2,153,758,487"
+   },
+   "depreciation": {
+    "cr": 61.9719,
+    "page": 24,
+    "quote": "Depreciation and amortisation 619,718,958"
+   },
+   "other_expenses": {
+    "cr": 172.4266,
+    "page": 24,
+    "quote": "Operating expenses 1,546,431,591 + Administration and other expenses 177,834,006 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1781.7861,
+    "page": 24,
+    "quote": "Total Expenses 17,817,861,449"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -147.322,
+    "page": 24,
+    "quote": "Profit/(loss) before tax for the period (1,473,220,426)"
+   },
+   "tax": {
+    "cr": 0.8244,
+    "page": 24,
+    "quote": "Deferred tax 7 8,243,905"
+   },
+   "profit_after_tax": {
+    "cr": -148.1464,
+    "page": 24,
+    "quote": "Profit/(loss) after tax for the period (1,481,464,331)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 56.0,
+    "page": 5,
+    "quote": "With this around 56 kms of Metro Rail System has been made available for the public"
+   },
+   "checks": "total income = 313.03 + 1,316.00 (construction) + 5.43 = 1,634.46 ok; PBT = 1,634.46 - 1,781.79 = -147.32 ok",
+   "notes": "Total income includes construction contract revenue ₹1,316.00 cr (13,160,039,806) matched by equal expense. route_km is 'around 56 kms' as stated (Directors' Report p5; p51 lists ~30 km from 29 Nov 2017, ~17 km from 24 Sep 2018, ~8.65 km from 20 Mar 2019)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "LTMRHL_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 63.0867,
+    "page": 24,
+    "quote": "Revenue from Operations ... 630,866,571"
+   },
+   "fare_revenue": {
+    "cr": 28.6036,
+    "page": 35,
+    "quote": "Fare revenue ... 286,035,696"
+   },
+   "non_fare_revenue": {
+    "cr": 34.4831,
+    "page": 35,
+    "quote": "computed 630,866,571 - fare 286,035,696 (lease 154,632,605 + advertising 167,570,453 + consultancy 6,754,232 + other 15,873,585)"
+   },
+   "other_income": {
+    "cr": 6.4403,
+    "page": 24,
+    "quote": "Other income ... 64,403,022"
+   },
+   "total_income": {
+    "cr": 1415.5798,
+    "page": 24,
+    "quote": "Total Income ... 14,155,798,308"
+   },
+   "employee_cost": {
+    "cr": 5.068,
+    "page": 24,
+    "quote": "Employee benefit expenses ... 50,680,056"
+   },
+   "finance_cost": {
+    "cr": 50.5867,
+    "page": 24,
+    "quote": "Finance costs ... 505,866,760"
+   },
+   "depreciation": {
+    "cr": 16.6986,
+    "page": 24,
+    "quote": "Depreciation and amortisation ... 166,985,670"
+   },
+   "other_expenses": {
+    "cr": 55.5337,
+    "page": 24,
+    "quote": "Operating expenses 421,307,082 + Administration and other expenses 134,030,388 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1473.9399,
+    "page": 24,
+    "quote": "Total Expenses ... 14,739,398,671"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -58.36,
+    "page": 24,
+    "quote": "Profit/(loss) before tax ... (583,600,362)"
+   },
+   "tax": {
+    "cr": -0.0023,
+    "page": 24,
+    "quote": "Deferred tax ... (23,238)"
+   },
+   "profit_after_tax": {
+    "cr": -58.3577,
+    "page": 24,
+    "quote": "Profit/(loss) after tax ... (583,577,124)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income ok; PBT ok",
+   "notes": "Reclassified comparative vs 2017-18 report (rev ops 63.09 vs 62.66 cr; other income 6.44 vs 6.87 cr; advertising 16.76 vs 16.33 cr). Totals/PBT unchanged."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "LTMRHL_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 587.2811,
+    "page": 45,
+    "quote": "Revenue from Operations 19 5,87,28,10,955"
+   },
+   "fare_revenue": {
+    "cr": 370.0427,
+    "page": 58,
+    "quote": "Fare revenue 3,70,04,26,938"
+   },
+   "non_fare_revenue": {
+    "cr": 217.2384,
+    "page": 58,
+    "quote": "computed 5,87,28,10,955 - fare = lease 1,09,42,12,144 + advertising 52,74,07,571 + consultancy 4,11,82,553 + other 50,95,81,749"
+   },
+   "other_income": {
+    "cr": 10.9201,
+    "page": 45,
+    "quote": "Other income 20 10,92,01,185"
+   },
+   "total_income": {
+    "cr": 1370.5679,
+    "page": 45,
+    "quote": "Total Income 13,70,56,79,415"
+   },
+   "employee_cost": {
+    "cr": 24.2517,
+    "page": 45,
+    "quote": "Employee benefit expenses 22 24,25,16,636"
+   },
+   "finance_cost": {
+    "cr": 542.7924,
+    "page": 45,
+    "quote": "Finance costs 24 5,42,79,23,637"
+   },
+   "depreciation": {
+    "cr": 145.548,
+    "page": 45,
+    "quote": "Depreciation and amortisation 1,45,54,80,173"
+   },
+   "other_expenses": {
+    "cr": 267.8149,
+    "page": 45,
+    "quote": "Operating expenses 2,36,90,30,582 + Administration and other expenses 30,91,18,255 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1752.7737,
+    "page": 45,
+    "quote": "Total Expenses 17,52,77,36,558"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -382.2057,
+    "page": 45,
+    "quote": "Profit/(loss) before tax for the period (3,82,20,57,143)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 45,
+    "quote": "Deferred tax 6 -"
+   },
+   "profit_after_tax": {
+    "cr": -382.2057,
+    "page": 45,
+    "quote": "Profit/(loss) after tax for the period (3,82,20,57,143)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 69.2,
+    "page": 5,
+    "quote": "With this entire project with 69.2 kms of Metro Rail System is complete and operational"
+   },
+   "checks": "total income = 587.28 + 772.37 (construction) + 10.92 = 1,370.57 ok; PBT = 1,370.57 - 1,752.77 = -382.21 ok",
+   "notes": "Total income includes construction contract revenue ₹772.37 cr matched by equal expense. Directors' Report p4: revenue from operations and other income Rs. 598.20 crore."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "LTMRHL_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 313.0313,
+    "page": 45,
+    "quote": "Revenue from Operations ... 3,13,03,12,864"
+   },
+   "fare_revenue": {
+    "cr": 166.4148,
+    "page": 58,
+    "quote": "Fare revenue ... 1,66,41,47,670"
+   },
+   "non_fare_revenue": {
+    "cr": 146.6165,
+    "page": 58,
+    "quote": "computed: lease 80,73,85,643 + advertising 29,56,37,631 + consultancy 1,36,11,712 + other 34,95,30,208"
+   },
+   "other_income": {
+    "cr": 5.4288,
+    "page": 45,
+    "quote": "Other income ... 5,42,88,353"
+   },
+   "total_income": {
+    "cr": 1634.4641,
+    "page": 45,
+    "quote": "Total Income ... 16,34,46,41,023"
+   },
+   "employee_cost": {
+    "cr": 16.0079,
+    "page": 45,
+    "quote": "Employee benefit expenses ... 16,00,78,601"
+   },
+   "finance_cost": {
+    "cr": 215.3758,
+    "page": 45,
+    "quote": "Finance costs ... 2,15,37,58,487"
+   },
+   "depreciation": {
+    "cr": 61.9719,
+    "page": 45,
+    "quote": "Depreciation and amortisation ... 61,97,18,958"
+   },
+   "other_expenses": {
+    "cr": 172.4266,
+    "page": 45,
+    "quote": "Operating 1,54,64,31,591 + Administration 17,78,34,006 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1781.7861,
+    "page": 45,
+    "quote": "Total Expenses ... 17,81,78,61,449"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -147.322,
+    "page": 45,
+    "quote": "Profit/(loss) before tax ... (1,47,32,20,426)"
+   },
+   "tax": {
+    "cr": 0.8244,
+    "page": 45,
+    "quote": "Deferred tax ... 82,43,905"
+   },
+   "profit_after_tax": {
+    "cr": -148.1464,
+    "page": 45,
+    "quote": "Profit/(loss) after tax ... (1,48,14,64,331)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok; identical to 2018-19 report",
+   "notes": "No restatement."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "LTMRHL_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 189.61,
+    "page": 45,
+    "quote": "Revenue from operations 18 189.61"
+   },
+   "fare_revenue": {
+    "cr": 83.98,
+    "page": 57,
+    "quote": "Fare revenue 83.98"
+   },
+   "non_fare_revenue": {
+    "cr": 105.63,
+    "page": 57,
+    "quote": "computed 189.61 - 83.98 = lease 37.76 + advertising 19.46 + consultancy 7.40 + other 41.01"
+   },
+   "other_income": {
+    "cr": 38.33,
+    "page": 45,
+    "quote": "Other income 19 38.33"
+   },
+   "total_income": {
+    "cr": 386.02,
+    "page": 45,
+    "quote": "Total Income 386.02"
+   },
+   "employee_cost": {
+    "cr": 28.31,
+    "page": 45,
+    "quote": "Employee benefit expenses 21 28.31"
+   },
+   "finance_cost": {
+    "cr": 1421.07,
+    "page": 45,
+    "quote": "Finance costs 23 1,421.07"
+   },
+   "depreciation": {
+    "cr": 298.49,
+    "page": 45,
+    "quote": "Depreciation and amortisation 298.49"
+   },
+   "other_expenses": {
+    "cr": 246.82,
+    "page": 45,
+    "quote": "Operating expenses 211.93 + Administration and other expenses 34.89 (sum)"
+   },
+   "total_expenses": {
+    "cr": 2152.77,
+    "page": 45,
+    "quote": "Total Expenses 2,152.77"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1766.75,
+    "page": 45,
+    "quote": "Profit/(loss) before tax for the period (1,766.75)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 45,
+    "quote": "Current tax - Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -1766.75,
+    "page": 45,
+    "quote": "Profit/(loss) after tax for the period (1,766.75)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 69.2,
+    "page": 79,
+    "quote": "Corridor-1: Miyapur to LB Nagar (29.55 KM), Corridor-2: JBS to MGBS (10.65 KM) and Corridor-3: Nagole to Raidurg (29.00 KM) ... complete"
+   },
+   "checks": "total income = 189.61 + 158.08 (construction) + 38.33 = 386.02 ok; PBT = 386.02 - 2,152.77 = -1,766.75 ok",
+   "notes": "Construction contract revenue 158.08 cr in total income (matched by equal expense). route_km = sum of the three corridors stated in Note p79 (29.55+10.65+29.00), not printed as a single total. Note 18 lease rentals 37.76 vs 41.11 in 2021-22 report comparative (and advertising 19.46 vs 16.11): restated split, same total. 2021-22 report also reclassified admin 34.89->31.48 and finance 1,421.07->1,424.48 (totals same). Covid lockdown year."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "LTMRHL_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 587.28,
+    "page": 45,
+    "quote": "Revenue from operations ... 587.28"
+   },
+   "fare_revenue": {
+    "cr": 370.04,
+    "page": 57,
+    "quote": "Fare revenue ... 370.04"
+   },
+   "non_fare_revenue": {
+    "cr": 217.24,
+    "page": 57,
+    "quote": "computed 587.28 - 370.04"
+   },
+   "other_income": {
+    "cr": 10.92,
+    "page": 45,
+    "quote": "Other income ... 10.92"
+   },
+   "total_income": {
+    "cr": 1370.57,
+    "page": 45,
+    "quote": "Total Income ... 1,370.57"
+   },
+   "employee_cost": {
+    "cr": 24.25,
+    "page": 45,
+    "quote": "Employee benefit expenses ... 24.25"
+   },
+   "finance_cost": {
+    "cr": 542.79,
+    "page": 45,
+    "quote": "Finance costs ... 542.79"
+   },
+   "depreciation": {
+    "cr": 145.56,
+    "page": 45,
+    "quote": "Depreciation and amortisation ... 145.56"
+   },
+   "other_expenses": {
+    "cr": 267.8,
+    "page": 45,
+    "quote": "Operating expenses 236.89 + Administration 30.91 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1752.77,
+    "page": 45,
+    "quote": "Total Expenses ... 1,752.77"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -382.2,
+    "page": 45,
+    "quote": "Profit/(loss) before tax ... (382.20)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 45,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -382.2,
+    "page": 45,
+    "quote": "Profit/(loss) after tax ... (382.20)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Matches 2019-20 report within rounding to crore (dep 145.56 vs 145.548; op exp 236.89 vs 236.903 in own report)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "LTMRHL_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 338.64,
+    "page": 63,
+    "quote": "Revenue from operations 19 338.64"
+   },
+   "fare_revenue": {
+    "cr": 201.39,
+    "page": 78,
+    "quote": "Fare revenue 201.39"
+   },
+   "non_fare_revenue": {
+    "cr": 137.25,
+    "page": 78,
+    "quote": "computed 338.64 - 201.39 = lease 65.66 + advertising 17.81 + consultancy 6.93 + other 46.85"
+   },
+   "other_income": {
+    "cr": 18.5,
+    "page": 63,
+    "quote": "Other income 20 18.50"
+   },
+   "total_income": {
+    "cr": 475.37,
+    "page": 63,
+    "quote": "Total Income 475.37"
+   },
+   "employee_cost": {
+    "cr": 27.3,
+    "page": 63,
+    "quote": "Employee benefit expenses 22 27.30"
+   },
+   "finance_cost": {
+    "cr": 1476.56,
+    "page": 63,
+    "quote": "Finance costs 24 1,476.56"
+   },
+   "depreciation": {
+    "cr": 306.63,
+    "page": 63,
+    "quote": "Depreciation and amortisation 306.63"
+   },
+   "other_expenses": {
+    "cr": 292.86,
+    "page": 63,
+    "quote": "Operating expenses 259.64 + Administration and other expenses 33.22 (sum)"
+   },
+   "total_expenses": {
+    "cr": 2221.58,
+    "page": 63,
+    "quote": "Total Expenses 2,221.58"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1746.21,
+    "page": 63,
+    "quote": "Profit/(loss) before tax for the year (1,746.21)"
+   },
+   "tax": {
+    "cr": -0.36,
+    "page": 63,
+    "quote": "Adjustments relating to earlier years (0.36)"
+   },
+   "profit_after_tax": {
+    "cr": -1745.85,
+    "page": 63,
+    "quote": "Profit/(loss) after tax for the year (1,745.85)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 69.2,
+    "page": 103,
+    "quote": "Corridor-1 ... (29.55 KM), Corridor-2: JBS to MGBS (10.65 KM) and Corridor-3: Nagole to Raidurg (29.00 KM) ... complete"
+   },
+   "checks": "total income = 338.64 + 118.23 (construction) + 18.50 = 475.37 ok; PBT = 475.37 - 2,221.58 = -1,746.21 ok",
+   "notes": "Construction contract revenue 118.23 cr in total income. route_km = sum of corridors (p103). Directors' Report p7: revenue from operations and other income ₹357.15 Cr."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "LTMRHL_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 189.61,
+    "page": 63,
+    "quote": "Revenue from operations ... 189.61"
+   },
+   "fare_revenue": {
+    "cr": 83.98,
+    "page": 78,
+    "quote": "Fare revenue ... 83.98"
+   },
+   "non_fare_revenue": {
+    "cr": 105.63,
+    "page": 78,
+    "quote": "computed 189.61 - 83.98 (lease 41.11, advertising 16.11, consultancy 7.40, other 41.01)"
+   },
+   "other_income": {
+    "cr": 38.33,
+    "page": 63,
+    "quote": "Other income ... 38.33"
+   },
+   "total_income": {
+    "cr": 386.02,
+    "page": 63,
+    "quote": "Total Income ... 386.02"
+   },
+   "employee_cost": {
+    "cr": 28.31,
+    "page": 63,
+    "quote": "Employee benefit expenses ... 28.31"
+   },
+   "finance_cost": {
+    "cr": 1424.48,
+    "page": 63,
+    "quote": "Finance costs ... 1,424.48"
+   },
+   "depreciation": {
+    "cr": 298.49,
+    "page": 63,
+    "quote": "Depreciation and amortisation ... 298.49"
+   },
+   "other_expenses": {
+    "cr": 243.41,
+    "page": 63,
+    "quote": "Operating 211.93 + Administration and other expenses 31.48 (sum)"
+   },
+   "total_expenses": {
+    "cr": 2152.77,
+    "page": 63,
+    "quote": "Total Expenses ... 2,152.77"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1766.75,
+    "page": 63,
+    "quote": "Profit/(loss) before tax ... (1,766.75)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 63,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -1766.75,
+    "page": 63,
+    "quote": "Profit/(loss) after tax ... (1,766.75)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Reclassified comparative: admin 31.48 (was 34.89), finance cost 1,424.48 (was 1,421.07); totals unchanged."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "LTMRHL_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 677.21,
+    "page": 68,
+    "quote": "Revenue from operations 19 677.21"
+   },
+   "fare_revenue": {
+    "cr": 458.2,
+    "page": 85,
+    "quote": "Fare revenue 458.20"
+   },
+   "non_fare_revenue": {
+    "cr": 219.01,
+    "page": 85,
+    "quote": "computed 677.21 - 458.20 = rental 96.50 + advertising 67.28 + consultancy 0.44 + other 54.79"
+   },
+   "other_income": {
+    "cr": 5.32,
+    "page": 68,
+    "quote": "Other income 20 5.32"
+   },
+   "total_income": {
+    "cr": 703.2,
+    "page": 68,
+    "quote": "Total Income 703.20"
+   },
+   "employee_cost": {
+    "cr": 31.93,
+    "page": 68,
+    "quote": "Employee benefit expenses 22 31.93"
+   },
+   "finance_cost": {
+    "cr": 1273.36,
+    "page": 68,
+    "quote": "Finance costs 24 1,273.36"
+   },
+   "depreciation": {
+    "cr": 314.43,
+    "page": 68,
+    "quote": "Depreciation and amortisation expenses 3.1 314.43"
+   },
+   "other_expenses": {
+    "cr": 378.75,
+    "page": 68,
+    "quote": "Operating expenses 350.35 + Administration and other expenses 28.40 (sum)"
+   },
+   "total_expenses": {
+    "cr": 2019.14,
+    "page": 68,
+    "quote": "Total Expenses 2,019.14"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1315.94,
+    "page": 68,
+    "quote": "Profit/(loss) before tax for the year (1,315.94)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 68,
+    "quote": "Current tax - ... -"
+   },
+   "profit_after_tax": {
+    "cr": -1315.94,
+    "page": 68,
+    "quote": "Profit/(loss) after tax for the year (1,315.94)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": 425000.0,
+    "page": 17,
+    "quote": "Connects major offices with an average daily ridership of 4.25 lakhs commuters."
+   },
+   "route_km": {
+    "cr": 69.2,
+    "page": 108,
+    "quote": "Corridor-1 ... (29.55 KM), Corridor-2: JBS to MGBS (10.65 KM) and Corridor-3: Nagole to Raidurg (29.00 KM) ... complete"
+   },
+   "checks": "total income = 677.21 + 20.67 (construction) + 5.32 = 703.20 ok; PBT = 703.20 - 2,019.14 = -1,315.94 ok",
+   "notes": "avg_daily_ridership is a number of commuters (4.25 lakh) from the Business Responsibility section (p17); the report does not say which period it averages. route_km = sum of corridors."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "LTMRHL_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 338.64,
+    "page": 68,
+    "quote": "... 338.64"
+   },
+   "fare_revenue": {
+    "cr": 201.39,
+    "page": 85,
+    "quote": "Fare revenue ... 201.39"
+   },
+   "non_fare_revenue": {
+    "cr": 137.25,
+    "page": 85,
+    "quote": "computed 338.64 - 201.39"
+   },
+   "other_income": {
+    "cr": 18.5,
+    "page": 68,
+    "quote": "... 18.50"
+   },
+   "total_income": {
+    "cr": 475.37,
+    "page": 68,
+    "quote": "... 475.37"
+   },
+   "employee_cost": {
+    "cr": 27.3,
+    "page": 68,
+    "quote": "... 27.30"
+   },
+   "finance_cost": {
+    "cr": 1476.56,
+    "page": 68,
+    "quote": "... 1,476.56"
+   },
+   "depreciation": {
+    "cr": 306.63,
+    "page": 68,
+    "quote": "... 306.63"
+   },
+   "other_expenses": {
+    "cr": 292.86,
+    "page": 68,
+    "quote": "259.64 + 33.22 (sum)"
+   },
+   "total_expenses": {
+    "cr": 2221.58,
+    "page": 68,
+    "quote": "... 2,221.58"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1746.21,
+    "page": 68,
+    "quote": "... (1,746.21)"
+   },
+   "tax": {
+    "cr": -0.36,
+    "page": 68,
+    "quote": "(0.36)"
+   },
+   "profit_after_tax": {
+    "cr": -1745.85,
+    "page": 68,
+    "quote": "... (1,745.85)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Same as 2021-22 report."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "LTMRHL_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 1389.14,
+    "page": 85,
+    "quote": "Revenue from operations 19 1,389.14"
+   },
+   "fare_revenue": {
+    "cr": 602.98,
+    "page": 102,
+    "quote": "Fare revenue 602.98"
+   },
+   "non_fare_revenue": {
+    "cr": 786.16,
+    "page": 102,
+    "quote": "computed 1,389.14 - 602.98 = rental 110.42 + advertising 81.06 + consultancy 0.18 + Income (net) on transfer of real estate undertaking 511.73 + other 82.77"
+   },
+   "other_income": {
+    "cr": 10.17,
+    "page": 85,
+    "quote": "Other income 20 10.17"
+   },
+   "total_income": {
+    "cr": 1407.81,
+    "page": 85,
+    "quote": "Total Income 1,407.81"
+   },
+   "employee_cost": {
+    "cr": 35.85,
+    "page": 85,
+    "quote": "Employee benefit expenses 22 35.85"
+   },
+   "finance_cost": {
+    "cr": 1173.11,
+    "page": 85,
+    "quote": "Finance costs 24 1,173.11"
+   },
+   "depreciation": {
+    "cr": 309.3,
+    "page": 85,
+    "quote": "Depreciation and amortisation expenses 3.1 309.30"
+   },
+   "other_expenses": {
+    "cr": 436.09,
+    "page": 85,
+    "quote": "Operating expenses 400.06 + Administration and other expenses 36.03 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1962.85,
+    "page": 85,
+    "quote": "Total Expenses 1,962.85"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -555.04,
+    "page": 85,
+    "quote": "Profit/(loss) before tax for the year (555.04)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 85,
+    "quote": "Current tax - Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -555.04,
+    "page": 85,
+    "quote": "Profit/(loss) after tax for the year (555.04)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": 441000.0,
+    "page": 18,
+    "quote": "Connects major offices with an average daily ridership of 4.41 lakhs commuters."
+   },
+   "route_km": {
+    "cr": 69.2,
+    "page": 123,
+    "quote": "Corridor-1 ... (29.55 KM), Corridor-2: JBS to MGBS (10.65 KM) and Corridor-3: Nagole to Raidurg (29.00 KM) is complete"
+   },
+   "checks": "total income = 1,389.14 + 8.50 (construction) + 10.17 = 1,407.81 ok; PBT = 1,407.81 - 1,962.85 = -555.04 ok",
+   "notes": "Revenue from operations includes a one-off ₹511.73 cr 'Income (net) on transfer of real estate undertaking' (slump sale of TOD assets), counted here in non_fare_revenue; recurring non-fare excl. it = 274.43 cr. Construction revenue 8.50 cr in total income. avg daily ridership period not stated."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "LTMRHL_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 677.21,
+    "page": 85,
+    "quote": "... 677.21"
+   },
+   "fare_revenue": {
+    "cr": 458.2,
+    "page": 102,
+    "quote": "Fare revenue ... 458.20"
+   },
+   "non_fare_revenue": {
+    "cr": 219.01,
+    "page": 102,
+    "quote": "computed 677.21 - 458.20"
+   },
+   "other_income": {
+    "cr": 5.32,
+    "page": 85,
+    "quote": "... 5.32"
+   },
+   "total_income": {
+    "cr": 703.2,
+    "page": 85,
+    "quote": "... 703.20"
+   },
+   "employee_cost": {
+    "cr": 31.93,
+    "page": 85,
+    "quote": "... 31.93"
+   },
+   "finance_cost": {
+    "cr": 1273.36,
+    "page": 85,
+    "quote": "... 1,273.36"
+   },
+   "depreciation": {
+    "cr": 314.43,
+    "page": 85,
+    "quote": "... 314.43"
+   },
+   "other_expenses": {
+    "cr": 378.75,
+    "page": 85,
+    "quote": "350.35 + 28.40 (sum)"
+   },
+   "total_expenses": {
+    "cr": 2019.14,
+    "page": 85,
+    "quote": "... 2,019.14"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1315.94,
+    "page": 85,
+    "quote": "... (1,315.94)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 85,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -1315.94,
+    "page": 85,
+    "quote": "... (1,315.94)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Same as 2022-23 report."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "LTMRHL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 1096.01,
+    "page": 96,
+    "quote": "Revenue from operations 19 1,096.01"
+   },
+   "fare_revenue": {
+    "cr": 622.99,
+    "page": 110,
+    "quote": "Fare revenue 622.99"
+   },
+   "non_fare_revenue": {
+    "cr": 473.02,
+    "page": 110,
+    "quote": "computed 1,096.01 - 622.99 = rental 114.89 + advertising 105.39 + consultancy 0.07 + Income (net) on transfer of real estate undertaking 187.44 + other 65.23 (segment note p117: Others 473.02)"
+   },
+   "other_income": {
+    "cr": 12.53,
+    "page": 96,
+    "quote": "Other income 20 12.53"
+   },
+   "total_income": {
+    "cr": 1112.66,
+    "page": 96,
+    "quote": "Total Income 1,112.66"
+   },
+   "employee_cost": {
+    "cr": 38.35,
+    "page": 96,
+    "quote": "Employee benefit expense 22 38.35"
+   },
+   "finance_cost": {
+    "cr": 940.03,
+    "page": 96,
+    "quote": "Finance costs 24 940.03"
+   },
+   "depreciation": {
+    "cr": 302.84,
+    "page": 96,
+    "quote": "Depreciation and amortisation 3.1 302.84"
+   },
+   "other_expenses": {
+    "cr": 453.23,
+    "page": 96,
+    "quote": "Operating expenses 421.74 + Administration and other expenses 31.49 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1738.57,
+    "page": 96,
+    "quote": "Total Expenses 1,738.57"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -625.91,
+    "page": 96,
+    "quote": "Profit/(loss) before tax for the year (625.91)"
+   },
+   "tax": {
+    "cr": -0.03,
+    "page": 96,
+    "quote": "Adjustments relating to earlier years (0.03)"
+   },
+   "profit_after_tax": {
+    "cr": -625.88,
+    "page": 96,
+    "quote": "Profit/(loss) after tax for the year (625.88)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": 443000.0,
+    "page": 31,
+    "quote": "Connects major offices with an average daily ridership of 4.43 lakhs commuters."
+   },
+   "route_km": {
+    "cr": 69.2,
+    "page": 130,
+    "quote": "Corridor-1 ... (29.55 KM), Corridor-2: JBS to MGBS (10.65 KM) and Corridor-3: Nagole to Raidurg (29.00 KM) is complete"
+   },
+   "checks": "total income = 1,096.01 + 4.12 (construction) + 12.53 = 1,112.66 ok; PBT = 1,112.66 - 1,738.57 = -625.91 ok",
+   "notes": "Financial pages are scanned images with a poor text layer; values read from rendered page images. Revenue from operations includes one-off ₹187.44 cr income (net) on transfer of real estate undertaking (in non_fare). Note 21/23 totals print 421.76 and 31.50 vs 421.74/31.49 on the P&L face (rounding). Directors' Report p17: highest single-day ridership 5.63 lakh; 50 crore cumulative journeys since inception; no annual ridership figure given."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "LTMRHL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ crore",
+   "revenue_from_operations": {
+    "cr": 1389.14,
+    "page": 96,
+    "quote": "... 1,389.14"
+   },
+   "fare_revenue": {
+    "cr": 602.98,
+    "page": 110,
+    "quote": "Fare revenue ... 602.98"
+   },
+   "non_fare_revenue": {
+    "cr": 786.16,
+    "page": 110,
+    "quote": "computed 1,389.14 - 602.98"
+   },
+   "other_income": {
+    "cr": 10.17,
+    "page": 96,
+    "quote": "... 10.17"
+   },
+   "total_income": {
+    "cr": 1407.81,
+    "page": 96,
+    "quote": "... 1,407.81"
+   },
+   "employee_cost": {
+    "cr": 35.85,
+    "page": 96,
+    "quote": "... 35.85"
+   },
+   "finance_cost": {
+    "cr": 1173.11,
+    "page": 96,
+    "quote": "... 1,173.11"
+   },
+   "depreciation": {
+    "cr": 309.3,
+    "page": 96,
+    "quote": "... 309.30"
+   },
+   "other_expenses": {
+    "cr": 436.09,
+    "page": 96,
+    "quote": "400.06 + 36.03 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1962.85,
+    "page": 96,
+    "quote": "... 1,962.85"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -555.04,
+    "page": 96,
+    "quote": "... (555.04)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 96,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -555.04,
+    "page": 96,
+    "quote": "... (555.04)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Same as 2023-24 report."
+  },
+  {
+   "fy": "2025-26",
+   "source_file": "LTMRHL_2025-26_Financial_Results.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 980.21,
+    "page": 6,
+    "quote": "Revenue from Operations ... 98021 (Year ended March 31, 2026, Audited)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 15.98,
+    "page": 6,
+    "quote": "Other income ... 1598"
+   },
+   "total_income": {
+    "cr": 1023.91,
+    "page": 6,
+    "quote": "Total Income ... 102391"
+   },
+   "employee_cost": {
+    "cr": 36.92,
+    "page": 6,
+    "quote": "Employee benefit expenses ... 3692"
+   },
+   "finance_cost": {
+    "cr": 959.55,
+    "page": 6,
+    "quote": "Finance costs ... 95955"
+   },
+   "depreciation": {
+    "cr": 301.58,
+    "page": 6,
+    "quote": "Depreciation and amortisation ... 30158"
+   },
+   "other_expenses": {
+    "cr": 441.26,
+    "page": 6,
+    "quote": "Operating expenses 41442 + Administration and other expenses 2684 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1767.03,
+    "page": 6,
+    "quote": "Total Expenses ... 176703"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -743.12,
+    "page": 6,
+    "quote": "Profit/(loss) before tax for the period ... (74312)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 6,
+    "quote": "Current tax - ... -"
+   },
+   "profit_after_tax": {
+    "cr": -743.12,
+    "page": 6,
+    "quote": "Profit/(loss) after tax for the period ... (74312)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 980.21 + 27.72 (construction 2772) + 15.98 = 1,023.91 ok; PBT = 1,023.91 - 1,767.03 = -743.12 ok",
+   "notes": "Audited full-year results (SEBI Reg. 52 filing, auditor M. Bhaskara Rao & Co., 21 Apr 2026), scanned; read from rendered image. Not the annual report: no fare/non-fare split. Construction contract revenue 27.72 cr in total income, matched by equal expense. Net worth 6466 lakh at 31 Mar 2026."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "LTMRHL_2025-26_Financial_Results.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 1096.01,
+    "page": 6,
+    "quote": "Revenue from Operations ... 109601 (Year ended March 31, 2025)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 12.53,
+    "page": 6,
+    "quote": "Other income ... 1253"
+   },
+   "total_income": {
+    "cr": 1112.66,
+    "page": 6,
+    "quote": "Total Income ... 111266"
+   },
+   "employee_cost": {
+    "cr": 38.35,
+    "page": 6,
+    "quote": "Employee benefit expenses ... 3835"
+   },
+   "finance_cost": {
+    "cr": 940.03,
+    "page": 6,
+    "quote": "Finance costs ... 94003"
+   },
+   "depreciation": {
+    "cr": 302.84,
+    "page": 6,
+    "quote": "Depreciation and amortisation ... 30284"
+   },
+   "other_expenses": {
+    "cr": 453.23,
+    "page": 6,
+    "quote": "Operating 42174 + Administration 3149 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1738.57,
+    "page": 6,
+    "quote": "Total Expenses ... 173857"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -625.91,
+    "page": 6,
+    "quote": "Profit/(loss) before tax ... (62591)"
+   },
+   "tax": {
+    "cr": -0.03,
+    "page": 6,
+    "quote": "Adjustments relating to earlier years (3)"
+   },
+   "profit_after_tax": {
+    "cr": -625.88,
+    "page": 6,
+    "quote": "Profit/(loss) after tax ... (62588)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Matches 2024-25 annual report."
+  },
+  {
+   "fy": "2026-27 H1",
+   "source_file": "LTMRHL_2026-27_H1_Financial_Results.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 516.93,
+    "page": 3,
+    "quote": "Revenue from Operations ... 51693 (Period ended September 30, 2026, Reviewed)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 5.1,
+    "page": 3,
+    "quote": "Other income ... 510"
+   },
+   "total_income": {
+    "cr": 524.78,
+    "page": 3,
+    "quote": "Total Income ... 52478"
+   },
+   "employee_cost": {
+    "cr": 18.41,
+    "page": 3,
+    "quote": "Employee benefit expenses ... 1841"
+   },
+   "finance_cost": {
+    "cr": 522.61,
+    "page": 3,
+    "quote": "Finance costs ... 52261"
+   },
+   "depreciation": {
+    "cr": 150.88,
+    "page": 3,
+    "quote": "Depreciation and amortisation ... 15088"
+   },
+   "other_expenses": {
+    "cr": 235.99,
+    "page": 3,
+    "quote": "Operating expenses 22288 + Administration and other expenses 1311 (sum)"
+   },
+   "total_expenses": {
+    "cr": 930.64,
+    "page": 3,
+    "quote": "Total Expenses ... 93064"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -405.86,
+    "page": 3,
+    "quote": "Profit/(loss) before tax for the period ... (40586)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 3,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -405.86,
+    "page": 3,
+    "quote": "Profit/(loss) after tax for the period ... (40586)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 516.93 + 2.75 (construction 275) + 5.10 = 524.78 ok; PBT = 524.78 - 930.64 = -405.86 ok",
+   "notes": "HALF YEAR (Apr-Sep 2026), unaudited, limited review only. Not a full year. Net worth (34120) lakh, i.e. negative, at 30 Sep 2026."
+  },
+  {
+   "fy": "2025-26 H1",
+   "source_file": "LTMRHL_2026-27_H1_Financial_Results.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 492.02,
+    "page": 3,
+    "quote": "Revenue from Operations ... 49202 (Period ended September 30, 2025, Reviewed)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 5.08,
+    "page": 3,
+    "quote": "Other income ... 508"
+   },
+   "total_income": {
+    "cr": 497.54,
+    "page": 3,
+    "quote": "Total Income ... 49754"
+   },
+   "employee_cost": {
+    "cr": 18.94,
+    "page": 3,
+    "quote": "Employee benefit expenses ... 1894"
+   },
+   "finance_cost": {
+    "cr": 479.86,
+    "page": 3,
+    "quote": "Finance costs ... 47986"
+   },
+   "depreciation": {
+    "cr": 150.76,
+    "page": 3,
+    "quote": "Depreciation and amortisation ... 15076"
+   },
+   "other_expenses": {
+    "cr": 228.0,
+    "page": 3,
+    "quote": "Operating 21312 + Administration 1488 (sum)"
+   },
+   "total_expenses": {
+    "cr": 878.0,
+    "page": 3,
+    "quote": "Total Expenses ... 87800"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -380.46,
+    "page": 3,
+    "quote": "Profit/(loss) before tax ... (38046)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 3,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -380.46,
+    "page": 3,
+    "quote": "Profit/(loss) after tax ... (38046)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 492.02 + 0.44 + 5.08 = 497.54 ok; PBT ok",
+   "notes": "HALF YEAR comparative (Apr-Sep 2025), reviewed. Not a full year."
+  },
+  {
+   "fy": "2025-26",
+   "source_file": "LTMRHL_2026-27_H1_Financial_Results.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 980.21,
+    "page": 3,
+    "quote": "Revenue from Operations ... 98021 (Year ended March 31, 2026, Audited)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 15.98,
+    "page": 3,
+    "quote": "Other income ... 1598"
+   },
+   "total_income": {
+    "cr": 1023.91,
+    "page": 3,
+    "quote": "Total Income ... 102391"
+   },
+   "employee_cost": {
+    "cr": 36.92,
+    "page": 3,
+    "quote": "... 3692"
+   },
+   "finance_cost": {
+    "cr": 959.55,
+    "page": 3,
+    "quote": "... 95955"
+   },
+   "depreciation": {
+    "cr": 301.58,
+    "page": 3,
+    "quote": "... 30158"
+   },
+   "other_expenses": {
+    "cr": 441.26,
+    "page": 3,
+    "quote": "41442 + 2684 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1767.03,
+    "page": 3,
+    "quote": "... 176703"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -743.12,
+    "page": 3,
+    "quote": "... (74312)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 3,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -743.12,
+    "page": 3,
+    "quote": "... (74312)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Year-ended column in the H1 filing; identical to the audited 2025-26 results."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "LTMRHL_2020-21_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 227.94,
+    "page": 7,
+    "quote": "(i) Turnover 2,279,400,000"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "n/a (MGT-7 gives turnover only)",
+   "notes": "MGT-7 turnover; net worth 46,423,400,000. Turnover 227.94 cr = revenue from operations 189.61 + other income 38.33 per P&L (not revenue from operations alone)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "LTMRHL_2021-22_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 357.1462,
+    "page": 7,
+    "quote": "(i) Turnover 3,571,462,422"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "n/a (MGT-7 gives turnover only)",
+   "notes": "MGT-7 turnover; net worth -16,721,951,678. 357.15 cr = rev ops 338.64 + other income 18.50 per P&L."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "LTMRHL_2022-23_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 677.2047,
+    "page": 1,
+    "quote": "TOT_TURNOVER 6772047087.00000000 (XFA form data)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "n/a (MGT-7 gives turnover only)",
+   "notes": "MGT-7 is an XFA form (no visible text); value read from the embedded form data. Net worth -16,686,577,400. Matches revenue from operations 677.21 cr."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "LTMRHL_2023-24_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 1407.8016,
+    "page": 1,
+    "quote": "TOT_TURNOVER 14078016173.00000000 (XFA form data)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "n/a (MGT-7 gives turnover only)",
+   "notes": "MGT-7 XFA form; value from embedded form data. Net worth 14,303,012,786. 1,407.80 cr ≈ total income 1,407.81 (incl. construction revenue and other income), not revenue from operations 1,389.14."
+  }
+ ]
+}

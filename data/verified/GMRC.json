@@ -1,0 +1,2240 @@
+{
+ "operator": "GMRC",
+ "documents": [
+  {
+   "file": "GMRC_2014-15_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 70,
+   "note": "Company then named Metro-Link Express for Gandhinagar and Ahmedabad (MEGA) Co. Ltd (renamed GMRC). Pre-operations: P&L has only Other Income; expenses capitalised to IEDC. Previous column = 2013-14."
+  },
+  {
+   "file": "GMRC_2015-16_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 66,
+   "note": "MEGA, Indian GAAP P&L on p.66; pre-operations."
+  },
+  {
+   "file": "GMRC_2016-17_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 74,
+   "note": "MEGA; financial statements are scanned images (OCR + visual check). First Ind AS year: 2015-16 restated in previous column."
+  },
+  {
+   "file": "GMRC_2017-18_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 65,
+   "note": "MEGA; scanned statements (OCR). 2016-17 restated in previous column. Exceptional item = impairment of CWIP."
+  },
+  {
+   "file": "GMRC_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 98,
+   "note": "GMRC; statements scanned (OCR) p.98; revenue note 14 p.135 (Passenger Revenue/Rent). Operations began 4/9 March 2019 (6.5 km priority reach). 2017-18 re-presented net of capitalisation."
+  },
+  {
+   "file": "GMRC_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 75,
+   "note": "Scanned statements (OCR); note 14 p.107."
+  },
+  {
+   "file": "GMRC_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 84,
+   "note": "Scanned statements (OCR); note 14 p.118."
+  },
+  {
+   "file": "GMRC_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 107,
+   "note": "Text PDF; note 14 p.157."
+  },
+  {
+   "file": "GMRC_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 102,
+   "note": "Scanned statements (OCR, header checked visually); note 13 on rotated page p.147 (read visually)."
+  },
+  {
+   "file": "GMRC_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 94,
+   "note": "P&L text p.94; notes scanned, note 13 p.138 (OCR). Ridership table p.15."
+  },
+  {
+   "file": "GMRC_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 95,
+   "note": "Statements scanned (OCR, unit checked visually); note 14 p.139. 2023-24 other expenses restated (2,828.13 vs 2,942.67)."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2013-14",
+   "source_file": "GMRC_2014-15_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0068,
+    "page": 70,
+    "quote": "Other Income 13 4221.18 0.68"
+   },
+   "total_income": {
+    "cr": 0.0068,
+    "page": 70,
+    "quote": "Total Revenue (I) Sub Total 4221.18 0.68"
+   },
+   "employee_cost": {
+    "cr": 2.3627,
+    "page": 70,
+    "quote": "Employees benefits expenses 14 598.85 236.27"
+   },
+   "finance_cost": {
+    "cr": 0.1367,
+    "page": 70,
+    "quote": "Finance Cost 15 2.58 13.67"
+   },
+   "depreciation": {
+    "cr": 3.7824,
+    "page": 70,
+    "quote": "Depreciation and amortization expense 16 731.16 378.24"
+   },
+   "other_expenses": {
+    "cr": 7.9908,
+    "page": 70,
+    "quote": "Other Expenses 17 1293.41 799.08"
+   },
+   "total_expenses": {
+    "cr": 14.2726,
+    "page": 70,
+    "quote": "Total Expenses (II) Sub Total 2626.00 1427.26"
+   },
+   "exceptional_items": {
+    "cr": -0.1056,
+    "page": 70,
+    "quote": "Prior Period Expenditure 19 - 10.56"
+   },
+   "profit_before_tax": {
+    "cr": -14.3714,
+    "page": 70,
+    "quote": "Profit / Loss Before Tax(I-II-III) 4221.18 (1,437.14)"
+   },
+   "tax": {
+    "cr": 8.7749,
+    "page": 70,
+    "quote": "Total Tax (V) Sub Total 1434.65 877.49"
+   },
+   "profit_after_tax": {
+    "cr": -23.1463,
+    "page": 70,
+    "quote": "Profit / (Loss) for the year (IV-V) TOTAL 2,786.53 (2,314.63)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 0.0,
+    "page": 70,
+    "quote": "Less: Expenses capitalised and transferred to Incidental Expenses Pending Capitalisation 2626.00 -"
+   },
+   "checks": "total income 0.68 = 0 + 0.68: ok; PBT -1437.14 = 0.68 - 1427.26 + exceptional -10.56: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Pre-operations (MEGA). No revenue-from-operations line in the P&L. exceptional_items holds 'Prior Period Expenditure' (deducted). Tax 877.49 is charged despite a pre-tax loss, as printed."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "GMRC_2014-15_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 42.2118,
+    "page": 70,
+    "quote": "Other Income 13 4221.18 0.68"
+   },
+   "total_income": {
+    "cr": 42.2118,
+    "page": 70,
+    "quote": "Total Revenue (I) Sub Total 4221.18 0.68"
+   },
+   "employee_cost": {
+    "cr": 5.9885,
+    "page": 70,
+    "quote": "Employees benefits expenses 14 598.85 236.27"
+   },
+   "finance_cost": {
+    "cr": 0.0258,
+    "page": 70,
+    "quote": "Finance Cost 15 2.58 13.67"
+   },
+   "depreciation": {
+    "cr": 7.3116,
+    "page": 70,
+    "quote": "Depreciation and amortization expense 16 731.16 378.24"
+   },
+   "other_expenses": {
+    "cr": 12.9341,
+    "page": 70,
+    "quote": "Other Expenses 17 1293.41 799.08"
+   },
+   "total_expenses": {
+    "cr": 26.26,
+    "page": 70,
+    "quote": "Total Expenses (II) Sub Total 2626.00 1427.26"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 42.2118,
+    "page": 70,
+    "quote": "Profit / Loss Before Tax(I-II-III) 4221.18 (1,437.14)"
+   },
+   "tax": {
+    "cr": 14.3465,
+    "page": 70,
+    "quote": "Total Tax (V) Sub Total 1434.65 877.49"
+   },
+   "profit_after_tax": {
+    "cr": 27.8653,
+    "page": 70,
+    "quote": "Profit / (Loss) for the year (IV-V) TOTAL 2,786.53 (2,314.63)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 26.26,
+    "page": 70,
+    "quote": "Less: Expenses capitalised and transferred to Incidental Expenses Pending Capitalisation 2626.00 -"
+   },
+   "checks": "total income 4221.18 = 0 + 4221.18: ok; PBT 4221.18 = 4221.18 - 2626.0 + capitalised 2626.0: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Pre-operations (MEGA). No revenue-from-operations line. total_expenses is gross; all of it was capitalised to IEDC (expenses_capitalised), so nothing hit profit."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "GMRC_2015-16_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 42.2118,
+    "page": 66,
+    "quote": "Other Income 14 3680.08 4221.18"
+   },
+   "total_income": {
+    "cr": 42.2118,
+    "page": 66,
+    "quote": "Total Revenue (I) Sub Total 3680.08 4221.18"
+   },
+   "employee_cost": {
+    "cr": 5.9885,
+    "page": 66,
+    "quote": "Employees benefits expenses 15 895.36 598.85"
+   },
+   "finance_cost": {
+    "cr": 0.0258,
+    "page": 66,
+    "quote": "Finance Cost 16 1.37 2.58"
+   },
+   "depreciation": {
+    "cr": 7.3116,
+    "page": 66,
+    "quote": "Depreciation and amortization expense 17 629.48 731.16"
+   },
+   "other_expenses": {
+    "cr": 12.9341,
+    "page": 66,
+    "quote": "Other Expenses 18 1389.84 1293.41"
+   },
+   "total_expenses": {
+    "cr": 26.26,
+    "page": 66,
+    "quote": "Total Expenses (II) Sub Total 2916.05 2626.00"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 42.2118,
+    "page": 66,
+    "quote": "Profit / Loss Before Tax(I-II-III) 3677.71 4,221.18"
+   },
+   "tax": {
+    "cr": 14.3465,
+    "page": 66,
+    "quote": "Total Tax (V) Sub Total 1273.59 1434.65"
+   },
+   "profit_after_tax": {
+    "cr": 27.8653,
+    "page": 66,
+    "quote": "Profit / (Loss) for the year (IV-V) TOTAL 2,404.12 2,786.53"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 26.26,
+    "page": 66,
+    "quote": "Less: Expenses capitalised ... Capitalisation 2913.68 2,626.00"
+   },
+   "checks": "total income 4221.18 = 0 + 4221.18: ok; PBT 4221.18 = 4221.18 - 2626.0 + capitalised 2626.0: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Same as the 2014-15 report."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "GMRC_2015-16_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 36.8008,
+    "page": 66,
+    "quote": "Other Income 14 3680.08 4221.18"
+   },
+   "total_income": {
+    "cr": 36.8008,
+    "page": 66,
+    "quote": "Total Revenue (I) Sub Total 3680.08 4221.18"
+   },
+   "employee_cost": {
+    "cr": 8.9536,
+    "page": 66,
+    "quote": "Employees benefits expenses 15 895.36 598.85"
+   },
+   "finance_cost": {
+    "cr": 0.0137,
+    "page": 66,
+    "quote": "Finance Cost 16 1.37 2.58"
+   },
+   "depreciation": {
+    "cr": 6.2948,
+    "page": 66,
+    "quote": "Depreciation and amortization expense 17 629.48 731.16"
+   },
+   "other_expenses": {
+    "cr": 13.8984,
+    "page": 66,
+    "quote": "Other Expenses 18 1389.84 1293.41"
+   },
+   "total_expenses": {
+    "cr": 29.1605,
+    "page": 66,
+    "quote": "Total Expenses (II) Sub Total 2916.05 2626.00"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 36.7771,
+    "page": 66,
+    "quote": "Profit / Loss Before Tax(I-II-III) 3677.71 4,221.18"
+   },
+   "tax": {
+    "cr": 12.7359,
+    "page": 66,
+    "quote": "Total Tax (V) Sub Total 1273.59 1434.65"
+   },
+   "profit_after_tax": {
+    "cr": 24.0412,
+    "page": 66,
+    "quote": "Profit / (Loss) for the year (IV-V) TOTAL 2,404.12 2,786.53"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 29.1368,
+    "page": 66,
+    "quote": "Less: Expenses capitalised ... Capitalisation 2913.68 2,626.00"
+   },
+   "checks": "total income 3680.08 = 0 + 3680.08: ok; PBT 3677.71 = 3680.08 - 2916.05 + capitalised 2913.68: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Original Indian GAAP figures. Restated under Ind AS in the 2016-17 report (other income 3,866.40, PAT 2,590.45); see the 'previous' entry."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "GMRC_2016-17_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 38.664,
+    "page": 74,
+    "quote": "Other income 17 3,532.18 3,866.40"
+   },
+   "total_income": {
+    "cr": 38.664,
+    "page": 74,
+    "quote": "Total income (I) 3,532.18 3,866.40"
+   },
+   "employee_cost": {
+    "cr": 9.0717,
+    "page": 74,
+    "quote": "Employee benefits expense 18 1,321.84 907.17"
+   },
+   "finance_cost": {
+    "cr": 0.0238,
+    "page": 74,
+    "quote": "Finance costs 19 1,107.85 2.38"
+   },
+   "depreciation": {
+    "cr": 6.2948,
+    "page": 74,
+    "quote": "Depreciation and amortisation expense 20 1,297.58 629.48"
+   },
+   "other_expenses": {
+    "cr": 13.9479,
+    "page": 74,
+    "quote": "Other expenses 21 1,648.39 1,394.79"
+   },
+   "total_expenses": {
+    "cr": 29.3382,
+    "page": 74,
+    "quote": "Total expenses (II) 5,375.65 2,933.82"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 74,
+    "quote": "Exceptional items (IV) 28 - -"
+   },
+   "profit_before_tax": {
+    "cr": 38.6404,
+    "page": 74,
+    "quote": "Profit before tax (V) = (III-IV) 3,333.40 3,864.04"
+   },
+   "tax": {
+    "cr": 12.7359,
+    "page": 74,
+    "quote": "Total tax expense (VI) 963.77 1,273.59"
+   },
+   "profit_after_tax": {
+    "cr": 25.9045,
+    "page": 74,
+    "quote": "Profit for the period (VII) = (V-VI) 2,369.63 2,590.45"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 29.3145,
+    "page": 74,
+    "quote": "Less: Expenses capitalised and transferred to Incidental Expenses Pending Capitalisation 5.A.1 (5,176.87) (2,931.45)"
+   },
+   "checks": "total income 3866.4 = 0 + 3866.4: ok; PBT 3864.04 = 3866.4 - 2933.82 + capitalised 2931.45: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "RESTATED (Ind AS transition) in the 2016-17 report; differs from the original 2015-16 report (other income 3,680.08, PAT 2,404.12). Scanned page, OCR checked against the rendered image."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "GMRC_2016-17_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 35.3218,
+    "page": 74,
+    "quote": "Other income 17 3,532.18 3,866.40"
+   },
+   "total_income": {
+    "cr": 35.3218,
+    "page": 74,
+    "quote": "Total income (I) 3,532.18 3,866.40"
+   },
+   "employee_cost": {
+    "cr": 13.2184,
+    "page": 74,
+    "quote": "Employee benefits expense 18 1,321.84 907.17"
+   },
+   "finance_cost": {
+    "cr": 11.0785,
+    "page": 74,
+    "quote": "Finance costs 19 1,107.85 2.38"
+   },
+   "depreciation": {
+    "cr": 12.9758,
+    "page": 74,
+    "quote": "Depreciation and amortisation expense 20 1,297.58 629.48"
+   },
+   "other_expenses": {
+    "cr": 16.4839,
+    "page": 74,
+    "quote": "Other expenses 21 1,648.39 1,394.79"
+   },
+   "total_expenses": {
+    "cr": 53.7565,
+    "page": 74,
+    "quote": "Total expenses (II) 5,375.65 2,933.82"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 74,
+    "quote": "Exceptional items (IV) 28 - -"
+   },
+   "profit_before_tax": {
+    "cr": 33.334,
+    "page": 74,
+    "quote": "Profit before tax (V) = (III-IV) 3,333.40 3,864.04"
+   },
+   "tax": {
+    "cr": 9.6377,
+    "page": 74,
+    "quote": "Total tax expense (VI) 963.77 1,273.59"
+   },
+   "profit_after_tax": {
+    "cr": 23.6963,
+    "page": 74,
+    "quote": "Profit for the period (VII) = (V-VI) 2,369.63 2,590.45"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 51.7687,
+    "page": 74,
+    "quote": "Less: Expenses capitalised and transferred to Incidental Expenses Pending Capitalisation 5.A.1 (5,176.87) (2,931.45)"
+   },
+   "checks": "total income 3532.18 = 0 + 3532.18: ok; PBT 3333.4 = 3532.18 - 5375.65 + capitalised 5176.87: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Pre-operations. No revenue-from-operations line. Restated in the 2017-18 report (other income 3,134.85, PAT 2,168.95). Scanned page; read visually."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "GMRC_2017-18_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 31.3485,
+    "page": 65,
+    "quote": "Other income 16 1,700.17 3,134.85"
+   },
+   "total_income": {
+    "cr": 31.3485,
+    "page": 65,
+    "quote": "Total income (I) 1,700.17 3,134.85"
+   },
+   "employee_cost": {
+    "cr": 13.2233,
+    "page": 65,
+    "quote": "Employee benefits expense 17 1,564.35 1,322.33"
+   },
+   "finance_cost": {
+    "cr": 1.172,
+    "page": 65,
+    "quote": "Finance costs 18 243.03 117.20"
+   },
+   "depreciation": {
+    "cr": 12.9758,
+    "page": 65,
+    "quote": "Depreciation and amortisation expense 19 1,777.99 1,297.58"
+   },
+   "other_expenses": {
+    "cr": 16.4788,
+    "page": 65,
+    "quote": "Other expenses 20 3,560.72 1,647.88"
+   },
+   "total_expenses": {
+    "cr": 43.8499,
+    "page": 65,
+    "quote": "Total expenses (Il) 7,146.09 4,384.99"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 65,
+    "quote": "Exceptional items (IV) 21 11,584.21 -"
+   },
+   "profit_before_tax": {
+    "cr": 31.3272,
+    "page": 65,
+    "quote": "Profit/(Loss) before tax (V) = (III-IV) (10,140.19) 3,132.72"
+   },
+   "tax": {
+    "cr": 9.6377,
+    "page": 65,
+    "quote": "Total tax expense (VI) 307.83 963.77"
+   },
+   "profit_after_tax": {
+    "cr": 21.6895,
+    "page": 65,
+    "quote": "Profit/(Loss) for the period (VII) = (V-VI) (10,448.02) 2,168.95"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 43.8286,
+    "page": 65,
+    "quote": "Less: Expenses capitalised and transferred to Incidental 5.A1 (6,889.94) (4,382.86)"
+   },
+   "checks": "total income 3134.85 = 0 + 3134.85: ok; PBT 3132.72 = 3134.85 - 4384.99 + capitalised 4382.86: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "RESTATED in the 2017-18 report (original 2016-17: other income 3,532.18, finance costs 1,107.85, PAT 2,369.63). OCR of scanned page; all sums reconcile."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "GMRC_2017-18_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 17.0017,
+    "page": 65,
+    "quote": "Other income 16 1,700.17 3,134.85"
+   },
+   "total_income": {
+    "cr": 17.0017,
+    "page": 65,
+    "quote": "Total income (I) 1,700.17 3,134.85"
+   },
+   "employee_cost": {
+    "cr": 15.6435,
+    "page": 65,
+    "quote": "Employee benefits expense 17 1,564.35 1,322.33"
+   },
+   "finance_cost": {
+    "cr": 2.4303,
+    "page": 65,
+    "quote": "Finance costs 18 243.03 117.20"
+   },
+   "depreciation": {
+    "cr": 17.7799,
+    "page": 65,
+    "quote": "Depreciation and amortisation expense 19 1,777.99 1,297.58"
+   },
+   "other_expenses": {
+    "cr": 35.6072,
+    "page": 65,
+    "quote": "Other expenses 20 3,560.72 1,647.88"
+   },
+   "total_expenses": {
+    "cr": 71.4609,
+    "page": 65,
+    "quote": "Total expenses (Il) 7,146.09 4,384.99"
+   },
+   "exceptional_items": {
+    "cr": -115.8421,
+    "page": 65,
+    "quote": "Exceptional items (IV) 21 11,584.21 -"
+   },
+   "profit_before_tax": {
+    "cr": -101.4019,
+    "page": 65,
+    "quote": "Profit/(Loss) before tax (V) = (III-IV) (10,140.19) 3,132.72"
+   },
+   "tax": {
+    "cr": 3.0783,
+    "page": 65,
+    "quote": "Total tax expense (VI) 307.83 963.77"
+   },
+   "profit_after_tax": {
+    "cr": -104.4802,
+    "page": 65,
+    "quote": "Profit/(Loss) for the period (VII) = (V-VI) (10,448.02) 2,168.95"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "expenses_capitalised": {
+    "cr": 68.8994,
+    "page": 65,
+    "quote": "Less: Expenses capitalised and transferred to Incidental 5.A1 (6,889.94) (4,382.86)"
+   },
+   "checks": "total income 1700.17 = 0 + 1700.17: ok; PBT -10140.19 = 1700.17 - 7146.09 + capitalised 6889.94 + exceptional -11584.21: ok; expense lines sum to total: ok; PAT = PBT - tax: ok",
+   "notes": "Pre-operations. No revenue-from-operations line. Exceptional item 11,584.21 (printed positive, deducted: impairment of CWIP per cash flow p.66) stored as negative. Scanned page, OCR."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "GMRC_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Revenue from Operations 14 3.91 -"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 135,
+    "quote": "Passenger Revenue 3.81 3.81 - - -"
+   },
+   "non_fare_revenue": {
+    "cr": 0.0,
+    "page": 135,
+    "quote": "Rent 0.10 0.10 -"
+   },
+   "other_income": {
+    "cr": 17.0017,
+    "page": 98,
+    "quote": "Other income 15 2,243.43 1,700.17"
+   },
+   "total_income": {
+    "cr": 17.0017,
+    "page": 98,
+    "quote": "Total income 2,247.34 1,700.17"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Employee benefits expenses 17 501.09 -"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Finance costs 18 20.88 -"
+   },
+   "depreciation": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Depreciation and amortisation expenses 19 197.87 -"
+   },
+   "other_expenses": {
+    "cr": 2.5615,
+    "page": 98,
+    "quote": "Other expenses 20 125.52 256.15"
+   },
+   "total_expenses": {
+    "cr": 2.5615,
+    "page": 98,
+    "quote": "Total expenses 1,135.34 256.15"
+   },
+   "exceptional_items": {
+    "cr": -115.8421,
+    "page": 98,
+    "quote": "Exceptional items 21 1,030.12 11,584.21"
+   },
+   "profit_before_tax": {
+    "cr": -101.4019,
+    "page": 98,
+    "quote": "Profit/(Loss) before tax 81.88 (10,140.19)"
+   },
+   "tax": {
+    "cr": 3.0783,
+    "page": 98,
+    "quote": "Total tax expense 247.62 307.83"
+   },
+   "profit_after_tax": {
+    "cr": -104.4802,
+    "page": 98,
+    "quote": "Profit/(Loss) for the year (165.74) (10,448.02)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Operating expenses 16 289.98 -"
+   },
+   "checks": "total income 1700.17 = 0 + 1700.17: ok; PBT -10140.19 = 1700.17 - 256.15 + exceptional -11584.21: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Re-presented in the 2018-19 report net of capitalisation (only the 256.15 not capitalised is shown, as other expenses); bottom line unchanged from the 2017-18 report. Exceptional printed positive and deducted."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "GMRC_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0391,
+    "page": 98,
+    "quote": "Revenue from Operations 14 3.91 -"
+   },
+   "fare_revenue": {
+    "cr": 0.0381,
+    "page": 135,
+    "quote": "Passenger Revenue 3.81 3.81 (Note 14)"
+   },
+   "non_fare_revenue": {
+    "cr": 0.001,
+    "page": 135,
+    "quote": "Rent 0.10 0.10 (Note 14)"
+   },
+   "other_income": {
+    "cr": 22.4343,
+    "page": 98,
+    "quote": "Other income 15 2,243.43 1,700.17"
+   },
+   "total_income": {
+    "cr": 22.4734,
+    "page": 98,
+    "quote": "Total income 2,247.34 1,700.17"
+   },
+   "employee_cost": {
+    "cr": 5.0109,
+    "page": 98,
+    "quote": "Employee benefits expenses 17 501.09 -"
+   },
+   "finance_cost": {
+    "cr": 0.2088,
+    "page": 98,
+    "quote": "Finance costs 18 20.88 -"
+   },
+   "depreciation": {
+    "cr": 1.9787,
+    "page": 98,
+    "quote": "Depreciation and amortisation expenses 19 197.87 -"
+   },
+   "other_expenses": {
+    "cr": 1.2552,
+    "page": 98,
+    "quote": "Other expenses 20 125.52 256.15"
+   },
+   "total_expenses": {
+    "cr": 11.3534,
+    "page": 98,
+    "quote": "Total expenses 1,135.34 256.15"
+   },
+   "exceptional_items": {
+    "cr": -10.3012,
+    "page": 98,
+    "quote": "Exceptional items 21 1,030.12 11,584.21"
+   },
+   "profit_before_tax": {
+    "cr": 0.8188,
+    "page": 98,
+    "quote": "Profit/(Loss) before tax 81.88 (10,140.19)"
+   },
+   "tax": {
+    "cr": 2.4762,
+    "page": 98,
+    "quote": "Total tax expense 247.62 307.83"
+   },
+   "profit_after_tax": {
+    "cr": -1.6574,
+    "page": 98,
+    "quote": "Profit/(Loss) for the year (165.74) (10,448.02)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 6.5,
+    "page": 33,
+    "quote": "commenced the commercial operations on priority reach 1 section of 6.5 KM's on the East-West Corridor"
+   },
+   "operating_expenses": {
+    "cr": 2.8998,
+    "page": 98,
+    "quote": "Operating expenses 16 289.98 -"
+   },
+   "checks": "total income 2247.34 = 3.91 + 2243.43: ok; PBT 81.88 = 2247.34 - 1135.34 + exceptional -1030.12: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Commercial operations from March 2019 (Vastral Gam-Apparel Park). Expense lines are net of amounts capitalised to IEDC. Exceptional item printed positive and deducted. Ridership not stated (Board's report p.34 gives only revenue)."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "GMRC_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0391,
+    "page": 75,
+    "quote": "Revenue from Operations 14 29.27 3.91"
+   },
+   "fare_revenue": {
+    "cr": 0.0381,
+    "page": 107,
+    "quote": "Passenger Revenue 28.07 - 28.07 3.81 . 3.81"
+   },
+   "non_fare_revenue": {
+    "cr": 0.001,
+    "page": 107,
+    "quote": "Rent 1.20 : 1.20 0.10 - 0.10"
+   },
+   "other_income": {
+    "cr": 22.4343,
+    "page": 75,
+    "quote": "Other income 15 5,927.28 2,243.43"
+   },
+   "total_income": {
+    "cr": 22.4734,
+    "page": 75,
+    "quote": "Total income 5,956.55 2,247.34"
+   },
+   "employee_cost": {
+    "cr": 5.0109,
+    "page": 75,
+    "quote": "Employee benefits expense 17 958.07 501.09"
+   },
+   "finance_cost": {
+    "cr": 0.2088,
+    "page": 75,
+    "quote": "Finance costs 18 2,030.96 20.88"
+   },
+   "depreciation": {
+    "cr": 1.9787,
+    "page": 75,
+    "quote": "Depreciation and amortisation expense 19 2,818.92 197.87"
+   },
+   "other_expenses": {
+    "cr": 1.2552,
+    "page": 75,
+    "quote": "Other expenses 20 383.30 125.52"
+   },
+   "total_expenses": {
+    "cr": 11.3534,
+    "page": 75,
+    "quote": "Total expenses 7,667.34 1,135.34"
+   },
+   "exceptional_items": {
+    "cr": -10.3012,
+    "page": 75,
+    "quote": "Exceptional item 21 - 1,030.12"
+   },
+   "profit_before_tax": {
+    "cr": 0.8188,
+    "page": 75,
+    "quote": "Profit / (Loss) before tax (1,710.79) 81.88"
+   },
+   "tax": {
+    "cr": 2.4762,
+    "page": 75,
+    "quote": "Total tax expense - 247.62"
+   },
+   "profit_after_tax": {
+    "cr": -1.6574,
+    "page": 75,
+    "quote": "Profit/(Loss) for the year (1,710.79) (165.74)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 2.8998,
+    "page": 75,
+    "quote": "Operating expenses 16 1,476.09 289.98"
+   },
+   "checks": "total income 2247.34 = 3.91 + 2243.43: ok; PBT 81.88 = 2247.34 - 1135.34 + exceptional -1030.12: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Same as the 2018-19 report."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "GMRC_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.2927,
+    "page": 75,
+    "quote": "Revenue from Operations 14 29.27 3.91"
+   },
+   "fare_revenue": {
+    "cr": 0.2807,
+    "page": 107,
+    "quote": "Passenger Revenue 28.07 - 28.07 3.81"
+   },
+   "non_fare_revenue": {
+    "cr": 0.012,
+    "page": 107,
+    "quote": "Rent 1.20 : 1.20 0.10 (OCR read '4.20' in one column; 29.27-28.07=1.20)"
+   },
+   "other_income": {
+    "cr": 59.2728,
+    "page": 75,
+    "quote": "Other income 15 5,927.28 2,243.43"
+   },
+   "total_income": {
+    "cr": 59.5655,
+    "page": 75,
+    "quote": "Total income 5,956.55 2,247.34"
+   },
+   "employee_cost": {
+    "cr": 9.5807,
+    "page": 75,
+    "quote": "Employee benefits expense 17 958.07 501.09"
+   },
+   "finance_cost": {
+    "cr": 20.3096,
+    "page": 75,
+    "quote": "Finance costs 18 2,030.96 20.88"
+   },
+   "depreciation": {
+    "cr": 28.1892,
+    "page": 75,
+    "quote": "Depreciation and amortisation expense 19 2,818.92 197.87"
+   },
+   "other_expenses": {
+    "cr": 3.833,
+    "page": 75,
+    "quote": "Other expenses 20 383.30 125.52"
+   },
+   "total_expenses": {
+    "cr": 76.6734,
+    "page": 75,
+    "quote": "Total expenses 7,667.34 1,135.34"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 75,
+    "quote": "Exceptional item 21 - 1,030.12"
+   },
+   "profit_before_tax": {
+    "cr": -17.1079,
+    "page": 75,
+    "quote": "Profit / (Loss) before tax (1,710.79) 81.88"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 75,
+    "quote": "Total tax expense - 247.62"
+   },
+   "profit_after_tax": {
+    "cr": -17.1079,
+    "page": 75,
+    "quote": "Profit/(Loss) for the year (1,710.79) (165.74)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 6.5,
+    "page": 5,
+    "quote": "Priority Reach-1 between Vastral Gam Station to Apparel Park Stations, covering up a total route length of 6.5 kms"
+   },
+   "operating_expenses": {
+    "cr": 14.7609,
+    "page": 75,
+    "quote": "Operating expenses 16 1,476.09 289.98"
+   },
+   "checks": "total income 5956.55 = 29.27 + 5927.28: ok; PBT -1710.79 = 5956.55 - 7667.34: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Ridership given only as a monthly bar chart on p.15 ('Total Ridership (FY 2019-20)'), no annual total stated; the chart's 12 monthly labels sum to 284,934 (computed, not printed), so annual_ridership left null. Board's report p.15 shows passenger fare Rs 28,57,700 and rent Rs 1,20,000 (vs note 14: 28.07 lakh fare)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "GMRC_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.2927,
+    "page": 84,
+    "quote": "Revenue from operations 14 5.62 29.27"
+   },
+   "fare_revenue": {
+    "cr": 0.2807,
+    "page": 118,
+    "quote": "Passenger Revenue 4.42 - 4.42 28.07 - 28.07"
+   },
+   "non_fare_revenue": {
+    "cr": 0.012,
+    "page": 118,
+    "quote": "Rent 1.20 - 1.20 1.20 - 1.20"
+   },
+   "other_income": {
+    "cr": 59.2728,
+    "page": 84,
+    "quote": "Other income 15 5,316.47 5,927.28"
+   },
+   "total_income": {
+    "cr": 59.5655,
+    "page": 84,
+    "quote": "Total income 5,322.09 5,956.55"
+   },
+   "employee_cost": {
+    "cr": 9.5807,
+    "page": 84,
+    "quote": "Employee benefits expense 17 1,857.60 958.07"
+   },
+   "finance_cost": {
+    "cr": 20.3096,
+    "page": 84,
+    "quote": "Finance costs 18 488.06 2,030.96"
+   },
+   "depreciation": {
+    "cr": 28.1892,
+    "page": 84,
+    "quote": "Depreciation and amortisation 19 4,145.63 2,818.92"
+   },
+   "other_expenses": {
+    "cr": 3.833,
+    "page": 84,
+    "quote": "Other expenses 20 1,044.03 383.30"
+   },
+   "total_expenses": {
+    "cr": 76.6734,
+    "page": 84,
+    "quote": "Total expenses 9,918.15 7,667.34"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 84,
+    "quote": "Exceptional item - -"
+   },
+   "profit_before_tax": {
+    "cr": -17.1079,
+    "page": 84,
+    "quote": "(Loss) before tax (4,596.06) (1,710.79)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 84,
+    "quote": "Total tax expense 2.34 -"
+   },
+   "profit_after_tax": {
+    "cr": -17.1079,
+    "page": 84,
+    "quote": "(Loss) for the year (4,598.40) (1,710.79)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 14.7609,
+    "page": 84,
+    "quote": "Operating expenses 16 2,382.83 1,476.09"
+   },
+   "checks": "total income 5956.55 = 29.27 + 5927.28: ok; PBT -1710.79 = 5956.55 - 7667.34: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Same as the 2019-20 report."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "GMRC_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0562,
+    "page": 84,
+    "quote": "Revenue from operations 14 5.62 29.27"
+   },
+   "fare_revenue": {
+    "cr": 0.0442,
+    "page": 118,
+    "quote": "Passenger Revenue 4.42 - 4.42 28.07"
+   },
+   "non_fare_revenue": {
+    "cr": 0.012,
+    "page": 118,
+    "quote": "Rent 1.20 - 1.20 1.20"
+   },
+   "other_income": {
+    "cr": 53.1647,
+    "page": 84,
+    "quote": "Other income 15 5,316.47 5,927.28"
+   },
+   "total_income": {
+    "cr": 53.2209,
+    "page": 84,
+    "quote": "Total income 5,322.09 5,956.55"
+   },
+   "employee_cost": {
+    "cr": 18.576,
+    "page": 84,
+    "quote": "Employee benefits expense 17 1,857.60 958.07"
+   },
+   "finance_cost": {
+    "cr": 4.8806,
+    "page": 84,
+    "quote": "Finance costs 18 488.06 2,030.96"
+   },
+   "depreciation": {
+    "cr": 41.4563,
+    "page": 84,
+    "quote": "Depreciation and amortisation 19 4,145.63 2,818.92"
+   },
+   "other_expenses": {
+    "cr": 10.4403,
+    "page": 84,
+    "quote": "Other expenses 20 1,044.03 383.30"
+   },
+   "total_expenses": {
+    "cr": 99.1815,
+    "page": 84,
+    "quote": "Total expenses 9,918.15 7,667.34"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 84,
+    "quote": "Exceptional item - -"
+   },
+   "profit_before_tax": {
+    "cr": -45.9606,
+    "page": 84,
+    "quote": "(Loss) before tax (4,596.06) (1,710.79)"
+   },
+   "tax": {
+    "cr": 0.0234,
+    "page": 84,
+    "quote": "Earlier year tax 21 2.34 -"
+   },
+   "profit_after_tax": {
+    "cr": -45.984,
+    "page": 84,
+    "quote": "(Loss) for the year (4,598.40) (1,710.79)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 23.8283,
+    "page": 84,
+    "quote": "Operating expenses 16 2,382.83 1,476.09"
+   },
+   "checks": "total income 5322.09 = 5.62 + 5316.47: ok; PBT -4596.06 = 5322.09 - 9918.15: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Services suspended Apr-Aug 2020 (COVID). Ridership only as a monthly chart p.15 (labels sum to 46,570, computed, not printed); annual total not stated. Route km not restated for the year."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "GMRC_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0562,
+    "page": 107,
+    "quote": "Revenue from operations 14 21.86 5.62"
+   },
+   "fare_revenue": {
+    "cr": 0.0442,
+    "page": 157,
+    "quote": "Passenger Revenue 21.86 - 21.86 4.42 - 4.42"
+   },
+   "non_fare_revenue": {
+    "cr": 0.012,
+    "page": 157,
+    "quote": "Rent - - - 1.20 - 1.20"
+   },
+   "other_income": {
+    "cr": 53.1647,
+    "page": 107,
+    "quote": "Other income 15 9,652.25 5,316.47"
+   },
+   "total_income": {
+    "cr": 53.2209,
+    "page": 107,
+    "quote": "Total income 9,674.11 5,322.09"
+   },
+   "employee_cost": {
+    "cr": 18.576,
+    "page": 107,
+    "quote": "Employee benefits expense 17 2,640.98 1,857.60"
+   },
+   "finance_cost": {
+    "cr": 4.8806,
+    "page": 107,
+    "quote": "Finance costs 18 1,107.23 488.06"
+   },
+   "depreciation": {
+    "cr": 41.4563,
+    "page": 107,
+    "quote": "Depreciation and amortisation 19 6,689.96 4,145.63"
+   },
+   "other_expenses": {
+    "cr": 10.4403,
+    "page": 107,
+    "quote": "Other expenses 20 1,162.74 1,044.03"
+   },
+   "total_expenses": {
+    "cr": 99.1815,
+    "page": 107,
+    "quote": "Total expenses 14,327.62 9,918.15"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 107,
+    "quote": "Exceptional item - -"
+   },
+   "profit_before_tax": {
+    "cr": -45.9606,
+    "page": 107,
+    "quote": "(Loss) before tax (4,653.51) (4,596.06)"
+   },
+   "tax": {
+    "cr": 0.0234,
+    "page": 107,
+    "quote": "Earlier year tax 21 - 2.34"
+   },
+   "profit_after_tax": {
+    "cr": -45.984,
+    "page": 107,
+    "quote": "(Loss) for the year (4,653.51) (4,598.40)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 23.8283,
+    "page": 107,
+    "quote": "Operating expenses 16 2,726.71 2,382.83"
+   },
+   "checks": "total income 5322.09 = 5.62 + 5316.47: ok; PBT -4596.06 = 5322.09 - 9918.15: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Same as the 2020-21 report."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "GMRC_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.2186,
+    "page": 107,
+    "quote": "Revenue from operations 14 21.86 5.62"
+   },
+   "fare_revenue": {
+    "cr": 0.2186,
+    "page": 157,
+    "quote": "Passenger Revenue 21.86 - 21.86"
+   },
+   "non_fare_revenue": {
+    "cr": 0.0,
+    "page": 157,
+    "quote": "Rent - - -"
+   },
+   "other_income": {
+    "cr": 96.5225,
+    "page": 107,
+    "quote": "Other income 15 9,652.25 5,316.47"
+   },
+   "total_income": {
+    "cr": 96.7411,
+    "page": 107,
+    "quote": "Total income 9,674.11 5,322.09"
+   },
+   "employee_cost": {
+    "cr": 26.4098,
+    "page": 107,
+    "quote": "Employee benefits expense 17 2,640.98 1,857.60"
+   },
+   "finance_cost": {
+    "cr": 11.0723,
+    "page": 107,
+    "quote": "Finance costs 18 1,107.23 488.06"
+   },
+   "depreciation": {
+    "cr": 66.8996,
+    "page": 107,
+    "quote": "Depreciation and amortisation 19 6,689.96 4,145.63"
+   },
+   "other_expenses": {
+    "cr": 11.6274,
+    "page": 107,
+    "quote": "Other expenses 20 1,162.74 1,044.03"
+   },
+   "total_expenses": {
+    "cr": 143.2762,
+    "page": 107,
+    "quote": "Total expenses 14,327.62 9,918.15"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 107,
+    "quote": "Exceptional item - -"
+   },
+   "profit_before_tax": {
+    "cr": -46.5351,
+    "page": 107,
+    "quote": "(Loss) before tax (4,653.51) (4,596.06)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 107,
+    "quote": "Earlier year tax 21 - 2.34"
+   },
+   "profit_after_tax": {
+    "cr": -46.5351,
+    "page": 107,
+    "quote": "(Loss) for the year (4,653.51) (4,598.40)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 27.2671,
+    "page": 107,
+    "quote": "Operating expenses 16 2,726.71 2,382.83"
+   },
+   "checks": "total income 9674.11 = 21.86 + 9652.25: ok; PBT -4653.51 = 9674.11 - 14327.62: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Other income includes foreign-exchange gain on JICA loan restatement 4,619.50 lakh (note 15 p.157). Ridership only as monthly chart p.13 (labels sum to 242,339, computed); annual total not stated. Board's report p.13 gives fare revenue Rs 21,86,126."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "GMRC_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.2186,
+    "page": 102,
+    "quote": "Revenue from operations 13 1,174.38 21.86"
+   },
+   "fare_revenue": {
+    "cr": 0.2186,
+    "page": 147,
+    "quote": "Passenger Revenue 1,142.93 21.86 (rotated page)"
+   },
+   "non_fare_revenue": {
+    "cr": 0.0,
+    "page": 147,
+    "quote": "Rent 31.45 -"
+   },
+   "other_income": {
+    "cr": 96.5225,
+    "page": 102,
+    "quote": "Other income 14 13,692.85 9,652.25"
+   },
+   "total_income": {
+    "cr": 96.7411,
+    "page": 102,
+    "quote": "Total income 14,867.23 9,674.11"
+   },
+   "employee_cost": {
+    "cr": 26.4098,
+    "page": 102,
+    "quote": "Employee benefits expense 16 3,489.25 2,640.98"
+   },
+   "finance_cost": {
+    "cr": 11.0723,
+    "page": 102,
+    "quote": "Finance costs 17 13,466.73 1,107.23"
+   },
+   "depreciation": {
+    "cr": 66.8996,
+    "page": 102,
+    "quote": "Depreciation and amortisation 18 18,222.63 6,689.96"
+   },
+   "other_expenses": {
+    "cr": 11.6274,
+    "page": 102,
+    "quote": "Other expenses 19 3,677.43 1,162.74"
+   },
+   "total_expenses": {
+    "cr": 143.2762,
+    "page": 102,
+    "quote": "Total expenses 46,944.42 14,327.62"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -46.5351,
+    "page": 102,
+    "quote": "(Loss) before tax (32,077.19) (4,653.51)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 102,
+    "quote": "Earlier year tax 20 7.92 -"
+   },
+   "profit_after_tax": {
+    "cr": -46.5351,
+    "page": 102,
+    "quote": "(Loss) for the year (32,085.11) (4,653.51)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 27.2671,
+    "page": 102,
+    "quote": "Operating expenses 15 8,088.38 2,726.71"
+   },
+   "checks": "total income 9674.11 = 21.86 + 9652.25: ok; PBT -4653.51 = 9674.11 - 14327.62: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Same as the 2021-22 report."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "GMRC_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 11.7438,
+    "page": 102,
+    "quote": "Revenue from operations 13 1,174.38 21.86"
+   },
+   "fare_revenue": {
+    "cr": 11.4293,
+    "page": 147,
+    "quote": "Passenger Revenue 1,142.93 21.86 (Note 13, rotated page)"
+   },
+   "non_fare_revenue": {
+    "cr": 0.3145,
+    "page": 147,
+    "quote": "Rent 31.45 -"
+   },
+   "other_income": {
+    "cr": 136.9285,
+    "page": 102,
+    "quote": "Other income 14 13,692.85 9,652.25"
+   },
+   "total_income": {
+    "cr": 148.6723,
+    "page": 102,
+    "quote": "Total income 14,867.23 9,674.11"
+   },
+   "employee_cost": {
+    "cr": 34.8925,
+    "page": 102,
+    "quote": "Employee benefits expense 16 3,489.25 2,640.98"
+   },
+   "finance_cost": {
+    "cr": 134.6673,
+    "page": 102,
+    "quote": "Finance costs 17 13,466.73 1,107.23"
+   },
+   "depreciation": {
+    "cr": 182.2263,
+    "page": 102,
+    "quote": "Depreciation and amortisation 18 18,222.63 6,689.96"
+   },
+   "other_expenses": {
+    "cr": 36.7743,
+    "page": 102,
+    "quote": "Other expenses 19 3,677.43 1,162.74"
+   },
+   "total_expenses": {
+    "cr": 469.4442,
+    "page": 102,
+    "quote": "Total expenses 46,944.42 14,327.62"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -320.7719,
+    "page": 102,
+    "quote": "(Loss) before tax (32,077.19) (4,653.51)"
+   },
+   "tax": {
+    "cr": 0.0792,
+    "page": 102,
+    "quote": "Earlier year tax 20 7.92 -"
+   },
+   "profit_after_tax": {
+    "cr": -320.8511,
+    "page": 102,
+    "quote": "(Loss) for the year (32,085.11) (4,653.51)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 38.6,
+    "page": 6,
+    "quote": "The entire network of 38.60 Kms catering metro services ... opened for the Citizens of Ahmedabad from ... 2nd October, 2022"
+   },
+   "operating_expenses": {
+    "cr": 80.8838,
+    "page": 102,
+    "quote": "Operating expenses 15 8,088.38 2,726.71"
+   },
+   "checks": "total income 14867.23 = 1174.38 + 13692.85: ok; PBT -32077.19 = 14867.23 - 46944.42: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Full Ahmedabad Phase-1 opened 2 Oct 2022. Ridership only as charts on p.16 (priority reach Apr-Sep 2022 and Phase-1 Oct 2022-Mar 2023); chart labels sum to 273,544 + 7,343,591 = 7,617,135 (computed, not printed), so annual_ridership left null. Route km: this report says 38.60 km; the 2023-24 report says 40.02 km for the same network."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "GMRC_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 11.7438,
+    "page": 94,
+    "quote": "Revenue from operations 13 3,796.47 1,174.38"
+   },
+   "fare_revenue": {
+    "cr": 11.4293,
+    "page": 138,
+    "quote": "Passenger Revenue 3,541.21 1,142.93"
+   },
+   "non_fare_revenue": {
+    "cr": 0.3145,
+    "page": 138,
+    "quote": "Rent 255.26 31.45"
+   },
+   "other_income": {
+    "cr": 136.9285,
+    "page": 94,
+    "quote": "Other income 14 83,471.71 13,692.85"
+   },
+   "total_income": {
+    "cr": 148.6723,
+    "page": 94,
+    "quote": "Total income 87,268.18 14,867.23"
+   },
+   "employee_cost": {
+    "cr": 34.8925,
+    "page": 94,
+    "quote": "Employee benefits expense 16 4,716.15 3,489.25"
+   },
+   "finance_cost": {
+    "cr": 134.6673,
+    "page": 94,
+    "quote": "Finance costs 17 7,556.81 13,466.73"
+   },
+   "depreciation": {
+    "cr": 182.2263,
+    "page": 94,
+    "quote": "Depreciation and amortisation expenses 18 31,175.95 18,222.63"
+   },
+   "other_expenses": {
+    "cr": 36.7743,
+    "page": 94,
+    "quote": "Other expenses 19 2,942.67 3,677.43"
+   },
+   "total_expenses": {
+    "cr": 469.4442,
+    "page": 94,
+    "quote": "Total expenses 63,374.66 46,944.42"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -320.7719,
+    "page": 94,
+    "quote": "Profit/ (Loss) before tax 23,893.52 (32,077.19)"
+   },
+   "tax": {
+    "cr": 0.0792,
+    "page": 94,
+    "quote": "Earlier year tax 20 - 7.92"
+   },
+   "profit_after_tax": {
+    "cr": -320.8511,
+    "page": 94,
+    "quote": "Profit/ (Loss) for the year 23,893.52 (32,085.11)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 80.8838,
+    "page": 94,
+    "quote": "Operating expenses 15 16,983.08 8,088.38"
+   },
+   "checks": "total income 14867.23 = 1174.38 + 13692.85: ok; PBT -32077.19 = 14867.23 - 46944.42: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Same as the 2022-23 report."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "GMRC_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 37.9647,
+    "page": 94,
+    "quote": "Revenue from operations 13 3,796.47 1,174.38"
+   },
+   "fare_revenue": {
+    "cr": 35.4121,
+    "page": 138,
+    "quote": "Passenger Revenue 3,541.21 1,142.93"
+   },
+   "non_fare_revenue": {
+    "cr": 2.5526,
+    "page": 138,
+    "quote": "Rent 255.26 31.45"
+   },
+   "other_income": {
+    "cr": 834.7171,
+    "page": 94,
+    "quote": "Other income 14 83,471.71 13,692.85"
+   },
+   "total_income": {
+    "cr": 872.6818,
+    "page": 94,
+    "quote": "Total income 87,268.18 14,867.23"
+   },
+   "employee_cost": {
+    "cr": 47.1615,
+    "page": 94,
+    "quote": "Employee benefits expense 16 4,716.15 3,489.25"
+   },
+   "finance_cost": {
+    "cr": 75.5681,
+    "page": 94,
+    "quote": "Finance costs 17 7,556.81 13,466.73"
+   },
+   "depreciation": {
+    "cr": 311.7595,
+    "page": 94,
+    "quote": "Depreciation and amortisation expenses 18 31,175.95 18,222.63"
+   },
+   "other_expenses": {
+    "cr": 29.4267,
+    "page": 94,
+    "quote": "Other expenses 19 2,942.67 3,677.43"
+   },
+   "total_expenses": {
+    "cr": 633.7466,
+    "page": 94,
+    "quote": "Total expenses 63,374.66 46,944.42"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 238.9352,
+    "page": 94,
+    "quote": "Profit/ (Loss) before tax 23,893.52 (32,077.19)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 94,
+    "quote": "Earlier year tax 20 - 7.92"
+   },
+   "profit_after_tax": {
+    "cr": 238.9352,
+    "page": 94,
+    "quote": "Profit/ (Loss) for the year 23,893.52 (32,085.11)"
+   },
+   "annual_ridership_lakh": {
+    "lakh": 293.47001,
+    "page": 15,
+    "quote": "2023-24 1,99,28,723 94,18,278 2,93,47,001 80,184 (Total Passenger Journey / Daily Average)"
+   },
+   "avg_daily_ridership": {
+    "value": 80184,
+    "page": 15,
+    "quote": "Total Passenger Journey 2,93,47,001 Daily Average Passenger Journey 80,184"
+   },
+   "route_km": {
+    "value": 40.02,
+    "page": 13,
+    "quote": "commenced on the entire route length of 40.02 kms with effect from 1st Oct, 2022"
+   },
+   "operating_expenses": {
+    "cr": 169.8308,
+    "page": 94,
+    "quote": "Operating expenses 15 16,983.08 8,088.38"
+   },
+   "checks": "total income 87268.18 = 3796.47 + 83471.71: ok; PBT 23893.52 = 87268.18 - 63374.66: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Profit driven by other income (83,471.71 lakh). Restated in the 2024-25 report (other expenses 2,828.13, PBT/PAT 24,008.06). Ridership conflict inside the report: p.15 table gives 2,93,47,001 passenger journeys (used), p.17 complaints table gives 'Total Ridership 2,43,70,773'. Route km: p.13 says 40.02 km but the same page's table gives operating lengths 19.45 (E-W) + 18.84 (N-S)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "GMRC_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 37.9647,
+    "page": 95,
+    "quote": "Revenue from operations 14 5,067.29 3,796.47"
+   },
+   "fare_revenue": {
+    "cr": 35.4121,
+    "page": 139,
+    "quote": "Passenger Revenue 4,771.57 3,541.21"
+   },
+   "non_fare_revenue": {
+    "cr": 2.5526,
+    "page": 139,
+    "quote": "Rent 295.72 255.26"
+   },
+   "other_income": {
+    "cr": 834.7171,
+    "page": 95,
+    "quote": "Other income 15 33,525.44 83,471.71"
+   },
+   "total_income": {
+    "cr": 872.6818,
+    "page": 95,
+    "quote": "Total income 38,592.73 87,268.18"
+   },
+   "employee_cost": {
+    "cr": 47.1615,
+    "page": 95,
+    "quote": "Employee benefits expense 17 5,475.46 4,716.15"
+   },
+   "finance_cost": {
+    "cr": 75.5681,
+    "page": 95,
+    "quote": "Finance costs 18 26,482.84 7,556.81"
+   },
+   "depreciation": {
+    "cr": 311.7595,
+    "page": 95,
+    "quote": "Depreciation and amortisation 19 35,807.59 31,175.95"
+   },
+   "other_expenses": {
+    "cr": 28.2813,
+    "page": 95,
+    "quote": "Other expenses 20 3,778.20 2,828.13"
+   },
+   "total_expenses": {
+    "cr": 632.6012,
+    "page": 95,
+    "quote": "Total expenses 93,548.24 63,260.12"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 95,
+    "quote": "Exceptional item - -"
+   },
+   "profit_before_tax": {
+    "cr": 240.0806,
+    "page": 95,
+    "quote": "Profit/ (Loss) before tax (54,955.51) 24,008.06"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 95,
+    "quote": "Total tax expense - -"
+   },
+   "profit_after_tax": {
+    "cr": 240.0806,
+    "page": 95,
+    "quote": "Profit/ (Loss) for the year (54,955.51) 24,008.06"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 169.8308,
+    "page": 95,
+    "quote": "Operating expenses 16 22,004.15 16,983.08"
+   },
+   "checks": "total income 87268.18 = 3796.47 + 83471.71: ok; PBT 24008.06 = 87268.18 - 63260.12: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "RESTATED in the 2024-25 report: other expenses 2,828.13 (was 2,942.67), total expenses 63,260.12 (was 63,374.66), PBT/PAT 24,008.06 (was 23,893.52)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "GMRC_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 50.6729,
+    "page": 95,
+    "quote": "Revenue from operations 14 5,067.29 3,796.47"
+   },
+   "fare_revenue": {
+    "cr": 47.7157,
+    "page": 139,
+    "quote": "Passenger Revenue 4,771.57 3,541.21"
+   },
+   "non_fare_revenue": {
+    "cr": 2.9572,
+    "page": 139,
+    "quote": "Rent 295.72 255.26"
+   },
+   "other_income": {
+    "cr": 335.2544,
+    "page": 95,
+    "quote": "Other income 15 33,525.44 83,471.71"
+   },
+   "total_income": {
+    "cr": 385.9273,
+    "page": 95,
+    "quote": "Total income 38,592.73 87,268.18"
+   },
+   "employee_cost": {
+    "cr": 54.7546,
+    "page": 95,
+    "quote": "Employee benefits expense 17 5,475.46 4,716.15"
+   },
+   "finance_cost": {
+    "cr": 264.8284,
+    "page": 95,
+    "quote": "Finance costs 18 26,482.84 7,556.81"
+   },
+   "depreciation": {
+    "cr": 358.0759,
+    "page": 95,
+    "quote": "Depreciation and amortisation 19 35,807.59 31,175.95"
+   },
+   "other_expenses": {
+    "cr": 37.782,
+    "page": 95,
+    "quote": "Other expenses 20 3,778.20 2,828.13"
+   },
+   "total_expenses": {
+    "cr": 935.4824,
+    "page": 95,
+    "quote": "Total expenses 93,548.24 63,260.12"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 95,
+    "quote": "Exceptional item - -"
+   },
+   "profit_before_tax": {
+    "cr": -549.5551,
+    "page": 95,
+    "quote": "Profit/ (Loss) before tax (54,955.51) 24,008.06"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 95,
+    "quote": "Total tax expense - -"
+   },
+   "profit_after_tax": {
+    "cr": -549.5551,
+    "page": 95,
+    "quote": "Profit/ (Loss) for the year (54,955.51) 24,008.06"
+   },
+   "annual_ridership_lakh": {
+    "lakh": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 109779,
+    "page": 12,
+    "quote": "Daily Avg. Passenger Journey FY 2024-25 Phase 01 108568 Phase 02 2086 Total Average 109779"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 220.0415,
+    "page": 95,
+    "quote": "Operating expenses 16 22,004.15 16,983.08"
+   },
+   "checks": "total income 38592.73 = 5067.29 + 33525.44: ok; PBT -54955.51 = 38592.73 - 93548.24: ok; expense lines sum to total: ok; PAT = PBT - tax: ok; fare + non-fare = revenue from operations: ok",
+   "notes": "Annual passenger journeys not stated as a number (monthly chart on p.13 in lakh). Route km at year end not stated as a total: report says Phase-2 20.8 km / 8 stations opened 16 Sep 2024 (p.18) and Thaltej-Thaltej Gam 1.43 km opened 8 Dec 2024 (p.18)."
+  }
+ ]
+}

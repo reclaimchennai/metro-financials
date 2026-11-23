@@ -1,0 +1,1122 @@
+{
+ "operator": "RMGSL",
+ "documents": [
+  {
+   "file": "RMGSL_2012-13_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 8,
+   "note": "First period (24 Aug 2012 to 31 Mar 2013). Auditors' report + accounts. P&L p8. Construction stage, no revenue."
+  },
+  {
+   "file": "RMGSL_2013-14_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 16,
+   "note": "Directors' Report p2-3 (project under construction, 'approximately 7 km', five stations, p3) + accounts. P&L p16."
+  },
+  {
+   "file": "RMGSL_2014-15_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 8,
+   "note": "Auditors' report + accounts. P&L p8. Construction stage."
+  },
+  {
+   "file": "RMGSL_2015-16_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 10,
+   "note": "Scanned. Indian GAAP accounts, P&L p10. Construction stage, no revenue. Restated under Ind AS in the 2016-17 report with SCA construction income (loss ₹0.66 cr becomes profit ₹72.92 cr)."
+  },
+  {
+   "file": "RMGSL_2016-17_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 11,
+   "note": "Scanned. First Ind AS accounts (₹ lakh; unit stated in the notes, P&L header has none). P&L p11, Notes 20-24 p39. Ind AS service-concession accounting: revenue includes 'Construction income' (₹72,331.42 lakh in 2015-16, ₹74,322.61 lakh in 2016-17) matched by construction contract costs inside 'Operating expenses of service concession arrangement'. This is not fare/operating income and inflates revenue; it produced the reported profits of 2015-16 (restated) and 2016-17."
+  },
+  {
+   "file": "RMGSL_2017-18_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 9,
+   "note": "Scanned (OmniPage). Auditor changed to S.R. Batliboi & Co. LLP. ₹ lakh. P&L p9, Notes 20-24 p32. First full operating year (no construction income)."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2012-13",
+   "source_file": "RMGSL_2012-13_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "1. Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "2. Total Revenue -"
+   },
+   "employee_cost": {
+    "cr": 0.004686,
+    "page": 8,
+    "quote": "(a) Employee benefits expenses 13 46,859"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.001812,
+    "page": 8,
+    "quote": "(c) Depreciation and amortization expenses 9 18,123"
+   },
+   "other_expenses": {
+    "cr": 0.025463,
+    "page": 8,
+    "quote": "(c) Administrative & general expenses 14 254,630"
+   },
+   "total_expenses": {
+    "cr": 0.034859,
+    "page": 8,
+    "quote": "Total Expenses 348,592"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.034859,
+    "page": 8,
+    "quote": "4. Profit /(loss) before tax (3 -4) (348,592)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "(a) Current tax - (b) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.034859,
+    "page": 8,
+    "quote": "7. Profit/(loss) for the period (5-6) (348,592)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "preliminary_expenses_written_off": {
+    "cr": 0.002898,
+    "page": 8,
+    "quote": "(d) Preliminary Expenses written-off 28,980"
+   },
+   "checks": "expenses 46,859+18,123+254,630+28,980 = 348,592 ok; PBT ok",
+   "notes": "Period 24 Aug 2012 to 31 Mar 2013; no other income line; other_expenses = administrative & general expenses."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "RMGSL_2013-14_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "P&L has only '1. Other income 16 2,507,382 -' (no revenue line)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "1. Other income 16 2,507,382 -"
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "2. Total revenue 2,507,382 -"
+   },
+   "employee_cost": {
+    "cr": 0.004686,
+    "page": 16,
+    "quote": "(a) Employee benefits expense 17 1,346,470 46,859"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "(b) Finance costs 18 1,078,616 -"
+   },
+   "depreciation": {
+    "cr": 0.001812,
+    "page": 16,
+    "quote": "(c) Depreciation and amortisation expense 11 571,121 18,123"
+   },
+   "other_expenses": {
+    "cr": 0.025463,
+    "page": 16,
+    "quote": "(d) Other expenses 19 16,226,788 254,630"
+   },
+   "total_expenses": {
+    "cr": 0.034859,
+    "page": 16,
+    "quote": "Total expenses 19,222,995 348,592"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.034859,
+    "page": 16,
+    "quote": "4. Profit /(loss) before tax (3 -4) (16,715,613) (348,592)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "(a) Current tax 800,000 -"
+   },
+   "profit_after_tax": {
+    "cr": -0.034859,
+    "page": 16,
+    "quote": "6. Profit/(loss) for the year (4-5) (17,515,613) (348,592)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "preliminary_expenses_written_off": {
+    "cr": 0.002898,
+    "page": 16,
+    "quote": "(e) Preliminary expenses written-off - 28,980"
+   },
+   "checks": "same as 2012-13 report; ok",
+   "notes": "Matches the 2012-13 report."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "RMGSL_2013-14_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 16,
+    "quote": "P&L has only '1. Other income 16 2,507,382 -' (no revenue line)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.250738,
+    "page": 16,
+    "quote": "1. Other income 16 2,507,382 -"
+   },
+   "total_income": {
+    "cr": 0.250738,
+    "page": 16,
+    "quote": "2. Total revenue 2,507,382 -"
+   },
+   "employee_cost": {
+    "cr": 0.134647,
+    "page": 16,
+    "quote": "(a) Employee benefits expense 17 1,346,470 46,859"
+   },
+   "finance_cost": {
+    "cr": 0.107862,
+    "page": 16,
+    "quote": "(b) Finance costs 18 1,078,616 -"
+   },
+   "depreciation": {
+    "cr": 0.057112,
+    "page": 16,
+    "quote": "(c) Depreciation and amortisation expense 11 571,121 18,123"
+   },
+   "other_expenses": {
+    "cr": 1.622679,
+    "page": 16,
+    "quote": "(d) Other expenses 19 16,226,788 254,630"
+   },
+   "total_expenses": {
+    "cr": 1.9223,
+    "page": 16,
+    "quote": "Total expenses 19,222,995 348,592"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1.671561,
+    "page": 16,
+    "quote": "4. Profit /(loss) before tax (3 -4) (16,715,613) (348,592)"
+   },
+   "tax": {
+    "cr": 0.08,
+    "page": 16,
+    "quote": "(a) Current tax 800,000 -"
+   },
+   "profit_after_tax": {
+    "cr": -1.751561,
+    "page": 16,
+    "quote": "6. Profit/(loss) for the year (4-5) (17,515,613) (348,592)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "expenses 1,346,470+1,078,616+571,121+16,226,788 = 19,222,995 ok; PBT ok; PAT ok",
+   "notes": "Construction stage (Directors' Report p3: project 'approximately 7 km', five stations, under construction); no operational route km."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "RMGSL_2014-15_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "P&L has only '1. Other income' (no revenue line)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.250738,
+    "page": 8,
+    "quote": "1. Other income 17 2,221,716 2,507,382"
+   },
+   "total_income": {
+    "cr": 0.250738,
+    "page": 8,
+    "quote": "2. Total revenue 2,221,716 2,507,382"
+   },
+   "employee_cost": {
+    "cr": 0.134647,
+    "page": 8,
+    "quote": "(a) Employee benefits expense 18 2,648,003 1,346,470"
+   },
+   "finance_cost": {
+    "cr": 0.107862,
+    "page": 8,
+    "quote": "(b) Finance costs 19 - 1,078,616"
+   },
+   "depreciation": {
+    "cr": 0.057112,
+    "page": 8,
+    "quote": "(c) Depreciation and amortisation expense 11 790,199 571,121"
+   },
+   "other_expenses": {
+    "cr": 1.622679,
+    "page": 8,
+    "quote": "(d) Other expenses 20 11,820,785 16,226,788"
+   },
+   "total_expenses": {
+    "cr": 1.9223,
+    "page": 8,
+    "quote": "Total expenses 15,258,987 19,222,995"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1.671561,
+    "page": 8,
+    "quote": "4. Loss before tax (2 -3) (13,037,271) (16,715,613)"
+   },
+   "tax": {
+    "cr": 0.08,
+    "page": 8,
+    "quote": "(a) Current Tax 673,000 800,000"
+   },
+   "profit_after_tax": {
+    "cr": -1.751561,
+    "page": 8,
+    "quote": "6. Loss for the year (4-5) (13,710,271) (17,515,613)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "same as 2013-14 report; ok",
+   "notes": "Matches the 2013-14 report."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "RMGSL_2014-15_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "P&L has only '1. Other income' (no revenue line)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.222172,
+    "page": 8,
+    "quote": "1. Other income 17 2,221,716 2,507,382"
+   },
+   "total_income": {
+    "cr": 0.222172,
+    "page": 8,
+    "quote": "2. Total revenue 2,221,716 2,507,382"
+   },
+   "employee_cost": {
+    "cr": 0.2648,
+    "page": 8,
+    "quote": "(a) Employee benefits expense 18 2,648,003 1,346,470"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "(b) Finance costs 19 - 1,078,616"
+   },
+   "depreciation": {
+    "cr": 0.07902,
+    "page": 8,
+    "quote": "(c) Depreciation and amortisation expense 11 790,199 571,121"
+   },
+   "other_expenses": {
+    "cr": 1.182079,
+    "page": 8,
+    "quote": "(d) Other expenses 20 11,820,785 16,226,788"
+   },
+   "total_expenses": {
+    "cr": 1.525899,
+    "page": 8,
+    "quote": "Total expenses 15,258,987 19,222,995"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1.303727,
+    "page": 8,
+    "quote": "4. Loss before tax (2 -3) (13,037,271) (16,715,613)"
+   },
+   "tax": {
+    "cr": 0.0673,
+    "page": 8,
+    "quote": "(a) Current Tax 673,000 800,000"
+   },
+   "profit_after_tax": {
+    "cr": -1.371027,
+    "page": 8,
+    "quote": "6. Loss for the year (4-5) (13,710,271) (17,515,613)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "expenses 2,648,003+790,199+11,820,785 = 15,258,987 ok; PBT ok; PAT ok",
+   "notes": "Construction stage."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "RMGSL_2015-16_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "P&L has only '1. Other income' (no revenue line)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.222172,
+    "page": 10,
+    "quote": "1. Other income 20 23,941,318 2,221,716"
+   },
+   "total_income": {
+    "cr": 0.222172,
+    "page": 10,
+    "quote": "2. Total revenue 23,941,318 2,221,716"
+   },
+   "employee_cost": {
+    "cr": 0.2648,
+    "page": 10,
+    "quote": "(a) Employee benefits expense 21 2,951,623 2,648,003"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "(b) Finance costs 22 17,071,183 -"
+   },
+   "depreciation": {
+    "cr": 0.07902,
+    "page": 10,
+    "quote": "(c) Depreciation and amortisation expense 13 866,596 790,199"
+   },
+   "other_expenses": {
+    "cr": 1.182079,
+    "page": 10,
+    "quote": "(d) Other expenses 23 9,613,066 11,820,785"
+   },
+   "total_expenses": {
+    "cr": 1.525899,
+    "page": 10,
+    "quote": "Total expenses 30,502,468 15,258,987"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1.303727,
+    "page": 10,
+    "quote": "4. Loss before tax (2 -3) (6,561,150) (13,037,271)"
+   },
+   "tax": {
+    "cr": 0.0673,
+    "page": 10,
+    "quote": "Current Tax - 673,000"
+   },
+   "profit_after_tax": {
+    "cr": -1.371027,
+    "page": 10,
+    "quote": "6. Loss for the year (4-5) (6,561,150) (13,710,271)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "same as 2014-15 report; ok",
+   "notes": "Matches the 2014-15 report."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "RMGSL_2015-16_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "P&L has only '1. Other income' (no revenue line)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 2.394132,
+    "page": 10,
+    "quote": "1. Other income 20 23,941,318 2,221,716"
+   },
+   "total_income": {
+    "cr": 2.394132,
+    "page": 10,
+    "quote": "2. Total revenue 23,941,318 2,221,716"
+   },
+   "employee_cost": {
+    "cr": 0.295162,
+    "page": 10,
+    "quote": "(a) Employee benefits expense 21 2,951,623 2,648,003"
+   },
+   "finance_cost": {
+    "cr": 1.707118,
+    "page": 10,
+    "quote": "(b) Finance costs 22 17,071,183 -"
+   },
+   "depreciation": {
+    "cr": 0.08666,
+    "page": 10,
+    "quote": "(c) Depreciation and amortisation expense 13 866,596 790,199"
+   },
+   "other_expenses": {
+    "cr": 0.961307,
+    "page": 10,
+    "quote": "(d) Other expenses 23 9,613,066 11,820,785"
+   },
+   "total_expenses": {
+    "cr": 3.050247,
+    "page": 10,
+    "quote": "Total expenses 30,502,468 15,258,987"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.656115,
+    "page": 10,
+    "quote": "4. Loss before tax (2 -3) (6,561,150) (13,037,271)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Current Tax - 673,000"
+   },
+   "profit_after_tax": {
+    "cr": -0.656115,
+    "page": 10,
+    "quote": "6. Loss for the year (4-5) (6,561,150) (13,710,271)"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "expenses 2,951,623+17,071,183+866,596+9,613,066 = 30,502,468 ok; PBT 23,941,318-30,502,468 = -6,561,150 ok",
+   "notes": "Indian GAAP, construction stage. Restated under Ind AS in the 2016-17 report (see next entry)."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "RMGSL_2016-17_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 723.5557,
+    "page": 11,
+    "quote": "1. Revenue from operations 20 74,635.00 72,355.57"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 39,
+    "quote": "- Fare revenue 0.39 -"
+   },
+   "non_fare_revenue": {
+    "cr": 0.2415,
+    "page": 39,
+    "quote": "- Non fare revenue (Advertisement income) 312.00 24.15"
+   },
+   "other_income": {
+    "cr": 2.2426,
+    "page": 11,
+    "quote": "2. Other income 21 6,034.29 224.26"
+   },
+   "total_income": {
+    "cr": 725.7983,
+    "page": 11,
+    "quote": "3. Total income (1+2) 80,669.29 72,579.83"
+   },
+   "employee_cost": {
+    "cr": 0.2891,
+    "page": 11,
+    "quote": "Employee benefit expense 23 41.45 28.91"
+   },
+   "finance_cost": {
+    "cr": 1.7071,
+    "page": 11,
+    "quote": "Finance costs 24 5,855.92 170.71"
+   },
+   "depreciation": {
+    "cr": 0.0868,
+    "page": 11,
+    "quote": "Depreciation and amortisation expense 25 20.89 8.68"
+   },
+   "other_expenses": {
+    "cr": 0.9613,
+    "page": 11,
+    "quote": "Other expenses 26 162.73 96.13"
+   },
+   "total_expenses": {
+    "cr": 643.1454,
+    "page": 11,
+    "quote": "Total expenses 71,856.92 64,314.54"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 82.6529,
+    "page": 11,
+    "quote": "5. Profit before tax (3-4) 8,812.37 8,265.29"
+   },
+   "tax": {
+    "cr": 9.7356,
+    "page": 11,
+    "quote": "Total tax expense 5,395.94 973.56"
+   },
+   "profit_after_tax": {
+    "cr": 72.9173,
+    "page": 11,
+    "quote": "7. Profit for the year (5-6) 3,416.43 7,291.73"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "construction_income": {
+    "cr": 723.3142,
+    "page": 39,
+    "quote": "a. Construction income 74,322.61 72,331.42"
+   },
+   "operating_expenses": {
+    "cr": 640.1011,
+    "page": 11,
+    "quote": "Operating expenses of service concession arrangement 22 65,775.93 64,010.11"
+   },
+   "checks": "total income 72,355.57+224.26 = 72,579.83 ok; expenses 64,010.11+28.91+170.71+8.68+96.13 = 64,314.54 ok; PBT ok; PAT ok; revenue 72,331.42+24.15 = 72,355.57 ok",
+   "notes": "RESTATED under Ind AS: IGAAP loss ₹0.66 cr becomes profit ₹72.92 cr because of service-concession construction income ₹72,331.42 lakh (99.97% of revenue) against construction costs ₹64,010.11 lakh — not operating income; line not yet open. IGAAP other income 239.41 lakh vs Ind AS 224.26; finance cost 170.71 lakh vs 170.71 (IGAAP 17,071,183 rupees). OCI -0.39 lakh not included."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "RMGSL_2016-17_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 746.35,
+    "page": 11,
+    "quote": "1. Revenue from operations 20 74,635.00 72,355.57"
+   },
+   "fare_revenue": {
+    "cr": 0.0039,
+    "page": 39,
+    "quote": "- Fare revenue 0.39 -"
+   },
+   "non_fare_revenue": {
+    "cr": 3.12,
+    "page": 39,
+    "quote": "- Non fare revenue (Advertisement income) 312.00 24.15"
+   },
+   "other_income": {
+    "cr": 60.3429,
+    "page": 11,
+    "quote": "2. Other income 21 6,034.29 224.26"
+   },
+   "total_income": {
+    "cr": 806.6929,
+    "page": 11,
+    "quote": "3. Total income (1+2) 80,669.29 72,579.83"
+   },
+   "employee_cost": {
+    "cr": 0.4145,
+    "page": 11,
+    "quote": "Employee benefit expense 23 41.45 28.91"
+   },
+   "finance_cost": {
+    "cr": 58.5592,
+    "page": 11,
+    "quote": "Finance costs 24 5,855.92 170.71"
+   },
+   "depreciation": {
+    "cr": 0.2089,
+    "page": 11,
+    "quote": "Depreciation and amortisation expense 25 20.89 8.68"
+   },
+   "other_expenses": {
+    "cr": 1.6273,
+    "page": 11,
+    "quote": "Other expenses 26 162.73 96.13"
+   },
+   "total_expenses": {
+    "cr": 718.5692,
+    "page": 11,
+    "quote": "Total expenses 71,856.92 64,314.54"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 88.1237,
+    "page": 11,
+    "quote": "5. Profit before tax (3-4) 8,812.37 8,265.29"
+   },
+   "tax": {
+    "cr": 53.9594,
+    "page": 11,
+    "quote": "Total tax expense 5,395.94 973.56"
+   },
+   "profit_after_tax": {
+    "cr": 34.1643,
+    "page": 11,
+    "quote": "7. Profit for the year (5-6) 3,416.43 7,291.73"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "construction_income": {
+    "cr": 743.2261,
+    "page": 39,
+    "quote": "a. Construction income 74,322.61 72,331.42"
+   },
+   "operating_expenses": {
+    "cr": 657.7593,
+    "page": 11,
+    "quote": "Operating expenses of service concession arrangement 22 65,775.93 64,010.11"
+   },
+   "checks": "total income 74,635.00+6,034.29 = 80,669.29 ok; expenses 65,775.93+41.45+5,855.92+20.89+162.73 = 71,856.92 ok; PBT ok; tax 1,697.04+3,698.90 = 5,395.94 ok; PAT ok; revenue 74,322.61+0.39+312.00 = 74,635.00 ok",
+   "notes": "Revenue is 99.6% service-concession construction income (₹74,322.61 lakh); fare revenue only ₹0.39 lakh (Phase 2 opened at the very end of the year). The reported profit comes from construction margin (construction income less construction contract costs ₹65,772.23 lakh) plus ₹5,985.91 lakh interest on other financial assets in other income. OCI -840.32 lakh not included."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "RMGSL_2017-18_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 746.35,
+    "page": 9,
+    "quote": "1. Revenue from operations 20 2,037.49 74,635.00"
+   },
+   "fare_revenue": {
+    "cr": 0.0039,
+    "page": 32,
+    "quote": "- Fare revenue 1,011.46 0.39"
+   },
+   "non_fare_revenue": {
+    "cr": 3.12,
+    "page": 32,
+    "quote": "- Non fare revenue (Advertisement income) 1,026.03 312.00"
+   },
+   "other_income": {
+    "cr": 60.3429,
+    "page": 9,
+    "quote": "2. Other income 21 50.44 6,034.29"
+   },
+   "total_income": {
+    "cr": 806.6929,
+    "page": 9,
+    "quote": "3. Total income (1+2) 2,087.93 80,669.29"
+   },
+   "employee_cost": {
+    "cr": 0.4145,
+    "page": 9,
+    "quote": "Employee benefit expense 23 1,129.69 41.45"
+   },
+   "finance_cost": {
+    "cr": 58.5592,
+    "page": 9,
+    "quote": "Finance costs 24 19,095.49 5,855.92"
+   },
+   "depreciation": {
+    "cr": 0.2089,
+    "page": 9,
+    "quote": "Depreciation and amortisation expense 25 3,036.62 20.89"
+   },
+   "other_expenses": {
+    "cr": 1.6273,
+    "page": 9,
+    "quote": "Other expenses 26 2,410.29 162.73"
+   },
+   "total_expenses": {
+    "cr": 718.5692,
+    "page": 9,
+    "quote": "Total expenses 27,021.53 71,856.92"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 88.1237,
+    "page": 9,
+    "quote": "5. Profit / (Loss) before tax (3-4) (24,933.60) 8,812.37"
+   },
+   "tax": {
+    "cr": 53.9594,
+    "page": 9,
+    "quote": "Total tax expense (1,141.92) 5,395.94"
+   },
+   "profit_after_tax": {
+    "cr": 34.1643,
+    "page": 9,
+    "quote": "7. Profit / (Loss) for the year (5-6) (23,791.68) 3,416.43"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "construction_income": {
+    "cr": 743.2261,
+    "page": 32,
+    "quote": "a. Construction income - 74,322.61"
+   },
+   "operating_expenses": {
+    "cr": 657.7593,
+    "page": 9,
+    "quote": "Operating expenses of service concession arrangement 22 1,349.44 65,775.93"
+   },
+   "checks": "same as 2016-17 report; ok",
+   "notes": "Matches the 2016-17 report. Construction income inflates revenue (see current entry)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "RMGSL_2017-18_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 20.3749,
+    "page": 9,
+    "quote": "1. Revenue from operations 20 2,037.49 74,635.00"
+   },
+   "fare_revenue": {
+    "cr": 10.1146,
+    "page": 32,
+    "quote": "- Fare revenue 1,011.46 0.39"
+   },
+   "non_fare_revenue": {
+    "cr": 10.2603,
+    "page": 32,
+    "quote": "- Non fare revenue (Advertisement income) 1,026.03 312.00"
+   },
+   "other_income": {
+    "cr": 0.5044,
+    "page": 9,
+    "quote": "2. Other income 21 50.44 6,034.29"
+   },
+   "total_income": {
+    "cr": 20.8793,
+    "page": 9,
+    "quote": "3. Total income (1+2) 2,087.93 80,669.29"
+   },
+   "employee_cost": {
+    "cr": 11.2969,
+    "page": 9,
+    "quote": "Employee benefit expense 23 1,129.69 41.45"
+   },
+   "finance_cost": {
+    "cr": 190.9549,
+    "page": 9,
+    "quote": "Finance costs 24 19,095.49 5,855.92"
+   },
+   "depreciation": {
+    "cr": 30.3662,
+    "page": 9,
+    "quote": "Depreciation and amortisation expense 25 3,036.62 20.89"
+   },
+   "other_expenses": {
+    "cr": 24.1029,
+    "page": 9,
+    "quote": "Other expenses 26 2,410.29 162.73"
+   },
+   "total_expenses": {
+    "cr": 270.2153,
+    "page": 9,
+    "quote": "Total expenses 27,021.53 71,856.92"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -249.336,
+    "page": 9,
+    "quote": "5. Profit / (Loss) before tax (3-4) (24,933.60) 8,812.37"
+   },
+   "tax": {
+    "cr": -11.4192,
+    "page": 9,
+    "quote": "Total tax expense (1,141.92) 5,395.94"
+   },
+   "profit_after_tax": {
+    "cr": -237.9168,
+    "page": 9,
+    "quote": "7. Profit / (Loss) for the year (5-6) (23,791.68) 3,416.43"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "construction_income": {
+    "cr": 0.0,
+    "page": 32,
+    "quote": "a. Construction income - 74,322.61"
+   },
+   "operating_expenses": {
+    "cr": 13.4944,
+    "page": 9,
+    "quote": "Operating expenses of service concession arrangement 22 1,349.44 65,775.93"
+   },
+   "checks": "total income 2,037.49+50.44 = 2,087.93 ok; expenses 1,349.44+1,129.69+19,095.49+3,036.62+2,410.29 = 27,021.53 ok; PBT ok; tax 767.05-1,908.97 = -1,141.92 ok; PAT ok; revenue 1,011.46+1,026.03 = 2,037.49 ok",
+   "notes": "First full year of operation; no construction income. Operating expenses = provision for replacement costs. Tax is a net credit (current 767.05 incl. earlier year, deferred -1,908.97). OCI +80.83 lakh not included."
+  }
+ ]
+}

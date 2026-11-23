@@ -1,0 +1,2037 @@
+{
+ "operator": "NMRC",
+ "documents": [
+  {
+   "file": "NMRC_2014-15_Financial_Statement.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 2,
+   "note": "Audited financial statements only (no Directors' report). P&L 'for the period ended 31.03.2015' (Amount in Rs.) p.2; previous column (31.03.2014) all dashes - not recorded."
+  },
+  {
+   "file": "NMRC_2015-16_Financial_Statement.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 2,
+   "note": "Financial statements only. P&L (₹) p.2; extraordinary item +1,120,000 (Note 17)."
+  },
+  {
+   "file": "NMRC_2016-17_Financial_Statement.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 8,
+   "note": "Auditor's report + financial statements. P&L (Amount in Rs.) p.8; Note 15 revenue (city bus operations only) p.17. Metro not yet open."
+  },
+  {
+   "file": "NMRC_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 43,
+   "note": "Scanned (PDF has a malformed page tree; renders fine). P&L (₹ lakh) p.43, Note 21 p.55 (city bus + metro operations; Aqua Line opened 26 Jan 2019). No annual ridership figure found."
+  },
+  {
+   "file": "NMRC_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 40,
+   "note": "P&L (₹ lakh) p.40, Note 21/22 p.51. 2018-19 comparatives restated (prior-period adjustments)."
+  },
+  {
+   "file": "NMRC_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 42,
+   "note": "P&L (₹ lakh) p.42, Note 21/22 p.53. 2019-20 comparatives restated (expense reclassification; loss 9,226.25 -> 9,269.18). City bus service terminated during the year."
+  },
+  {
+   "file": "NMRC_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 36,
+   "note": "P&L (₹ lakh) p.36, Note 21 p.49. 2020-21 comparatives restated (other income 27,820.98 -> 27,876.22; loss 7,828.84 -> 7,828.69)."
+  },
+  {
+   "file": "NMRC_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 35,
+   "note": "P&L (₹ lakh) p.35, Note 21 p.49. Also a three-year restated P&L (2022-23, 2021-22, 2020-21) on p.53; 2021-22 restated (loss 9,524.23 -> 9,628.18) and 2020-21 restated again (loss -> 7,949.55)."
+  },
+  {
+   "file": "NMRC_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 41,
+   "note": "Text PDF. P&L (₹ lakh) p.41, Note 21/22 p.55, monthly ridership & revenue table p.13, avg daily ridership in message p.4, network km p.17. 2022-23 comparatives restated (loss 5,397.76 -> 5,379.93)."
+  },
+  {
+   "file": "NMRC_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 41,
+   "note": "Text PDF. P&L (₹ lakh) p.41, Note 21/22 p.56, ridership table p.13, network km p.17. 2023-24 comparatives restated (loss 5,232.70 -> 5,285.81)."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2014-15",
+   "source_file": "NMRC_2014-15_Financial_Statement.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "I Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.55,
+    "page": 2,
+    "quote": "II Other Income 13 5,500,000.00"
+   },
+   "total_income": {
+    "cr": 0.55,
+    "page": 2,
+    "quote": "III Total Revenue (I +II) 5,500,000.00"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 0.0595,
+    "page": 2,
+    "quote": "Employees benefits expense 14 595,161.00"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "Finance costs -"
+   },
+   "depreciation": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "Depreciation and amortization expense -"
+   },
+   "other_expenses": {
+    "cr": 3.0238,
+    "page": 2,
+    "quote": "Other expenses 15 30,238,137.00"
+   },
+   "total_expenses": {
+    "cr": 3.0833,
+    "page": 2,
+    "quote": "Total Expenses 30,833,298.00"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "VI Exceptional items -"
+   },
+   "profit_before_tax": {
+    "cr": -2.5333,
+    "page": 2,
+    "quote": "IX Profit before tax (VII-VIII) (25,333,298.00)"
+   },
+   "tax": {
+    "cr": -0.7184,
+    "page": 2,
+    "quote": "(2) Deferred tax (7,183,777.35)"
+   },
+   "profit_after_tax": {
+    "cr": -1.815,
+    "page": 2,
+    "quote": "XV Profit (Loss) for the period (XI + XIV-X) (18,149,520.65)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 0.55 vs rev+other 0.55 ok; PBT -2.5333 vs TI-TE+exc -2.5333 ok; expense lines sum 3.0833 vs total 3.0833 ok; PAT -1.815 vs PBT-tax -1.8149 ok",
+   "notes": "First period (company incorporated 2014). Deferred tax is a credit."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "NMRC_2015-16_Financial_Statement.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "Revenue from Operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 4.4814,
+    "page": 2,
+    "quote": "Other Income 14 44,814,070.38"
+   },
+   "total_income": {
+    "cr": 4.4814,
+    "page": 2,
+    "quote": "Total Revenue (I +II) 44,814,070.38"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 0.3709,
+    "page": 2,
+    "quote": "Employees' Benefits Expenses 15 3,708,558.00"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "Finance Cost -"
+   },
+   "depreciation": {
+    "cr": 0.0146,
+    "page": 2,
+    "quote": "Depreciation & Amortization Expenses 145,618.96"
+   },
+   "other_expenses": {
+    "cr": 1.1696,
+    "page": 2,
+    "quote": "Other Expenses 16 11,696,190.95"
+   },
+   "total_expenses": {
+    "cr": 1.555,
+    "page": 2,
+    "quote": "Total Expenses 15,550,367.91"
+   },
+   "exceptional_items": {
+    "cr": 0.112,
+    "page": 2,
+    "quote": "Extraordinary items 17 1,120,000.00 [added: PBT = 29,263,702.47 + 1,120,000]"
+   },
+   "profit_before_tax": {
+    "cr": 3.0384,
+    "page": 2,
+    "quote": "Profit before tax (VII+VIII) 30,383,702.47"
+   },
+   "tax": {
+    "cr": 1.1276,
+    "page": 2,
+    "quote": "(1) Current tax 8,758,173.00 (2) Deferred tax 2,517,742.00"
+   },
+   "profit_after_tax": {
+    "cr": 1.9108,
+    "page": 2,
+    "quote": "Profit (Loss) for the period (IX + XIV-X) 19,107,787.47"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 4.4814 vs rev+other 4.4814 ok; PBT 3.0384 vs TI-TE+exc 3.0384 ok; expense lines sum 1.5551 vs total 1.555 ok; PAT 1.9108 vs PBT-tax 1.9108 ok",
+   "notes": "exceptional_items holds an EXTRAORDINARY item (+1,120,000) added to profit. Tax = current + deferred (sum computed)."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "NMRC_2015-16_Financial_Statement.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 2,
+    "quote": "Revenue from Operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.55,
+    "page": 2,
+    "quote": "Other Income 5,500,000.00"
+   },
+   "total_income": {
+    "cr": 0.55,
+    "page": 2,
+    "quote": "Total Revenue (I +II) 5,500,000.00"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 0.0595,
+    "page": 2,
+    "quote": "Employees' Benefits Expenses 595,161.00"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": 3.0238,
+    "page": 2,
+    "quote": "Other Expenses 30,238,137.00"
+   },
+   "total_expenses": {
+    "cr": 3.0833,
+    "page": 2,
+    "quote": "Total Expenses 30,833,298.00"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -2.5333,
+    "page": 2,
+    "quote": "Profit before tax (25,333,298.00)"
+   },
+   "tax": {
+    "cr": -0.7184,
+    "page": 2,
+    "quote": "(2) Deferred tax (7,183,777.35)"
+   },
+   "profit_after_tax": {
+    "cr": -1.815,
+    "page": 2,
+    "quote": "Profit (Loss) for the period (18,149,520.65)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 0.55 vs rev+other 0.55 ok; PBT -2.5333 vs TI-TE+exc -2.5333 ok; PAT -1.815 vs PBT-tax -1.8149 ok",
+   "notes": "Same as 2014-15 statement."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "NMRC_2016-17_Financial_Statement.pdf",
+   "column": "current",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 1.3891,
+    "page": 8,
+    "quote": "i) Revenue from Operations 15 13,891,458.20"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": 17,
+    "quote": "City Bus Collection 132,32,549.20 [bus, not metro]"
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 22.2027,
+    "page": 8,
+    "quote": "ii) Other Income 16 222,026,597.53"
+   },
+   "total_income": {
+    "cr": 23.5918,
+    "page": 8,
+    "quote": "TOTAL REVENUE 235,918,055.73"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 1.1344,
+    "page": 8,
+    "quote": "i) Employees' Benefits Expenses 17 11,343,905.00"
+   },
+   "finance_cost": {
+    "cr": 0.0149,
+    "page": 8,
+    "quote": "ii) Finance Cost 18 148,804.30"
+   },
+   "depreciation": {
+    "cr": 0.0693,
+    "page": 8,
+    "quote": "iii) Depreciation & Amortization Expenses 8 692,530.00"
+   },
+   "other_expenses": {
+    "cr": 28.6681,
+    "page": 8,
+    "quote": "iv) Other Expenses 19 286,680,657.93"
+   },
+   "total_expenses": {
+    "cr": 29.8866,
+    "page": 8,
+    "quote": "TOTAL EXPENDITURE 298,865,897.23"
+   },
+   "exceptional_items": {
+    "cr": -1.5638,
+    "page": 8,
+    "quote": "Extraordinary Items 20 (15,638,004.00)"
+   },
+   "profit_before_tax": {
+    "cr": -7.8586,
+    "page": 8,
+    "quote": "Profit/(Loss) Before Tax (78,585,845.50)"
+   },
+   "tax": {
+    "cr": 0.4666,
+    "page": 8,
+    "quote": "iii) Deferred Tax (4,666,035.35) [deducted: PAT = PBT - 4,666,035.35]"
+   },
+   "profit_after_tax": {
+    "cr": -8.3252,
+    "page": 8,
+    "quote": "Profit/(Loss) for the Period (83,251,880.85)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 23.5918 vs rev+other 23.5918 ok; PBT -7.8586 vs TI-TE+exc -7.8586 ok; expense lines sum 29.8867 vs total 29.8866 ok; PAT -8.3252 vs PBT-tax -8.3252 ok",
+   "notes": "Revenue is entirely from city bus operations (City Bus Collection 13,232,549.20 etc., Note 15 p.17); metro not open. Other income includes grant from Dedicated Urban Transport Fund. exceptional_items holds an EXTRAORDINARY item (loss). Deferred tax is printed in brackets but PAT = PBT minus it, so recorded as a tax charge of 4,666,035.35."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "NMRC_2016-17_Financial_Statement.pdf",
+   "column": "previous",
+   "unit_in_report": "₹",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "i) Revenue from Operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 4.4814,
+    "page": 8,
+    "quote": "ii) Other Income 44,814,070.38"
+   },
+   "total_income": {
+    "cr": 4.4814,
+    "page": 8,
+    "quote": "TOTAL REVENUE 44,814,070.38"
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": 0.3709,
+    "page": 8,
+    "quote": "Employees' Benefits Expenses 3,708,558.00"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 8,
+    "quote": "Finance Cost -"
+   },
+   "depreciation": {
+    "cr": 0.0146,
+    "page": 8,
+    "quote": "Depreciation & Amortization Expenses 145,618.96"
+   },
+   "other_expenses": {
+    "cr": 1.1696,
+    "page": 8,
+    "quote": "Other Expenses 11,696,190.95"
+   },
+   "total_expenses": {
+    "cr": 1.555,
+    "page": 8,
+    "quote": "TOTAL EXPENDITURE 15,550,367.91"
+   },
+   "exceptional_items": {
+    "cr": 0.112,
+    "page": 8,
+    "quote": "Extraordinary Items 1,120,000.00"
+   },
+   "profit_before_tax": {
+    "cr": 3.0384,
+    "page": 8,
+    "quote": "Profit/(Loss) Before Tax 30,383,702.47"
+   },
+   "tax": {
+    "cr": 1.1276,
+    "page": 8,
+    "quote": "ii) Income tax 8,758,173.00 iii) Deferred Tax 2,517,742.00"
+   },
+   "profit_after_tax": {
+    "cr": 1.9108,
+    "page": 8,
+    "quote": "Profit/(Loss) for the Period 19,107,787.47"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 4.4814 vs rev+other 4.4814 ok; PBT 3.0384 vs TI-TE+exc 3.0384 ok; expense lines sum 1.5551 vs total 1.555 ok; PAT 1.9108 vs PBT-tax 1.9108 ok",
+   "notes": "Same as 2015-16 statement."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "NMRC_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 18.8403,
+    "page": 43,
+    "quote": "i) Revenue from Operations 21 1,884.03"
+   },
+   "fare_revenue": {
+    "cr": 2.2547,
+    "page": 55,
+    "quote": "Income From Metro Operation 225.47"
+   },
+   "non_fare_revenue": {
+    "cr": 4.6147,
+    "page": 55,
+    "quote": "Income From Parking 0.52; Income from Co-Branding 15.74; Royalty from State Bank of India 445.21 (metro, sum)"
+   },
+   "other_income": {
+    "cr": 62.0655,
+    "page": 43,
+    "quote": "ii) Other Income 22 6,206.55"
+   },
+   "total_income": {
+    "cr": 80.9058,
+    "page": 43,
+    "quote": "TOTAL INCOME 8,090.58"
+   },
+   "operating_expenses": {
+    "cr": 53.0866,
+    "page": 43,
+    "quote": "i) Operating Expenses 23 5,308.66"
+   },
+   "employee_cost": {
+    "cr": 11.1613,
+    "page": 43,
+    "quote": "ii) Employees' Benefits Expenses 24 1,116.13"
+   },
+   "finance_cost": {
+    "cr": 13.7967,
+    "page": 43,
+    "quote": "iii) Finance Cost 25 1,379.67"
+   },
+   "depreciation": {
+    "cr": 25.6784,
+    "page": 43,
+    "quote": "iv) Depreciation & Amortization Expenses 1.1 & 1.2 2,567.84"
+   },
+   "other_expenses": {
+    "cr": 26.0298,
+    "page": 43,
+    "quote": "v) Other Expenses 26 2,602.98"
+   },
+   "total_expenses": {
+    "cr": 129.7528,
+    "page": 43,
+    "quote": "TOTAL EXPENDITURE 12,975.28"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 43,
+    "quote": "Exceptional Item -"
+   },
+   "profit_before_tax": {
+    "cr": -48.847,
+    "page": 43,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (4,884.70)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 43,
+    "quote": "Income tax - Deferred Tax -"
+   },
+   "profit_after_tax": {
+    "cr": -48.847,
+    "page": 43,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (4,884.70)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 80.9058 vs rev+other 80.9058 ok; PBT -48.847 vs TI-TE+exc -48.847 ok; expense lines sum 129.7528 vs total 129.7528 ok; PAT -48.847 vs PBT-tax -48.847 ok",
+   "notes": "Aqua Line opened 26 Jan 2019 (partial year). Revenue from operations = city bus 1,197.09 lakh (City Bus Collection 1,182.57) + metro 686.94 lakh. fare/non-fare are METRO only; bus fare excluded. Other income includes grants for city bus (2,948.60), interest on metro (1,379.22), capital grant (964.14)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "NMRC_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 9.8131,
+    "page": 43,
+    "quote": "i) Revenue from Operations 981.31"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 36.9551,
+    "page": 43,
+    "quote": "ii) Other Income 3,695.51"
+   },
+   "total_income": {
+    "cr": 46.7682,
+    "page": 43,
+    "quote": "TOTAL INCOME 4,676.82"
+   },
+   "operating_expenses": {
+    "cr": 42.1889,
+    "page": 43,
+    "quote": "i) Operating Expenses 4,218.89"
+   },
+   "employee_cost": {
+    "cr": 1.4913,
+    "page": 43,
+    "quote": "ii) Employees' Benefits Expenses 149.13"
+   },
+   "finance_cost": {
+    "cr": 0.0062,
+    "page": 43,
+    "quote": "iii) Finance Cost 0.62"
+   },
+   "depreciation": {
+    "cr": 0.1426,
+    "page": 43,
+    "quote": "iv) Depreciation & Amortization Expenses 14.26"
+   },
+   "other_expenses": {
+    "cr": 7.8755,
+    "page": 43,
+    "quote": "v) Other Expenses 787.55"
+   },
+   "total_expenses": {
+    "cr": 51.7045,
+    "page": 43,
+    "quote": "TOTAL EXPENDITURE 5,170.45"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 43,
+    "quote": "Exceptional Item -"
+   },
+   "profit_before_tax": {
+    "cr": -4.9362,
+    "page": 43,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (493.62)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 43,
+    "quote": "Income tax - Deferred Tax -"
+   },
+   "profit_after_tax": {
+    "cr": -4.9362,
+    "page": 43,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (493.62)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 46.7682 vs rev+other 46.7682 ok; PBT -4.9362 vs TI-TE+exc -4.9363 ok; expense lines sum 51.7045 vs total 51.7045 ok; PAT -4.9362 vs PBT-tax -4.9362 ok",
+   "notes": "No 2017-18 report in the downloads; only this comparative. Revenue is all city bus (City Bus Collection 968.84). Note 22 says previous-year city-bus grant increased by 105.94 lakh and tender sales reduced by 2.19 lakh (prior-period adjustments), so this column is restated vs the original 2017-18 accounts."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "NMRC_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 60.7065,
+    "page": 40,
+    "quote": "i) Revenue from Operations 21 6,070.65"
+   },
+   "fare_revenue": {
+    "cr": 21.9654,
+    "page": 51,
+    "quote": "Income From Metro Operation 2,196.54"
+   },
+   "non_fare_revenue": {
+    "cr": 29.8307,
+    "page": 51,
+    "quote": "Parking 35.32; Co-Branding 513.17; Advertisement etc. 49.62; Rental for Commercial Spaces 240.00; Royalty Income 2,144.96 (metro, sum)"
+   },
+   "other_income": {
+    "cr": 235.7856,
+    "page": 40,
+    "quote": "ii) Other Income 22 23,578.56"
+   },
+   "total_income": {
+    "cr": 296.4921,
+    "page": 40,
+    "quote": "TOTAL INCOME 29,649.21"
+   },
+   "operating_expenses": {
+    "cr": 102.0469,
+    "page": 40,
+    "quote": "i) Operating Expenses 23 10,204.69"
+   },
+   "employee_cost": {
+    "cr": 40.5002,
+    "page": 40,
+    "quote": "ii) Employees' Benefits Expenses 24 4,050.02"
+   },
+   "finance_cost": {
+    "cr": 76.3766,
+    "page": 40,
+    "quote": "iii) Finance Cost 25 7,637.66"
+   },
+   "depreciation": {
+    "cr": 153.8696,
+    "page": 40,
+    "quote": "iv) Depreciation & Amortization Expenses 15,386.96"
+   },
+   "other_expenses": {
+    "cr": 15.9439,
+    "page": 40,
+    "quote": "v) Other Expenses 26 1,594.39"
+   },
+   "total_expenses": {
+    "cr": 388.7372,
+    "page": 40,
+    "quote": "TOTAL EXPENDITURE 38,873.72"
+   },
+   "exceptional_items": {
+    "cr": -0.0174,
+    "page": 40,
+    "quote": "Loss by fire (7.52); Insurance Claim 5.96; Loss on Sale of Fixed Asset (0.19); Profit on Sale 0.01 (net, computed)"
+   },
+   "profit_before_tax": {
+    "cr": -92.2625,
+    "page": 40,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (9,226.25)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 40,
+    "quote": "Income tax - Deferred Tax -"
+   },
+   "profit_after_tax": {
+    "cr": -92.2625,
+    "page": 40,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (9,226.25)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 296.4921 vs rev+other 296.4921 ok; PBT -92.2625 vs TI-TE+exc -92.2625 ok; expense lines sum 388.7372 vs total 388.7372 ok; PAT -92.2625 vs PBT-tax -92.2625 ok",
+   "notes": "Revenue from operations = city bus 891.04 lakh (City Bus Collection 882.12) + metro 5,179.61 lakh; fare/non-fare are metro only. Other income is mostly grants (metro interest grant 7,633.05, capital grant 5,266.81, metro operation grant 6,708.87, city bus 2,956.68). Chairman's message (p.4) says average ridership rose from 12,274 to 17,032 passengers/day during the year (not a FY average; not recorded). COVID suspension from late March 2020."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "NMRC_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 18.8532,
+    "page": 40,
+    "quote": "i) Revenue from Operations 1,885.32"
+   },
+   "fare_revenue": {
+    "cr": 2.2547,
+    "page": 51,
+    "quote": "Income From Metro Operation 225.47"
+   },
+   "non_fare_revenue": {
+    "cr": 4.6276,
+    "page": 51,
+    "quote": "Parking 0.52; Co-Branding 15.74; Advertisement/E-Rickshaw 1.29; Royalty 445.21 (metro, sum; metro total 688.23)"
+   },
+   "other_income": {
+    "cr": 62.0655,
+    "page": 40,
+    "quote": "ii) Other Income 6,206.55"
+   },
+   "total_income": {
+    "cr": 80.9187,
+    "page": 40,
+    "quote": "TOTAL INCOME 8,091.87"
+   },
+   "operating_expenses": {
+    "cr": 53.0031,
+    "page": 40,
+    "quote": "i) Operating Expenses 5,300.31"
+   },
+   "employee_cost": {
+    "cr": 11.1613,
+    "page": 40,
+    "quote": "ii) Employees' Benefits Expenses 1,116.13"
+   },
+   "finance_cost": {
+    "cr": 13.7967,
+    "page": 40,
+    "quote": "iii) Finance Cost 1,379.67"
+   },
+   "depreciation": {
+    "cr": 25.6784,
+    "page": 40,
+    "quote": "iv) Depreciation & Amortization Expenses 2,567.84"
+   },
+   "other_expenses": {
+    "cr": 26.1133,
+    "page": 40,
+    "quote": "v) Other Expenses 2,611.33"
+   },
+   "total_expenses": {
+    "cr": 129.7528,
+    "page": 40,
+    "quote": "TOTAL EXPENDITURE 12,975.28"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 40,
+    "quote": "-"
+   },
+   "profit_before_tax": {
+    "cr": -48.8341,
+    "page": 40,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (4,883.41)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 40,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -48.8341,
+    "page": 40,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (4,883.41)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 80.9187 vs rev+other 80.9187 ok; PBT -48.8341 vs TI-TE+exc -48.8341 ok; expense lines sum 129.7528 vs total 129.7528 ok; PAT -48.8341 vs PBT-tax -48.8341 ok",
+   "notes": "RESTATED vs 2018-19 report: revenue 1,884.03 -> 1,885.32 (E-Rickshaw income +1.29 prior-period), operating exp 5,308.66 -> 5,300.31, other exp 2,602.98 -> 2,611.33, loss 4,884.70 -> 4,883.41."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "NMRC_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 16.1455,
+    "page": 42,
+    "quote": "i) Revenue from Operations 21 1,614.55"
+   },
+   "fare_revenue": {
+    "cr": 5.3916,
+    "page": 53,
+    "quote": "Income From Metro Operation 539.16"
+   },
+   "non_fare_revenue": {
+    "cr": 10.7293,
+    "page": 53,
+    "quote": "Parking 13.75; Co-Branding 393.14; Advertisement etc. 67.18; Rental for Commercial Spaces 99.98; Royalty Income 498.88 (metro, sum)"
+   },
+   "other_income": {
+    "cr": 278.2098,
+    "page": 42,
+    "quote": "ii) Other Income 22 27,820.98"
+   },
+   "total_income": {
+    "cr": 294.3553,
+    "page": 42,
+    "quote": "TOTAL INCOME 29,435.53"
+   },
+   "operating_expenses": {
+    "cr": 60.1858,
+    "page": 42,
+    "quote": "i) Operating Expenses 23 6,018.58"
+   },
+   "employee_cost": {
+    "cr": 41.0697,
+    "page": 42,
+    "quote": "ii) Employees' Benefits Expenses 24 4,106.97"
+   },
+   "finance_cost": {
+    "cr": 96.5893,
+    "page": 42,
+    "quote": "iii) Finance Cost 25 9,658.93"
+   },
+   "depreciation": {
+    "cr": 161.4529,
+    "page": 42,
+    "quote": "iv) Depreciation & Amortization Expenses 16,145.29"
+   },
+   "other_expenses": {
+    "cr": 13.346,
+    "page": 42,
+    "quote": "v) Other Expenses 26 1,334.60"
+   },
+   "total_expenses": {
+    "cr": 372.6437,
+    "page": 42,
+    "quote": "TOTAL EXPENDITURE 37,264.37"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 42,
+    "quote": "Loss by fire 0.00; Loss on Sale of Fixed Asset 0.00"
+   },
+   "profit_before_tax": {
+    "cr": -78.2884,
+    "page": 42,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (7,828.84)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 42,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -78.2884,
+    "page": 42,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (7,828.84)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 294.3553 vs rev+other 294.3553 ok; PBT -78.2884 vs TI-TE+exc -78.2884 ok; expense lines sum 372.6437 vs total 372.6437 ok; PAT -78.2884 vs PBT-tax -78.2884 ok",
+   "notes": "COVID year. City bus revenue only 2.46 lakh (service terminated). Other income includes metro operation grant 9,851.68, interest grant 9,652.50, capital grant 5,440.45. Restated twice later (2021-22 and 2022-23 reports)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "NMRC_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 60.7065,
+    "page": 42,
+    "quote": "i) Revenue from Operations 6,070.65"
+   },
+   "fare_revenue": {
+    "cr": 21.9654,
+    "page": 53,
+    "quote": "Income From Metro Operation 2,196.54"
+   },
+   "non_fare_revenue": {
+    "cr": 29.8307,
+    "page": 53,
+    "quote": "Parking 35.32; Co-Branding 513.17; Advertisement 49.62; Rental 240.00; Royalty 2,144.96 (sum)"
+   },
+   "other_income": {
+    "cr": 235.7856,
+    "page": 42,
+    "quote": "ii) Other Income 23,578.56"
+   },
+   "total_income": {
+    "cr": 296.4921,
+    "page": 42,
+    "quote": "TOTAL INCOME 29,649.21"
+   },
+   "operating_expenses": {
+    "cr": 102.8383,
+    "page": 42,
+    "quote": "i) Operating Expenses 10,283.83"
+   },
+   "employee_cost": {
+    "cr": 40.7976,
+    "page": 42,
+    "quote": "ii) Employees' Benefits Expenses 4,079.76"
+   },
+   "finance_cost": {
+    "cr": 76.3766,
+    "page": 42,
+    "quote": "iii) Finance Cost 7,637.66"
+   },
+   "depreciation": {
+    "cr": 153.8696,
+    "page": 42,
+    "quote": "iv) Depreciation & Amortization Expenses 15,386.96"
+   },
+   "other_expenses": {
+    "cr": 15.2844,
+    "page": 42,
+    "quote": "v) Other Expenses 1,528.44"
+   },
+   "total_expenses": {
+    "cr": 389.1665,
+    "page": 42,
+    "quote": "TOTAL EXPENDITURE 38,916.65"
+   },
+   "exceptional_items": {
+    "cr": -0.0174,
+    "page": 42,
+    "quote": "-7.52; 5.96; -0.19; 0.01 (net, computed)"
+   },
+   "profit_before_tax": {
+    "cr": -92.6918,
+    "page": 42,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (9,269.18)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 42,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -92.6918,
+    "page": 42,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (9,269.18)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 296.4921 vs rev+other 296.4921 ok; PBT -92.6918 vs TI-TE+exc -92.6918 ok; expense lines sum 389.1665 vs total 389.1665 ok; PAT -92.6918 vs PBT-tax -92.6918 ok",
+   "notes": "RESTATED vs 2019-20 report: total expenditure 38,873.72 -> 38,916.65 (operating, employee, other expenses changed), loss 9,226.25 -> 9,269.18."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "NMRC_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 26.6986,
+    "page": 36,
+    "quote": "i) Revenue from Operations 21 2,669.86"
+   },
+   "fare_revenue": {
+    "cr": 15.1776,
+    "page": 49,
+    "quote": "Income From Metro Operation 1,517.76"
+   },
+   "non_fare_revenue": {
+    "cr": 11.5014,
+    "page": 49,
+    "quote": "Parking 40.39; Co-Branding 538.23; Advertisement etc. 45.55; Rental for Commercial Spaces 97.20; Royalty Income 428.77 (metro, sum)"
+   },
+   "other_income": {
+    "cr": 259.7317,
+    "page": 36,
+    "quote": "ii) Other Income 22 25,973.17"
+   },
+   "total_income": {
+    "cr": 286.4303,
+    "page": 36,
+    "quote": "TOTAL INCOME 28,643.03"
+   },
+   "operating_expenses": {
+    "cr": 57.9768,
+    "page": 36,
+    "quote": "i) Operating Expenses 23 5,797.68"
+   },
+   "employee_cost": {
+    "cr": 42.8222,
+    "page": 36,
+    "quote": "ii) Employees' Benefits Expenses 24 4,282.22"
+   },
+   "finance_cost": {
+    "cr": 94.8828,
+    "page": 36,
+    "quote": "iii) Finance Cost 25 9,488.28"
+   },
+   "depreciation": {
+    "cr": 168.0516,
+    "page": 36,
+    "quote": "iv) Depreciation & Amortization Expenses 16,805.16"
+   },
+   "other_expenses": {
+    "cr": 15.4798,
+    "page": 36,
+    "quote": "v) Other Expenses 26 1,547.98"
+   },
+   "total_expenses": {
+    "cr": 379.2132,
+    "page": 36,
+    "quote": "TOTAL EXPENDITURE 37,921.32"
+   },
+   "exceptional_items": {
+    "cr": -2.4594,
+    "page": 36,
+    "quote": "Write off of assets loss by fire (125.84); Write off of assets dismantled (120.10) (sum)"
+   },
+   "profit_before_tax": {
+    "cr": -95.2423,
+    "page": 36,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (9,524.23)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 36,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -95.2423,
+    "page": 36,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (9,524.23)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 286.4303 vs rev+other 286.4303 ok; PBT -95.2423 vs TI-TE+exc -95.2423 ok; expense lines sum 379.2132 vs total 379.2132 ok; PAT -95.2423 vs PBT-tax -95.2423 ok",
+   "notes": "Bus: Hybrid Commission 1.96 lakh only. Restated in 2022-23 report."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "NMRC_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 16.1455,
+    "page": 36,
+    "quote": "i) Revenue from Operations 1,614.55"
+   },
+   "fare_revenue": {
+    "cr": 5.3916,
+    "page": 49,
+    "quote": "Income From Metro Operation 539.16"
+   },
+   "non_fare_revenue": {
+    "cr": 10.7293,
+    "page": 49,
+    "quote": "Parking 13.75; Co-Branding 393.14; Advertisement 67.18; Rental 99.98; Royalty 498.88 (sum)"
+   },
+   "other_income": {
+    "cr": 278.7622,
+    "page": 36,
+    "quote": "ii) Other Income 27,876.22"
+   },
+   "total_income": {
+    "cr": 294.9077,
+    "page": 36,
+    "quote": "TOTAL INCOME 29,490.77"
+   },
+   "operating_expenses": {
+    "cr": 60.7382,
+    "page": 36,
+    "quote": "i) Operating Expenses 6,073.82"
+   },
+   "employee_cost": {
+    "cr": 41.0697,
+    "page": 36,
+    "quote": "ii) Employees' Benefits Expenses 4,106.97"
+   },
+   "finance_cost": {
+    "cr": 96.5893,
+    "page": 36,
+    "quote": "iii) Finance Cost 9,658.93"
+   },
+   "depreciation": {
+    "cr": 161.4701,
+    "page": 36,
+    "quote": "iv) Depreciation & Amortization Expenses 16,147.01"
+   },
+   "other_expenses": {
+    "cr": 13.3273,
+    "page": 36,
+    "quote": "v) Other Expenses 1,332.73"
+   },
+   "total_expenses": {
+    "cr": 373.1946,
+    "page": 36,
+    "quote": "TOTAL EXPENDITURE 37,319.46"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 36,
+    "quote": "-"
+   },
+   "profit_before_tax": {
+    "cr": -78.2869,
+    "page": 36,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (7,828.69)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 36,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -78.2869,
+    "page": 36,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (7,828.69)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 294.9077 vs rev+other 294.9077 ok; PBT -78.2869 vs TI-TE+exc -78.2869 ok; expense lines sum 373.1946 vs total 373.1946 ok; PAT -78.2869 vs PBT-tax -78.2869 ok",
+   "notes": "RESTATED vs 2020-21 report: other income 27,820.98 -> 27,876.22, total expenditure 37,264.37 -> 37,319.46, loss 7,828.84 -> 7,828.69."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "NMRC_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 52.2401,
+    "page": 35,
+    "quote": "i) Revenue from Operations 21 5,224.01"
+   },
+   "fare_revenue": {
+    "cr": 40.8627,
+    "page": 49,
+    "quote": "Income From Metro Operation 4,086.27"
+   },
+   "non_fare_revenue": {
+    "cr": 11.3774,
+    "page": 49,
+    "quote": "Parking 40.40; Co-Branding 626.90; Advertisement etc. 135.20; Rental for Commercial Spaces 235.24; Royalty Income 100.00 (sum)"
+   },
+   "other_income": {
+    "cr": 235.4467,
+    "page": 35,
+    "quote": "ii) Other Income 22 23,544.67"
+   },
+   "total_income": {
+    "cr": 287.6868,
+    "page": 35,
+    "quote": "TOTAL INCOME 28,768.68"
+   },
+   "operating_expenses": {
+    "cr": 65.261,
+    "page": 35,
+    "quote": "i) Operating Expenses 23 6,526.10"
+   },
+   "employee_cost": {
+    "cr": 46.0002,
+    "page": 35,
+    "quote": "ii) Employees' Benefits Expenses 24 4,600.02"
+   },
+   "finance_cost": {
+    "cr": 38.2024,
+    "page": 35,
+    "quote": "iii) Finance Cost 25 3,820.24"
+   },
+   "depreciation": {
+    "cr": 173.3234,
+    "page": 35,
+    "quote": "iv) Depreciation & Amortization Expenses 17,332.34"
+   },
+   "other_expenses": {
+    "cr": 18.8774,
+    "page": 35,
+    "quote": "v) Other Expenses 26 1,887.74"
+   },
+   "total_expenses": {
+    "cr": 341.6644,
+    "page": 35,
+    "quote": "TOTAL EXPENDITURE 34,166.44"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 35,
+    "quote": "Exceptional Item: -"
+   },
+   "profit_before_tax": {
+    "cr": -53.9776,
+    "page": 35,
+    "quote": "PROFIT/(LOSS) BEFORE TAX -5,397.76"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 35,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -53.9776,
+    "page": 35,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR -5,397.76"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 287.6868 vs rev+other 287.6868 ok; PBT -53.9776 vs TI-TE+exc -53.9776 ok; expense lines sum 341.6644 vs total 341.6644 ok; PAT -53.9776 vs PBT-tax -53.9776 ok",
+   "notes": "Metro-only revenue (no city bus income). Restated in 2023-24 report. The same figures are repeated in the three-year P&L on p.53. Average daily ridership 36,400 for 2022-23 is stated in the 2023-24 report (see that entry)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "NMRC_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 26.3461,
+    "page": 35,
+    "quote": "i) Revenue from Operations 2,634.61"
+   },
+   "fare_revenue": {
+    "cr": 15.1776,
+    "page": 49,
+    "quote": "Income From Metro Operation 1,517.76"
+   },
+   "non_fare_revenue": {
+    "cr": 11.1489,
+    "page": 49,
+    "quote": "Parking 40.39; Co-Branding 538.23; Advertisement 45.55; Rental for Commercial Spaces 61.95; Royalty 428.77 (sum)"
+   },
+   "other_income": {
+    "cr": 259.6282,
+    "page": 35,
+    "quote": "ii) Other Income 25,962.82"
+   },
+   "total_income": {
+    "cr": 285.9743,
+    "page": 35,
+    "quote": "TOTAL INCOME 28,597.43"
+   },
+   "operating_expenses": {
+    "cr": 57.9823,
+    "page": 35,
+    "quote": "i) Operating Expenses 5,798.23"
+   },
+   "employee_cost": {
+    "cr": 42.8952,
+    "page": 35,
+    "quote": "ii) Employees' Benefits Expenses 4,289.52"
+   },
+   "finance_cost": {
+    "cr": 94.8828,
+    "page": 35,
+    "quote": "iii) Finance Cost 9,488.28"
+   },
+   "depreciation": {
+    "cr": 168.0036,
+    "page": 35,
+    "quote": "iv) Depreciation & Amortization Expenses 16,800.36"
+   },
+   "other_expenses": {
+    "cr": 16.0329,
+    "page": 35,
+    "quote": "v) Other Expenses 1,603.29"
+   },
+   "total_expenses": {
+    "cr": 379.7967,
+    "page": 35,
+    "quote": "TOTAL EXPENDITURE 37,979.67"
+   },
+   "exceptional_items": {
+    "cr": -2.4594,
+    "page": 35,
+    "quote": "Write off of assets loss by fire -125.84; dismantled -120.10 (sum)"
+   },
+   "profit_before_tax": {
+    "cr": -96.2818,
+    "page": 35,
+    "quote": "PROFIT/(LOSS) BEFORE TAX -9,628.18"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 35,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -96.2818,
+    "page": 35,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR -9,628.18"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 285.9743 vs rev+other 285.9743 ok; PBT -96.2818 vs TI-TE+exc -96.2818 ok; expense lines sum 379.7968 vs total 379.7967 ok; PAT -96.2818 vs PBT-tax -96.2818 ok",
+   "notes": "RESTATED vs 2021-22 report: revenue 2,669.86 -> 2,634.61 (commercial-space rental reduced 35.25 by prior-period adjustment), other income 25,973.17 -> 25,962.82, loss 9,524.23 -> 9,628.18. Bus Hybrid Commission 1.96 included in revenue."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "NMRC_2022-23_Annual_Report.pdf",
+   "column": "restated (third column)",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 15.1458,
+    "page": 53,
+    "quote": "i) Revenue from Operations 21 ... 1,514.58"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 278.2055,
+    "page": 53,
+    "quote": "ii) Other Income 22 ... 27,820.55"
+   },
+   "total_income": {
+    "cr": 293.3513,
+    "page": 53,
+    "quote": "TOTAL INCOME 29,335.13"
+   },
+   "operating_expenses": {
+    "cr": 60.1858,
+    "page": 53,
+    "quote": "i) Operating Expenses 6,018.58"
+   },
+   "employee_cost": {
+    "cr": 41.0697,
+    "page": 53,
+    "quote": "ii) Employees' Benefits Expenses 4,106.97"
+   },
+   "finance_cost": {
+    "cr": 96.5893,
+    "page": 53,
+    "quote": "iii) Finance Cost 9,658.93"
+   },
+   "depreciation": {
+    "cr": 161.2777,
+    "page": 53,
+    "quote": "iv) Depreciation & Amortization Expenses 16,127.77"
+   },
+   "other_expenses": {
+    "cr": 13.7244,
+    "page": 53,
+    "quote": "v) Other Expenses 1,372.44"
+   },
+   "total_expenses": {
+    "cr": 372.8468,
+    "page": 53,
+    "quote": "TOTAL EXPENDITURE 37,284.68"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 53,
+    "quote": "-"
+   },
+   "profit_before_tax": {
+    "cr": -79.4955,
+    "page": 53,
+    "quote": "PROFIT/(LOSS) BEFORE TAX -7,949.55"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 53,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -79.4955,
+    "page": 53,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR -7,949.55"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 293.3513 vs rev+other 293.3513 ok; PBT -79.4955 vs TI-TE+exc -79.4955 ok; expense lines sum 372.8469 vs total 372.8468 ok; PAT -79.4955 vs PBT-tax -79.4955 ok",
+   "notes": "Second restatement of 2020-21, from the three-year P&L ('for the year ended March 31, 2023, March 31 2022 & March 31 2021') on p.53 of the 2022-23 report. Differs from both the original (loss 7,828.84) and the 2021-22 comparative (7,828.69)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "NMRC_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 68.6345,
+    "page": 41,
+    "quote": "i) Revenue from Operations 21 6,863.45"
+   },
+   "fare_revenue": {
+    "cr": 53.0373,
+    "page": 55,
+    "quote": "Income From Metro Operation 5,303.73"
+   },
+   "non_fare_revenue": {
+    "cr": 15.5972,
+    "page": 55,
+    "quote": "Parking 49.05; Co-Branding 689.51; Advertisement etc. 281.16; Rental for Commercial Spaces 439.78; Royalty Income 100.22 (sum)"
+   },
+   "other_income": {
+    "cr": 218.9582,
+    "page": 41,
+    "quote": "ii) Other Income 22 21,895.82"
+   },
+   "total_income": {
+    "cr": 287.5927,
+    "page": 41,
+    "quote": "TOTAL INCOME 28,759.27"
+   },
+   "operating_expenses": {
+    "cr": 64.0801,
+    "page": 41,
+    "quote": "I) Operating Expenses 23 6,408.01"
+   },
+   "employee_cost": {
+    "cr": 49.5161,
+    "page": 41,
+    "quote": "ii) Employees' Benefits Expenses 24 4,951.61"
+   },
+   "finance_cost": {
+    "cr": 25.0884,
+    "page": 41,
+    "quote": "iii) Finance Cost 25 2,508.84"
+   },
+   "depreciation": {
+    "cr": 173.7341,
+    "page": 41,
+    "quote": "iv) Depreciation & Amortization Expenses 1.1 & 1.2 17,373.41"
+   },
+   "other_expenses": {
+    "cr": 28.0397,
+    "page": 41,
+    "quote": "v) Other Expenses 26 2,803.97"
+   },
+   "total_expenses": {
+    "cr": 340.4584,
+    "page": 41,
+    "quote": "TOTAL EXPENDITURE 34,045.84"
+   },
+   "exceptional_items": {
+    "cr": 0.5387,
+    "page": 41,
+    "quote": "(I) Walkway dismantled (12.53); (ii) Insurance Claim Received 66.40 (net, computed)"
+   },
+   "profit_before_tax": {
+    "cr": -52.327,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (5,232.70)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 41,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -52.327,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (5,232.70)"
+   },
+   "annual_ridership_lakh": {
+    "value": 173.58177,
+    "page": 13,
+    "quote": "Total Ridership and Revenue in the financial year 2023-2024 ... 1. Ridership: 17358177"
+   },
+   "avg_daily_ridership": {
+    "value": 47427,
+    "page": 4,
+    "quote": "average daily ridership rising from 36,400 between 01 April, 2022 to 31st March, 2023 to 47,427 01st April, 2023 to 31st March, 2024"
+   },
+   "route_km": {
+    "value": 29.707,
+    "page": 17,
+    "quote": "NMRC has a total metro network coverage of 29.707 Km with a total of 21 metro stations"
+   },
+   "checks": "total income 287.5927 vs rev+other 287.5927 ok; PBT -52.327 vs TI-TE+exc -52.327 ok; expense lines sum 340.4584 vs total 340.4584 ok; PAT -52.327 vs PBT-tax -52.327 ok",
+   "notes": "Ridership table revenue for the FY is 510042309 (₹51.00 crore) vs Income From Metro Operation 5,303.73 lakh in Note 21. Other income is mostly grants (capital grant 9,194.75; metro operation grant 7,442.19; interest grant 2,497.13). Restated in 2024-25 report."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "NMRC_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 52.25,
+    "page": 41,
+    "quote": "i) Revenue from Operations 5,225.00"
+   },
+   "fare_revenue": {
+    "cr": 40.8626,
+    "page": 55,
+    "quote": "Income From Metro Operation 4,086.26"
+   },
+   "non_fare_revenue": {
+    "cr": 11.3874,
+    "page": 55,
+    "quote": "Parking 40.40; Co-Branding 626.90; Advertisement 136.20; Rental 235.24; Royalty 100.00 (sum)"
+   },
+   "other_income": {
+    "cr": 235.4368,
+    "page": 41,
+    "quote": "ii) Other Income 23,543.68"
+   },
+   "total_income": {
+    "cr": 287.6868,
+    "page": 41,
+    "quote": "TOTAL INCOME 28,768.68"
+   },
+   "operating_expenses": {
+    "cr": 61.9422,
+    "page": 41,
+    "quote": "I) Operating Expenses 6,194.22"
+   },
+   "employee_cost": {
+    "cr": 45.8979,
+    "page": 41,
+    "quote": "ii) Employees' Benefits Expenses 4,589.79"
+   },
+   "finance_cost": {
+    "cr": 38.209,
+    "page": 41,
+    "quote": "iii) Finance Cost 3,820.90"
+   },
+   "depreciation": {
+    "cr": 173.3233,
+    "page": 41,
+    "quote": "iv) Depreciation & Amortization Expenses 17,332.33"
+   },
+   "other_expenses": {
+    "cr": 22.1137,
+    "page": 41,
+    "quote": "v) Other Expenses 2,211.37"
+   },
+   "total_expenses": {
+    "cr": 341.4861,
+    "page": 41,
+    "quote": "TOTAL EXPENDITURE 34,148.61"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 41,
+    "quote": "-"
+   },
+   "profit_before_tax": {
+    "cr": -53.7993,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (5,379.93)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 41,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -53.7993,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (5,379.93)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": 36400,
+    "page": 4,
+    "quote": "average daily ridership rising from 36,400 between 01 April, 2022 to 31st March, 2023"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 287.6868 vs rev+other 287.6868 ok; PBT -53.7993 vs TI-TE+exc -53.7993 ok; expense lines sum 341.4861 vs total 341.4861 ok; PAT -53.7993 vs PBT-tax -53.7993 ok",
+   "notes": "RESTATED vs 2022-23 report: revenue 5,224.01 -> 5,225.00, other income 23,544.67 -> 23,543.68, operating exp 6,526.10 -> 6,194.22, other exp 1,887.74 -> 2,211.37, loss 5,397.76 -> 5,379.93."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "NMRC_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 80.245,
+    "page": 41,
+    "quote": "i) Revenue from Operations 21 8,024.50"
+   },
+   "fare_revenue": {
+    "cr": 61.0022,
+    "page": 56,
+    "quote": "Income From Metro Operation 6,100.22"
+   },
+   "non_fare_revenue": {
+    "cr": 19.2428,
+    "page": 56,
+    "quote": "Parking 62.74; Co-Branding 794.65; Advertisement etc. 326.12; Rental for Commercial Spaces 640.99; Royalty Income 99.78 (sum)"
+   },
+   "other_income": {
+    "cr": 205.7162,
+    "page": 41,
+    "quote": "ii) Other Income 22 20,571.62"
+   },
+   "total_income": {
+    "cr": 285.9611,
+    "page": 41,
+    "quote": "TOTAL INCOME 28,596.11"
+   },
+   "operating_expenses": {
+    "cr": 66.5875,
+    "page": 41,
+    "quote": "i) Operating Expenses 23 6,658.75"
+   },
+   "employee_cost": {
+    "cr": 50.7689,
+    "page": 41,
+    "quote": "ii) Employees' Benefits Expenses 24 5,076.89"
+   },
+   "finance_cost": {
+    "cr": 23.1916,
+    "page": 41,
+    "quote": "iii) Finance Cost 25 2,319.16"
+   },
+   "depreciation": {
+    "cr": 174.0157,
+    "page": 41,
+    "quote": "iv) Depreciation & Amortization Expenses 1.1 & 1.2 17,401.57"
+   },
+   "other_expenses": {
+    "cr": 26.6016,
+    "page": 41,
+    "quote": "v) Other Expenses 26 2,660.16"
+   },
+   "total_expenses": {
+    "cr": 341.1652,
+    "page": 41,
+    "quote": "TOTAL EXPENDITURE 34,116.52"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 41,
+    "quote": "Exceptional Item: -"
+   },
+   "profit_before_tax": {
+    "cr": -55.204,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (5,520.40)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 41,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -55.204,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (5,520.40)"
+   },
+   "annual_ridership_lakh": {
+    "value": 200.29116,
+    "page": 13,
+    "quote": "Total Ridership and Revenue in the financial year 2024-2025 ... 1. Ridership: 2,00,29,116"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 29.707,
+    "page": 17,
+    "quote": "NMRC has a total metro network coverage of 29.707 Km with a total of 21 metro stations"
+   },
+   "checks": "total income 285.9611 vs rev+other 285.9612 ok; PBT -55.204 vs TI-TE+exc -55.2041 ok; expense lines sum 341.1653 vs total 341.1652 ok; PAT -55.204 vs PBT-tax -55.204 ok",
+   "notes": "Ridership table: 'NMRC Revenue: 58,70,38,743' for the FY vs Income From Metro Operation 6,100.22 lakh. No FY average daily ridership stated (only monthly daily averages, 48,588-64,068). Other income mostly grants (capital grant 9,304.83; metro operation grant 6,625.57; interest grant 2,311.19)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "NMRC_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 68.5302,
+    "page": 41,
+    "quote": "i) Revenue from Operations 6,853.02"
+   },
+   "fare_revenue": {
+    "cr": 53.0372,
+    "page": 56,
+    "quote": "Income From Metro Operation 5,303.72"
+   },
+   "non_fare_revenue": {
+    "cr": 15.493,
+    "page": 56,
+    "quote": "Parking 49.05; Co-Branding 689.51; Advertisement 270.73; Rental 439.78; Royalty 100.22 (sum)"
+   },
+   "other_income": {
+    "cr": 218.9582,
+    "page": 41,
+    "quote": "ii) Other Income 21,895.82"
+   },
+   "total_income": {
+    "cr": 287.4884,
+    "page": 41,
+    "quote": "TOTAL INCOME 28,748.84"
+   },
+   "operating_expenses": {
+    "cr": 64.1329,
+    "page": 41,
+    "quote": "i) Operating Expenses 6,413.29"
+   },
+   "employee_cost": {
+    "cr": 49.7512,
+    "page": 41,
+    "quote": "ii) Employees' Benefits Expenses 4,975.12"
+   },
+   "finance_cost": {
+    "cr": 25.0884,
+    "page": 41,
+    "quote": "iii) Finance Cost 2,508.84"
+   },
+   "depreciation": {
+    "cr": 173.734,
+    "page": 41,
+    "quote": "iv) Depreciation & Amortization Expenses 17,373.40"
+   },
+   "other_expenses": {
+    "cr": 28.1788,
+    "page": 41,
+    "quote": "v) Other Expenses 2,817.88"
+   },
+   "total_expenses": {
+    "cr": 340.8853,
+    "page": 41,
+    "quote": "TOTAL EXPENDITURE 34,088.53"
+   },
+   "exceptional_items": {
+    "cr": 0.5387,
+    "page": 41,
+    "quote": "Walkway dismantled -12.53; Insurance Claim Received 66.40 (net, computed)"
+   },
+   "profit_before_tax": {
+    "cr": -52.8581,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) BEFORE TAX (5,285.81)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 41,
+    "quote": "-"
+   },
+   "profit_after_tax": {
+    "cr": -52.8581,
+    "page": 41,
+    "quote": "PROFIT/(LOSS) DURING THE YEAR (5,285.81)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 287.4884 vs rev+other 287.4884 ok; PBT -52.8581 vs TI-TE+exc -52.8582 ok; expense lines sum 340.8853 vs total 340.8853 ok; PAT -52.8581 vs PBT-tax -52.8581 ok",
+   "notes": "RESTATED vs 2023-24 report: revenue 6,863.45 -> 6,853.02 (advertisement 281.16 -> 270.73), expenses up, loss 5,232.70 -> 5,285.81."
+  }
+ ]
+}

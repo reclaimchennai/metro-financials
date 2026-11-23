@@ -1,0 +1,626 @@
+{
+ "operator": "KMRL",
+ "documents": [
+  {
+   "file": "KMRL_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": "partly",
+   "pl_page": 67,
+   "note": "Text PDF but the financial statements (pp66-69, 80-90) are images; read from 200 dpi renders. Standalone P&L p67; Note 22 revenue split p88; Board's Report p12; operations p20."
+  },
+  {
+   "file": "KMRL_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 75,
+   "note": "Standalone P&L p75; Note 26 revenue split p104; Board's Report p9; operations/ridership p19. Consolidated P&L p167 not used."
+  },
+  {
+   "file": "KMRL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 70,
+   "note": "Standalone P&L p70; Note 26 revenue split p100; Board's Report p8; operations/ridership p15; restatement notes p90, p124. Consolidated P&L p160 not used."
+  }
+ ],
+ "years": [
+  {
+   "fy": "2024-25",
+   "source_file": "KMRL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh (Indian grouping printed with a space, e.g. '167 29.46' = 16729.46 lakh)",
+   "revenue_from_operations": {
+    "cr": 167.2946,
+    "page": 70,
+    "quote": "I Revenue from Operations 26 167 29.46 151 30.10"
+   },
+   "fare_revenue": {
+    "cr": 111.8819,
+    "page": 100,
+    "quote": "Revenue from Train Operations 111 88.19 99 88.14"
+   },
+   "non_fare_revenue": {
+    "cr": 55.4127,
+    "page": 100,
+    "quote": "Non fare box revenue 55 41.27 51 41.96"
+   },
+   "other_income": {
+    "cr": 107.9631,
+    "page": 70,
+    "quote": "II Other Income 27 107 96.31 95 10.79"
+   },
+   "total_income": {
+    "cr": 275.2577,
+    "page": 70,
+    "quote": "III Total Income (I + II) 275 25.77 246 40.89"
+   },
+   "operating_expenses": {
+    "cr": 57.9115,
+    "page": 70,
+    "quote": "Operating Expenses 28 57 91.15 54 87.59"
+   },
+   "employee_cost": {
+    "cr": 60.3768,
+    "page": 70,
+    "quote": "Employee Benefits Expense 29 60 37.68 54 05.32"
+   },
+   "finance_cost": {
+    "cr": 342.1192,
+    "page": 70,
+    "quote": "Finance Costs 30 342 11.92 294 22.31"
+   },
+   "depreciation": {
+    "cr": 190.9226,
+    "page": 70,
+    "quote": "Depreciation and Amortization Expense 31 190 92.26 181 76.13"
+   },
+   "other_expenses": {
+    "cr": 54.4941,
+    "page": 70,
+    "quote": "Other Expenses 32 54 49.41 96 66.88"
+   },
+   "total_expenses": {
+    "cr": 705.8242,
+    "page": 70,
+    "quote": "Total Expenses (IV) 705 82.42 681 58.23"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 70,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -430.5665,
+    "page": 70,
+    "quote": "V Profit / (Loss) Before Tax (III - IV) (430 56.65) (435 17.34)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 70,
+    "quote": "VI Tax expense: (1) Prior tax adjustment - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -430.5665,
+    "page": 70,
+    "quote": "VII Profit / (Loss) for the period (V - VI) (430 56.65) (435 17.34)"
+   },
+   "annual_ridership_lakh": {
+    "value": 356.1548,
+    "page": 15,
+    "quote": "fare box revenue of ₹111,93,46,122, reflecting strong ridership of 3,56,15,480 passengers"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 28.144,
+    "page": 15,
+    "quote": "This enhanced frequency spans the entire 28.144-kilometer corridor, covering 25 stations"
+   },
+   "checks": "total income 16729.46+10796.31=27525.77 vs 27525.77: ok; sum of expense lines 70582.42 vs total 70582.42: ok; PBT 27525.77-70582.42+0=-43056.65 vs -43056.65: ok; fare+non-fare 16729.46 vs revenue 16729.46: ok",
+   "notes": "Standalone P&L p70 (printed page 67). Fare split Note 26 p100. Ridership 3,56,15,480 passengers (Board's Report §6, p15; Chairman's message p6 says 3.56 crore). Route km: 28.144 km corridor (p15); Board's Report p8 says 'total distance of 28 km from Aluva to Thripunithura Terminal'. No average daily ridership stated. Other comprehensive income (74.78) lakh not included in PAT; total comprehensive income (431 31.43) lakh. Board's Report 'operational revenue' ₹182.38 cr (p8) is a management figure including some other income, not the P&L line."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "KMRL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh (Indian grouping printed with a space, e.g. '167 29.46' = 16729.46 lakh)",
+   "revenue_from_operations": {
+    "cr": 151.301,
+    "page": 70,
+    "quote": "I Revenue from Operations 26 167 29.46 151 30.10"
+   },
+   "fare_revenue": {
+    "cr": 99.8814,
+    "page": 100,
+    "quote": "Revenue from Train Operations 111 88.19 99 88.14"
+   },
+   "non_fare_revenue": {
+    "cr": 51.4196,
+    "page": 100,
+    "quote": "Non fare box revenue 55 41.27 51 41.96"
+   },
+   "other_income": {
+    "cr": 95.1079,
+    "page": 70,
+    "quote": "II Other Income 27 107 96.31 95 10.79"
+   },
+   "total_income": {
+    "cr": 246.4089,
+    "page": 70,
+    "quote": "III Total Income (I + II) 275 25.77 246 40.89"
+   },
+   "operating_expenses": {
+    "cr": 54.8759,
+    "page": 70,
+    "quote": "Operating Expenses 28 57 91.15 54 87.59"
+   },
+   "employee_cost": {
+    "cr": 54.0532,
+    "page": 70,
+    "quote": "Employee Benefits Expense 29 60 37.68 54 05.32"
+   },
+   "finance_cost": {
+    "cr": 294.2231,
+    "page": 70,
+    "quote": "Finance Costs 30 342 11.92 294 22.31"
+   },
+   "depreciation": {
+    "cr": 181.7613,
+    "page": 70,
+    "quote": "Depreciation and Amortization Expense 31 190 92.26 181 76.13"
+   },
+   "other_expenses": {
+    "cr": 96.6688,
+    "page": 70,
+    "quote": "Other Expenses 32 54 49.41 96 66.88"
+   },
+   "total_expenses": {
+    "cr": 681.5823,
+    "page": 70,
+    "quote": "Total Expenses (IV) 705 82.42 681 58.23"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 70,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -435.1734,
+    "page": 70,
+    "quote": "V Profit / (Loss) Before Tax (III - IV) (430 56.65) (435 17.34)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 70,
+    "quote": "VI Tax expense: - -"
+   },
+   "profit_after_tax": {
+    "cr": -435.1734,
+    "page": 70,
+    "quote": "VII Profit / (Loss) for the period (V - VI) (430 56.65) (435 17.34)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 15130.1+9510.79=24640.89 vs 24640.89: ok; sum of expense lines 68158.23 vs total 68158.23: ok; PBT 24640.89-68158.23+0=-43517.34 vs -43517.34: ok; fare+non-fare 15130.1 vs revenue 15130.1: ok",
+   "notes": "Previous-year column of the 2024-25 report; the 2023-24 report itself is not among the downloads. RESTATED: notes 2.10/2.11 (p90) and 34.x (p124) say prior-year figures were restated (asset value updations from DMRC/contractor claims; scrap-value revision raised 2023-24 depreciation by Rs.1 68.78 lakh). The Board's Report snapshot in the same report (p8) still shows the earlier 2023-24 figures: Depreciation 179 53.69 lakh and Profit/(Loss) before Tax (432 94.89) lakh, i.e. the originally reported numbers differ from this restated column by 222.44 lakh of depreciation."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "KMRL_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh (Indian grouping printed with a space, e.g. '167 29.46' = 16729.46 lakh)",
+   "revenue_from_operations": {
+    "cr": 118.8444,
+    "page": 75,
+    "quote": "I Revenue from Operations 26 118 84.44 66 64.10"
+   },
+   "fare_revenue": {
+    "cr": 75.4862,
+    "page": 104,
+    "quote": "Revenue from Train Operations 75 48.62 30 78.45"
+   },
+   "non_fare_revenue": {
+    "cr": 43.3582,
+    "page": 104,
+    "quote": "Non fare box revenue 43 35.82 35 85.65"
+   },
+   "other_income": {
+    "cr": 82.1432,
+    "page": 75,
+    "quote": "II Other Income 27 82 14.32 75 56.19"
+   },
+   "total_income": {
+    "cr": 200.9876,
+    "page": 75,
+    "quote": "IIITotal Income (I + II) 200 98.76 142 20.29"
+   },
+   "operating_expenses": {
+    "cr": 50.4339,
+    "page": 75,
+    "quote": "Operating Expenses 28 50 43.39 41 06.38"
+   },
+   "employee_cost": {
+    "cr": 48.8701,
+    "page": 75,
+    "quote": "Employee Beneﬁts Expense 29 48 87.01 45 03.81"
+   },
+   "finance_cost": {
+    "cr": 222.0839,
+    "page": 75,
+    "quote": "Finance Costs 30 222 08.39 188 54.68"
+   },
+   "depreciation": {
+    "cr": 184.5963,
+    "page": 75,
+    "quote": "Depreciation and Amortization Expense 31 184 59.63 175 37.46"
+   },
+   "other_expenses": {
+    "cr": 29.59,
+    "page": 75,
+    "quote": "Other Expenses 32 29 59.00 32 29.33"
+   },
+   "total_expenses": {
+    "cr": 535.5742,
+    "page": 75,
+    "quote": "Total Expenses (IV) 535 57.42 482 31.66"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 75,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -334.5866,
+    "page": 75,
+    "quote": "V Proﬁt / (Loss) Before Tax (III - IV) (334 58.66) (340 11.37)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 75,
+    "quote": "VI Tax expense: (1) Prior tax adjustment - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -334.5866,
+    "page": 75,
+    "quote": "VII Proﬁt / (Loss) for the period (V - VI) (334 58.66) (340 11.37)"
+   },
+   "annual_ridership_lakh": {
+    "value": 248.75822,
+    "page": 19,
+    "quote": "The Number of Passengers travelled during the year was 2,48,75,822, generating a fare box revenue of Rs 75.48 Crore"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 27.2,
+    "page": 9,
+    "quote": "fare box revenue from metro train operations covering a total distance of 27.2 km from Aluva to S.N. Junction"
+   },
+   "checks": "total income 11884.44+8214.32=20098.76 vs 20098.76: ok; sum of expense lines 53557.42 vs total 53557.42: ok; PBT 20098.76-53557.42+0=-33458.66 vs -33458.66: ok; fare+non-fare 11884.44 vs revenue 11884.44: ok",
+   "notes": "Standalone P&L p75 (printed page 72); fare split Note 26 p104. Ridership p19 (Board's Report §6.1). Route km 27.2 km (p9; also p6 'network of about 27.2 KM with 24 stations'). No average daily ridership stated. Board's Report snapshot (p9) labels total comprehensive loss (335 33.91) as 'Net Profit/(Loss) before Tax'; the P&L PBT is (334 58.66)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "KMRL_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh (Indian grouping printed with a space, e.g. '167 29.46' = 16729.46 lakh)",
+   "revenue_from_operations": {
+    "cr": 66.641,
+    "page": 75,
+    "quote": "I Revenue from Operations 26 118 84.44 66 64.10"
+   },
+   "fare_revenue": {
+    "cr": 30.7845,
+    "page": 104,
+    "quote": "Revenue from Train Operations 75 48.62 30 78.45"
+   },
+   "non_fare_revenue": {
+    "cr": 35.8565,
+    "page": 104,
+    "quote": "Non fare box revenue 43 35.82 35 85.65"
+   },
+   "other_income": {
+    "cr": 75.5619,
+    "page": 75,
+    "quote": "II Other Income 27 82 14.32 75 56.19"
+   },
+   "total_income": {
+    "cr": 142.2029,
+    "page": 75,
+    "quote": "IIITotal Income (I + II) 200 98.76 142 20.29"
+   },
+   "operating_expenses": {
+    "cr": 41.0638,
+    "page": 75,
+    "quote": "Operating Expenses 28 50 43.39 41 06.38"
+   },
+   "employee_cost": {
+    "cr": 45.0381,
+    "page": 75,
+    "quote": "Employee Beneﬁts Expense 29 48 87.01 45 03.81"
+   },
+   "finance_cost": {
+    "cr": 188.5468,
+    "page": 75,
+    "quote": "Finance Costs 30 222 08.39 188 54.68"
+   },
+   "depreciation": {
+    "cr": 175.3746,
+    "page": 75,
+    "quote": "Depreciation and Amortization Expense 31 184 59.63 175 37.46"
+   },
+   "other_expenses": {
+    "cr": 32.2933,
+    "page": 75,
+    "quote": "Other Expenses 32 29 59.00 32 29.33"
+   },
+   "total_expenses": {
+    "cr": 482.3166,
+    "page": 75,
+    "quote": "Total Expenses (IV) 535 57.42 482 31.66"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 75,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -340.1137,
+    "page": 75,
+    "quote": "V Proﬁt / (Loss) Before Tax (III - IV) (334 58.66) (340 11.37)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 75,
+    "quote": "VI Tax expense: - -"
+   },
+   "profit_after_tax": {
+    "cr": -340.1137,
+    "page": 75,
+    "quote": "VII Proﬁt / (Loss) for the period (V - VI) (334 58.66) (340 11.37)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 6664.1+7556.19=14220.29 vs 14220.29: ok; sum of expense lines 48231.66 vs total 48231.66: ok; PBT 14220.29-48231.66+0=-34011.37 vs -34011.37: ok; fare+non-fare 6664.1 vs revenue 6664.1: ok",
+   "notes": "Previous-year column of the 2022-23 report; the 2021-22 report is not among the downloads. Note 34.25(b) (pp136-137) says the previous year's financials were restated (asset value updations from DMRC/contractor claims, Rs.10.50 lakh KIIFB centage reclassified to project cost, Rs.15.09 lakh interest on GoK guarantee commission); the impact table is not in the text layer, so the size of any change to this column vs the original 2021-22 report could not be read. Other income includes Rs.10 91.84 lakh insurance claim recovery against flood loss (Note 27 p104)."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "KMRL_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh (Indian grouping printed with a space, e.g. '167 29.46' = 16729.46 lakh)",
+   "revenue_from_operations": {
+    "cr": 81.372,
+    "page": 67,
+    "quote": "I Revenue from Operations 22 81 37.20 4,466.63"
+   },
+   "fare_revenue": {
+    "cr": 41.0389,
+    "page": 88,
+    "quote": "Revenue from Train Operations being Fare Collections 41 03.89 3,217.25"
+   },
+   "non_fare_revenue": {
+    "cr": 40.3331,
+    "page": 88,
+    "quote": "Non fare box revenue 40 33.31 1,249.39"
+   },
+   "other_income": {
+    "cr": 24.3874,
+    "page": 67,
+    "quote": "II Other Income 23 24 38.74 19 42.19"
+   },
+   "total_income": {
+    "cr": 105.7594,
+    "page": 67,
+    "quote": "III Total Revenue (I + II) 105 75.94 64 08.82"
+   },
+   "operating_expenses": {
+    "cr": 34.0651,
+    "page": 67,
+    "quote": "Operating Expenses 24 34 06.51 2,593.14"
+   },
+   "employee_cost": {
+    "cr": 37.743,
+    "page": 67,
+    "quote": "Employee Benefits Expense 25 37 74.30 29 70.02"
+   },
+   "finance_cost": {
+    "cr": 75.1088,
+    "page": 67,
+    "quote": "Finance Costs 26 75 10.88 43 53.83"
+   },
+   "depreciation": {
+    "cr": 130.968,
+    "page": 67,
+    "quote": "Depreciation and Amortization Expense 27 130 96.80 99 75.30"
+   },
+   "impairment": {
+    "cr": 78.9911,
+    "page": 67,
+    "quote": "Impairment on Non Current Assets 78 99.11 0.00"
+   },
+   "other_expenses": {
+    "cr": 29.4928,
+    "page": 67,
+    "quote": "Other Expenses 28 29 49.28 32 32.42"
+   },
+   "total_expenses": {
+    "cr": 386.3688,
+    "page": 67,
+    "quote": "Total Expenses (IV) 386 36.88 231 24.71"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 67,
+    "quote": "no exceptional items line (impairment shown as an expense line)"
+   },
+   "profit_before_tax": {
+    "cr": -280.6094,
+    "page": 67,
+    "quote": "V Profit / (Loss) Before Tax (III - IV) (280 60.94) (167 15.89)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 67,
+    "quote": "VI Tax expense: (1) Prior tax adjustment - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -280.6094,
+    "page": 67,
+    "quote": "VII Profit / (Loss) for the period (V - VI) (280 60.94) (167 15.89)"
+   },
+   "annual_ridership_lakh": {
+    "value": 123.42479,
+    "page": 20,
+    "quote": "A total of 1,23,42,479 commuters travelled in Kochi Metro during this period enabling KMRL to earn a fare box revenue of 40,37,65,666"
+   },
+   "avg_daily_ridership": {
+    "value": 34588,
+    "page": 12,
+    "quote": "Rs 41.04 crore (previous year Rs. 32.17 crore) with average ridership of 34588 per day"
+   },
+   "route_km": {
+    "value": 18.22,
+    "page": 12,
+    "quote": "fare box revenue from metro train operations covering a total distance of 18.22 km from Aluva to Maharajas"
+   },
+   "checks": "total income 8137.2+2438.74=10575.94 vs 10575.94: ok; sum of expense lines 38636.88 vs total 38636.88: ok; PBT 10575.94-38636.88+0=-28060.94 vs -28060.94: ok; fare+non-fare 8137.2 vs revenue 8137.2: ok",
+   "notes": "Accounts are image pages (scanned within a text PDF): P&L p67 (printed 'Page 66 of 112'), read from the rendered image; fare split Note 22 p88. Average daily ridership: Board's Report p12 says 34588; p5 says 34,589. Fare box revenue in the operations section (p20) is Rs 40,37,65,666, vs 41 03.89 lakh in Note 22. Impairment on Non Current Assets 78 99.11 lakh (flood-related) recorded as an extra field. Board's Report snapshot (p12) labels total comprehensive loss (28123.30) as 'Net Profit/(Loss) before Tax'."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "KMRL_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh (Indian grouping printed with a space, e.g. '167 29.46' = 16729.46 lakh)",
+   "revenue_from_operations": {
+    "cr": 44.6663,
+    "page": 67,
+    "quote": "I Revenue from Operations 22 81 37.20 4,466.63"
+   },
+   "fare_revenue": {
+    "cr": 32.1725,
+    "page": 88,
+    "quote": "Revenue from Train Operations being Fare Collections 41 03.89 3,217.25"
+   },
+   "non_fare_revenue": {
+    "cr": 12.4939,
+    "page": 88,
+    "quote": "Non fare box revenue 40 33.31 1,249.39"
+   },
+   "other_income": {
+    "cr": 19.4219,
+    "page": 67,
+    "quote": "II Other Income 23 24 38.74 19 42.19"
+   },
+   "total_income": {
+    "cr": 64.0882,
+    "page": 67,
+    "quote": "III Total Revenue (I + II) 105 75.94 64 08.82"
+   },
+   "operating_expenses": {
+    "cr": 25.9314,
+    "page": 67,
+    "quote": "Operating Expenses 24 34 06.51 2,593.14"
+   },
+   "employee_cost": {
+    "cr": 29.7002,
+    "page": 67,
+    "quote": "Employee Benefits Expense 25 37 74.30 29 70.02"
+   },
+   "finance_cost": {
+    "cr": 43.5383,
+    "page": 67,
+    "quote": "Finance Costs 26 75 10.88 43 53.83"
+   },
+   "depreciation": {
+    "cr": 99.753,
+    "page": 67,
+    "quote": "Depreciation and Amortization Expense 27 130 96.80 99 75.30"
+   },
+   "impairment": {
+    "cr": 0.0,
+    "page": 67,
+    "quote": "Impairment on Non Current Assets 78 99.11 0.00"
+   },
+   "other_expenses": {
+    "cr": 32.3242,
+    "page": 67,
+    "quote": "Other Expenses 28 29 49.28 32 32.42"
+   },
+   "total_expenses": {
+    "cr": 231.2471,
+    "page": 67,
+    "quote": "Total Expenses (IV) 386 36.88 231 24.71"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": 67,
+    "quote": "no exceptional items line"
+   },
+   "profit_before_tax": {
+    "cr": -167.1589,
+    "page": 67,
+    "quote": "V Profit / (Loss) Before Tax (III - IV) (280 60.94) (167 15.89)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 67,
+    "quote": "VI Tax expense: - (previous-year column '-')"
+   },
+   "profit_after_tax": {
+    "cr": -167.1589,
+    "page": 67,
+    "quote": "VII Profit / (Loss) for the period (V - VI) (280 60.94) (167 15.89)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 4466.63+1942.19=6408.82 vs 6408.82: ok; sum of expense lines 23124.71 vs total 23124.71: ok; PBT 6408.82-23124.71+0=-16715.89 vs -16715.89: ok; fare+non-fare 4466.64 vs revenue 4466.63: ok",
+   "notes": "Previous-year column of the 2018-19 report (first year with fare revenue). The 2017-18 report is not among the downloads. No ridership or route km for 2017-18 stated in the 2018-19 report (p12 gives only previous-year fare box Rs. 32.17 crore)."
+  }
+ ]
+}

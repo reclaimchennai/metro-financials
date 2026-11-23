@@ -1,0 +1,2468 @@
+{
+ "operator": "CMRL",
+ "documents": [
+  {
+   "file": "CMRL_2013-14_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 28,
+   "note": "standalone P&L p28 (₹ lakh); no revenue from operations (pre-operations)"
+  },
+  {
+   "file": "CMRL_2014-15_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 39,
+   "note": "P&L p39; revenue Note 18 p56 (lease income only)"
+  },
+  {
+   "file": "CMRL_2015-16_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 51,
+   "note": "P&L p51; Note 18 p69 (traffic earnings / lease)"
+  },
+  {
+   "file": "CMRL_2016-17_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 45,
+   "note": "image-only PDF; P&L p45 and Note 26 p73 read from rendered page images"
+  },
+  {
+   "file": "CMRL_2017-18_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 51,
+   "note": "P&L p51; Note 25 p82; ops highlights p15"
+  },
+  {
+   "file": "CMRL_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 46,
+   "note": "P&L p46; Note 26 p80"
+  },
+  {
+   "file": "CMRL_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 50,
+   "note": "P&L p50; Note 26 p86; ridership p12"
+  },
+  {
+   "file": "CMRL_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 77,
+   "note": "P&L p77; Note 26 p112; ridership chart 2015-16..2020-21 p23, table p24"
+  },
+  {
+   "file": "CMRL_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 84,
+   "note": "P&L p84; Note 26 p147"
+  },
+  {
+   "file": "CMRL_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 87,
+   "note": "P&L p87 with 2021-22 column 'Restated'; Note 26 p160; restatement Note 16.1.2"
+  },
+  {
+   "file": "CMRL_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 106,
+   "note": "P&L p106; Note 26 p183; ops table p35"
+  },
+  {
+   "file": "CMRL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 121,
+   "note": "standalone P&L p121 (consolidated p201 not used); Note 27 p159; ops table p33"
+  }
+ ],
+ "years": [
+  {
+   "fy": "2012-13",
+   "source_file": "CMRL_2013-14_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 28,
+    "quote": "1. Revenue from operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 131.8235,
+    "page": 28,
+    "quote": "2. Other Income 16 12,734.73 13,182.35"
+   },
+   "total_income": {
+    "cr": 131.8235,
+    "page": 28,
+    "quote": "3. Total revenue (1+2) 12,734.73 13,182.35"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 28,
+    "quote": "(a) Employee Benefits 17 328.85 -"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.2704,
+    "page": 28,
+    "quote": "(b) Depreciation & Amortization Expenses 10 38.60 27.04"
+   },
+   "other_expenses": {
+    "cr": 1.5156,
+    "page": 28,
+    "quote": "(c) Other expenses 18 170.29 151.56"
+   },
+   "total_expenses": {
+    "cr": 1.786,
+    "page": 28,
+    "quote": "Total expenses 537.74 178.60"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 28,
+    "quote": "6. Prior Period items 19 19.13 -",
+    "note": "prior period items; sign = effect on PBT (PBT = profit before extraordinary items and tax 130.0375 cr ± prior period items)"
+   },
+   "profit_before_tax": {
+    "cr": 130.0375,
+    "page": 28,
+    "quote": "7. Profit / (Loss) before tax (5 ± 6) 12,177.86 13,003.75"
+   },
+   "tax": {
+    "cr": 42.1907,
+    "page": 28,
+    "quote": "Tax expense total line: 4,162.81 4,219.07"
+   },
+   "profit_after_tax": {
+    "cr": 87.8468,
+    "page": 28,
+    "quote": "Profit / (Loss) for the year transferred to Reserves & Surplus 8,015.06 8,784.68"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 131.8235 vs rev+OI 131.8235: ok; PBT 130.0375 vs TI-TE±exceptional 130.0375: ok; expense lines sum 1.7860 vs total 1.7860: ok; PAT 87.8468 vs PBT-tax 87.8468: ok",
+   "notes": "Pre-operations year (construction); only other income (interest). Read from previous-year column of 2013-14 report."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "CMRL_2013-14_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 28,
+    "quote": "1. Revenue from operations - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 127.3473,
+    "page": 28,
+    "quote": "2. Other Income 16 12,734.73 13,182.35"
+   },
+   "total_income": {
+    "cr": 127.3473,
+    "page": 28,
+    "quote": "3. Total revenue (1+2) 12,734.73 13,182.35"
+   },
+   "employee_cost": {
+    "cr": 3.2885,
+    "page": 28,
+    "quote": "(a) Employee Benefits 17 328.85 -"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.386,
+    "page": 28,
+    "quote": "(b) Depreciation & Amortization Expenses 10 38.60 27.04"
+   },
+   "other_expenses": {
+    "cr": 1.7029,
+    "page": 28,
+    "quote": "(c) Other expenses 18 170.29 151.56"
+   },
+   "total_expenses": {
+    "cr": 5.3774,
+    "page": 28,
+    "quote": "Total expenses 537.74 178.60"
+   },
+   "exceptional_items": {
+    "cr": -0.1913,
+    "page": 28,
+    "quote": "6. Prior Period items 19 19.13 -",
+    "note": "prior period items; sign = effect on PBT (PBT = profit before extraordinary items and tax 121.9699 cr ± prior period items)"
+   },
+   "profit_before_tax": {
+    "cr": 121.7786,
+    "page": 28,
+    "quote": "7. Profit / (Loss) before tax (5 ± 6) 12,177.86 13,003.75"
+   },
+   "tax": {
+    "cr": 41.6281,
+    "page": 28,
+    "quote": "Tax expense total line: 4,162.81 4,219.07"
+   },
+   "profit_after_tax": {
+    "cr": 80.1506,
+    "page": 28,
+    "quote": "Profit / (Loss) for the year transferred to Reserves & Surplus 8,015.06 8,784.68"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 127.3473 vs rev+OI 127.3473: ok; PBT 121.7786 vs TI-TE±exceptional 121.7786: ok; expense lines sum 5.3774 vs total 5.3774: ok; PAT 80.1506 vs PBT-tax 80.1505: ok",
+   "notes": "Pre-operations. Profit is interest income on deposits. Prior period items (19.13 lakh) deducted before PBT."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "CMRL_2014-15_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 39,
+    "quote": "1. Revenue from operations 18 31.60 -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 127.3473,
+    "page": 39,
+    "quote": "2. Other Income 19 11,730.74 12,734.73"
+   },
+   "total_income": {
+    "cr": 127.3473,
+    "page": 39,
+    "quote": "3. Total revenue (1+2) 11,762.34 12,734.73"
+   },
+   "employee_cost": {
+    "cr": 3.2885,
+    "page": 39,
+    "quote": "(a) Employee Benefits 20 894.15 328.85"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.386,
+    "page": 39,
+    "quote": "(b) Depreciation & Amortization Expenses 11 119.09 38.60"
+   },
+   "other_expenses": {
+    "cr": 1.7029,
+    "page": 39,
+    "quote": "(c) Other expenses 21 988.06 170.29"
+   },
+   "total_expenses": {
+    "cr": 5.3774,
+    "page": 39,
+    "quote": "Total expenses 2,001.30 537.74"
+   },
+   "exceptional_items": {
+    "cr": -0.1913,
+    "page": 39,
+    "quote": "6. Prior Period items 22 - 19.13",
+    "note": "prior period items; sign = effect on PBT (PBT = profit before extraordinary items and tax 121.9699 cr ± prior period items)"
+   },
+   "profit_before_tax": {
+    "cr": 121.7786,
+    "page": 39,
+    "quote": "7. Profit / (Loss) before tax (5 ± 6) 9,761.04 12,177.86"
+   },
+   "tax": {
+    "cr": 41.6281,
+    "page": 39,
+    "quote": "Tax expense total line: 3,548.08 4,162.81"
+   },
+   "profit_after_tax": {
+    "cr": 80.1506,
+    "page": 39,
+    "quote": "Profit / (Loss) for the year transferred to Reserves & Surplus 6,212.96 8,015.06"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 127.3473 vs rev+OI 127.3473: ok; PBT 121.7786 vs TI-TE±exceptional 121.7786: ok; expense lines sum 5.3774 vs total 5.3774: ok; PAT 80.1506 vs PBT-tax 80.1505: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "CMRL_2014-15_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.316,
+    "page": 39,
+    "quote": "1. Revenue from operations 18 31.60 -"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Note 18 - Revenue from Operations: From Property Development Lease Income 31.60 - (no traffic earnings line; operations began 29-06-2015)"
+   },
+   "non_fare_revenue": {
+    "cr": 0.316,
+    "page": 56,
+    "quote": "Lease Income 31.60 -"
+   },
+   "other_income": {
+    "cr": 117.3074,
+    "page": 39,
+    "quote": "2. Other Income 19 11,730.74 12,734.73"
+   },
+   "total_income": {
+    "cr": 117.6234,
+    "page": 39,
+    "quote": "3. Total revenue (1+2) 11,762.34 12,734.73"
+   },
+   "employee_cost": {
+    "cr": 8.9415,
+    "page": 39,
+    "quote": "(a) Employee Benefits 20 894.15 328.85"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 1.1909,
+    "page": 39,
+    "quote": "(b) Depreciation & Amortization Expenses 11 119.09 38.60"
+   },
+   "other_expenses": {
+    "cr": 9.8806,
+    "page": 39,
+    "quote": "(c) Other expenses 21 988.06 170.29"
+   },
+   "total_expenses": {
+    "cr": 20.013,
+    "page": 39,
+    "quote": "Total expenses 2,001.30 537.74"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 39,
+    "quote": "6. Prior Period items 22 - 19.13",
+    "note": "prior period items; sign = effect on PBT (PBT = profit before extraordinary items and tax 97.6104 cr ± prior period items)"
+   },
+   "profit_before_tax": {
+    "cr": 97.6104,
+    "page": 39,
+    "quote": "7. Profit / (Loss) before tax (5 ± 6) 9,761.04 12,177.86"
+   },
+   "tax": {
+    "cr": 35.4808,
+    "page": 39,
+    "quote": "Tax expense total line: 3,548.08 4,162.81"
+   },
+   "profit_after_tax": {
+    "cr": 62.1296,
+    "page": 39,
+    "quote": "Profit / (Loss) for the year transferred to Reserves & Surplus 6,212.96 8,015.06"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income 117.6234 vs rev+OI 117.6234: ok; PBT 97.6104 vs TI-TE±exceptional 97.6104: ok; expense lines sum 20.0130 vs total 20.0130: ok; PAT 62.1296 vs PBT-tax 62.1296: ok",
+   "notes": "Pre-operations (metro opened 29-06-2015); revenue is lease income only. 2015-16 report restates 2014-15 other expenses 988.06 as Operating Expenses 0.22 + Other expenses 987.84 (reclassification, total unchanged)."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "CMRL_2015-16_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.316,
+    "page": 51,
+    "quote": "1. Revenue from operations 18 1,297.83 31.60"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 56,
+    "quote": "Note 18 - Revenue from Operations: From Property Development Lease Income 31.60 - (no traffic earnings line; operations began 29-06-2015)"
+   },
+   "non_fare_revenue": {
+    "cr": 0.316,
+    "page": 56,
+    "quote": "Lease Income 31.60 -"
+   },
+   "other_income": {
+    "cr": 117.3074,
+    "page": 51,
+    "quote": "2. Other Income 19 11,513.08 11,730.74"
+   },
+   "total_income": {
+    "cr": 117.6234,
+    "page": 51,
+    "quote": "3. Total revenue (1+2) 12,810.91 11,762.34"
+   },
+   "employee_cost": {
+    "cr": 8.9415,
+    "page": 51,
+    "quote": "(b) Employee Benefits Expenses 21 2,455.49 894.15"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 51,
+    "quote": "(c) Finance Cost 22 779.77 -"
+   },
+   "depreciation": {
+    "cr": 1.1909,
+    "page": 51,
+    "quote": "(d) Depreciation & Amortization Expenses 11 6,100.59 119.09"
+   },
+   "other_expenses": {
+    "cr": 9.8784,
+    "page": 51,
+    "quote": "(e) Other expenses 23 1,803.14 987.84"
+   },
+   "total_expenses": {
+    "cr": 20.013,
+    "page": 51,
+    "quote": "Total expenses 12,938.24 2,001.30"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 51,
+    "quote": "6. Prior Period items 24 13.06 -",
+    "note": "prior period items; sign = effect on PBT (PBT = profit before extraordinary items and tax 97.6104 cr ± prior period items)"
+   },
+   "profit_before_tax": {
+    "cr": 97.6104,
+    "page": 51,
+    "quote": "7. Profit / (Loss) before tax (5 ± 6) (114.27) 9,761.04"
+   },
+   "tax": {
+    "cr": 35.4808,
+    "page": 51,
+    "quote": "Tax expense total line: 6,992.50 3,548.08"
+   },
+   "profit_after_tax": {
+    "cr": 62.1296,
+    "page": 51,
+    "quote": "Profit / (Loss) for the year transferred to Reserves & Surplus (7,106.77) 6,212.96"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 0.0022,
+    "page": 51,
+    "quote": "(a) Operating Expenses 20 1,799.25 0.22"
+   },
+   "checks": "total income 117.6234 vs rev+OI 117.6234: ok; PBT 97.6104 vs TI-TE±exceptional 97.6104: ok; expense lines sum 20.0130 vs total 20.0130: ok; PAT 62.1296 vs PBT-tax 62.1296: ok",
+   "notes": "Reclassification vs 2014-15 report: other expenses 987.84 + operating expenses 0.22 (2014-15 report: other expenses 988.06)."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "CMRL_2015-16_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 12.9783,
+    "page": 51,
+    "quote": "1. Revenue from operations 18 1,297.83 31.60"
+   },
+   "fare_revenue": {
+    "cr": 10.6963,
+    "page": 69,
+    "quote": "Traffic Earnings 1,069.63"
+   },
+   "non_fare_revenue": {
+    "cr": 2.282,
+    "page": 69,
+    "quote": "derived: total of note minus traffic earnings = Lease Income line"
+   },
+   "other_income": {
+    "cr": 115.1308,
+    "page": 51,
+    "quote": "2. Other Income 19 11,513.08 11,730.74"
+   },
+   "total_income": {
+    "cr": 128.1091,
+    "page": 51,
+    "quote": "3. Total revenue (1+2) 12,810.91 11,762.34"
+   },
+   "employee_cost": {
+    "cr": 24.5549,
+    "page": 51,
+    "quote": "(b) Employee Benefits Expenses 21 2,455.49 894.15"
+   },
+   "finance_cost": {
+    "cr": 7.7977,
+    "page": 51,
+    "quote": "(c) Finance Cost 22 779.77 -"
+   },
+   "depreciation": {
+    "cr": 61.0059,
+    "page": 51,
+    "quote": "(d) Depreciation & Amortization Expenses 11 6,100.59 119.09"
+   },
+   "other_expenses": {
+    "cr": 18.0314,
+    "page": 51,
+    "quote": "(e) Other expenses 23 1,803.14 987.84"
+   },
+   "total_expenses": {
+    "cr": 129.3824,
+    "page": 51,
+    "quote": "Total expenses 12,938.24 2,001.30"
+   },
+   "exceptional_items": {
+    "cr": 0.1306,
+    "page": 51,
+    "quote": "6. Prior Period items 24 13.06 -",
+    "note": "prior period items; sign = effect on PBT (PBT = profit before extraordinary items and tax -1.2733 cr ± prior period items)"
+   },
+   "profit_before_tax": {
+    "cr": -1.1427,
+    "page": 51,
+    "quote": "7. Profit / (Loss) before tax (5 ± 6) (114.27) 9,761.04"
+   },
+   "tax": {
+    "cr": 69.925,
+    "page": 51,
+    "quote": "Tax expense total line: 6,992.50 3,548.08"
+   },
+   "profit_after_tax": {
+    "cr": -71.0677,
+    "page": 51,
+    "quote": "Profit / (Loss) for the year transferred to Reserves & Surplus (7,106.77) 6,212.96"
+   },
+   "annual_ridership_lakh": {
+    "value": 31.9,
+    "page": 23,
+    "quote": "Total Ridership (in lakhs) bar chart: 31.9 (2015-16, Service Started from 29-6-2015)",
+    "file": "CMRL_2020-21_Annual_Report.pdf"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 17.9925,
+    "page": 51,
+    "quote": "(a) Operating Expenses 20 1,799.25 0.22"
+   },
+   "checks": "total income 128.1091 vs rev+OI 128.1091: ok; PBT -1.1427 vs TI-TE±exceptional -1.1427: ok; expense lines sum 129.3824 vs total 129.3824: ok; PAT -71.0677 vs PBT-tax -71.0677: ok",
+   "notes": "Indian GAAP. First year of operations (from 29-06-2015). Prior period items 13.06 lakh added to arrive at PBT."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "CMRL_2016-17_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 13.1067,
+    "page": 45,
+    "quote": "Revenue from operations 26 2,125.74 1,310.67 [read from page image; OCR unreliable]"
+   },
+   "fare_revenue": {
+    "cr": 10.6963,
+    "page": 73,
+    "quote": "Note 26 Traffic Earnings 1,381.33 1,069.63 [image p73]"
+   },
+   "non_fare_revenue": {
+    "cr": 2.4104,
+    "page": 73,
+    "quote": "Lease/Other Income 744.41 241.04 [image p73] (Ind AS restated; 2015-16 report shows Lease Income 228.20)"
+   },
+   "other_income": {
+    "cr": 115.6492,
+    "page": 45,
+    "quote": "Other income 27 11,269.22 11,564.92 [read from page image; OCR unreliable]"
+   },
+   "total_income": {
+    "cr": 128.7559,
+    "page": 45,
+    "quote": "I. Total Income 13,394.96 12,875.59 [read from page image; OCR unreliable]"
+   },
+   "employee_cost": {
+    "cr": 24.6209,
+    "page": 45,
+    "quote": "Employee benefits expense 29 3,096.39 2,462.09 [read from page image; OCR unreliable]"
+   },
+   "finance_cost": {
+    "cr": 7.9113,
+    "page": 45,
+    "quote": "Finance costs 30 2,261.27 791.13 [read from page image; OCR unreliable]"
+   },
+   "depreciation": {
+    "cr": 61.0059,
+    "page": 45,
+    "quote": "Depreciation 2 & 4 10,892.65 6,100.59 [read from page image; OCR unreliable]"
+   },
+   "other_expenses": {
+    "cr": 18.0314,
+    "page": 45,
+    "quote": "Other expenses 31 3,717.00 1,803.14 [read from page image; OCR unreliable]"
+   },
+   "total_expenses": {
+    "cr": 129.5619,
+    "page": 45,
+    "quote": "II. Total expenses 22,789.10 12,956.19 [read from page image; OCR unreliable]"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.8061,
+    "page": 45,
+    "quote": "III. (Loss) before tax (I - II) (9,394.14) (80.61) [read from page image; OCR unreliable]"
+   },
+   "tax": {
+    "cr": 69.925,
+    "page": 45,
+    "quote": "IV. Tax expense: (1) Current tax - - (2) Deferred tax 10,946.96 6,992.50 [read from page image; OCR unreliable]"
+   },
+   "profit_after_tax": {
+    "cr": -70.731,
+    "page": 45,
+    "quote": "V. (Loss) for the Year (III - IV) (20,341.09) (7,073.10) [read from page image; OCR unreliable]"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 17.9925,
+    "page": 45,
+    "quote": "Operating expenses 28 2,821.79 1,799.25 [read from page image; OCR unreliable]"
+   },
+   "checks": "total income 128.7559 vs rev+OI 128.7559: ok; PBT -0.8061 vs TI-TE±exceptional -0.8060: ok; expense lines sum 129.5620 vs total 129.5619: ok; PAT -70.7310 vs PBT-tax -70.7311: ok",
+   "notes": "RESTATED under Ind AS transition in 2016-17 report: revenue 1,310.67 (was 1,297.83), other income 11,564.92 (was 11,513.08), PBT (80.61) (was (114.27)), PAT (7,073.10) (was (7,106.77)). Statement read from page image (scanned PDF)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "CMRL_2016-17_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 21.2574,
+    "page": 45,
+    "quote": "Revenue from operations 26 2,125.74 1,310.67 [read from page image; OCR unreliable]"
+   },
+   "fare_revenue": {
+    "cr": 13.8133,
+    "page": 73,
+    "quote": "Note 26 Traffic Earnings 1,381.33 1,069.63 [image p73] (traffic earnings incl. parking; the 2017-18 report splits it as Fare Box 1,314.52 + Parking Fees 66.81)"
+   },
+   "non_fare_revenue": {
+    "cr": 7.4441,
+    "page": 73,
+    "quote": "Lease/Other Income 744.41 241.04 [image p73]"
+   },
+   "other_income": {
+    "cr": 112.6922,
+    "page": 45,
+    "quote": "Other income 27 11,269.22 11,564.92 [read from page image; OCR unreliable]"
+   },
+   "total_income": {
+    "cr": 133.9496,
+    "page": 45,
+    "quote": "I. Total Income 13,394.96 12,875.59 [read from page image; OCR unreliable]"
+   },
+   "employee_cost": {
+    "cr": 30.9639,
+    "page": 45,
+    "quote": "Employee benefits expense 29 3,096.39 2,462.09 [read from page image; OCR unreliable]"
+   },
+   "finance_cost": {
+    "cr": 22.6127,
+    "page": 45,
+    "quote": "Finance costs 30 2,261.27 791.13 [read from page image; OCR unreliable]"
+   },
+   "depreciation": {
+    "cr": 108.9265,
+    "page": 45,
+    "quote": "Depreciation 2 & 4 10,892.65 6,100.59 [read from page image; OCR unreliable]"
+   },
+   "other_expenses": {
+    "cr": 37.17,
+    "page": 45,
+    "quote": "Other expenses 31 3,717.00 1,803.14 [read from page image; OCR unreliable]"
+   },
+   "total_expenses": {
+    "cr": 227.891,
+    "page": 45,
+    "quote": "II. Total expenses 22,789.10 12,956.19 [read from page image; OCR unreliable]"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -93.9414,
+    "page": 45,
+    "quote": "III. (Loss) before tax (I - II) (9,394.14) (80.61) [read from page image; OCR unreliable]"
+   },
+   "tax": {
+    "cr": 109.4696,
+    "page": 45,
+    "quote": "IV. Tax expense: (1) Current tax - - (2) Deferred tax 10,946.96 6,992.50 [read from page image; OCR unreliable]"
+   },
+   "profit_after_tax": {
+    "cr": -203.4109,
+    "page": 45,
+    "quote": "V. (Loss) for the Year (III - IV) (20,341.09) (7,073.10) [read from page image; OCR unreliable]"
+   },
+   "annual_ridership_lakh": {
+    "value": 39.87,
+    "page": 23,
+    "quote": "Total Ridership (in lakhs) bar chart: 39.87 (2016-17)",
+    "file": "CMRL_2020-21_Annual_Report.pdf"
+   },
+   "avg_daily_ridership": {
+    "value": 10964,
+    "page": 15,
+    "quote": "The average passenger flow per day in the FY 2016-17 is 10,964.",
+    "file": "CMRL_2017-18_Annual_Report.pdf"
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 28.2179,
+    "page": 45,
+    "quote": "Operating expenses 28 2,821.79 1,799.25 [read from page image; OCR unreliable]"
+   },
+   "checks": "total income 133.9496 vs rev+OI 133.9496: ok; PBT -93.9414 vs TI-TE±exceptional -93.9414: ok; expense lines sum 227.8910 vs total 227.8910: ok; PAT -203.4109 vs PBT-tax -203.4110: ok",
+   "notes": "Scanned report; values read from rendered page image p45 (OCR garbled several digits). First Ind AS year."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "CMRL_2017-18_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 21.2574,
+    "page": 51,
+    "quote": "Revenue from operations 25 7,074.05 2,125.74"
+   },
+   "fare_revenue": {
+    "cr": 13.1452,
+    "page": 82,
+    "quote": "Fare Box 2,789.64 1,314.52"
+   },
+   "non_fare_revenue": {
+    "cr": 8.1122,
+    "page": 82,
+    "quote": "derived: revenue from operations 21.2574 cr minus 'Fare Box 2,789.64 1,314.52' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 112.6922,
+    "page": 51,
+    "quote": "Other income 26 8,429.18 11,269.22"
+   },
+   "total_income": {
+    "cr": 133.9496,
+    "page": 51,
+    "quote": "I. Total Income 15,503.23 13,394.96"
+   },
+   "employee_cost": {
+    "cr": 30.9639,
+    "page": 51,
+    "quote": "Employee benefits expense 28 4,105.42 3,096.39"
+   },
+   "finance_cost": {
+    "cr": 22.6127,
+    "page": 51,
+    "quote": "Finance costs 29 4,376.36 2,261.27"
+   },
+   "depreciation": {
+    "cr": 108.9265,
+    "page": 51,
+    "quote": "Depreciation and amortization expense 2, 4 & 31 20,867.53 10,892.65"
+   },
+   "other_expenses": {
+    "cr": 32.9607,
+    "page": 51,
+    "quote": "Other expenses 30 3,758.30 3,296.07"
+   },
+   "total_expenses": {
+    "cr": 227.8909,
+    "page": 51,
+    "quote": "II. Total Expenses 38,467.44 22,789.09"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -93.9413,
+    "page": 51,
+    "quote": "III. (Loss) before tax (I - II) (22,964.21) (9,394.13)"
+   },
+   "tax": {
+    "cr": 109.4696,
+    "page": 51,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 32 11,383.85 10,946.96"
+   },
+   "profit_after_tax": {
+    "cr": -203.4109,
+    "page": 51,
+    "quote": "V. (Loss) for the Year (III - IV) (34,348.06) (20,341.09)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 32.4272,
+    "page": 51,
+    "quote": "Operating expenses 27 5,359.83 3,242.72"
+   },
+   "checks": "total income 133.9496 vs rev+OI 133.9496: ok; PBT -93.9413 vs TI-TE±exceptional -93.9413: ok; expense lines sum 227.8910 vs total 227.8909: ok; PAT -203.4109 vs PBT-tax -203.4109: ok",
+   "notes": "2017-18 report reclassifies 2016-17: operating expenses 3,242.72 (2016-17 report 2,821.79), other expenses 3,296.07 (was 3,717.00), total 22,789.09 (was 22,789.10); fare split Fare Box 1,314.52 + Parking 66.81 = Traffic Earnings 1,381.33."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "CMRL_2017-18_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 70.7405,
+    "page": 51,
+    "quote": "Revenue from operations 25 7,074.05 2,125.74"
+   },
+   "fare_revenue": {
+    "cr": 27.8964,
+    "page": 82,
+    "quote": "Fare Box 2,789.64 1,314.52"
+   },
+   "non_fare_revenue": {
+    "cr": 42.8441,
+    "page": 82,
+    "quote": "derived: revenue from operations 70.7405 cr minus 'Fare Box 2,789.64 1,314.52' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 84.2918,
+    "page": 51,
+    "quote": "Other income 26 8,429.18 11,269.22"
+   },
+   "total_income": {
+    "cr": 155.0323,
+    "page": 51,
+    "quote": "I. Total Income 15,503.23 13,394.96"
+   },
+   "employee_cost": {
+    "cr": 41.0542,
+    "page": 51,
+    "quote": "Employee benefits expense 28 4,105.42 3,096.39"
+   },
+   "finance_cost": {
+    "cr": 43.7636,
+    "page": 51,
+    "quote": "Finance costs 29 4,376.36 2,261.27"
+   },
+   "depreciation": {
+    "cr": 208.6753,
+    "page": 51,
+    "quote": "Depreciation and amortization expense 2, 4 & 31 20,867.53 10,892.65"
+   },
+   "other_expenses": {
+    "cr": 37.583,
+    "page": 51,
+    "quote": "Other expenses 30 3,758.30 3,296.07"
+   },
+   "total_expenses": {
+    "cr": 384.6744,
+    "page": 51,
+    "quote": "II. Total Expenses 38,467.44 22,789.09"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -229.6421,
+    "page": 51,
+    "quote": "III. (Loss) before tax (I - II) (22,964.21) (9,394.13)"
+   },
+   "tax": {
+    "cr": 113.8385,
+    "page": 51,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 32 11,383.85 10,946.96"
+   },
+   "profit_after_tax": {
+    "cr": -343.4806,
+    "page": 51,
+    "quote": "V. (Loss) for the Year (III - IV) (34,348.06) (20,341.09)"
+   },
+   "annual_ridership_lakh": {
+    "value": 85.05,
+    "page": 23,
+    "quote": "Total Ridership (in lakhs) bar chart: 85.05 (2017-18)",
+    "file": "CMRL_2020-21_Annual_Report.pdf"
+   },
+   "avg_daily_ridership": {
+    "value": 23307,
+    "page": 15,
+    "quote": "It is increased to 23,307 passengers in the FY 2017-18."
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 53.5983,
+    "page": 51,
+    "quote": "Operating expenses 27 5,359.83 3,242.72"
+   },
+   "checks": "total income 155.0323 vs rev+OI 155.0323: ok; PBT -229.6421 vs TI-TE±exceptional -229.6421: ok; expense lines sum 384.6744 vs total 384.6744: ok; PAT -343.4806 vs PBT-tax -343.4806: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "CMRL_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 70.7405,
+    "page": 46,
+    "quote": "Revenue from operations 26 8,622.21 7,074.05"
+   },
+   "fare_revenue": {
+    "cr": 27.8964,
+    "page": 80,
+    "quote": "Fare Box 6,194.84 2,789.64"
+   },
+   "non_fare_revenue": {
+    "cr": 42.8441,
+    "page": 80,
+    "quote": "derived: revenue from operations 70.7405 cr minus 'Fare Box 6,194.84 2,789.64' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 84.2918,
+    "page": 46,
+    "quote": "Other income 27 9,712.94 8,429.18"
+   },
+   "total_income": {
+    "cr": 155.0323,
+    "page": 46,
+    "quote": "I. Total Income 18,335.15 15,503.23"
+   },
+   "employee_cost": {
+    "cr": 41.0542,
+    "page": 46,
+    "quote": "Employee benefits expense 29 4,652.76 4,105.42"
+   },
+   "finance_cost": {
+    "cr": 43.7636,
+    "page": 46,
+    "quote": "Finance costs 30 8,349.11 4,376.36"
+   },
+   "depreciation": {
+    "cr": 208.6753,
+    "page": 46,
+    "quote": "Depreciation and amortization expense 2, 4 & 32 32,133.20 20,867.53"
+   },
+   "other_expenses": {
+    "cr": 37.583,
+    "page": 46,
+    "quote": "Other expenses 31 5,159.10 3,758.30"
+   },
+   "total_expenses": {
+    "cr": 384.6744,
+    "page": 46,
+    "quote": "II. Total Expenses 60,541.96 38,467.44"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -229.6421,
+    "page": 46,
+    "quote": "III. (Loss) before tax (I - II) (42,206.81) (22,964.21)"
+   },
+   "tax": {
+    "cr": 113.8385,
+    "page": 46,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 33 29,239.42 11,383.85"
+   },
+   "profit_after_tax": {
+    "cr": -343.4806,
+    "page": 46,
+    "quote": "V. (Loss) for the Year (III - IV) (71,446.23) (34,348.06)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 53.5983,
+    "page": 46,
+    "quote": "Operating expenses 28 10,247.79 5,359.83"
+   },
+   "checks": "total income 155.0323 vs rev+OI 155.0323: ok; PBT -229.6421 vs TI-TE±exceptional -229.6421: ok; expense lines sum 384.6744 vs total 384.6744: ok; PAT -343.4806 vs PBT-tax -343.4806: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "CMRL_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 86.2221,
+    "page": 46,
+    "quote": "Revenue from operations 26 8,622.21 7,074.05"
+   },
+   "fare_revenue": {
+    "cr": 61.9484,
+    "page": 80,
+    "quote": "Fare Box 6,194.84 2,789.64"
+   },
+   "non_fare_revenue": {
+    "cr": 24.2737,
+    "page": 80,
+    "quote": "derived: revenue from operations 86.2221 cr minus 'Fare Box 6,194.84 2,789.64' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 97.1294,
+    "page": 46,
+    "quote": "Other income 27 9,712.94 8,429.18"
+   },
+   "total_income": {
+    "cr": 183.3515,
+    "page": 46,
+    "quote": "I. Total Income 18,335.15 15,503.23"
+   },
+   "employee_cost": {
+    "cr": 46.5276,
+    "page": 46,
+    "quote": "Employee benefits expense 29 4,652.76 4,105.42"
+   },
+   "finance_cost": {
+    "cr": 83.4911,
+    "page": 46,
+    "quote": "Finance costs 30 8,349.11 4,376.36"
+   },
+   "depreciation": {
+    "cr": 321.332,
+    "page": 46,
+    "quote": "Depreciation and amortization expense 2, 4 & 32 32,133.20 20,867.53"
+   },
+   "other_expenses": {
+    "cr": 51.591,
+    "page": 46,
+    "quote": "Other expenses 31 5,159.10 3,758.30"
+   },
+   "total_expenses": {
+    "cr": 605.4196,
+    "page": 46,
+    "quote": "II. Total Expenses 60,541.96 38,467.44"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -422.0681,
+    "page": 46,
+    "quote": "III. (Loss) before tax (I - II) (42,206.81) (22,964.21)"
+   },
+   "tax": {
+    "cr": 292.3942,
+    "page": 46,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 33 29,239.42 11,383.85"
+   },
+   "profit_after_tax": {
+    "cr": -714.4623,
+    "page": 46,
+    "quote": "V. (Loss) for the Year (III - IV) (71,446.23) (34,348.06)"
+   },
+   "annual_ridership_lakh": {
+    "value": 183.64,
+    "page": 12,
+    "quote": "The total ridership during the FY 2018-19 was 183.64 lakhs",
+    "file": "CMRL_2019-20_Annual_Report.pdf"
+   },
+   "avg_daily_ridership": {
+    "value": 81500,
+    "page": 12,
+    "quote": "During the FY 2018-19 the average passenger flow per day increased to 81,500 passengers."
+   },
+   "route_km": {
+    "value": 45,
+    "page": 7,
+    "quote": "entire 45 kms of the Phase I of the project is operational",
+    "note": "Phase I fully open from 10-02-2019"
+   },
+   "operating_expenses": {
+    "cr": 102.4779,
+    "page": 46,
+    "quote": "Operating expenses 28 10,247.79 5,359.83"
+   },
+   "checks": "total income 183.3515 vs rev+OI 183.3515: ok; PBT -422.0681 vs TI-TE±exceptional -422.0681: ok; expense lines sum 605.4196 vs total 605.4196: ok; PAT -714.4623 vs PBT-tax -714.4623: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "CMRL_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 85.4874,
+    "page": 50,
+    "quote": "Revenue from operations 26 16,526.39 8,548.74"
+   },
+   "fare_revenue": {
+    "cr": 61.9484,
+    "page": 86,
+    "quote": "Fare Box 11,925.20 6,194.84"
+   },
+   "non_fare_revenue": {
+    "cr": 23.539,
+    "page": 86,
+    "quote": "derived: revenue from operations 85.4874 cr minus 'Fare Box 11,925.20 6,194.84' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 97.8641,
+    "page": 50,
+    "quote": "Other income 27 12,192.26 9,786.41"
+   },
+   "total_income": {
+    "cr": 183.3515,
+    "page": 50,
+    "quote": "I. Total Income 28,718.65 18,335.15"
+   },
+   "employee_cost": {
+    "cr": 46.5276,
+    "page": 50,
+    "quote": "Employee benefits expense 29 4,721.96 4,652.76"
+   },
+   "finance_cost": {
+    "cr": 83.4911,
+    "page": 50,
+    "quote": "Finance costs 30 12,951.87 8,349.11"
+   },
+   "depreciation": {
+    "cr": 321.332,
+    "page": 50,
+    "quote": "Depreciation and amortization expense 2, 4 & 32 41,974.35 32,133.20"
+   },
+   "other_expenses": {
+    "cr": 48.3739,
+    "page": 50,
+    "quote": "Other expenses 31 6,632.38 4,837.39"
+   },
+   "total_expenses": {
+    "cr": 605.4196,
+    "page": 50,
+    "quote": "II. Total Expenses 81,238.50 60,541.96"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -422.0681,
+    "page": 50,
+    "quote": "III. (Loss) before tax (I - II) (52,519.85) (42,206.81)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 50,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -422.0681,
+    "page": 50,
+    "quote": "V. (Loss) for the Year (III - IV) (52,519.85) (42,206.81)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 105.695,
+    "page": 50,
+    "quote": "Operating expenses 28 14,957.94 10,569.50"
+   },
+   "checks": "total income 183.3515 vs rev+OI 183.3515: ok; PBT -422.0681 vs TI-TE±exceptional -422.0681: ok; expense lines sum 605.4196 vs total 605.4196: ok; PAT -422.0681 vs PBT-tax -422.0681: ok",
+   "notes": "2019-20 report reclassifies 2018-19: revenue 8,548.74 (was 8,622.21), other income 9,786.41 (was 9,712.94), operating exp 10,569.50 (was 10,247.79), other exp 4,837.39 (was 5,159.10); totals and PBT unchanged. Deferred tax 29,239.42 lakh charged in the 2018-19 report is shown as nil, so loss for the year is (42,206.81) (was (71,446.23)): the company changed its accounting policy and de-recognised the deferred tax liability (2019-20 report p25: \"de-recognition of the entire Deferred Tax Liability of ` 29,340 Lakhs\"). Lease/Other income 1,886.71 (was 1,960.18)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "CMRL_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 165.2639,
+    "page": 50,
+    "quote": "Revenue from operations 26 16,526.39 8,548.74"
+   },
+   "fare_revenue": {
+    "cr": 119.252,
+    "page": 86,
+    "quote": "Fare Box 11,925.20 6,194.84"
+   },
+   "non_fare_revenue": {
+    "cr": 46.0119,
+    "page": 86,
+    "quote": "derived: revenue from operations 165.2639 cr minus 'Fare Box 11,925.20 6,194.84' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 121.9226,
+    "page": 50,
+    "quote": "Other income 27 12,192.26 9,786.41"
+   },
+   "total_income": {
+    "cr": 287.1865,
+    "page": 50,
+    "quote": "I. Total Income 28,718.65 18,335.15"
+   },
+   "employee_cost": {
+    "cr": 47.2196,
+    "page": 50,
+    "quote": "Employee benefits expense 29 4,721.96 4,652.76"
+   },
+   "finance_cost": {
+    "cr": 129.5187,
+    "page": 50,
+    "quote": "Finance costs 30 12,951.87 8,349.11"
+   },
+   "depreciation": {
+    "cr": 419.7435,
+    "page": 50,
+    "quote": "Depreciation and amortization expense 2, 4 & 32 41,974.35 32,133.20"
+   },
+   "other_expenses": {
+    "cr": 66.3238,
+    "page": 50,
+    "quote": "Other expenses 31 6,632.38 4,837.39"
+   },
+   "total_expenses": {
+    "cr": 812.385,
+    "page": 50,
+    "quote": "II. Total Expenses 81,238.50 60,541.96"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -525.1985,
+    "page": 50,
+    "quote": "III. (Loss) before tax (I - II) (52,519.85) (42,206.81)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 50,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -525.1985,
+    "page": 50,
+    "quote": "V. (Loss) for the Year (III - IV) (52,519.85) (42,206.81)"
+   },
+   "annual_ridership_lakh": {
+    "value": 337.22,
+    "page": 12,
+    "quote": "which improved to 337.22 lakhs in the FY 2019-20",
+    "note": "the 2020-21 report bar chart (p23) shows 336.53 lakh for 2019-20"
+   },
+   "avg_daily_ridership": {
+    "value": 94700,
+    "page": 12,
+    "quote": "During the FY 2019-20 the average passenger flow per day increased to 94,700 passengers."
+   },
+   "route_km": {
+    "value": 45,
+    "page": 6,
+    "quote": "The entire Phase I of the project covering 45 Kms is operational since 10-02-2019."
+   },
+   "operating_expenses": {
+    "cr": 149.5794,
+    "page": 50,
+    "quote": "Operating expenses 28 14,957.94 10,569.50"
+   },
+   "checks": "total income 287.1865 vs rev+OI 287.1865: ok; PBT -525.1985 vs TI-TE±exceptional -525.1985: ok; expense lines sum 812.3850 vs total 812.3850: ok; PAT -525.1985 vs PBT-tax -525.1985: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "CMRL_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 165.2639,
+    "page": 77,
+    "quote": "Revenue from operations 26 5,119.78 16,526.39"
+   },
+   "fare_revenue": {
+    "cr": 119.252,
+    "page": 112,
+    "quote": "Fare Box 3,007.98 11,925.20"
+   },
+   "non_fare_revenue": {
+    "cr": 46.0119,
+    "page": 112,
+    "quote": "derived: revenue from operations 165.2639 cr minus 'Fare Box 3,007.98 11,925.20' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 121.9226,
+    "page": 77,
+    "quote": "Other income 27 9,839.92 12,192.26"
+   },
+   "total_income": {
+    "cr": 287.1865,
+    "page": 77,
+    "quote": "I. Total Income 14,959.70 28,718.65"
+   },
+   "employee_cost": {
+    "cr": 47.2196,
+    "page": 77,
+    "quote": "Employee benefits expense 29 4,957.33 4,721.96"
+   },
+   "finance_cost": {
+    "cr": 129.5187,
+    "page": 77,
+    "quote": "Finance costs 30 13,604.70 12,951.87"
+   },
+   "depreciation": {
+    "cr": 419.7435,
+    "page": 77,
+    "quote": "Depreciation and amortization expense 2, 4 & 32 43,360.95 41,974.35"
+   },
+   "other_expenses": {
+    "cr": 66.3238,
+    "page": 77,
+    "quote": "Other expenses 31 3,364.06 6,632.38"
+   },
+   "total_expenses": {
+    "cr": 812.385,
+    "page": 77,
+    "quote": "II. Total Expenses 76,296.95 81,238.50"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -525.1985,
+    "page": 77,
+    "quote": "III. (Loss) before tax (I - II) (61,337.26) (52,519.85)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 77,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -525.1985,
+    "page": 77,
+    "quote": "V. (Loss) for the Year (III - IV) (61,337.26) (52,519.85)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 149.5794,
+    "page": 77,
+    "quote": "Operating expenses 28 11,009.92 14,957.94"
+   },
+   "checks": "total income 287.1865 vs rev+OI 287.1865: ok; PBT -525.1985 vs TI-TE±exceptional -525.1985: ok; expense lines sum 812.3850 vs total 812.3850: ok; PAT -525.1985 vs PBT-tax -525.1985: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "CMRL_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 51.1978,
+    "page": 77,
+    "quote": "Revenue from operations 26 5,119.78 16,526.39"
+   },
+   "fare_revenue": {
+    "cr": 30.0798,
+    "page": 112,
+    "quote": "Fare Box 3,007.98 11,925.20"
+   },
+   "non_fare_revenue": {
+    "cr": 21.118,
+    "page": 112,
+    "quote": "derived: revenue from operations 51.1978 cr minus 'Fare Box 3,007.98 11,925.20' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 98.3992,
+    "page": 77,
+    "quote": "Other income 27 9,839.92 12,192.26"
+   },
+   "total_income": {
+    "cr": 149.597,
+    "page": 77,
+    "quote": "I. Total Income 14,959.70 28,718.65"
+   },
+   "employee_cost": {
+    "cr": 49.5733,
+    "page": 77,
+    "quote": "Employee benefits expense 29 4,957.33 4,721.96"
+   },
+   "finance_cost": {
+    "cr": 136.047,
+    "page": 77,
+    "quote": "Finance costs 30 13,604.70 12,951.87"
+   },
+   "depreciation": {
+    "cr": 433.6095,
+    "page": 77,
+    "quote": "Depreciation and amortization expense 2, 4 & 32 43,360.95 41,974.35"
+   },
+   "other_expenses": {
+    "cr": 33.6406,
+    "page": 77,
+    "quote": "Other expenses 31 3,364.06 6,632.38"
+   },
+   "total_expenses": {
+    "cr": 762.9695,
+    "page": 77,
+    "quote": "II. Total Expenses 76,296.95 81,238.50"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -613.3726,
+    "page": 77,
+    "quote": "III. (Loss) before tax (I - II) (61,337.26) (52,519.85)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 77,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -613.3726,
+    "page": 77,
+    "quote": "V. (Loss) for the Year (III - IV) (61,337.26) (52,519.85)"
+   },
+   "annual_ridership_lakh": {
+    "value": 93.51,
+    "page": 23,
+    "quote": "Total Ridership (in lakhs) bar chart: 93.51 (2020-21, Post lockdown Service started from 7-9-2020)"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null,
+    "note": "p24 table gives 'Avg. Ridership per day 90,804 Passengers' for 'March ending 2021' only, not the FY"
+   },
+   "route_km": {
+    "value": 54,
+    "page": 24,
+    "quote": "Operational Network length ... Approx. 54 km (March ending 2021)"
+   },
+   "operating_expenses": {
+    "cr": 110.0992,
+    "page": 77,
+    "quote": "Operating expenses 28 11,009.92 14,957.94"
+   },
+   "checks": "total income 149.5970 vs rev+OI 149.5970: ok; PBT -613.3726 vs TI-TE±exceptional -613.3725: ok; expense lines sum 762.9696 vs total 762.9695: ok; PAT -613.3726 vs PBT-tax -613.3726: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "CMRL_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 51.1978,
+    "page": 84,
+    "quote": "Revenue from operations 26 12,922.17 5,119.78"
+   },
+   "fare_revenue": {
+    "cr": 30.0798,
+    "page": 147,
+    "quote": "Fare Box 8,533.81 3,007.98"
+   },
+   "non_fare_revenue": {
+    "cr": 21.118,
+    "page": 147,
+    "quote": "derived: revenue from operations 51.1978 cr minus 'Fare Box 8,533.81 3,007.98' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 98.3992,
+    "page": 84,
+    "quote": "Other income 27 8,163.13 9,839.92"
+   },
+   "total_income": {
+    "cr": 149.597,
+    "page": 84,
+    "quote": "I. Total Income 21,085.30 14,959.70"
+   },
+   "employee_cost": {
+    "cr": 49.5733,
+    "page": 84,
+    "quote": "Employee benefits expense 29 4,372.74 4,957.33"
+   },
+   "finance_cost": {
+    "cr": 136.047,
+    "page": 84,
+    "quote": "Finance costs 30 18,423.23 13,604.70"
+   },
+   "depreciation": {
+    "cr": 433.6095,
+    "page": 84,
+    "quote": "Depreciation & Amortization Expense 2, 4 & 32 50,517.26 43,360.95"
+   },
+   "other_expenses": {
+    "cr": 33.6406,
+    "page": 84,
+    "quote": "Other expenses 31 2,941.69 3,364.06"
+   },
+   "total_expenses": {
+    "cr": 762.9695,
+    "page": 84,
+    "quote": "II. Total Expenses 93,382.82 76,296.95"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -613.3725,
+    "page": 84,
+    "quote": "III. (Loss) before tax (I - II) (72,297.52) (61,337.25)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 84,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -613.3725,
+    "page": 84,
+    "quote": "V. (Loss) for the Year (III - IV) (72,297.52) (61,337.25)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 110.0991,
+    "page": 84,
+    "quote": "Operating expenses 28 17,127.90 11,009.91"
+   },
+   "checks": "total income 149.5970 vs rev+OI 149.5970: ok; PBT -613.3725 vs TI-TE±exceptional -613.3725: ok; expense lines sum 762.9695 vs total 762.9695: ok; PAT -613.3725 vs PBT-tax -613.3725: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "CMRL_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 129.2217,
+    "page": 84,
+    "quote": "Revenue from operations 26 12,922.17 5,119.78"
+   },
+   "fare_revenue": {
+    "cr": 85.3381,
+    "page": 147,
+    "quote": "Fare Box 8,533.81 3,007.98"
+   },
+   "non_fare_revenue": {
+    "cr": 43.8836,
+    "page": 147,
+    "quote": "derived: revenue from operations 129.2217 cr minus 'Fare Box 8,533.81 3,007.98' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 81.6313,
+    "page": 84,
+    "quote": "Other income 27 8,163.13 9,839.92"
+   },
+   "total_income": {
+    "cr": 210.853,
+    "page": 84,
+    "quote": "I. Total Income 21,085.30 14,959.70"
+   },
+   "employee_cost": {
+    "cr": 43.7274,
+    "page": 84,
+    "quote": "Employee benefits expense 29 4,372.74 4,957.33"
+   },
+   "finance_cost": {
+    "cr": 184.2323,
+    "page": 84,
+    "quote": "Finance costs 30 18,423.23 13,604.70"
+   },
+   "depreciation": {
+    "cr": 505.1726,
+    "page": 84,
+    "quote": "Depreciation & Amortization Expense 2, 4 & 32 50,517.26 43,360.95"
+   },
+   "other_expenses": {
+    "cr": 29.4169,
+    "page": 84,
+    "quote": "Other expenses 31 2,941.69 3,364.06"
+   },
+   "total_expenses": {
+    "cr": 933.8282,
+    "page": 84,
+    "quote": "II. Total Expenses 93,382.82 76,296.95"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -722.9752,
+    "page": 84,
+    "quote": "III. (Loss) before tax (I - II) (72,297.52) (61,337.25)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 84,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -722.9752,
+    "page": 84,
+    "quote": "V. (Loss) for the Year (III - IV) (72,297.52) (61,337.25)"
+   },
+   "annual_ridership_lakh": {
+    "value": 293,
+    "page": 9,
+    "quote": "The total ridership during the financial year 2022-23 has improved to 7.07 crores from 2.93 crores in the financial year 2021-22.",
+    "file": "CMRL_2022-23_Annual_Report.pdf",
+    "note": "2.93 crore = 293 lakh"
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": 54,
+    "page": 35,
+    "quote": "Operational Network length ... 54 km (March 2022)",
+    "file": "CMRL_2023-24_Annual_Report.pdf"
+   },
+   "operating_expenses": {
+    "cr": 171.279,
+    "page": 84,
+    "quote": "Operating expenses 28 17,127.90 11,009.91"
+   },
+   "checks": "total income 210.8530 vs rev+OI 210.8530: ok; PBT -722.9752 vs TI-TE±exceptional -722.9752: ok; expense lines sum 933.8282 vs total 933.8282: ok; PAT -722.9752 vs PBT-tax -722.9752: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "CMRL_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 129.2217,
+    "page": 87,
+    "quote": "Revenue from operations 26 27,226.19 12,922.17"
+   },
+   "fare_revenue": {
+    "cr": 85.3381,
+    "page": 160,
+    "quote": "Fare Box 19,805.22 8,533.81"
+   },
+   "non_fare_revenue": {
+    "cr": 43.8836,
+    "page": 160,
+    "quote": "derived: revenue from operations 129.2217 cr minus 'Fare Box 19,805.22 8,533.81' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 683.9295,
+    "page": 87,
+    "quote": "Other income 27 21,430.14 68,392.95"
+   },
+   "total_income": {
+    "cr": 813.1512,
+    "page": 87,
+    "quote": "I. Total Income 48,656.33 81,315.12"
+   },
+   "employee_cost": {
+    "cr": 43.7275,
+    "page": 87,
+    "quote": "Employee benefits expense 29 4,472.96 4,372.75"
+   },
+   "finance_cost": {
+    "cr": 184.2323,
+    "page": 87,
+    "quote": "Finance costs 30 17,883.37 18,423.23"
+   },
+   "depreciation": {
+    "cr": 505.1725,
+    "page": 87,
+    "quote": "Depreciation & Amortization Expense 2, 4 & 52,491.85 50,517.25"
+   },
+   "other_expenses": {
+    "cr": 30.9265,
+    "page": 87,
+    "quote": "Other expenses 31 4,325.57 3,092.65"
+   },
+   "total_expenses": {
+    "cr": 936.2381,
+    "page": 87,
+    "quote": "II. Total expenses 1,05,329.61 93,623.81"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -123.0869,
+    "page": 87,
+    "quote": "III. (Loss) before tax (I - II) (56,673.28) (12,308.69)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -123.0869,
+    "page": 87,
+    "quote": "V. (Loss) for the Year (III - IV) (56,673.28) (12,308.69)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 172.1793,
+    "page": 87,
+    "quote": "Operating expenses 28 26,155.86 17,217.93"
+   },
+   "checks": "total income 813.1512 vs rev+OI 813.1512: ok; PBT -123.0869 vs TI-TE±exceptional -123.0869: ok; expense lines sum 936.2381 vs total 936.2381: ok; PAT -123.0869 vs PBT-tax -123.0869: ok",
+   "notes": "RESTATED in 2022-23 report (Ind AS 8, Note 16.1.2 p150: forex fluctuation on JICA/PTA borrowings not previously accounted): other income 68,392.95 (was 8,163.13), operating exp 17,217.93 (was 17,127.90), other exp 3,092.65 (was 2,941.69), loss (12,308.69) (was (72,297.52)). Revenue from operations unchanged."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "CMRL_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 272.2619,
+    "page": 87,
+    "quote": "Revenue from operations 26 27,226.19 12,922.17"
+   },
+   "fare_revenue": {
+    "cr": 198.0522,
+    "page": 160,
+    "quote": "Fare Box 19,805.22 8,533.81"
+   },
+   "non_fare_revenue": {
+    "cr": 74.2097,
+    "page": 160,
+    "quote": "derived: revenue from operations 272.2619 cr minus 'Fare Box 19,805.22 8,533.81' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 214.3014,
+    "page": 87,
+    "quote": "Other income 27 21,430.14 68,392.95"
+   },
+   "total_income": {
+    "cr": 486.5633,
+    "page": 87,
+    "quote": "I. Total Income 48,656.33 81,315.12"
+   },
+   "employee_cost": {
+    "cr": 44.7296,
+    "page": 87,
+    "quote": "Employee benefits expense 29 4,472.96 4,372.75"
+   },
+   "finance_cost": {
+    "cr": 178.8337,
+    "page": 87,
+    "quote": "Finance costs 30 17,883.37 18,423.23"
+   },
+   "depreciation": {
+    "cr": 524.9185,
+    "page": 87,
+    "quote": "Depreciation & Amortization Expense 2, 4 & 52,491.85 50,517.25"
+   },
+   "other_expenses": {
+    "cr": 43.2557,
+    "page": 87,
+    "quote": "Other expenses 31 4,325.57 3,092.65"
+   },
+   "total_expenses": {
+    "cr": 1053.2961,
+    "page": 87,
+    "quote": "II. Total expenses 1,05,329.61 93,623.81"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -566.7328,
+    "page": 87,
+    "quote": "III. (Loss) before tax (I - II) (56,673.28) (12,308.69)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -566.7328,
+    "page": 87,
+    "quote": "V. (Loss) for the Year (III - IV) (56,673.28) (12,308.69)"
+   },
+   "annual_ridership_lakh": {
+    "value": 707,
+    "page": 9,
+    "quote": "The total ridership during the financial year 2022-23 has improved to 7.07 crores",
+    "note": "7.07 crore = 707 lakh"
+   },
+   "avg_daily_ridership": {
+    "value": 193000,
+    "page": 9,
+    "quote": "from 1.93 lakhs Passengers per day during previous year (2022-23)",
+    "note": "stated as 1.93 lakh"
+   },
+   "route_km": {
+    "value": 54.6,
+    "page": 35,
+    "quote": "Operational Network length ... 54.6 Km (March 2023)",
+    "file": "CMRL_2023-24_Annual_Report.pdf"
+   },
+   "operating_expenses": {
+    "cr": 261.5586,
+    "page": 87,
+    "quote": "Operating expenses 28 26,155.86 17,217.93"
+   },
+   "checks": "total income 486.5633 vs rev+OI 486.5633: ok; PBT -566.7328 vs TI-TE±exceptional -566.7328: ok; expense lines sum 1053.2961 vs total 1053.2961: ok; PAT -566.7328 vs PBT-tax -566.7328: ok",
+   "notes": "Other income includes forex fluctuation gain on borrowings 7,834.60 lakh (first accounted in 2022-23) and profit on sale of PPE 1,752.37."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "CMRL_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 270.9114,
+    "page": 106,
+    "quote": "Revenue from operations 26 36,948.79 27,091.14"
+   },
+   "fare_revenue": {
+    "cr": 198.0522,
+    "page": 183,
+    "quote": "Fare Box 26,518.40 19,805.22"
+   },
+   "non_fare_revenue": {
+    "cr": 72.8592,
+    "page": 183,
+    "quote": "derived: revenue from operations 270.9114 cr minus 'Fare Box 26,518.40 19,805.22' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 214.3014,
+    "page": 106,
+    "quote": "Other income 27 1,18,881.76 21,430.14"
+   },
+   "total_income": {
+    "cr": 485.2128,
+    "page": 106,
+    "quote": "I. Total Income 1,55,830.55 48,521.28"
+   },
+   "employee_cost": {
+    "cr": 44.7296,
+    "page": 106,
+    "quote": "Employee benefits expense 29 4,501.16 4,472.96"
+   },
+   "finance_cost": {
+    "cr": 178.8337,
+    "page": 106,
+    "quote": "Finance costs 30 15,491.37 17,883.37"
+   },
+   "depreciation": {
+    "cr": 524.9185,
+    "page": 106,
+    "quote": "Depreciation & Amortization Expense 54,718.38 52,491.85"
+   },
+   "other_expenses": {
+    "cr": 43.2557,
+    "page": 106,
+    "quote": "Other expenses 31 5,019.71 4,325.57"
+   },
+   "total_expenses": {
+    "cr": 1051.9456,
+    "page": 106,
+    "quote": "II. Total expenses 1,13,070.50 1,05,194.56"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -566.7328,
+    "page": 106,
+    "quote": "III. Profit(Loss) before tax (I - II) 42,760.05 (56,673.28)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 106,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": -566.7328,
+    "page": 106,
+    "quote": "V. Profit(Loss) for the Year (III - IV) 42,760.05 (56,673.28)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 260.2081,
+    "page": 106,
+    "quote": "Operating expenses 28 33,339.88 26,020.81"
+   },
+   "checks": "total income 485.2128 vs rev+OI 485.2128: ok; PBT -566.7328 vs TI-TE±exceptional -566.7328: ok; expense lines sum 1051.9456 vs total 1051.9456: ok; PAT -566.7328 vs PBT-tax -566.7328: ok",
+   "notes": "2023-24 report restates 2022-23 revenue from operations 27,091.14 (was 27,226.19) and operating expenses 26,020.81 (was 26,155.86): Lease/Other income now net of 135.06 lakh revenue-sharing expenditure with AAI (Note 26.1); loss unchanged."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "CMRL_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 369.4879,
+    "page": 106,
+    "quote": "Revenue from operations 26 36,948.79 27,091.14"
+   },
+   "fare_revenue": {
+    "cr": 265.184,
+    "page": 183,
+    "quote": "Fare Box 26,518.40 19,805.22"
+   },
+   "non_fare_revenue": {
+    "cr": 104.3039,
+    "page": 183,
+    "quote": "derived: revenue from operations 369.4879 cr minus 'Fare Box 26,518.40 19,805.22' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 1188.8176,
+    "page": 106,
+    "quote": "Other income 27 1,18,881.76 21,430.14"
+   },
+   "total_income": {
+    "cr": 1558.3055,
+    "page": 106,
+    "quote": "I. Total Income 1,55,830.55 48,521.28"
+   },
+   "employee_cost": {
+    "cr": 45.0116,
+    "page": 106,
+    "quote": "Employee benefits expense 29 4,501.16 4,472.96"
+   },
+   "finance_cost": {
+    "cr": 154.9137,
+    "page": 106,
+    "quote": "Finance costs 30 15,491.37 17,883.37"
+   },
+   "depreciation": {
+    "cr": 547.1838,
+    "page": 106,
+    "quote": "Depreciation & Amortization Expense 54,718.38 52,491.85"
+   },
+   "other_expenses": {
+    "cr": 50.1971,
+    "page": 106,
+    "quote": "Other expenses 31 5,019.71 4,325.57"
+   },
+   "total_expenses": {
+    "cr": 1130.705,
+    "page": 106,
+    "quote": "II. Total expenses 1,13,070.50 1,05,194.56"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 427.6005,
+    "page": 106,
+    "quote": "III. Profit(Loss) before tax (I - II) 42,760.05 (56,673.28)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 106,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 20 - -"
+   },
+   "profit_after_tax": {
+    "cr": 427.6005,
+    "page": 106,
+    "quote": "V. Profit(Loss) for the Year (III - IV) 42,760.05 (56,673.28)"
+   },
+   "annual_ridership_lakh": {
+    "value": 971,
+    "page": 9,
+    "quote": "The total ridership during the financial year 2023-24 has improved to 9.71 crores",
+    "note": "9.71 crore = 971 lakh"
+   },
+   "avg_daily_ridership": {
+    "value": 265000,
+    "page": 9,
+    "quote": "from 2.65 lakhs passengers per day during the previous year 2023-24",
+    "file": "CMRL_2024-25_Annual_Report.pdf",
+    "note": "stated as 2.65 lakh; the 2023-24 report p9 says the same"
+   },
+   "route_km": {
+    "value": 54.6,
+    "page": 35,
+    "quote": "Operational Network length ... 54.6 Km (March 2024)"
+   },
+   "operating_expenses": {
+    "cr": 333.3988,
+    "page": 106,
+    "quote": "Operating expenses 28 33,339.88 26,020.81"
+   },
+   "checks": "total income 1558.3055 vs rev+OI 1558.3055: ok; PBT 427.6005 vs TI-TE±exceptional 427.6005: ok; expense lines sum 1130.7050 vs total 1130.7050: ok; PAT 427.6005 vs PBT-tax 427.6005: ok",
+   "notes": "Profit driven by other income 1,18,881.76 lakh which includes Foreign Exchange Fluctuation (Net) on Borrowings 1,08,153.68 lakh (Note 27, p184). Lease/Other income net of 135.06 lakh AAI revenue share."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "CMRL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 369.4879,
+    "page": 121,
+    "quote": "Revenue from operations 27 42,564.48 36,948.79"
+   },
+   "fare_revenue": {
+    "cr": 265.184,
+    "page": 159,
+    "quote": "Fare Box 29,025.10 26,518.40"
+   },
+   "non_fare_revenue": {
+    "cr": 104.3039,
+    "page": 159,
+    "quote": "derived: revenue from operations 369.4879 cr minus 'Fare Box 29,025.10 26,518.40' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 1188.8176,
+    "page": 121,
+    "quote": "Other income 28 19,815.28 1,18,881.76"
+   },
+   "total_income": {
+    "cr": 1558.3055,
+    "page": 121,
+    "quote": "I. Total Income 62,379.76 1,55,830.55"
+   },
+   "employee_cost": {
+    "cr": 45.0116,
+    "page": 121,
+    "quote": "Employee benefits expense 30 5,084.14 4,501.16"
+   },
+   "finance_cost": {
+    "cr": 154.9137,
+    "page": 121,
+    "quote": "Finance costs 31 16,013.52 15,491.37"
+   },
+   "depreciation": {
+    "cr": 547.1838,
+    "page": 121,
+    "quote": "Depreciation & Amortization Expense 2, 4 & 33 55,252.47 54,718.38"
+   },
+   "other_expenses": {
+    "cr": 50.1971,
+    "page": 121,
+    "quote": "Other expenses 32 49,421.59 5,019.71"
+   },
+   "total_expenses": {
+    "cr": 1130.705,
+    "page": 121,
+    "quote": "II. Total expenses 1,62,657.55 1,13,070.50"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 427.6005,
+    "page": 121,
+    "quote": "III. Profit(Loss) before tax (I - II) (1,00,277.78) 42,760.05"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 121,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 21 - -"
+   },
+   "profit_after_tax": {
+    "cr": 427.6005,
+    "page": 121,
+    "quote": "V. Profit(Loss) for the Year (III - IV) (1,00,277.78) 42,760.05"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "operating_expenses": {
+    "cr": 333.3988,
+    "page": 121,
+    "quote": "Operating expenses 29 36,885.83 33,339.88"
+   },
+   "checks": "total income 1558.3055 vs rev+OI 1558.3055: ok; PBT 427.6005 vs TI-TE±exceptional 427.6005: ok; expense lines sum 1130.7050 vs total 1130.7050: ok; PAT 427.6005 vs PBT-tax 427.6005: ok",
+   "notes": ""
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "CMRL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 425.6448,
+    "page": 121,
+    "quote": "Revenue from operations 27 42,564.48 36,948.79"
+   },
+   "fare_revenue": {
+    "cr": 290.251,
+    "page": 159,
+    "quote": "Fare Box 29,025.10 26,518.40"
+   },
+   "non_fare_revenue": {
+    "cr": 135.3938,
+    "page": 159,
+    "quote": "derived: revenue from operations 425.6448 cr minus 'Fare Box 29,025.10 26,518.40' (remaining lines of the note: parking fees, feeder service, lease/other income)"
+   },
+   "other_income": {
+    "cr": 198.1528,
+    "page": 121,
+    "quote": "Other income 28 19,815.28 1,18,881.76"
+   },
+   "total_income": {
+    "cr": 623.7976,
+    "page": 121,
+    "quote": "I. Total Income 62,379.76 1,55,830.55"
+   },
+   "employee_cost": {
+    "cr": 50.8414,
+    "page": 121,
+    "quote": "Employee benefits expense 30 5,084.14 4,501.16"
+   },
+   "finance_cost": {
+    "cr": 160.1352,
+    "page": 121,
+    "quote": "Finance costs 31 16,013.52 15,491.37"
+   },
+   "depreciation": {
+    "cr": 552.5247,
+    "page": 121,
+    "quote": "Depreciation & Amortization Expense 2, 4 & 33 55,252.47 54,718.38"
+   },
+   "other_expenses": {
+    "cr": 494.2159,
+    "page": 121,
+    "quote": "Other expenses 32 49,421.59 5,019.71"
+   },
+   "total_expenses": {
+    "cr": 1626.5755,
+    "page": 121,
+    "quote": "II. Total expenses 1,62,657.55 1,13,070.50"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -1002.7778,
+    "page": 121,
+    "quote": "III. Profit(Loss) before tax (I - II) (1,00,277.78) 42,760.05"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 121,
+    "quote": "Current tax: (1) Current tax - - | (2) Deferred tax 21 - -"
+   },
+   "profit_after_tax": {
+    "cr": -1002.7778,
+    "page": 121,
+    "quote": "V. Profit(Loss) for the Year (III - IV) (1,00,277.78) 42,760.05"
+   },
+   "annual_ridership_lakh": {
+    "value": 1061,
+    "page": 9,
+    "quote": "The total ridership during the financial year 2024-25 has improved to 10.61 crores",
+    "note": "10.61 crore = 1061 lakh"
+   },
+   "avg_daily_ridership": {
+    "value": 290000,
+    "page": 9,
+    "quote": "The average ridership per day has increased to 2.90 lakhs passengers during 2024-25",
+    "note": "stated as 2.90 lakh; p33 table shows 2,90,789 for March 2025"
+   },
+   "route_km": {
+    "value": 54.6,
+    "page": 33,
+    "quote": "Operational Network length ... 54.6 Km (March 2025)"
+   },
+   "operating_expenses": {
+    "cr": 368.8583,
+    "page": 121,
+    "quote": "Operating expenses 29 36,885.83 33,339.88"
+   },
+   "checks": "total income 623.7976 vs rev+OI 623.7976: ok; PBT -1002.7778 vs TI-TE±exceptional -1002.7779: ok; expense lines sum 1626.5755 vs total 1626.5755: ok; PAT -1002.7778 vs PBT-tax -1002.7778: ok",
+   "notes": "Loss driven by other expenses 49,421.59 lakh which include Foreign Exchange Fluctuation (Net) on Borrowings 42,889.40 lakh (Note 32, p161). A consolidated P&L also exists at p201; standalone used."
+  }
+ ]
+}

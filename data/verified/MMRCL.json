@@ -1,0 +1,2724 @@
+{
+ "operator": "MMRCL",
+ "documents": [
+  {
+   "file": "MMRCL_2009-10_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 7,
+   "note": "Audited accounts FY2009-10 (Chandan Parmar & Co.); P&L Account p7 in Rs; previous column is period ended 31-03-2009"
+  },
+  {
+   "file": "MMRCL_2010-11_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": null,
+   "note": "FY2010-11 accounts but NO Profit and Loss Account page in the PDF; figures from Balance Sheet Abstract p9 (Rs thousands).; Directors' report p10-13"
+  },
+  {
+   "file": "MMRCL_2011-12_Financial_Statements.pdf",
+   "is_what_it_says": false,
+   "scanned": true,
+   "pl_page": null,
+   "note": "Only the 4-page auditors' report (and CARO annexure) for FY2011-12; no balance sheet or P&L. FY2011-12 figures taken from previous column of 2012-13 statements"
+  },
+  {
+   "file": "MMRCL_2012-13_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 7,
+   "note": "P&L p7 in Rs"
+  },
+  {
+   "file": "MMRCL_2013-14_Financial_Statements.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 10,
+   "note": "P&L p10 in Rs; other income note 18 p14"
+  },
+  {
+   "file": "MMRCL_2014-15_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 87,
+   "note": "Statement of P&L p87 in Rs"
+  },
+  {
+   "file": "MMRCL_2015-16_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 119,
+   "note": "Statement of P&L p119 in Rs (OCR)"
+  },
+  {
+   "file": "MMRCL_2016-17_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 78,
+   "note": "Statement of P&L p78 in ₹ lakh (IGAAP)"
+  },
+  {
+   "file": "MMRCL_2017-18_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 66,
+   "note": "Ind AS; P&L p66 in ₹ lakh"
+  },
+  {
+   "file": "MMRCL_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 78,
+   "note": "Text layer garbled (font encoding), page read from image; P&L p78 in ₹ lakh"
+  },
+  {
+   "file": "MMRCL_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 79,
+   "note": "Text layer garbled (font encoding), page read from image; P&L p79 in ₹ lakh"
+  },
+  {
+   "file": "MMRCL_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 88,
+   "note": "P&L p88 in ₹ lakh"
+  },
+  {
+   "file": "MMRCL_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 97,
+   "note": "P&L p97 in ₹ lakh; CAG comments p74"
+  },
+  {
+   "file": "MMRCL_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 98,
+   "note": "P&L p98 in ₹ lakh"
+  },
+  {
+   "file": "MMRCL_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 100,
+   "note": "P&L p100 in ₹ lakh"
+  },
+  {
+   "file": "MMRCL_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 89,
+   "note": "P&L p89 (image-based table) in ₹ lakh; revenue note 19 p132; restatement note 36 p157-158"
+  }
+ ],
+ "years": [
+  {
+   "fy": "2008-09",
+   "source_file": "MMRCL_2009-10_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "INCOME - (period ended 31-03-2009)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "TOTAL (i) -"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": 0.001404,
+    "page": 7,
+    "quote": "Audit Fees 14,045"
+   },
+   "total_expenses": {
+    "cr": 0.001404,
+    "page": 7,
+    "quote": "TOTAL (ii) 14,045"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.001404,
+    "page": 7,
+    "quote": "LOSS BEFORE TAX (i) - (ii) (14,045)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Current Tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.001404,
+    "page": 7,
+    "quote": "LOSS AFTER TAX (14,045)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "PBT = 0 - 14,045 ok",
+   "notes": "'PERIOD ENDED 31-03-2009': first (part) period after incorporation in April 2008. No report of its own in the folder."
+  },
+  {
+   "fy": "2009-10",
+   "source_file": "MMRCL_2009-10_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "INCOME - / TOTAL (i) -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "TOTAL (i) -"
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": 0.001385,
+    "page": 7,
+    "quote": "Audit Fees 13,788; Bank Charges 60"
+   },
+   "total_expenses": {
+    "cr": 0.001385,
+    "page": 7,
+    "quote": "TOTAL (ii) 13,848"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.001385,
+    "page": 7,
+    "quote": "LOSS BEFORE TAX (i) - (ii) (13,848)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Current Tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.001385,
+    "page": 7,
+    "quote": "LOSS AFTER TAX (13,848)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income nil; PBT = 0 - 13,848 ok",
+   "notes": "Pre-operational: no income. Expenses are audit fees 13,788 + bank charges 60 (recorded as other_expenses). Profit & Loss Account (old format, 'INCOME' / 'EXPENDITURE')."
+  },
+  {
+   "fy": "2010-11",
+   "source_file": "MMRCL_2010-11_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ thousands",
+   "revenue_from_operations": {
+    "cr": 0.01,
+    "page": 9,
+    "quote": "Turnover : 100 (Performance of Company (Amount in Rs. Thousands))"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": 0.0147,
+    "page": 9,
+    "quote": "Total Expenditure : 147"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -0.0047,
+    "page": 9,
+    "quote": "Profit Before Tax : (47)"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": -0.0047,
+    "page": 9,
+    "quote": "Profit After Tax : (47)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "Turnover 100 - Total Expenditure 147 = (47) ok; P&L balance in balance sheet (p6) rose from 27,893 to 74,786 Rs, i.e. a loss of 46,893 Rs, consistent with (47) thousand",
+   "notes": "The PDF contains no Profit and Loss Account page (it has notice, auditors' report, balance sheet p6, schedules, groupings, the Balance Sheet Abstract p9 and the Directors' Report). Figures are from the Balance Sheet Abstract 'Performance of Company' in Rs thousands, rounded. 'Turnover' is the abstract's label; the nature of that income (operations vs other) is not stated, recorded as revenue_from_operations per the MGT-7 convention. Most project spending is carried as 'Preoperative expenses pending allocation' (63,164,594 Rs) on the balance sheet."
+  },
+  {
+   "fy": "2011-12",
+   "source_file": "MMRCL_2012-13_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Other Income -"
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "III. Total Revenue (I +II) -"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Employee Benefit Expense (blank)"
+   },
+   "finance_cost": {
+    "cr": 1.2e-05,
+    "page": 7,
+    "quote": "Financial Costs 120"
+   },
+   "depreciation": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Depreciation and Amortization Expense (blank)"
+   },
+   "other_expenses": {
+    "cr": 0.180171,
+    "page": 7,
+    "quote": "Other Administrative Expenses 1,801,713"
+   },
+   "total_expenses": {
+    "cr": 0.180183,
+    "page": 7,
+    "quote": "Total Expenses (IV) 1,801,833"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -0.180183,
+    "page": 7,
+    "quote": "Profit before tax (VII - VIII) (1,801,833.00)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "(1) Current tax - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.180183,
+    "page": 7,
+    "quote": "Profit/(Loss) for the period (XI + XIV) (1,801,833.00)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "expenses 120 + 1,801,713 = 1,801,833 ok; PBT ok",
+   "notes": "From previous-year column of the 2012-13 statements; the 2011-12 PDF holds only the auditors' report (4 pages), no accounts."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "MMRCL_2012-13_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Other Income -"
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "III. Total Revenue (I +II) -"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Employee Benefit Expense (blank)"
+   },
+   "finance_cost": {
+    "cr": 2e-06,
+    "page": 7,
+    "quote": "Financial Costs 16"
+   },
+   "depreciation": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Depreciation and Amortization Expense (blank)"
+   },
+   "other_expenses": {
+    "cr": 0.110754,
+    "page": 7,
+    "quote": "Other Administrative Expenses 1,107,538"
+   },
+   "total_expenses": {
+    "cr": 0.110755,
+    "page": 7,
+    "quote": "Total Expenses (IV) 1,107,554"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -0.110755,
+    "page": 7,
+    "quote": "Profit before tax (VII - VIII) (1,107,554.00)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 7,
+    "quote": "(1) Current tax - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.110755,
+    "page": 7,
+    "quote": "Profit/(Loss) for the period (XI + XIV) (1,107,554.00)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income nil; expenses 16 + 1,107,538 = 1,107,554 ok; PBT = 0 - 1,107,554 ok",
+   "notes": "Pre-operational. Revised Schedule VI format."
+  },
+  {
+   "fy": "2012-13",
+   "source_file": "MMRCL_2013-14_Financial_Statements.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Other Income -"
+   },
+   "total_income": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "III. Total Revenue (I +II) -"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Employee Benefit Expense (blank)"
+   },
+   "finance_cost": {
+    "cr": 2e-06,
+    "page": 10,
+    "quote": "Financial Costs 16"
+   },
+   "depreciation": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Depreciation and Amortization Expense (blank)"
+   },
+   "other_expenses": {
+    "cr": 0.110754,
+    "page": 10,
+    "quote": "Other Administrative Expenses 1,107,538"
+   },
+   "total_expenses": {
+    "cr": 0.110755,
+    "page": 10,
+    "quote": "Total Expenses (IV) 1,107,554"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -0.110755,
+    "page": 10,
+    "quote": "Profit before tax (VII - VIII) (1,107,554.00)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "(1) Current tax - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.110755,
+    "page": 10,
+    "quote": "Profit/(Loss) for the period (XI + XIV) (1,107,554.00)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "same as 2012-13 report; ok",
+   "notes": "Previous-year column of 2013-14 statements, identical to the 2012-13 report."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "MMRCL_2013-14_Financial_Statements.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.0065,
+    "page": 10,
+    "quote": "Other Income 65,000.00"
+   },
+   "total_income": {
+    "cr": 0.0065,
+    "page": 10,
+    "quote": "III. Total Revenue (I +II) 65,000.00"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Employee Benefit Expense (blank)"
+   },
+   "finance_cost": {
+    "cr": 1.9e-05,
+    "page": 10,
+    "quote": "Financial Costs 186.00"
+   },
+   "depreciation": {
+    "cr": 0.003455,
+    "page": 10,
+    "quote": "Depreciation and Amortization Expense 34,551.00"
+   },
+   "other_expenses": {
+    "cr": 0.439211,
+    "page": 10,
+    "quote": "Other Administrative Expenses 4,392,108"
+   },
+   "total_expenses": {
+    "cr": 0.442684,
+    "page": 10,
+    "quote": "Total Expenses (IV) 4,426,845"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "Exceptional Items -"
+   },
+   "profit_before_tax": {
+    "cr": -0.436184,
+    "page": 10,
+    "quote": "Profit before tax (VII - VIII) (4,361,845.00)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 10,
+    "quote": "(1) Current tax - (2) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -0.436184,
+    "page": 10,
+    "quote": "Profit/(Loss) for the period (XI + XIV) (4,361,845.00)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 0 + 65,000 ok; expenses 186 + 34,551 + 4,392,108 = 4,426,845 ok; PBT = 65,000 - 4,426,845 = (4,361,845) ok",
+   "notes": "Other income note 18 (p14): 'Other Income 65,000.00' (no interest/rent). Restated in the 2014-15 report (other income 81,545; other expenses 4,408,839; same loss)."
+  },
+  {
+   "fy": "2013-14",
+   "source_file": "MMRCL_2014-15_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.008155,
+    "page": 87,
+    "quote": "Other Incomes 81,545"
+   },
+   "total_income": {
+    "cr": 0.008155,
+    "page": 87,
+    "quote": "Total revenue (1+2) 81,545"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "(a) Employee Benefits Expense -"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.003455,
+    "page": 87,
+    "quote": "(b) Depreciation and Amortisation Expense 34,551"
+   },
+   "other_expenses": {
+    "cr": 0.440884,
+    "page": 87,
+    "quote": "(c) Other expenses 4,408,839"
+   },
+   "total_expenses": {
+    "cr": 0.444339,
+    "page": 87,
+    "quote": "Total expenses 4,443,390"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Exceptional items -"
+   },
+   "profit_before_tax": {
+    "cr": -0.436184,
+    "page": 87,
+    "quote": "Profit / (Loss) before tax (4,361,845)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Tax Expense -"
+   },
+   "profit_after_tax": {
+    "cr": -0.436184,
+    "page": 87,
+    "quote": "Profit / (Loss) for the year (4,361,845)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "81,545 - 4,443,390 = (4,361,845) ok",
+   "notes": "RESTATED/regrouped vs 2013-14 statements: other income 81,545 (was 65,000), other expenses 4,408,839 (was 4,392,108 + finance cost 186), total expenses 4,443,390 (was 4,426,845); loss unchanged."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "MMRCL_2014-15_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.523234,
+    "page": 87,
+    "quote": "Other Incomes 13 5,232,336"
+   },
+   "total_income": {
+    "cr": 0.523234,
+    "page": 87,
+    "quote": "Total revenue (1+2) 5,232,336"
+   },
+   "employee_cost": {
+    "cr": 0.41405,
+    "page": 87,
+    "quote": "(a) Employee Benefits Expense 14 4,140,497"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.090218,
+    "page": 87,
+    "quote": "(b) Depreciation and Amortisation Expense 902,176"
+   },
+   "other_expenses": {
+    "cr": 1.663479,
+    "page": 87,
+    "quote": "(c) Other expenses 15 16,634,786"
+   },
+   "total_expenses": {
+    "cr": 2.167746,
+    "page": 87,
+    "quote": "Total expenses 21,677,459"
+   },
+   "exceptional_items": {
+    "cr": -3.029546,
+    "page": 87,
+    "quote": "Exceptional items 16 (30,295,460)"
+   },
+   "profit_before_tax": {
+    "cr": -4.674058,
+    "page": 87,
+    "quote": "Profit / (Loss) before tax (5 ± 6) (46,740,583)"
+   },
+   "tax": {
+    "cr": 0.0,
+    "page": 87,
+    "quote": "(a) Current tax expense - (c) Deferred tax -"
+   },
+   "profit_after_tax": {
+    "cr": -4.674058,
+    "page": 87,
+    "quote": "Profit / (Loss) for the year (6 ± 7) (46,740,583)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 0 + 5,232,336 ok; expenses 4,140,497 + 902,176 + 16,634,786 = 21,677,459 ok; PBT = 5,232,336 - 21,677,459 - 30,295,460 = (46,740,583) ok",
+   "notes": "Scanned; read from rendered image. No finance cost line. Exceptional item is a charge (sign as printed). Same figures appear as previous-year column of the 2015-16 report (p119)."
+  },
+  {
+   "fy": "2014-15",
+   "source_file": "MMRCL_2015-16_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 0.523234,
+    "page": 119,
+    "quote": "Other Incomes 5,232,336"
+   },
+   "total_income": {
+    "cr": 0.523234,
+    "page": 119,
+    "quote": "Total revenue 5,232,336"
+   },
+   "employee_cost": {
+    "cr": 0.41405,
+    "page": 119,
+    "quote": "Employee Benefits Expense 4,140,497"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.090218,
+    "page": 119,
+    "quote": "Depreciation and Amortisation Expense 902,176"
+   },
+   "other_expenses": {
+    "cr": 1.663479,
+    "page": 119,
+    "quote": "Other Expenses 16,634,786"
+   },
+   "total_expenses": {
+    "cr": 2.167746,
+    "page": 119,
+    "quote": "Total Expenses 21,677,459"
+   },
+   "exceptional_items": {
+    "cr": -3.029546,
+    "page": 119,
+    "quote": "Exceptional Items (30,295,460)"
+   },
+   "profit_before_tax": {
+    "cr": -4.674058,
+    "page": 119,
+    "quote": "Profit / (Loss) before Tax (4,67,40,583)"
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": -4.674058,
+    "page": 119,
+    "quote": "Profit / (Loss) for the year (4,67,40,583)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "same as 2014-15 report; ok",
+   "notes": "Previous-year column of 2015-16 report (OCR), identical to the 2014-15 report."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "MMRCL_2015-16_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 119,
+    "quote": "Revenue from Operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 6.446977,
+    "page": 119,
+    "quote": "Other Incomes 14 64,469,768"
+   },
+   "total_income": {
+    "cr": 6.446977,
+    "page": 119,
+    "quote": "Total revenue (1+2) 64,469,768"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 119,
+    "quote": "(a) Employee Benefits Expense 15 -"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.471888,
+    "page": 119,
+    "quote": "(b) Depreciation and Amortisation Expense 16 4,718,881"
+   },
+   "other_expenses": {
+    "cr": 2.647864,
+    "page": 119,
+    "quote": "(c) Other Expenses 17 26,478,639"
+   },
+   "total_expenses": {
+    "cr": 3.119752,
+    "page": 119,
+    "quote": "Total Expenses 31,197,520"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 119,
+    "quote": "Exceptional Items 18 (blank)"
+   },
+   "profit_before_tax": {
+    "cr": 3.327225,
+    "page": 119,
+    "quote": "Profit / (Loss) before Tax (5 +6) 33,272,248"
+   },
+   "tax": {
+    "cr": 1.13988,
+    "page": 119,
+    "quote": "(a) Tax for Current Year 11,398,797"
+   },
+   "profit_after_tax": {
+    "cr": 2.187345,
+    "page": 119,
+    "quote": "Profit / (Loss) for the year (7 + 8) 21,873,451"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "64,469,768 - 31,197,520 = 33,272,248 ok; PAT = 33,272,248 - 11,398,797 = 21,873,451 ok",
+   "notes": "Scanned; OCR (tesseract). Cross-checked against previous-year column of the 2016-17 report (₹ lakh 644.70 / 311.98 / 332.72 / 113.99 / 218.73), consistent. Profit arises from interest income on deposits before CWIP netting policy change in 2016-17."
+  },
+  {
+   "fy": "2015-16",
+   "source_file": "MMRCL_2016-17_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 78,
+    "quote": "Revenue from Operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 6.447,
+    "page": 78,
+    "quote": "Other Incomes 644.70"
+   },
+   "total_income": {
+    "cr": 6.447,
+    "page": 78,
+    "quote": "Total revenue (1+2) 644.70"
+   },
+   "employee_cost": {
+    "cr": 0.0,
+    "page": 78,
+    "quote": "(a) Employee benefit expenses -"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 0.4719,
+    "page": 78,
+    "quote": "(b) Depreciation and Amortisation Expense 47.19"
+   },
+   "other_expenses": {
+    "cr": 2.6479,
+    "page": 78,
+    "quote": "(c) Other Expenses 264.79"
+   },
+   "total_expenses": {
+    "cr": 3.1198,
+    "page": 78,
+    "quote": "Total Expenses 311.98"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 3.3272,
+    "page": 78,
+    "quote": "Profit / (Loss) before Tax (5 +6) 332.72"
+   },
+   "tax": {
+    "cr": 1.1399,
+    "page": 78,
+    "quote": "(a) Tax for Current Year 113.99"
+   },
+   "profit_after_tax": {
+    "cr": 2.1873,
+    "page": 78,
+    "quote": "Profit / (Loss) for the year (7 + 8) 218.73"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "644.70 - 311.98 = 332.72 ok; 332.72 - 113.99 = 218.73 ok",
+   "notes": "Previous-year column; agrees with the 2015-16 report."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "MMRCL_2016-17_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 78,
+    "quote": "Revenue from Operations 0"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 14.4086,
+    "page": 78,
+    "quote": "Other Incomes 14 1,440.86"
+   },
+   "total_income": {
+    "cr": 14.4086,
+    "page": 78,
+    "quote": "Total revenue (1+2) 1,440.86"
+   },
+   "employee_cost": {
+    "cr": 4.7916,
+    "page": 78,
+    "quote": "(a) Employee benefit expenses 15 479.16"
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": 1.2093,
+    "page": 78,
+    "quote": "(b) Depreciation and Amortisation Expense 16 120.93"
+   },
+   "other_expenses": {
+    "cr": 3.5803,
+    "page": 78,
+    "quote": "(c) Other Expenses 17 358.03"
+   },
+   "total_expenses": {
+    "cr": 9.5812,
+    "page": 78,
+    "quote": "Total Expenses 958.12"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 78,
+    "quote": "Exceptional Items 0"
+   },
+   "profit_before_tax": {
+    "cr": 4.8274,
+    "page": 78,
+    "quote": "Profit / (Loss) before Tax (5 +6) 482.74"
+   },
+   "tax": {
+    "cr": 5.2923,
+    "page": 78,
+    "quote": "(a) Tax for Current Year 523.96 (b) Deferred Tax 5.27"
+   },
+   "profit_after_tax": {
+    "cr": -0.4649,
+    "page": 78,
+    "quote": "Profit / (Loss) for the year (7 + 8) (46.49)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "1,440.86 - 958.12 = 482.74 ok; PAT = 482.74 - 523.96 - 5.27 = (46.49) ok",
+   "notes": "Scanned; read from rendered image. Indian GAAP. tax = 523.96 current + 5.27 deferred (sum computed). RESTATED under Ind AS in 2017-18 report (see previous-column entry)."
+  },
+  {
+   "fy": "2016-17",
+   "source_file": "MMRCL_2017-18_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 16.912,
+    "page": 66,
+    "quote": "Other income 15 2,216.98 1,691.20"
+   },
+   "total_income": {
+    "cr": 16.912,
+    "page": 66,
+    "quote": "Total income 2,216.98 1,691.20"
+   },
+   "employee_cost": {
+    "cr": 4.7555,
+    "page": 66,
+    "quote": "Employee benefit expenses 16 1,172.11 475.55"
+   },
+   "finance_cost": {
+    "cr": 0.6469,
+    "page": 66,
+    "quote": "Finance costs 17 193.30 64.69"
+   },
+   "depreciation": {
+    "cr": 1.2093,
+    "page": 66,
+    "quote": "Depreciation and amortisation expense 94.22 120.93"
+   },
+   "other_expenses": {
+    "cr": 4.0451,
+    "page": 66,
+    "quote": "Other expenses 18 1,026.87 404.51"
+   },
+   "total_expenses": {
+    "cr": 10.6568,
+    "page": 66,
+    "quote": "Total expenses 2,486.50 1,065.68"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "Exceptional items - -"
+   },
+   "profit_before_tax": {
+    "cr": 6.2552,
+    "page": 66,
+    "quote": "Profit / (loss) before tax for the year (269.52) 625.52"
+   },
+   "tax": {
+    "cr": 64.6762,
+    "page": 66,
+    "quote": "Total tax expense 3,011.53 6,467.62"
+   },
+   "profit_after_tax": {
+    "cr": -58.421,
+    "page": 66,
+    "quote": "Profit / (loss) for the year (3,281.05) (5,842.10)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "1,691.20 - 1,065.68 = 625.52 ok; 625.52 - 6,467.62 = (5,842.10) ok",
+   "notes": "RESTATED under Ind AS vs the 2016-17 (IGAAP) report: other income 1,691.20 (was 1,440.86), PBT 625.52 (was 482.74), PAT (5,842.10) (was (46.49)), mainly a deferred tax charge of 5,943.66."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "MMRCL_2017-18_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "Revenue from operations 14 - -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 22.1698,
+    "page": 66,
+    "quote": "Other income 15 2,216.98 1,691.20"
+   },
+   "total_income": {
+    "cr": 22.1698,
+    "page": 66,
+    "quote": "Total income 2,216.98 1,691.20"
+   },
+   "employee_cost": {
+    "cr": 11.7211,
+    "page": 66,
+    "quote": "Employee benefit expenses 16 1,172.11 475.55"
+   },
+   "finance_cost": {
+    "cr": 1.933,
+    "page": 66,
+    "quote": "Finance costs 17 193.30 64.69"
+   },
+   "depreciation": {
+    "cr": 0.9422,
+    "page": 66,
+    "quote": "Depreciation and amortisation expense 2|4 94.22 120.93"
+   },
+   "other_expenses": {
+    "cr": 10.2687,
+    "page": 66,
+    "quote": "Other expenses 18 1,026.87 404.51"
+   },
+   "total_expenses": {
+    "cr": 24.865,
+    "page": 66,
+    "quote": "Total expenses 2,486.50 1,065.68"
+   },
+   "exceptional_items": {
+    "cr": 0.0,
+    "page": 66,
+    "quote": "Exceptional items - -"
+   },
+   "profit_before_tax": {
+    "cr": -2.6952,
+    "page": 66,
+    "quote": "Profit / (loss) before tax for the year (269.52) 625.52"
+   },
+   "tax": {
+    "cr": 30.1153,
+    "page": 66,
+    "quote": "Total tax expense 3,011.53 6,467.62"
+   },
+   "profit_after_tax": {
+    "cr": -32.8105,
+    "page": 66,
+    "quote": "Profit / (loss) for the year (3,281.05) (5,842.10)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "2,216.98 - 2,486.50 = (269.52) ok; PAT = (269.52) - 3,011.53 = (3,281.05) ok",
+   "notes": "First Ind AS financial statements (transition 1 Apr 2016). RESTATED in the 2018-19 report (PAT (1,243.19))."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "MMRCL_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 78,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 22.1705,
+    "page": 78,
+    "quote": "Other income 2,217.05"
+   },
+   "total_income": {
+    "cr": 22.1705,
+    "page": 78,
+    "quote": "Total income 2,217.05"
+   },
+   "employee_cost": {
+    "cr": 10.4078,
+    "page": 78,
+    "quote": "Employee benefit expense 1,040.78"
+   },
+   "finance_cost": {
+    "cr": 1.933,
+    "page": 78,
+    "quote": "Finance costs 193.30"
+   },
+   "depreciation": {
+    "cr": 0.9421,
+    "page": 78,
+    "quote": "Depreciation and amortisation expense 94.21"
+   },
+   "other_expenses": {
+    "cr": 11.7227,
+    "page": 78,
+    "quote": "Other expenses 1,172.27"
+   },
+   "total_expenses": {
+    "cr": 25.0056,
+    "page": 78,
+    "quote": "Total expenses 2,500.56"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -2.8351,
+    "page": 78,
+    "quote": "Profit / (loss) before tax for the year (283.51)"
+   },
+   "tax": {
+    "cr": 9.5968,
+    "page": 78,
+    "quote": "Total tax expense 959.68"
+   },
+   "profit_after_tax": {
+    "cr": -12.4319,
+    "page": 78,
+    "quote": "Profit / (loss) for the year (1,243.19)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "2,217.05 - 2,500.56 = (283.51) ok; (283.51) - 959.68 = (1,243.19) ok",
+   "notes": "RESTATED ('Restated*', notes 29 and 30) vs 2017-18 report: PBT (283.51) (was (269.52)); deferred tax (56.27) (was 1,995.58); PAT (1,243.19) (was (3,281.05))."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "MMRCL_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 78,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 35.6801,
+    "page": 78,
+    "quote": "Other income 14 3,568.01"
+   },
+   "total_income": {
+    "cr": 35.6801,
+    "page": 78,
+    "quote": "Total income 3,568.01"
+   },
+   "employee_cost": {
+    "cr": 9.7641,
+    "page": 78,
+    "quote": "Employee benefit expense 15 976.41"
+   },
+   "finance_cost": {
+    "cr": 4.3215,
+    "page": 78,
+    "quote": "Finance costs 16 432.15"
+   },
+   "depreciation": {
+    "cr": 4.1073,
+    "page": 78,
+    "quote": "Depreciation and amortisation expense 2 410.73"
+   },
+   "other_expenses": {
+    "cr": 13.7377,
+    "page": 78,
+    "quote": "Other expenses 17 1,373.77"
+   },
+   "total_expenses": {
+    "cr": 31.9306,
+    "page": 78,
+    "quote": "Total expenses 3,193.06"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": 3.7495,
+    "page": 78,
+    "quote": "Profit / (loss) before tax for the year 374.95"
+   },
+   "tax": {
+    "cr": -0.3172,
+    "page": 78,
+    "quote": "Total tax expense (31.72)"
+   },
+   "profit_after_tax": {
+    "cr": 4.0667,
+    "page": 78,
+    "quote": "Profit / (loss) for the year 406.67"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "3,568.01 - 3,193.06 = 374.95 ok; 374.95 + 31.72 = 406.67 ok",
+   "notes": "Text layer of this PDF is garbled (font encoding); read from rendered page image. RESTATED in the 2019-20 report (PBT (1,093.44))."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "MMRCL_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 79,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 16.8819,
+    "page": 79,
+    "quote": "Other income 1,688.19"
+   },
+   "total_income": {
+    "cr": 16.8819,
+    "page": 79,
+    "quote": "Total income 1,688.19"
+   },
+   "employee_cost": {
+    "cr": 9.7641,
+    "page": 79,
+    "quote": "Employee benefits expense 976.41"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 79,
+    "quote": "Finance costs -"
+   },
+   "depreciation": {
+    "cr": 4.1073,
+    "page": 79,
+    "quote": "Depreciation and amortisation expense 410.73"
+   },
+   "other_expenses": {
+    "cr": 13.9449,
+    "page": 79,
+    "quote": "Other expenses 1,394.49"
+   },
+   "total_expenses": {
+    "cr": 27.8163,
+    "page": 79,
+    "quote": "Total expenses 2,781.63"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -10.9344,
+    "page": 79,
+    "quote": "(Loss) before tax for the year (1,093.44)"
+   },
+   "tax": {
+    "cr": -0.3172,
+    "page": 79,
+    "quote": "Total tax expense (31.72)"
+   },
+   "profit_after_tax": {
+    "cr": -10.6172,
+    "page": 79,
+    "quote": "(Loss) for the year (1,061.72)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "1,688.19 - 2,781.63 = (1,093.44) ok; (1,093.44) + 31.72 = (1,061.72) ok",
+   "notes": "RESTATED (note 29) vs 2018-19 report: other income 1,688.19 (was 3,568.01), finance cost nil (was 432.15), PBT (1,093.44) (was profit 374.95), PAT (1,061.72) (was 406.67)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "MMRCL_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 79,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 8.0545,
+    "page": 79,
+    "quote": "Other income 15 805.45"
+   },
+   "total_income": {
+    "cr": 8.0545,
+    "page": 79,
+    "quote": "Total income 805.45"
+   },
+   "employee_cost": {
+    "cr": 11.5248,
+    "page": 79,
+    "quote": "Employee benefits expense 16 1,152.48"
+   },
+   "finance_cost": {
+    "cr": 0.1948,
+    "page": 79,
+    "quote": "Finance costs 17 19.48"
+   },
+   "depreciation": {
+    "cr": 7.7405,
+    "page": 79,
+    "quote": "Depreciation and amortisation expense 2 & 4 (f) 774.05"
+   },
+   "other_expenses": {
+    "cr": 16.8788,
+    "page": 79,
+    "quote": "Other expenses 18 1,687.88"
+   },
+   "total_expenses": {
+    "cr": 36.3389,
+    "page": 79,
+    "quote": "Total expenses 3,633.89"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -28.2844,
+    "page": 79,
+    "quote": "(Loss) before tax for the year (2,828.44)"
+   },
+   "tax": {
+    "cr": -8.0942,
+    "page": 79,
+    "quote": "Total tax expense (809.42)"
+   },
+   "profit_after_tax": {
+    "cr": -20.1902,
+    "page": 79,
+    "quote": "(Loss) for the year (2,019.02)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "805.45 - 3,633.89 = (2,828.44) ok; (2,828.44) + 809.42 = (2,019.02) ok",
+   "notes": "Text layer garbled; read from rendered page image. Slightly RESTATED in 2020-21 report (PBT (2,828.14))."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "MMRCL_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 88,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 8.0545,
+    "page": 88,
+    "quote": "Other income 805.45"
+   },
+   "total_income": {
+    "cr": 8.0545,
+    "page": 88,
+    "quote": "Total income 805.45"
+   },
+   "employee_cost": {
+    "cr": 11.5248,
+    "page": 88,
+    "quote": "Employee benefits expense 1,152.48"
+   },
+   "finance_cost": {
+    "cr": 0.1786,
+    "page": 88,
+    "quote": "Finance costs 17.86"
+   },
+   "depreciation": {
+    "cr": 7.7537,
+    "page": 88,
+    "quote": "Depreciation and Amortisation expense 775.37"
+   },
+   "other_expenses": {
+    "cr": 16.8788,
+    "page": 88,
+    "quote": "Other expenses 1,687.88"
+   },
+   "total_expenses": {
+    "cr": 36.3359,
+    "page": 88,
+    "quote": "Total expenses 3,633.59"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -28.2814,
+    "page": 88,
+    "quote": "(Loss) before tax for the year (2,828.14)"
+   },
+   "tax": {
+    "cr": -8.0942,
+    "page": 88,
+    "quote": "Total tax expense (809.42)"
+   },
+   "profit_after_tax": {
+    "cr": -20.1872,
+    "page": 88,
+    "quote": "(Loss) for the year (2,018.72)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "805.45 - 3,633.59 = (2,828.14) ok; PAT ok",
+   "notes": "RESTATED ('*Restated', note 29) vs 2019-20 report: finance cost 17.86 (was 19.48), depreciation 775.37 (was 774.05), PAT (2,018.72) (was (2,019.02))."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "MMRCL_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 88,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 10.8713,
+    "page": 88,
+    "quote": "Other income 15 1,087.13"
+   },
+   "total_income": {
+    "cr": 10.8713,
+    "page": 88,
+    "quote": "Total income 1,087.13"
+   },
+   "employee_cost": {
+    "cr": 10.5838,
+    "page": 88,
+    "quote": "Employee benefits expense 16 1,058.38"
+   },
+   "finance_cost": {
+    "cr": 0.5717,
+    "page": 88,
+    "quote": "Finance costs 17 57.17"
+   },
+   "depreciation": {
+    "cr": 9.9734,
+    "page": 88,
+    "quote": "Depreciation and Amortisation expense 2 & 4 (e) 997.34"
+   },
+   "other_expenses": {
+    "cr": 10.4226,
+    "page": 88,
+    "quote": "Other expenses 18 1,042.26"
+   },
+   "total_expenses": {
+    "cr": 31.5515,
+    "page": 88,
+    "quote": "Total expenses 3,155.15"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -20.6802,
+    "page": 88,
+    "quote": "(Loss) before tax for the year (2,068.02)"
+   },
+   "tax": {
+    "cr": 0.7146,
+    "page": 88,
+    "quote": "Total tax expense 71.46"
+   },
+   "profit_after_tax": {
+    "cr": -21.3948,
+    "page": 88,
+    "quote": "(Loss) for the year (2,139.48)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "1,087.13 - 3,155.15 = (2,068.02) ok; (2,068.02) - 71.46 = (2,139.48) ok",
+   "notes": ""
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "MMRCL_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 97,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 8.7877,
+    "page": 97,
+    "quote": "Other income 15 878.77"
+   },
+   "total_income": {
+    "cr": 8.7877,
+    "page": 97,
+    "quote": "Total income 878.77"
+   },
+   "employee_cost": {
+    "cr": 12.4927,
+    "page": 97,
+    "quote": "Employee benefits expense 16 1,249.27"
+   },
+   "finance_cost": {
+    "cr": 0.3275,
+    "page": 97,
+    "quote": "Finance costs 17 32.75"
+   },
+   "depreciation": {
+    "cr": 10.2073,
+    "page": 97,
+    "quote": "Depreciation and amortisation expense 2 & 4 (e) 1,020.73"
+   },
+   "other_expenses": {
+    "cr": 10.4583,
+    "page": 97,
+    "quote": "Other expenses 18 1,045.83"
+   },
+   "total_expenses": {
+    "cr": 33.4858,
+    "page": 97,
+    "quote": "Total expenses 3,348.58"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -24.6981,
+    "page": 97,
+    "quote": "(Loss) before tax for the year (2,469.81)"
+   },
+   "tax": {
+    "cr": -5.2049,
+    "page": 97,
+    "quote": "Total tax expense (520.49)"
+   },
+   "profit_after_tax": {
+    "cr": -19.4932,
+    "page": 97,
+    "quote": "(Loss) for the year (1,949.32)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "878.77 - 3,348.58 = (2,469.81) ok; (2,469.81) + 520.49 = (1,949.32) ok",
+   "notes": "Scanned; read from rendered image. CAG comment (p74) says the loss is overstated by 270 lakh (foreign exchange gain put in CWIP). RESTATED in 2022-23 report (other income 1,149.37, PBT (2,199.25))."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "MMRCL_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 11.4937,
+    "page": 98,
+    "quote": "Other income 15 385.60 1,149.37"
+   },
+   "total_income": {
+    "cr": 11.4937,
+    "page": 98,
+    "quote": "Total income 385.60 1,149.37"
+   },
+   "employee_cost": {
+    "cr": 12.4927,
+    "page": 98,
+    "quote": "Employee benefits expense 1,249.27"
+   },
+   "finance_cost": {
+    "cr": 0.3275,
+    "page": 98,
+    "quote": "Finance costs 32.75"
+   },
+   "depreciation": {
+    "cr": 10.2073,
+    "page": 98,
+    "quote": "Depreciation and amortisation expense 1,020.73"
+   },
+   "other_expenses": {
+    "cr": 10.4587,
+    "page": 98,
+    "quote": "Other expenses 1,045.87"
+   },
+   "total_expenses": {
+    "cr": 33.4862,
+    "page": 98,
+    "quote": "Total expenses 3,448.58 3,348.62"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -21.9925,
+    "page": 98,
+    "quote": "(Loss) before tax for the year (3,062.98) (2,199.25)"
+   },
+   "tax": {
+    "cr": -5.2049,
+    "page": 98,
+    "quote": "Total tax expense (520.49)"
+   },
+   "profit_after_tax": {
+    "cr": -16.7876,
+    "page": 98,
+    "quote": "(Loss) for the year (2,813.63) (1,678.76)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "1,149.37 - 3,348.62 = (2,199.25) ok; (2,199.25) + 520.49 = (1,678.76) ok",
+   "notes": "RESTATED vs 2021-22 report: other income 1,149.37 (was 878.77), other expenses 1,045.87 (was 1,045.83), PBT (2,199.25) (was (2,469.81)), PAT (1,678.76) (was (1,949.32)); follows the CAG comment on foreign exchange gain."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "MMRCL_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 98,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 3.856,
+    "page": 98,
+    "quote": "Other income 15 385.60"
+   },
+   "total_income": {
+    "cr": 3.856,
+    "page": 98,
+    "quote": "Total income 385.60"
+   },
+   "employee_cost": {
+    "cr": 11.4437,
+    "page": 98,
+    "quote": "Employee benefits expense 16 1,144.37"
+   },
+   "finance_cost": {
+    "cr": 0.2638,
+    "page": 98,
+    "quote": "Finance costs 17 26.38"
+   },
+   "depreciation": {
+    "cr": 9.7024,
+    "page": 98,
+    "quote": "Depreciation and amortisation expense 2 & 4 (e) 970.24"
+   },
+   "other_expenses": {
+    "cr": 13.0759,
+    "page": 98,
+    "quote": "Other expenses 18 1,307.59"
+   },
+   "total_expenses": {
+    "cr": 34.4858,
+    "page": 98,
+    "quote": "Total expenses 3,448.58"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -30.6298,
+    "page": 98,
+    "quote": "(Loss) before tax for the year (3,062.98)"
+   },
+   "tax": {
+    "cr": -2.4935,
+    "page": 98,
+    "quote": "Total tax expense (249.35)"
+   },
+   "profit_after_tax": {
+    "cr": -28.1363,
+    "page": 98,
+    "quote": "(Loss) for the year (2,813.63)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "385.60 - 3,448.58 = (3,062.98) ok; (3,062.98) + 249.35 = (2,813.63) ok",
+   "notes": ""
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "MMRCL_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 100,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 3.856,
+    "page": 100,
+    "quote": "Other income 385.60"
+   },
+   "total_income": {
+    "cr": 3.856,
+    "page": 100,
+    "quote": "Total income 385.60"
+   },
+   "employee_cost": {
+    "cr": 11.4437,
+    "page": 100,
+    "quote": "Employee benefits expense 1,144.37"
+   },
+   "finance_cost": {
+    "cr": 0.2638,
+    "page": 100,
+    "quote": "Finance costs 26.38"
+   },
+   "depreciation": {
+    "cr": 9.7024,
+    "page": 100,
+    "quote": "Depreciation and amortisation expense 970.24"
+   },
+   "other_expenses": {
+    "cr": 13.0759,
+    "page": 100,
+    "quote": "Other expenses 1,307.59"
+   },
+   "total_expenses": {
+    "cr": 34.4858,
+    "page": 100,
+    "quote": "Total expenses 3,448.58"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -30.6298,
+    "page": 100,
+    "quote": "(Loss) before tax for the year (3,062.98)"
+   },
+   "tax": {
+    "cr": -2.4935,
+    "page": 100,
+    "quote": "Total tax expense (249.35)"
+   },
+   "profit_after_tax": {
+    "cr": -28.1363,
+    "page": 100,
+    "quote": "(Loss) for the year (2,813.63)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Identical to the 2022-23 report."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MMRCL_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 100,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 1.6601,
+    "page": 100,
+    "quote": "Other income 15 166.01"
+   },
+   "total_income": {
+    "cr": 1.6601,
+    "page": 100,
+    "quote": "Total income 166.01"
+   },
+   "employee_cost": {
+    "cr": 12.908,
+    "page": 100,
+    "quote": "Employee benefits expense 16 1,290.80"
+   },
+   "finance_cost": {
+    "cr": 0.6143,
+    "page": 100,
+    "quote": "Finance costs 17 61.43"
+   },
+   "depreciation": {
+    "cr": 7.1787,
+    "page": 100,
+    "quote": "Depreciation and amortisation expense 2 & 4 (e) 717.87"
+   },
+   "other_expenses": {
+    "cr": 16.7214,
+    "page": 100,
+    "quote": "Other expenses 18 1,672.14"
+   },
+   "total_expenses": {
+    "cr": 37.4224,
+    "page": 100,
+    "quote": "Total expenses 3,742.24"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -35.7623,
+    "page": 100,
+    "quote": "(Loss) before tax for the year (3,576.23)"
+   },
+   "tax": {
+    "cr": -0.3644,
+    "page": 100,
+    "quote": "Total tax expense (36.44)"
+   },
+   "profit_after_tax": {
+    "cr": -35.3979,
+    "page": 100,
+    "quote": "(Loss) for the year (3,539.79)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "166.01 - 3,742.24 = (3,576.23) ok; (3,576.23) + 36.44 = (3,539.79) ok",
+   "notes": "RESTATED in the 2024-25 report (PBT (9,595.32))."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MMRCL_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 0.0,
+    "page": 89,
+    "quote": "Revenue from operations -"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": 3.9225,
+    "page": 89,
+    "quote": "Other income 20 14,808.99 392.25"
+   },
+   "total_income": {
+    "cr": 3.9225,
+    "page": 89,
+    "quote": "Total income 17,593.22 392.25"
+   },
+   "employee_cost": {
+    "cr": 14.0973,
+    "page": 89,
+    "quote": "Employee benefits expense 1,705.16 1,409.73"
+   },
+   "finance_cost": {
+    "cr": 27.3589,
+    "page": 89,
+    "quote": "Finance costs 918.43 2,735.89"
+   },
+   "depreciation": {
+    "cr": 7.1787,
+    "page": 89,
+    "quote": "Depreciation and amortisation expense 16,717.87 717.87"
+   },
+   "other_expenses": {
+    "cr": 51.2408,
+    "page": 89,
+    "quote": "Other expenses 6,772.21 5,124.08"
+   },
+   "total_expenses": {
+    "cr": 99.8757,
+    "page": 89,
+    "quote": "Total expenses 39,284.43 9,987.57"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -95.9532,
+    "page": 89,
+    "quote": "Profit/(Loss) before tax for the year (21,691.21) (9,595.32)"
+   },
+   "tax": {
+    "cr": -0.3892,
+    "page": 89,
+    "quote": "Total tax expense 13,968.77 (38.92)"
+   },
+   "profit_after_tax": {
+    "cr": -95.564,
+    "page": 89,
+    "quote": "Profit/(Loss) for the year (35,659.98) (9,556.40)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "392.25 - 9,987.57 = (9,595.32) ok; (9,595.32) + 38.92 = (9,556.40) ok",
+   "notes": "RESTATED ('*Restated, refer note-36') vs 2023-24 report: loss before tax (9,595.32) vs (3,576.23). Note 36 (p158): on commencement of operations CWIP was reviewed per a CAG observation and Rs 6,034.52 lakh for FY 2023-24 was moved from CWIP to the statement of profit and loss (plus Rs 8,416.98 lakh net income credited at 1 Apr 2023)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "MMRCL_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 27.8423,
+    "page": 89,
+    "quote": "Revenue from operations 19 2,784.23"
+   },
+   "fare_revenue": {
+    "cr": 8.628,
+    "page": 132,
+    "quote": "- Fare collection from sale of Tickets 862.80"
+   },
+   "non_fare_revenue": {
+    "cr": 19.2143,
+    "page": 132,
+    "quote": "- License Fees 785.89; - Advertisement 1,135.54"
+   },
+   "other_income": {
+    "cr": 148.0899,
+    "page": 89,
+    "quote": "Other income 20 14,808.99"
+   },
+   "total_income": {
+    "cr": 175.9322,
+    "page": 89,
+    "quote": "Total income 17,593.22"
+   },
+   "employee_cost": {
+    "cr": 17.0516,
+    "page": 89,
+    "quote": "Employee benefits expense 22 1,705.16"
+   },
+   "finance_cost": {
+    "cr": 9.1843,
+    "page": 89,
+    "quote": "Finance costs 23 918.43"
+   },
+   "depreciation": {
+    "cr": 167.1787,
+    "page": 89,
+    "quote": "Depreciation and amortisation expense 2 & 5 (e) 16,717.87"
+   },
+   "other_expenses": {
+    "cr": 67.7221,
+    "page": 89,
+    "quote": "Other expenses 24 6,772.21"
+   },
+   "total_expenses": {
+    "cr": 392.8443,
+    "page": 89,
+    "quote": "Total expenses 39,284.43"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -216.9121,
+    "page": 89,
+    "quote": "Profit/(Loss) before tax for the year (21,691.21)"
+   },
+   "tax": {
+    "cr": 139.6877,
+    "page": 89,
+    "quote": "Total tax expense 13,968.77"
+   },
+   "profit_after_tax": {
+    "cr": -356.5998,
+    "page": 89,
+    "quote": "Profit/(Loss) for the year (35,659.98)"
+   },
+   "annual_ridership_lakh": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "value": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "km": 12.69,
+    "page": 23,
+    "quote": "The first section (Phase-I) covering 12.69 km from Aarey JVLR to BKC was inaugurated ... and opened for passenger operations on 07.10.2024",
+    "note": "only section open at 31 Mar 2025; Phase-II(A) 9.77 km opened 10.05.2025, after year end"
+   },
+   "checks": "total income = 2,784.23 + 14,808.99 = 17,593.22 ok; expenses incl. Operating Expenses 13,170.76 sum to 39,284.43 ok; PBT = 17,593.22 - 39,284.43 = (21,691.21) ok; PAT ok",
+   "notes": "First year of passenger service (Phase-I Aarey JVLR-BKC opened 07.10.2024). Total expenses include a separate 'Operating Expenses' line 13,170.76 (note 21) not in the schema fields; other_expenses is only the 'Other expenses' line. Non-fare = License Fees 785.89 + Advertisement 1,135.54 (sum computed). Fare split from Note 19 p132 (printed p.128). Tax is a deferred tax charge (13,948.55 + 20.22). Ridership: report gives only cumulative counts after year end ('approximately 34.54 lakh passengers till 31st July 2025', p15; 'more than 100 lakh passengers till 31st August 2025', p23), no FY figure, so null."
+  }
+ ]
+}

@@ -1,0 +1,1646 @@
+{
+ "operator": "MAHAMETRO",
+ "documents": [
+  {
+   "file": "MAHAMETRO_2018-19_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 71,
+   "note": "P&L p71 (Rs. lakh); Note 20 revenue p84; route p18"
+  },
+  {
+   "file": "MAHAMETRO_2019-20_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 58,
+   "note": "P&L p58; Note 20 p71; ridership p16"
+  },
+  {
+   "file": "MAHAMETRO_2020-21_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 64,
+   "note": "P&L p64; Note 20 p78; ridership p16"
+  },
+  {
+   "file": "MAHAMETRO_2021-22_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 71,
+   "note": "P&L p71; Note 21 p85; operations p20-22"
+  },
+  {
+   "file": "MAHAMETRO_2022-23_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": true,
+   "pl_page": 59,
+   "note": "Image-only PDF; P&L p59 and Note 21 p75 read from rendered pages/OCR; Directors' Report p16"
+  },
+  {
+   "file": "MAHAMETRO_2022-23_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 XFA form; turnover/net worth from embedded form data"
+  },
+  {
+   "file": "MAHAMETRO_2023-24_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 87,
+   "note": "P&L p87; Note 21 p105; operations p21-23"
+  },
+  {
+   "file": "MAHAMETRO_2023-24_Annual_Return.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": null,
+   "note": "MGT-7 XFA form; turnover/net worth from embedded form data"
+  },
+  {
+   "file": "MAHAMETRO_2024-25_Annual_Report.pdf",
+   "is_what_it_says": true,
+   "scanned": false,
+   "pl_page": 93,
+   "note": "P&L p93; Note 21 p111; operations p5, p29-30"
+  },
+  {
+   "file": "MAHAMETRO_2024-25_Annual_Return.pdf",
+   "is_what_it_says": false,
+   "scanned": false,
+   "pl_page": null,
+   "note": "UNREADABLE: 5 KB, 1-page 'Please wait...' Adobe placeholder with no XFA form data embedded; contains no return data"
+  }
+ ],
+ "years": [
+  {
+   "fy": "2018-19",
+   "source_file": "MAHAMETRO_2018-19_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 217.119,
+    "page": 71,
+    "quote": "Revenue from Operations 21,711.90"
+   },
+   "fare_revenue": {
+    "cr": 2.1606,
+    "page": 84,
+    "quote": "Traffic Earning 216.06"
+   },
+   "non_fare_revenue": {
+    "cr": 5.2135,
+    "page": 84,
+    "quote": "Consultancy Income 521.35 (only other line)"
+   },
+   "external_project_revenue": {
+    "cr": 209.7449,
+    "page": 84,
+    "quote": "External Project Revenue 20,974.49"
+   },
+   "other_income": {
+    "cr": 51.4728,
+    "page": 71,
+    "quote": "Other income 5,147.28"
+   },
+   "total_income": {
+    "cr": 268.5918,
+    "page": 71,
+    "quote": "Total Income 26,859.18"
+   },
+   "employee_cost": {
+    "cr": 2.7631,
+    "page": 71,
+    "quote": "Employee benefits Expenses 276.31"
+   },
+   "finance_cost": {
+    "cr": 0.7641,
+    "page": 71,
+    "quote": "Finance costs 76.41"
+   },
+   "depreciation": {
+    "cr": 25.9175,
+    "page": 71,
+    "quote": "Depreciation and Amortisation Expenses 2,591.75"
+   },
+   "other_expenses": {
+    "cr": 246.2583,
+    "page": 71,
+    "quote": "Operating Expenses 21,192.24 + Other Expenses 3,433.59 (sum)"
+   },
+   "total_expenses": {
+    "cr": 275.703,
+    "page": 71,
+    "quote": "Total Expenditure 27,570.30"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -7.1112,
+    "page": 71,
+    "quote": "Profit/(Loss) Before Tax -711.12"
+   },
+   "tax": {
+    "cr": 11.131,
+    "page": 71,
+    "quote": "Deferred Tax -1,113.10 (as printed; Profit/(Loss) for the Year -1,824.22)"
+   },
+   "profit_after_tax": {
+    "cr": -18.2422,
+    "page": 71,
+    "quote": "Profit/(Loss) for the Year -1,824.22"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 13.43,
+    "page": 18,
+    "quote": "maintaining 13.43 RKM with 5 Operational Stations"
+   },
+   "checks": "total income = 21,711.90 + 5,147.28 = 26,859.18 ok; PBT = 26,859.18 − 27,570.30 = −711.12 ok; PAT = −711.12 − 1,113.10 = −1,824.22 ok",
+   "notes": "Nagpur only (Pune under construction). Operations from Mar 2019 (Khapri–Sitabuldi 13.5 km authorised 5 Mar 2019). No annual ridership stated. RESTATED split in 2019-20 report: Traffic Earning 7.37 and Royalty Income 208.69 (instead of Traffic Earning 216.06); total unchanged. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2017-18",
+   "source_file": "MAHAMETRO_2018-19_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 131.6183,
+    "page": 71,
+    "quote": "Revenue from Operations 13,161.83"
+   },
+   "fare_revenue": {
+    "cr": 0.0,
+    "page": 84,
+    "quote": "Traffic Earning 0.00"
+   },
+   "non_fare_revenue": {
+    "cr": 2.6718,
+    "page": 84,
+    "quote": "Consultancy Income 267.18 (Traffic Earning -)"
+   },
+   "external_project_revenue": {
+    "cr": 128.9465,
+    "page": 84,
+    "quote": "External Project Revenue 12,894.65"
+   },
+   "other_income": {
+    "cr": 24.2425,
+    "page": 71,
+    "quote": "Other income 2,424.25"
+   },
+   "total_income": {
+    "cr": 155.8608,
+    "page": 71,
+    "quote": "Total Income 15,586.08"
+   },
+   "employee_cost": {
+    "cr": 2.3545,
+    "page": 71,
+    "quote": "Employee benefits Expenses 235.45"
+   },
+   "finance_cost": {
+    "cr": 0.0,
+    "page": 71,
+    "quote": "Finance costs -"
+   },
+   "depreciation": {
+    "cr": 15.6283,
+    "page": 71,
+    "quote": "Depreciation and Amortisation Expenses 1,562.83"
+   },
+   "other_expenses": {
+    "cr": 162.8892,
+    "page": 71,
+    "quote": "Operating Expenses 12,809.43 + Other Expenses 3,479.49 (sum)"
+   },
+   "total_expenses": {
+    "cr": 180.872,
+    "page": 71,
+    "quote": "Total Expenditure 18,087.20"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -25.0112,
+    "page": 71,
+    "quote": "Profit/(Loss) Before Tax -2,501.12"
+   },
+   "tax": {
+    "cr": -5.9581,
+    "page": 71,
+    "quote": "Deferred Tax 595.81 (as printed; Profit/(Loss) for the Year -1,905.31)"
+   },
+   "profit_after_tax": {
+    "cr": -19.0531,
+    "page": 71,
+    "quote": "Profit/(Loss) for the Year -1,905.31"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income ok; PBT = 15,586.08 − 18,087.20 = −2,501.12 ok; PAT ok",
+   "notes": "Pre-operations. Previous-year column of 2018-19 report; no own 2017-18 report in the set. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "MAHAMETRO_2019-20_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 317.6223,
+    "page": 58,
+    "quote": "Revenue from Operations 31,762.23"
+   },
+   "fare_revenue": {
+    "cr": 1.4355,
+    "page": 71,
+    "quote": "Traffic Earning 143.55"
+   },
+   "non_fare_revenue": {
+    "cr": 18.0288,
+    "page": 71,
+    "quote": "Royalty Income 813.56 + Rental Earning 3.53 + Consultancy Income 979.00 + Advertisement Income 6.79 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 298.158,
+    "page": 71,
+    "quote": "External Project Revenue 29,815.80"
+   },
+   "other_income": {
+    "cr": 95.804,
+    "page": 58,
+    "quote": "Other income 9,580.40"
+   },
+   "total_income": {
+    "cr": 413.4263,
+    "page": 58,
+    "quote": "Total Income 41,342.63"
+   },
+   "employee_cost": {
+    "cr": 28.8047,
+    "page": 58,
+    "quote": "Employee benefits Expenses 2,880.47"
+   },
+   "finance_cost": {
+    "cr": 5.1398,
+    "page": 58,
+    "quote": "Finance costs 513.98"
+   },
+   "depreciation": {
+    "cr": 92.8519,
+    "page": 58,
+    "quote": "Depreciation and Amortisation Expenses 9,285.19"
+   },
+   "other_expenses": {
+    "cr": 353.7327,
+    "page": 58,
+    "quote": "Operating Expenses 31,320.66 + Other Expenses 4,052.61 (sum)"
+   },
+   "total_expenses": {
+    "cr": 480.5291,
+    "page": 58,
+    "quote": "Total Expenditure 48,052.91"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -67.1028,
+    "page": 58,
+    "quote": "Profit/(Loss) Before Tax -6,710.28"
+   },
+   "tax": {
+    "cr": -4.5441,
+    "page": 58,
+    "quote": "Deferred Tax 454.41 (as printed; Profit/(Loss) for the Year -6,255.87)"
+   },
+   "profit_after_tax": {
+    "cr": -62.5587,
+    "page": 58,
+    "quote": "Profit/(Loss) for the Year -6,255.87"
+   },
+   "annual_ridership_lakh": {
+    "cr": 8.2258,
+    "page": 16,
+    "quote": "recorded total 8,22,579 ridership during FY 2019-20 i.e from 1st April 2019 to 21st March 2020"
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 25,
+    "page": 16,
+    "quote": "With 11 Operational stations, 1 OCC, 2 Depots, 1 RSS, 2 TSS and 25km mainline"
+   },
+   "checks": "total income = 31,762.23 + 9,580.40 = 41,342.63 ok; PBT = 41,342.63 − 48,052.91 = −6,710.28 ok; PAT ok",
+   "notes": "Nagpur only. Services suspended from 22 Mar 2020 (Covid). Directors' Report p25: company-defined Non-Fare Box revenue Rs. 64.41 crore (vs Rs. 14.31 crore) — a different, broader definition than the note. 2020-21 report gives operational length 24.5 km after the Aqua Line opening (Jan 2020); this report says 25km. RESTATED in 2020-21 report: revenue from operations 31,768.52 (Traffic Earning 149.84), operating expenses 31,666.92, employee 2,540.50, total income 41,348.92, total expenditure 48,059.20; PBT unchanged. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2018-19",
+   "source_file": "MAHAMETRO_2019-20_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 217.119,
+    "page": 58,
+    "quote": "Revenue from Operations 21,711.90"
+   },
+   "fare_revenue": {
+    "cr": 0.0737,
+    "page": 71,
+    "quote": "Traffic Earning 7.37"
+   },
+   "non_fare_revenue": {
+    "cr": 7.3004,
+    "page": 71,
+    "quote": "Royalty Income 208.69 + Consultancy Income 521.35 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 209.7449,
+    "page": 71,
+    "quote": "External Project Revenue 20,974.49"
+   },
+   "other_income": {
+    "cr": 51.4728,
+    "page": 58,
+    "quote": "Other income 5,147.28"
+   },
+   "total_income": {
+    "cr": 268.5918,
+    "page": 58,
+    "quote": "Total Income 26,859.18"
+   },
+   "employee_cost": {
+    "cr": 2.7631,
+    "page": 58,
+    "quote": "Employee benefits Expenses 276.31"
+   },
+   "finance_cost": {
+    "cr": 0.7641,
+    "page": 58,
+    "quote": "Finance costs 76.41"
+   },
+   "depreciation": {
+    "cr": 25.9175,
+    "page": 58,
+    "quote": "Depreciation and Amortisation Expenses 2,591.75"
+   },
+   "other_expenses": {
+    "cr": 246.2583,
+    "page": 58,
+    "quote": "Operating Expenses 21,192.24 + Other Expenses 3,433.59 (sum)"
+   },
+   "total_expenses": {
+    "cr": 275.703,
+    "page": 58,
+    "quote": "Total Expenditure 27,570.30"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -7.1112,
+    "page": 58,
+    "quote": "Profit/(Loss) Before Tax -711.12"
+   },
+   "tax": {
+    "cr": 11.131,
+    "page": 58,
+    "quote": "Deferred Tax -1,113.10 (as printed; Profit/(Loss) for the Year -1,824.22)"
+   },
+   "profit_after_tax": {
+    "cr": -18.2422,
+    "page": 58,
+    "quote": "Profit/(Loss) for the Year -1,824.22"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "RESTATED revenue split: Traffic Earning 7.37 (2018-19 report: 216.06) with Royalty Income 208.69 split out; P&L totals unchanged. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "MAHAMETRO_2020-21_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 222.388,
+    "page": 64,
+    "quote": "Revenue from Operations 22,238.80"
+   },
+   "fare_revenue": {
+    "cr": 1.4773,
+    "page": 78,
+    "quote": "Traffic Earning 147.73"
+   },
+   "non_fare_revenue": {
+    "cr": 9.1187,
+    "page": 78,
+    "quote": "Royalty Income 635.59 + Rental Earning 12.33 + Consultancy Income 259.39 + Advertisement Income 4.56 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 211.792,
+    "page": 78,
+    "quote": "External Project Revenue 21,179.20"
+   },
+   "other_income": {
+    "cr": 68.5775,
+    "page": 64,
+    "quote": "Other income 6,857.75"
+   },
+   "total_income": {
+    "cr": 290.9654,
+    "page": 64,
+    "quote": "Total Income 29,096.54"
+   },
+   "employee_cost": {
+    "cr": 31.6625,
+    "page": 64,
+    "quote": "Employee benefits Expenses 3,166.25"
+   },
+   "finance_cost": {
+    "cr": 14.1386,
+    "page": 64,
+    "quote": "Finance costs 1,413.86"
+   },
+   "depreciation": {
+    "cr": 156.7627,
+    "page": 64,
+    "quote": "Depreciation and Amortisation Expenses 15,676.27"
+   },
+   "other_expenses": {
+    "cr": 266.9823,
+    "page": 64,
+    "quote": "Operating Expenses 24,585.05 + Other Expenses 2,113.18 (sum)"
+   },
+   "total_expenses": {
+    "cr": 469.5462,
+    "page": 64,
+    "quote": "Total Expenditure 46,954.62"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -178.5807,
+    "page": 64,
+    "quote": "Profit/(Loss) Before Tax -17,858.07"
+   },
+   "tax": {
+    "cr": -16.8004,
+    "page": 64,
+    "quote": "Deferred Tax 1,680.04 (as printed; Profit/(Loss) for the Year -16,178.03)"
+   },
+   "profit_after_tax": {
+    "cr": -161.7803,
+    "page": 64,
+    "quote": "Profit/(Loss) for the Year -16,178.03"
+   },
+   "annual_ridership_lakh": {
+    "cr": 18.0698,
+    "page": 16,
+    "quote": "recorded a total of 18,06,985 Passenger ridership during FY 2020 – 21 in Nagpur"
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 24.5,
+    "page": 16,
+    "quote": "increased operational length to 24.5kms ... 24.5 kms mainline"
+   },
+   "checks": "total income = 22,238.80 + 6,857.75 = 29,096.55 vs printed 29,096.54 (rounding); total expenditure components sum 46,954.61 vs 46,954.62 (rounding); PBT ok",
+   "notes": "Nagpur only (Pune not yet open). Services suspended 22 Mar–15 Oct 2020. RESTATED in 2021-22 report: finance costs 1,385.95, other expenses 2,024.56, total expenditure 46,838.08, PBT −17,741.54, PAT −16,061.50. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2019-20",
+   "source_file": "MAHAMETRO_2020-21_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 317.6852,
+    "page": 64,
+    "quote": "Revenue from Operations 31,768.52"
+   },
+   "fare_revenue": {
+    "cr": 1.4984,
+    "page": 78,
+    "quote": "Traffic Earning 149.84"
+   },
+   "non_fare_revenue": {
+    "cr": 18.0288,
+    "page": 78,
+    "quote": "Royalty 813.56 + Rental 3.53 + Consultancy 979.00 + Advertisement 6.79 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 298.158,
+    "page": 78,
+    "quote": "External Project Revenue 29,815.80"
+   },
+   "other_income": {
+    "cr": 95.804,
+    "page": 64,
+    "quote": "Other income 9,580.40"
+   },
+   "total_income": {
+    "cr": 413.4892,
+    "page": 64,
+    "quote": "Total Income 41,348.92"
+   },
+   "employee_cost": {
+    "cr": 25.405,
+    "page": 64,
+    "quote": "Employee benefits Expenses 2,540.50"
+   },
+   "finance_cost": {
+    "cr": 5.1398,
+    "page": 64,
+    "quote": "Finance costs 513.98"
+   },
+   "depreciation": {
+    "cr": 92.8519,
+    "page": 64,
+    "quote": "Depreciation and Amortisation Expenses 9,285.19"
+   },
+   "other_expenses": {
+    "cr": 357.1953,
+    "page": 64,
+    "quote": "Operating Expenses 31,666.92 + Other Expenses 4,052.61 (sum)"
+   },
+   "total_expenses": {
+    "cr": 480.592,
+    "page": 64,
+    "quote": "Total Expenditure 48,059.20"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -67.1028,
+    "page": 64,
+    "quote": "Profit/(Loss) Before Tax -6,710.28"
+   },
+   "tax": {
+    "cr": -4.5441,
+    "page": 64,
+    "quote": "Deferred Tax 454.41 (as printed; Profit/(Loss) for the Year -6,255.87)"
+   },
+   "profit_after_tax": {
+    "cr": -62.5587,
+    "page": 64,
+    "quote": "Profit/(Loss) for the Year -6,255.87"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "RESTATED vs 2019-20 report: revenue from operations 31,768.52 (was 31,762.23; Traffic Earning 149.84 vs 143.55), operating expenses 31,666.92 (was 31,320.66), employee 2,540.50 (was 2,880.47); PBT unchanged at −6,710.28. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "MAHAMETRO_2021-22_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 234.821,
+    "page": 71,
+    "quote": "Revenue from Operations 23,482.10"
+   },
+   "fare_revenue": {
+    "cr": 5.708,
+    "page": 85,
+    "quote": "Traffic Earning 570.80"
+   },
+   "non_fare_revenue": {
+    "cr": 16.234,
+    "page": 85,
+    "quote": "Royalty Income - + Rental Earning 34.00 + Consultancy Income 1,445.00 + Advertisement Income 144.40 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 212.879,
+    "page": 85,
+    "quote": "External Project Revenue 21,287.90"
+   },
+   "other_income": {
+    "cr": 49.374,
+    "page": 71,
+    "quote": "Other income 4,937.40"
+   },
+   "total_income": {
+    "cr": 284.195,
+    "page": 71,
+    "quote": "Total Income 28,419.50"
+   },
+   "employee_cost": {
+    "cr": 45.389,
+    "page": 71,
+    "quote": "Employee benefits Expenses 4,538.90"
+   },
+   "finance_cost": {
+    "cr": 16.633,
+    "page": 71,
+    "quote": "Finance costs 1,663.30"
+   },
+   "depreciation": {
+    "cr": 192.07,
+    "page": 71,
+    "quote": "Depreciation and Amortisation Expenses 19,207.00"
+   },
+   "other_expenses": {
+    "cr": 307.0093,
+    "page": 71,
+    "quote": "Operating Expenses 27,101.64 + Other Expenses 3,599.29 (sum)"
+   },
+   "total_expenses": {
+    "cr": 561.1013,
+    "page": 71,
+    "quote": "Total Expenditure 56,110.13"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -276.9063,
+    "page": 71,
+    "quote": "Profit/(Loss) Before Tax -27,690.63"
+   },
+   "tax": {
+    "cr": -39.4875,
+    "page": 71,
+    "quote": "Deferred Tax 3,948.75 (as printed; Profit/(Loss) for the Year -23,741.88)"
+   },
+   "profit_after_tax": {
+    "cr": -237.4188,
+    "page": 71,
+    "quote": "Profit/(Loss) for the Year -23,741.88"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": 17209,
+    "page": 22,
+    "quote": "The average daily ridership in financial year 2021-22 was 17,209."
+   },
+   "route_km": {
+    "cr": 38.5,
+    "page": 20,
+    "quote": "total operational length of Metro in Nagpur to 26.5 KMS ... inaugurated 12 KMS stretch and 10 stations of Pune Metro (sum 26.5 + 12)"
+   },
+   "checks": "total income ok; PBT = 28,419.50 − 56,110.13 = −27,690.63 ok; PAT ok",
+   "notes": "avg_daily_ridership is NAGPUR ONLY. Pune opened 6 Mar 2022 (12 km); no company-wide annual ridership stated (Nagpur 'highest cumulative ridership 25,31,173 in the last quarter', p21; Pune 5,13,726 in first month, p22). route_km = Nagpur 26.5 + Pune 12, summed by us from two stated figures. RESTATED in 2022-23 report after an Ind AS 8 accounting-policy change (land/grants at nominal value): other income 3,740.42, total income 27,222.52, PBT −28,887.61, PAT −24,938.86. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2020-21",
+   "source_file": "MAHAMETRO_2021-22_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 222.388,
+    "page": 71,
+    "quote": "Revenue from Operations 22,238.80"
+   },
+   "fare_revenue": {
+    "cr": 1.4773,
+    "page": 85,
+    "quote": "Traffic Earning 147.73"
+   },
+   "non_fare_revenue": {
+    "cr": 9.1187,
+    "page": 85,
+    "quote": "Royalty 635.59 + Rental 12.33 + Consultancy 259.39 + Advertisement 4.56 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 211.792,
+    "page": 85,
+    "quote": "External Project Revenue 21,179.20"
+   },
+   "other_income": {
+    "cr": 68.5775,
+    "page": 71,
+    "quote": "Other income 6,857.75"
+   },
+   "total_income": {
+    "cr": 290.9654,
+    "page": 71,
+    "quote": "Total Income 29,096.54"
+   },
+   "employee_cost": {
+    "cr": 31.6625,
+    "page": 71,
+    "quote": "Employee benefits Expenses 3,166.25"
+   },
+   "finance_cost": {
+    "cr": 13.8595,
+    "page": 71,
+    "quote": "Finance costs 1,385.95"
+   },
+   "depreciation": {
+    "cr": 156.7627,
+    "page": 71,
+    "quote": "Depreciation and Amortisation Expenses 15,676.27"
+   },
+   "other_expenses": {
+    "cr": 266.0961,
+    "page": 71,
+    "quote": "Operating Expenses 24,585.05 + Other Expenses 2,024.56 (sum)"
+   },
+   "total_expenses": {
+    "cr": 468.3808,
+    "page": 71,
+    "quote": "Total Expenditure 46,838.08"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -177.4154,
+    "page": 71,
+    "quote": "Profit/(Loss) Before Tax -17,741.54"
+   },
+   "tax": {
+    "cr": -16.8004,
+    "page": 71,
+    "quote": "Deferred Tax 1,680.04 (as printed; Profit/(Loss) for the Year -16,061.50)"
+   },
+   "profit_after_tax": {
+    "cr": -160.615,
+    "page": 71,
+    "quote": "Profit/(Loss) for the Year -16,061.50"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income ok; PBT = 29,096.54 − 46,838.08 = −17,741.54 ok; PAT ok",
+   "notes": "RESTATED vs 2020-21 report: finance costs 1,385.95 (was 1,413.86), other expenses 2,024.56 (was 2,113.18); PBT −17,741.54 (was −17,858.07), PAT −16,061.50 (was −16,178.03). External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "MAHAMETRO_2022-23_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 401.335,
+    "page": 59,
+    "quote": "Revenue from Operations 40,133.50"
+   },
+   "fare_revenue": {
+    "cr": 24.498,
+    "page": 75,
+    "quote": "Traffic Earning 2,449.80"
+   },
+   "non_fare_revenue": {
+    "cr": 26.211,
+    "page": 75,
+    "quote": "Rental Earning 243.00 + Consultancy Income 2,212.00 + Advertisement Income 166.10 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 350.626,
+    "page": 75,
+    "quote": "External Project Revenue 35,062.60"
+   },
+   "other_income": {
+    "cr": 233.198,
+    "page": 59,
+    "quote": "Other income 23,319.80"
+   },
+   "total_income": {
+    "cr": 634.533,
+    "page": 59,
+    "quote": "Total Income 63,453.30"
+   },
+   "employee_cost": {
+    "cr": 69.978,
+    "page": 59,
+    "quote": "Employee benefits Expenses 6,997.80"
+   },
+   "finance_cost": {
+    "cr": 70.334,
+    "page": 59,
+    "quote": "Finance costs 7,033.40"
+   },
+   "depreciation": {
+    "cr": 292.783,
+    "page": 59,
+    "quote": "Depreciation and Amortisation Expenses 29,278.30"
+   },
+   "other_expenses": {
+    "cr": 472.896,
+    "page": 59,
+    "quote": "Operating Expenses 43,180.20 + Other Expenses 4,109.40 (sum)"
+   },
+   "total_expenses": {
+    "cr": 905.991,
+    "page": 59,
+    "quote": "Total Expenditure 90,599.10"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -271.458,
+    "page": 59,
+    "quote": "Profit/(Loss) Before Tax -27,145.80"
+   },
+   "tax": {
+    "cr": -105.2416,
+    "page": 59,
+    "quote": "Deferred Tax 10,524.16 (as printed; Profit/(Loss) for the Year -16,621.64)"
+   },
+   "profit_after_tax": {
+    "cr": -166.2164,
+    "page": 59,
+    "quote": "Profit/(Loss) for the Year -16,621.64"
+   },
+   "annual_ridership_lakh": {
+    "cr": 258.9653,
+    "page": 16,
+    "quote": "Nagpur Metro recorded a total 2,43,39,794 passenger journeys in FY 2022-23 ... Pune Metro recorded a total 15,56,737 passenger journeys in FY 2022-23 (sum)"
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 52.02,
+    "page": 16,
+    "quote": "entire 40 km of Nagpur Metro Phase I operational (p16); Pune: 4.96 km section from Vanaz to Garware College ... 7.06 km section from PCMC to Phugewadi (p21) (sum)"
+   },
+   "checks": "total income = 40,133.50 + 23,319.80 = 63,453.30 ok; PBT = 63,453.30 − 90,599.10 = −27,145.80 ok; PAT = −27,145.80 + 10,524.16 = −16,621.64 ok",
+   "notes": "Whole report is scanned images (no text layer); read by OCR and from rendered images. Annual ridership = Nagpur 2,43,39,794 + Pune 15,56,737 (both stated; summed by us). Directors' Report p16: Fare Box Revenue ₹24.50 crore and company-defined Non-Fare Box Revenue ₹262.33 crore (includes ₹200 crore stamp-duty cess, which the accounts put in other income). Other income includes Revenue Grant – Stamp Duty 20,000.00 and Revenue Grant – FSI 2,282.40 (p75). External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2021-22",
+   "source_file": "MAHAMETRO_2022-23_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 234.821,
+    "page": 59,
+    "quote": "Revenue from Operations 23,482.10"
+   },
+   "fare_revenue": {
+    "cr": 5.708,
+    "page": 75,
+    "quote": "Traffic Earning 570.80"
+   },
+   "non_fare_revenue": {
+    "cr": 16.234,
+    "page": 75,
+    "quote": "Rental 34.00 + Consultancy 1,445.00 + Advertisement 144.40 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 212.879,
+    "page": 75,
+    "quote": "External Project Revenue 21,287.90"
+   },
+   "other_income": {
+    "cr": 37.4042,
+    "page": 59,
+    "quote": "Other income 3,740.42"
+   },
+   "total_income": {
+    "cr": 272.2252,
+    "page": 59,
+    "quote": "Total Income 27,222.52"
+   },
+   "employee_cost": {
+    "cr": 45.389,
+    "page": 59,
+    "quote": "Employee benefits Expenses 4,538.90"
+   },
+   "finance_cost": {
+    "cr": 16.633,
+    "page": 59,
+    "quote": "Finance costs 1,663.30"
+   },
+   "depreciation": {
+    "cr": 192.07,
+    "page": 59,
+    "quote": "Depreciation and Amortisation Expenses 19,207.00"
+   },
+   "other_expenses": {
+    "cr": 307.0093,
+    "page": 59,
+    "quote": "Operating Expenses 27,101.64 + Other Expenses 3,599.29 (sum)"
+   },
+   "total_expenses": {
+    "cr": 561.1013,
+    "page": 59,
+    "quote": "Total Expenditure 56,110.13"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -288.8761,
+    "page": 59,
+    "quote": "Profit/(Loss) Before Tax -28,887.61"
+   },
+   "tax": {
+    "cr": -39.4875,
+    "page": 59,
+    "quote": "Deferred Tax 3,948.75 (as printed; Profit/(Loss) for the Year -24,938.86)"
+   },
+   "profit_after_tax": {
+    "cr": -249.3886,
+    "page": 59,
+    "quote": "Profit/(Loss) for the Year -24,938.86"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "total income = 23,482.10 + 3,740.42 = 27,222.52 ok; PBT = 27,222.52 − 56,110.13 = −28,887.61 ok; PAT ok",
+   "notes": "RESTATED vs 2021-22 report under Ind AS 8 (change in accounting policy: land/grant at nominal value; grant amortisation reduced, p75): other income 3,740.42 (was 4,937.40), PBT −28,887.61 (was −27,690.63), PAT −24,938.86 (was −23,741.88). External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MAHAMETRO_2023-24_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 288.184,
+    "page": 87,
+    "quote": "Revenue from Operations 28,818.40"
+   },
+   "fare_revenue": {
+    "cr": 64.408,
+    "page": 105,
+    "quote": "Traffic Earning 6,440.80"
+   },
+   "non_fare_revenue": {
+    "cr": 17.971,
+    "page": 105,
+    "quote": "Rental Earning 342.00 + Consultancy Income 1,134.20 + Advertisement Income 320.90 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 205.805,
+    "page": 105,
+    "quote": "External Project Revenue 20,580.50"
+   },
+   "other_income": {
+    "cr": 447.87,
+    "page": 87,
+    "quote": "Other income 44,787.00"
+   },
+   "total_income": {
+    "cr": 736.054,
+    "page": 87,
+    "quote": "Total Income 73,605.40"
+   },
+   "employee_cost": {
+    "cr": 80.889,
+    "page": 87,
+    "quote": "Employee benefits Expenses 8,088.90"
+   },
+   "finance_cost": {
+    "cr": 231.513,
+    "page": 87,
+    "quote": "Finance costs 23,151.30"
+   },
+   "depreciation": {
+    "cr": 461.536,
+    "page": 87,
+    "quote": "Depreciation and Amortisation Expenses 46,153.60"
+   },
+   "other_expenses": {
+    "cr": 348.1632,
+    "page": 87,
+    "quote": "Operating Expenses 32,234.28 + Other Expenses 2,582.04 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1122.1012,
+    "page": 87,
+    "quote": "Total Expenditure 112,210.12"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -386.0472,
+    "page": 87,
+    "quote": "Profit/(Loss) Before Tax -38,604.72"
+   },
+   "tax": {
+    "cr": -32.6553,
+    "page": 87,
+    "quote": "Deferred Tax 3,265.53 (as printed; Profit/(Loss) for the Year -35,339.19)"
+   },
+   "profit_after_tax": {
+    "cr": -353.3919,
+    "page": 87,
+    "quote": "Profit/(Loss) for the Year -35,339.19"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 69.66,
+    "page": 21,
+    "quote": "Nagpur: 40 route km of mainline section (p21); Pune: The metro network currently spans 29.66 km (p22) (sum)"
+   },
+   "checks": "total income = 28,818.40 + 44,787.00 = 73,605.40 ok; PBT = 73,605.40 − 1,12,210.12 = −38,604.72 ok; PAT ok",
+   "notes": "No company-wide annual ridership: Nagpur 25.5 million passenger journeys (p21; fare box ₹41.87 crore); Pune annual not stated (single-day high 1,68,012); Navi Mumbai Line 1 (operated by Maha Metro for CIDCO from 17 Nov 2023, 11.1 km) 1.65 million passengers (p23). route_km = Nagpur 40 + Pune 29.66, excluding NMML-1. Other income includes Revenue Grant – Stamp Duty 28,125.40 and Revenue Grant – FSI 6,744.50 (p105). Annual Return (MGT-7) turnover 2,88,18,40,000 = 288.18 cr matches. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "MAHAMETRO_2023-24_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 401.335,
+    "page": 87,
+    "quote": "Revenue from Operations 40,133.50"
+   },
+   "fare_revenue": {
+    "cr": 24.498,
+    "page": 105,
+    "quote": "Traffic Earning 2,449.80"
+   },
+   "non_fare_revenue": {
+    "cr": 26.211,
+    "page": 105,
+    "quote": "Rental 243.00 + Consultancy 2,212.00 + Advertisement 166.10 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 350.626,
+    "page": 105,
+    "quote": "External Project Revenue 35,062.60"
+   },
+   "other_income": {
+    "cr": 233.198,
+    "page": 87,
+    "quote": "Other income 23,319.80"
+   },
+   "total_income": {
+    "cr": 634.533,
+    "page": 87,
+    "quote": "Total Income 63,453.30"
+   },
+   "employee_cost": {
+    "cr": 69.978,
+    "page": 87,
+    "quote": "Employee benefits Expenses 6,997.80"
+   },
+   "finance_cost": {
+    "cr": 70.334,
+    "page": 87,
+    "quote": "Finance costs 7,033.40"
+   },
+   "depreciation": {
+    "cr": 292.783,
+    "page": 87,
+    "quote": "Depreciation and Amortisation Expenses 29,278.30"
+   },
+   "other_expenses": {
+    "cr": 472.896,
+    "page": 87,
+    "quote": "Operating Expenses 43,180.20 + Other Expenses 4,109.40 (sum)"
+   },
+   "total_expenses": {
+    "cr": 905.991,
+    "page": 87,
+    "quote": "Total Expenditure 90,599.10"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -271.458,
+    "page": 87,
+    "quote": "Profit/(Loss) Before Tax -27,145.80"
+   },
+   "tax": {
+    "cr": -105.2416,
+    "page": 87,
+    "quote": "Deferred Tax 10,524.16 (as printed; Profit/(Loss) for the Year -16,621.64)"
+   },
+   "profit_after_tax": {
+    "cr": -166.2164,
+    "page": 87,
+    "quote": "Profit/(Loss) for the Year -16,621.64"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "Same as 2022-23 report. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2024-25",
+   "source_file": "MAHAMETRO_2024-25_Annual_Report.pdf",
+   "column": "current",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 292.084,
+    "page": 93,
+    "quote": "Revenue from Operations 29,208.40"
+   },
+   "fare_revenue": {
+    "cr": 118.405,
+    "page": 111,
+    "quote": "Traffic Earning 11,840.50"
+   },
+   "non_fare_revenue": {
+    "cr": 32.686,
+    "page": 111,
+    "quote": "Royalty Income 1,271.20 + Rental Earning 433.30 + Consultancy Income 975.80 + Advertisement Income 588.30 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 140.993,
+    "page": 111,
+    "quote": "External Project Revenue 14,099.30"
+   },
+   "other_income": {
+    "cr": 495.061,
+    "page": 93,
+    "quote": "Other income 49,506.10"
+   },
+   "total_income": {
+    "cr": 787.145,
+    "page": 93,
+    "quote": "Total Income 78,714.50"
+   },
+   "employee_cost": {
+    "cr": 88.286,
+    "page": 93,
+    "quote": "Employee benefits Expenses 8,828.60"
+   },
+   "finance_cost": {
+    "cr": 310.498,
+    "page": 93,
+    "quote": "Finance costs 31,049.80"
+   },
+   "depreciation": {
+    "cr": 576.702,
+    "page": 93,
+    "quote": "Depreciation and Amortisation Expenses 57,670.20"
+   },
+   "other_expenses": {
+    "cr": 317.58,
+    "page": 93,
+    "quote": "Operating Expenses 28,692.62 + Other Expenses 3,065.38 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1293.066,
+    "page": 93,
+    "quote": "Total Expenditure 129,306.60"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -505.921,
+    "page": 93,
+    "quote": "Profit/(Loss) Before Tax -50,592.10"
+   },
+   "tax": {
+    "cr": -136.4829,
+    "page": 93,
+    "quote": "Deferred Tax 13,648.29 (as printed; Profit/(Loss) for the Year -36,943.81)"
+   },
+   "profit_after_tax": {
+    "cr": -369.4381,
+    "page": 93,
+    "quote": "Profit/(Loss) for the Year -36,943.81"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": 73.3,
+    "page": 29,
+    "quote": "Nagpur: 40.02 km of mainline section (p29); entire 33.28 km of Pune Metro Rail Project Phase I is now fully operational (p5) (sum)"
+   },
+   "checks": "total income = 29,208.40 + 49,506.10 = 78,714.50 ok; PBT = 78,714.50 − 1,29,306.60 = −50,592.10 ok; PAT ok",
+   "notes": "No company-wide annual ridership: Nagpur 2.69 crore passenger journeys (p29); Pune only average daily (79,407 in Apr 2024 to 1,44,572 in Mar 2025) and highest month 49,66,969 (p30); NMML-1 average daily 10,304→16,271. route_km = Nagpur 40.02 + Pune 33.28 (own lines); the report's total 'operates a total network of 84.4 km' (p5) includes Navi Mumbai Line 1. Segment note p150 shows 'Traffic Earning' 12,428.80 (= Traffic 11,840.50 + Advertisement 588.30). Other income includes Revenue Grant – Stamp Duty 32,612.40 (p111). The 2024-25 Annual Return PDF is an empty stub, so no MGT-7 cross-check. External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MAHAMETRO_2024-25_Annual_Report.pdf",
+   "column": "previous",
+   "unit_in_report": "₹ lakh",
+   "revenue_from_operations": {
+    "cr": 288.184,
+    "page": 93,
+    "quote": "Revenue from Operations 28,818.40"
+   },
+   "fare_revenue": {
+    "cr": 64.408,
+    "page": 111,
+    "quote": "Traffic Earning 6,440.80"
+   },
+   "non_fare_revenue": {
+    "cr": 17.971,
+    "page": 111,
+    "quote": "Rental 342.00 + Consultancy 1,134.20 + Advertisement 320.90 (sum)"
+   },
+   "external_project_revenue": {
+    "cr": 205.805,
+    "page": 111,
+    "quote": "External Project Revenue 20,580.50"
+   },
+   "other_income": {
+    "cr": 447.87,
+    "page": 93,
+    "quote": "Other income 44,787.00"
+   },
+   "total_income": {
+    "cr": 736.054,
+    "page": 93,
+    "quote": "Total Income 73,605.40"
+   },
+   "employee_cost": {
+    "cr": 80.889,
+    "page": 93,
+    "quote": "Employee benefits Expenses 8,088.90"
+   },
+   "finance_cost": {
+    "cr": 231.513,
+    "page": 93,
+    "quote": "Finance costs 23,151.30"
+   },
+   "depreciation": {
+    "cr": 461.536,
+    "page": 93,
+    "quote": "Depreciation and Amortisation Expenses 46,153.60"
+   },
+   "other_expenses": {
+    "cr": 348.1632,
+    "page": 93,
+    "quote": "Operating Expenses 32,234.28 + Other Expenses 2,582.04 (sum)"
+   },
+   "total_expenses": {
+    "cr": 1122.1012,
+    "page": 93,
+    "quote": "Total Expenditure 112,210.12"
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": -386.0472,
+    "page": 93,
+    "quote": "Profit/(Loss) Before Tax -38,604.72"
+   },
+   "tax": {
+    "cr": -32.6553,
+    "page": 93,
+    "quote": "Deferred Tax 3,265.53 (as printed; Profit/(Loss) for the Year -35,339.19)"
+   },
+   "profit_after_tax": {
+    "cr": -353.3919,
+    "page": 93,
+    "quote": "Profit/(Loss) for the Year -35,339.19"
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "ok",
+   "notes": "P&L same as 2023-24 report; other-income note reclassifies Other Misc Income 108.30 (was 208.30) with new Supervision Charges 100.00 (total unchanged). External Project Revenue (deposit/agency works executed for other bodies, matched by External Project Expenses inside Operating Expenses) is shown separately in external_project_revenue and excluded from non_fare_revenue; non_fare_revenue = revenue from operations − Traffic Earning − External Project Revenue. tax is recorded as expense-positive (PBT − PAT); the statement prints the deferred tax figure with the opposite sign convention (positive = credit that reduces the loss, except 2018-19 where '-1,113.10' is a charge)."
+  },
+  {
+   "fy": "2022-23",
+   "source_file": "MAHAMETRO_2022-23_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 401.335,
+    "page": 1,
+    "quote": "TOT_TURNOVER 4013350000.00000000 (XFA form data)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "external_project_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "n/a (MGT-7 gives turnover only)",
+   "notes": "MGT-7 XFA form (page shows only 'Please wait...'); turnover read from embedded XFA data. Net worth 41,561,610,000. Matches revenue from operations 40,133.50 lakh."
+  },
+  {
+   "fy": "2023-24",
+   "source_file": "MAHAMETRO_2023-24_Annual_Return.pdf",
+   "column": "current",
+   "unit_in_report": "₹ (rupees)",
+   "revenue_from_operations": {
+    "cr": 288.184,
+    "page": 1,
+    "quote": "TOT_TURNOVER 2881840000.00000000 (XFA form data)"
+   },
+   "fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "non_fare_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "external_project_revenue": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_income": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "employee_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "finance_cost": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "depreciation": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "other_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "total_expenses": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "exceptional_items": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_before_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "profit_after_tax": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "annual_ridership_lakh": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "avg_daily_ridership": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "route_km": {
+    "cr": null,
+    "page": null,
+    "quote": null
+   },
+   "checks": "n/a (MGT-7 gives turnover only)",
+   "notes": "MGT-7 XFA form; turnover from embedded XFA data. Net worth 44,415,910,000. Matches revenue from operations 28,818.40 lakh."
+  }
+ ],
+ "field_notes": "external_project_revenue is an extra field (deposit works executed for other agencies, booked in revenue from operations with matching expenses). other_expenses = Operating Expenses + Other Expenses. tax is expense-positive (PBT − PAT)."
+}
